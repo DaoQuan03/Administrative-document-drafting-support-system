@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_06-PHU_LUC_I-60-2024-TT-BGTVT_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_06-PHU_LUC_I-60-2024-TT-BGTVT",
+        "text": "Mẫu số 06\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n-------------------\n\nĐƠN ĐỀ NGHỊ ĐĂNG KÝ LẠI PHƯƠNG TIỆN THỦY NỘI ĐỊA\n\n(Dùng cho phương tiện thay đổi tên, tính năng kỹ thuật)\n\nKính gửi: ………………………………………………………………..\n\n- Tổ chức, cá nhân đăng ký: …………...…… đại diện cho các đồng sở hữu ……...…….…\n\n- Mã định danh tổ chức (nếu chủ phương tiện là tổ chức): …………………...…………...\n\n- Số định danh cá nhân hoặc số căn cước công dân hoặc số thẻ căn cước hoặc số căn cước điện tử hoặc số hộ chiếu:...; ngày, tháng, năm sinh (nếu chủ phương tiện là cá nhân):...\n\n- Trụ sở chính (1): ………………………...…………………………………..…………………\n\n- Điện thoại: ……………………….……. Email: ……………………………..……………….\n\nHiện đang là chủ sở hữu phương tiện có đặc điểm cơ bản như sau:\n\nTên phương tiện: …………...………… Số đăng ký: …………………………………..….\n\nSố giấy chứng nhận đăng ký:...\n\nNay đề nghị cơ quan đăng ký lại phương tiện trên với lý do (2):...\n\n………………………………….…………………………………………………..…...……….",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_06-PHU_LUC_I-60-2024-TT-BGTVT_chunk_0002",
+            "char_count": 952,
+            "source_file": "Maudon/MAU SO 06-PHU LUC I-60-2024-TT-BGTVT.doc",
+            "file_name": "MAU SO 06-PHU LUC I-60-2024-TT-BGTVT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:31:43",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_06-PHU_LUC_I-60-2024-TT-BGTVT_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_06-PHU_LUC_I-60-2024-TT-BGTVT",
+        "text": "phương tiện: …………...………… Số đăng ký: …………………………………..….\n\nSố giấy chứng nhận đăng ký:...\n\nNay đề nghị cơ quan đăng ký lại phương tiện trên với lý do (2):...\n\n………………………………….…………………………………………………..…...……….\n\nTôi cam đoan chịu hoàn toàn trách nhiệm và chấp hành nghiêm chỉnh quy định của pháp luật về quản lý và sử dụng phương tiện.\n\n|  | ………., ngày ….. tháng ….. năm 20……<br>CHỦ PHƯƠNG TIỆN (3)<br>(Ký và ghi rõ họ tên) |\n| --- | --- |\n\n(1) Địa chỉ chủ phương tiện đặt trụ sở hoặc nơi đăng ký hộ khẩu thường trú hoặc nơi đăng ký tạm trú đối với trường hợp chủ phương tiện là cá nhân chưa có hộ khẩu thường trú nhưng có đăng ký tạm trú tại địa phương.\n\n(2) Nêu các thông số kỹ thuật thay đổi của phương tiện xin đăng ký lại\n\n(3) Nếu chủ phương tiện là tổ chức, phải có người đại diện tổ chức ký tên, đóng dấu.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_06-PHU_LUC_I-60-2024-TT-BGTVT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 801,
+            "source_file": "Maudon/MAU SO 06-PHU LUC I-60-2024-TT-BGTVT.doc",
+            "file_name": "MAU SO 06-PHU LUC I-60-2024-TT-BGTVT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:31:43",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

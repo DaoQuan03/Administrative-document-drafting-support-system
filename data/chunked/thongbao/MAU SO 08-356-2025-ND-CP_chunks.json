@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_08-356-2025-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_08-356-2025-ND-CP",
+        "text": "Mẫu số 08\n\n| TÊN TỔ CHỨC<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số:... | ..., ngày ... tháng ... năm ... |\n\nTHÔNG BÁO\nVI PHẠM QUY ĐỊNH BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nKính gửi: Cơ quan chuyên trách bảo vệ dữ liệu cá nhân, Bộ Công an.\n\nThực hiện quy định về bảo vệ dữ liệu cá nhân, ...1 xin gửi Cơ quan chuyên trách bảo vệ dữ liệu cá nhân, Bộ Công an thông báo vi phạm quy định bảo vệ dữ liệu cá nhân, như sau:\n\n1. Thông tin về tổ chức, doanh nghiệp\n\n- Tên tổ chức, doanh nghiệp:...\n\n- Địa chỉ trụ sở chính:...\n\n- Địa chỉ trụ sở giao dịch:...\n\n- Quyết định thành lập/Giấy chứng nhận đăng ký doanh nghiệp/Giấy chứng nhận đăng ký kinh doanh/Giấy chứng nhận đầu tư số: ... do ... cấp ngày ... tháng ... năm ... tại ...\n\n- Mã số thuế:...\n\n- Điện thoại: ... Website:...\n\n- Nhân sự chịu trách nhiệm bảo vệ dữ liệu cá nhân:\n\nHọ và tên:...\n\nChức danh:...\n\nSố điện thoại liên lạc:...\n\nEmail:...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_08-356-2025-ND-CP_chunk_0002",
+            "char_count": 953,
+            "source_file": "thongbao/MAU SO 08-356-2025-ND-CP.doc",
+            "file_name": "MAU SO 08-356-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:51:13",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_08-356-2025-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_08-356-2025-ND-CP",
+        "text": "... tháng ... năm ... tại ...\n\n- Mã số thuế:...\n\n- Điện thoại: ... Website:...\n\n- Nhân sự chịu trách nhiệm bảo vệ dữ liệu cá nhân:\n\nHọ và tên:...\n\nChức danh:...\n\nSố điện thoại liên lạc:...\n\nEmail:...\n\n2. Mô tả hành vi vi phạm quy định bảo vệ dữ liệu cá nhân\n\n- Thời gian:...\n\n- Địa điểm:...\n\n- Hành vi:...\n\n- Tổ chức, cá nhân liên quan:...\n\n- Các loại dữ liệu cá nhân và số lượng dữ liệu liên quan:...\n\n- Nhân sự chịu trách nhiệm bảo vệ dữ liệu cá nhân:...\n\nHọ và tên:...\n\nChức danh:...\n\nSố điện thoại liên lạc:...\n\nEmail:...\n\n- Hậu quả xảy ra:...\n\n- Biện pháp áp dụng:...\n\n3. Tài liệu kèm theo\n\na) ...\n\nb) ...\n\n4. Cam kết\n\n...2 xin cam kết chịu trách nhiệm về tính chính xác và tính hợp pháp của thông báo cùng các tài liệu kèm theo và cam kết tuân thủ các quy định của pháp luật.\n\n| Nơi nhận:<br>- Như trên;<br>... | TM. TỔ CHỨC, DOANH NGHIỆP<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\n___\n\n1 Tên tổ chức, doanh nghiệp.\n\n2 Tên tổ chức, doanh nghiệp.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_08-356-2025-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 958,
+            "source_file": "thongbao/MAU SO 08-356-2025-ND-CP.doc",
+            "file_name": "MAU SO 08-356-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:51:13",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

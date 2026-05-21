@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_06-TKNSD-TABMIS-04-QD-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_06-TKNSD-TABMIS-04-QD-BTC",
+        "text": "| ĐƠN VỊ YÊU CẦU<br>…..(1)... |  | Mẫu số: 06/TKNSD-TABMIS<br>(Ban hành kèm theo Quyết định số 04/QĐ-BTC<br>ngày 04/01/2012 của Bộ trưởng Bộ Tài chính) |\n| --- | --- | --- |\n\nPHIẾU YÊU CẦU, ĐỀ XUẤT\n\nCán bộ yêu cầu: (2)...\n\nSố điện thoại liên hệ:(3)...\n\nNgày phát sinh yêu cầu, đề xuất: (4)...\n\nNội dung chi tiết yêu cầu hỗ trợ: (5)...\n\n...\n\n...\n\nTrường hợp đổi mật khẩu tài khoản đăng nhập, cần cung cấp thêm các thông tin của người sử dụng TABMIS như sau:\n\nTên tài khoản đăng nhập: ...\n\nSố điện thoại của người sử dụng: ...\n\nĐịa chỉ thư điện tử của người sử dụng:...\n\nCách ghi chép:\n\n- (1): Tên đơn vị đầu mối gửi yêu cầu, đề xuất\n\n- (2): Tên cán bộ của đơn vị đầu mối gửi yêu cầu, đề xuất\n\n- (3): Số điện thoại của cán bộ gửi yêu cầu.\n\n- (4): Ngày phát sinh yêu cầu, đề xuất\n\n- (5): Nội dung chi tiết yêu cầu, đề xuất. Lưu ý đối với 2 trường hợp dưới đây, phải cung cấp chi tiết các thông tin sau:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_06-TKNSD-TABMIS-04-QD-BTC_chunk_0002",
+            "char_count": 899,
+            "source_file": "mauphieu/MAU SO 06-TKNSD-TABMIS-04-QD-BTC.doc",
+            "file_name": "MAU SO 06-TKNSD-TABMIS-04-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:01:53",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_06-TKNSD-TABMIS-04-QD-BTC_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_06-TKNSD-TABMIS-04-QD-BTC",
+        "text": "điện thoại của cán bộ gửi yêu cầu.\n\n- (4): Ngày phát sinh yêu cầu, đề xuất\n\n- (5): Nội dung chi tiết yêu cầu, đề xuất. Lưu ý đối với 2 trường hợp dưới đây, phải cung cấp chi tiết các thông tin sau:\n\n+ Thiết lập ký hiệu viết tắt tài khoản: cung cấp mã tài khoản tự nhiên, các đoạn mã theo dõi kết hợp với mã tài khoản tự nhiên.\n\n+ Phương thức thu: cung cấp mã ngân hàng 8 số do Ngân hàng Nhà nước cấp, mã tài khoản tự nhiên, loại tiền, số hiệu tài khoản mở tại Ngân hàng.\n\n- Lưu ý: Tiêu đề thư điện tử đơn vị gửi: Yêu cầu hỗ trợ - Tên tỉnh - Nội dung tóm tắt yêu cầu.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_06-TKNSD-TABMIS-04-QD-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 566,
+            "source_file": "mauphieu/MAU SO 06-TKNSD-TABMIS-04-QD-BTC.doc",
+            "file_name": "MAU SO 06-TKNSD-TABMIS-04-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:01:53",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    }
+]

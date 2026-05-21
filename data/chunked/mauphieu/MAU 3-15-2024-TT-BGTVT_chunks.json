@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_3-15-2024-TT-BGTVT_chunk_0001",
+        "doc_id": "mauphieu_MAU_3-15-2024-TT-BGTVT",
+        "text": "Mẫu 3. Phiếu nhận xét đề xuất đề tài khoa học và công nghệ cấp bộ\n\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nPHIẾU NHẬN XÉT\nĐỀ XUẤT ĐỀ TÀI KHOA HỌC VÀ CÔNG NGHỆ CẤP BỘ\n\nHọ và tên thành viên hội đồng:\n\nTên đề xuất đề tài:\n\nI. NHẬN XÉT ĐỀ XUẤT ĐỀ TÀI\n\n1.1 Tổng quan nghiên cứu trong và ngoài nước\n\n1.2 Tính cấp thiết của việc thực hiện đề tài\n\n1.3 Tính mới, khả năng không trùng lặp với các nhiệm vụ khoa học và công nghệ đã và đang thực hiện; luận văn thạc sĩ, luận án tiến sĩ đã bảo vệ\n\n1.4 Mục tiêu nghiên cứu của đề tài\n\n1.5 Nội dung nghiên cứu chính của đề tài\n\n1.6 Sản phẩm của đề tài\n\n1.7 Hiệu quả và khả năng ứng dụng kết quả nghiên cứu của đề tài, sự phù hợp của địa chỉ ứng dụng\n\n1.8 Kinh phí thực hiện đề tài\n\nKiến nghị của thành viên Hội đồng: (đánh dấu X vào 1 trong 2 ô dưới đây)\n\n□ Đề nghị thực hiện\n\n□ Không thực hiện\n\nII. DỰ KIẾN ĐỀ TÀI ĐẶT HÀNG\n\nTên đề tài:\n\nĐịnh hướng mục tiêu:\n\nSản phẩm và yêu cầu đối với sản phẩm:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_3-15-2024-TT-BGTVT_chunk_0002",
+            "char_count": 972,
+            "source_file": "mauphieu/MAU 3-15-2024-TT-BGTVT.doc",
+            "file_name": "MAU 3-15-2024-TT-BGTVT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:02:40",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_3-15-2024-TT-BGTVT_chunk_0002",
+        "doc_id": "mauphieu_MAU_3-15-2024-TT-BGTVT",
+        "text": "viên Hội đồng: (đánh dấu X vào 1 trong 2 ô dưới đây)\n\n□ Đề nghị thực hiện\n\n□ Không thực hiện\n\nII. DỰ KIẾN ĐỀ TÀI ĐẶT HÀNG\n\nTên đề tài:\n\nĐịnh hướng mục tiêu:\n\nSản phẩm và yêu cầu đối với sản phẩm:\n\n|  | ..., ngày...tháng...năm 20...<br>(ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_3-15-2024-TT-BGTVT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 270,
+            "source_file": "mauphieu/MAU 3-15-2024-TT-BGTVT.doc",
+            "file_name": "MAU 3-15-2024-TT-BGTVT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:02:40",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

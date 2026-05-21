@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_01-70-2016-NDCP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_01-70-2016-NDCP",
+        "text": "Mẫu số 01\n\n| TÊN CÔNG TY<br>Số: ………….<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | ………, ngày ….  tháng …. năm 20….. |\n\nĐƠN ĐỀ NGHỊ\n\nGiao tuyến dẫn tàu hoa tiêu hàng hải\n\nKính gửi: Cục Hàng hải Việt Nam.\n\nTên công ty: ...\n\nNgười đại diện theo pháp luật: ...\n\nMã số đăng ký kinh doanh:\n\nĐịa chỉ: ……………………………………… Số điện thoại liên hệ: ...\n\nĐề nghị Cục Hàng hải Việt Nam giao tuyến dẫn tàu hoa tiêu hàng hải dưới đây cho công ty …… ………………………….:\n\n1. Tuyến dẫn tàu …………….………. thuộc vùng hoa tiêu bắt buộc...\n\n2. Tuyến dẫn tàu …………………….. thuộc vùng hoa tiêu bắt buộc...\n\n...\n\nVăn bản kèm theo:\n\n1. Danh sách hoa tiêu các hạng (kèm theo bản sao Giấy chứng nhận khả năng hoa tiêu hàng hải và bản sao Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải của từng hoa tiêu).\n\n2. Bản kê khai phương tiện đưa, đón hoa tiêu (kèm theo bản sao Giấy chứng nhận đăng ký của phương tiện đó).",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_01-70-2016-NDCP_chunk_0002",
+            "char_count": 943,
+            "source_file": "Maudon/MAU SO 01-70-2016-NDCP.doc",
+            "file_name": "MAU SO 01-70-2016-NDCP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:15:56",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_01-70-2016-NDCP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_01-70-2016-NDCP",
+        "text": "hàng hải và bản sao Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải của từng hoa tiêu).\n\n2. Bản kê khai phương tiện đưa, đón hoa tiêu (kèm theo bản sao Giấy chứng nhận đăng ký của phương tiện đó).\n\nKính đề nghị Cục Hàng hải Việt Nam xem xét, quyết định./.\n\n|  | GIÁM ĐỐC<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\nNguồn: Nghị định 70/2016/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_01-70-2016-NDCP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 352,
+            "source_file": "Maudon/MAU SO 01-70-2016-NDCP.doc",
+            "file_name": "MAU SO 01-70-2016-NDCP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:15:56",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

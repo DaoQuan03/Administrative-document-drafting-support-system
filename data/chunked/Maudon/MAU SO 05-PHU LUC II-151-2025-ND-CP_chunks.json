@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_05-PHU_LUC_II-151-2025-ND-CP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_05-PHU_LUC_II-151-2025-ND-CP",
+        "text": "Mẫu số 05. Đơn đề nghị giao đất, cho thuê đất, giao khu vực biển để lấn biển\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\n..., ngày... tháng... năm ...\n\nĐƠN ĐỀ NGHỊ GIAO ĐẤT, CHO THUÊ ĐẤT, GIAO KHU VỰC BIỂN ĐỂ LẤN BIỂN\n\nKính gửi: Chủ tịch Ủy ban nhân dân1...\n\n1. Người đề nghị2 ……………………………………………………………………………………\n\n2. Địa chỉ/trụ sở chính: ………………………………………………………………….………….\n\n3. Địa chỉ liên hệ (điện thoại, email ): ……………………………………………………………..\n\n4. Địa điểm khu đất, khu vực biển (tại xã ..., tỉnh ...): ...\n\n5. Diện tích đất... (m2) tương ứng ... (m2) khu vực biển.\n\n6. Để sử dụng vào mục đích3: ……………………………………………………………………\n\n7. Thời hạn sử dụng đất: ...  Thời hạn sử dụng khu vực biển ...\n\n8. Xác định nhu cầu sử dụng đất thuộc trường hợp được miễn tiền sử dụng đất, tiền thuê đất theo quy định (nếu có).",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_05-PHU_LUC_II-151-2025-ND-CP_chunk_0002",
+            "char_count": 832,
+            "source_file": "Maudon/MAU SO 05-PHU LUC II-151-2025-ND-CP.doc",
+            "file_name": "MAU SO 05-PHU LUC II-151-2025-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:30:24",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_05-PHU_LUC_II-151-2025-ND-CP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_05-PHU_LUC_II-151-2025-ND-CP",
+        "text": "Thời hạn sử dụng đất: ...  Thời hạn sử dụng khu vực biển ...\n\n8. Xác định nhu cầu sử dụng đất thuộc trường hợp được miễn tiền sử dụng đất, tiền thuê đất theo quy định (nếu có).\n\n9. Cam kết sử dụng đất, khu vực biển đúng mục đích, chấp hành đúng các quy định của pháp luật về đất đai và pháp luật khác có liên quan; nộp tiền sử dụng đất/tiền thuê đất (nếu có) đầy đủ, đúng hạn.\n\nCác cam kết khác (nếu có) ...\n\n|  | Người làm đơn<br>(Ký và ghi rõ họ tên, đóng dấu nếu có) |\n| --- | --- |\n\n___\n\n1 Chủ tịch UBND cấp có thẩm quyền giao đất, cho thuê đất\n\n2 Đối với cá nhân, người đại diện thì ghi rõ họ tên và thông tin về số, ngày/tháng/năm, cơ quan cấp Căn cước công dân hoặc số định danh hoặc Hộ chiếu...; đối với tổ chức thì ghi rõ thông tin như trong Quyết định thành lập cơ quan, tổ chức sự nghiệp/văn bản công nhận tổ chức tôn giáo/đăng ký kinh doanh/Giấy chứng nhận đầu tư đối với doanh nghiệp/tổ chức kinh tế...",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "Maudon_MAU_SO_05-PHU_LUC_II-151-2025-ND-CP_chunk_0001",
+            "next_chunk_id": "Maudon_MAU_SO_05-PHU_LUC_II-151-2025-ND-CP_chunk_0003",
+            "char_count": 915,
+            "source_file": "Maudon/MAU SO 05-PHU LUC II-151-2025-ND-CP.doc",
+            "file_name": "MAU SO 05-PHU LUC II-151-2025-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:30:24",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_05-PHU_LUC_II-151-2025-ND-CP_chunk_0003",
+        "doc_id": "Maudon_MAU_SO_05-PHU_LUC_II-151-2025-ND-CP",
+        "text": "thì ghi rõ thông tin như trong Quyết định thành lập cơ quan, tổ chức sự nghiệp/văn bản công nhận tổ chức tôn giáo/đăng ký kinh doanh/Giấy chứng nhận đầu tư đối với doanh nghiệp/tổ chức kinh tế...\n\n3 Ghi rõ mục đích sử dụng đất để thực hiện dự án đầu tư theo văn bản chấp thuận, quyết định chủ trương đầu tư.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "Maudon_MAU_SO_05-PHU_LUC_II-151-2025-ND-CP_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 307,
+            "source_file": "Maudon/MAU SO 05-PHU LUC II-151-2025-ND-CP.doc",
+            "file_name": "MAU SO 05-PHU LUC II-151-2025-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:30:24",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

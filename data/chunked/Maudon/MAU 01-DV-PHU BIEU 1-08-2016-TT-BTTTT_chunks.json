@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_01-DV-PHU_BIEU_1-08-2016-TT-BTTTT_chunk_0001",
+        "doc_id": "Maudon_MAU_01-DV-PHU_BIEU_1-08-2016-TT-BTTTT",
+        "text": "Mẫu 01/DV - Đơn đăng ký thuê bao\n\nPhụ biểu 01\n\nĐƠN ĐĂNG KÝ THUÊ BAO ĐƯỢC HƯỞNG HỖ TRỢ\n\n(Ban hành kèm theo Thông tư số 08/2016/TT-BTTTT)\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nĐƠN ĐĂNG KÝ THUÊ BAO HƯỞNG HỖ TRỢ\n\nKính gửi: Doanh nghiệp [Tên doanh nghiệp cung cấp dịch vụ].\n\nTên tôi là:...\n\nSố CMND... nơi cấp... ngày cấp...\n\nChỗ ở hiện tại2):...\n\nLà chủ hộ gia đình, mã số hộ [mã số hộ] (nếu có) thuộc diện:\n\nHộ nghèo\n\nHộ cận nghèo theo quy định của Nhà nước.\n\nHiện nay, gia đình tôi đang sử dụng dịch vụ: 3)...\n\nSố thuê bao:..., do Doanh nghiệp [Tên doanh nghiệp cung cấp dịch vụ] cung cấp, tên thuê bao: [tên thuê bao trong hợp đồng] là thành viên trong hộ gia đình tôi.\n\nSố hợp đồng:..., ngày ký hợp đồng:...\n\nTôi làm đơn này cam kết hộ gia đình tôi chưa được hưởng hỗ trợ (hoặc đã ngừng được hưởng hỗ trợ đối với [Tên doanh nghiệp đã đăng ký ngừng được hưởng hỗ trợ]) và đăng ký Số thuê bao trên được hưởng hỗ trợ thuộc Chương trình viễn thông công ích đến năm 2020.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_01-DV-PHU_BIEU_1-08-2016-TT-BTTTT_chunk_0002",
+            "char_count": 994,
+            "source_file": "Maudon/MAU 01-DV-PHU BIEU 1-08-2016-TT-BTTTT.doc",
+            "file_name": "MAU 01-DV-PHU BIEU 1-08-2016-TT-BTTTT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:58:40",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_01-DV-PHU_BIEU_1-08-2016-TT-BTTTT_chunk_0002",
+        "doc_id": "Maudon_MAU_01-DV-PHU_BIEU_1-08-2016-TT-BTTTT",
+        "text": "trợ (hoặc đã ngừng được hưởng hỗ trợ đối với [Tên doanh nghiệp đã đăng ký ngừng được hưởng hỗ trợ]) và đăng ký Số thuê bao trên được hưởng hỗ trợ thuộc Chương trình viễn thông công ích đến năm 2020.\n\nTôi xin cam đoan các thông tin nêu trên là đúng sự thật và xin chịu trách nhiệm trước pháp luật về các thông tin trên.\n\nTrân trọng cảm ơn./.\n\n|  | …………., ngày…… tháng… năm…<br>CHỦ HỘ4)<br>(Ký và ghi rõ họ tên) |\n| --- | --- |\n\nGhi chú:\n\n1) Đơn này sử dụng trong trường hợp chủ hộ đăng ký thuê bao hưởng hỗ trợ.\n\n2) Chỗ ở hiện tại ghi rõ thôn, xã, huyện, tỉnh (Thành phố).\n\n3) Ghi rõ tên dịch vụ đang sử dụng: Điện thoại cố định mặt đất trả sau hoặc dịch vụ thông tin di động mặt đất trả sau.\n\n4) Chủ hộ lưu ý nhận lại giấy biên nhận từ doanh nghiệp sau khi nộp Đơn đăng ký.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_01-DV-PHU_BIEU_1-08-2016-TT-BTTTT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 773,
+            "source_file": "Maudon/MAU 01-DV-PHU BIEU 1-08-2016-TT-BTTTT.doc",
+            "file_name": "MAU 01-DV-PHU BIEU 1-08-2016-TT-BTTTT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:58:40",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

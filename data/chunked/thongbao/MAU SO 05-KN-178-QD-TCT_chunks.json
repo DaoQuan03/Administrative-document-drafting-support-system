@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_05-KN-178-QD-TCT_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_05-KN-178-QD-TCT",
+        "text": "Mẫu số 05/KN\n\n(Ban hành kèm theo Quyết định số 178/QĐ-TCT ngày 25 tháng 2 năm 2019 của Tổng cục trưởng Tổng cục Thuế)\n\n| TÊN CƠ QUAN CẤP TRÊN<br>TRỰC TIẾP<br>TÊN CƠ QUAN THUẾ<br>RA VĂN BẢN<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số:……./TB-…..(1) | ………, ngày…tháng…năm…. |\n\nTHÔNG BÁO\n\nVề việc thụ lý giải quyết khiếu nại …….. (2)\n\nNgày ... tháng... năm (theo dấu công văn đến số...) ….(3)... đã nhận được đơn khiếu nại đề ngày... tháng... năm của ………….(4)…………. gửi đến.\n\nĐịa chỉ: ……………………..………………………………………………………………………………\n\nSố CMND/Hộ chiếu, ngày cấp, nơi cấp hoặc Mã số thuế công ty: ……………………(5) …………\n\nKhiếu nại về việc …………………………………………………………………………………………\n\n………………………………………… (6) ………………………………………………………………\n\n………………………………………………………………………………………………………………\n\nSau khi xem xét nội dung đơn khiếu nại, căn cứ Luật khiếu nại năm 2011, đơn khiếu nại đủ điều kiện thụ lý và thuộc thẩm quyền giải quyết của……………………(3) ………………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_05-KN-178-QD-TCT_chunk_0002",
+            "char_count": 986,
+            "source_file": "thongbao/MAU SO 05-KN-178-QD-TCT.doc",
+            "file_name": "MAU SO 05-KN-178-QD-TCT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:47:01",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_05-KN-178-QD-TCT_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_05-KN-178-QD-TCT",
+        "text": "khi xem xét nội dung đơn khiếu nại, căn cứ Luật khiếu nại năm 2011, đơn khiếu nại đủ điều kiện thụ lý và thuộc thẩm quyền giải quyết của……………………(3) ………………………………\n\nĐơn khiếu nại đã được thụ lý giải quyết kể từ ngày ban hành thông báo này.\n\nVậy thông báo để ………… (4) …………được biết./.\n\n| Nơi nhận:<br>- ……(4)…..<br>- ……(7)…..;<br>- …….(8)……..<br>- Lưu: VT, ...(9)... | THỦ TRƯỞNG CƠ QUAN THUẾ<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\n___\n\n(1) Chữ viết tắt tên Cơ quan Thuế thông báo.\n\n(2) Lần giải quyết khiếu nại: \"lần đầu\" hoặc \"lần hai\".\n\n(3) Tên Cơ quan Thuế thông báo về việc thụ lý giải quyết khiếu nại.\n\n(4) Họ tên người khiếu nại (hoặc tên cơ quan, tổ chức khiếu nại).\n\n(5) Nếu người khiếu nại không có CMND/Hộ chiếu thì ghi các thông tin theo giấy tờ tùy thân. (mã số thuế nếu là công ty)\n\n(6) Tóm tắt nội dung khiếu nại.\n\n(7) Tên cơ quan, tổ chức, đơn vị, cá nhân có thẩm quyền chuyển khiếu nại đến (nếu có).\n\n(8) Cơ quan thanh tra nhà nước cùng cấp\n\n(9) Bộ phận xử lý đơn.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_05-KN-178-QD-TCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 990,
+            "source_file": "thongbao/MAU SO 05-KN-178-QD-TCT.doc",
+            "file_name": "MAU SO 05-KN-178-QD-TCT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:47:01",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

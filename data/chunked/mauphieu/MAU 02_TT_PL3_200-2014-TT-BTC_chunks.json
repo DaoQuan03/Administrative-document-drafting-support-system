@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_02_TT_PL3_200-2014-TT-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_02_TT_PL3_200-2014-TT-BTC",
+        "text": "| Đơn vị:... | Mẫu số 02 - TT |\n| --- | --- |\n| Địa chỉ:... | (Ban hành theo Thông tư số: .../2014/TT-BTC |\n|  | ngày .../.../2014 của BTC) |\n\nPHIẾU CHI                       Quyển số:...\n\nNgày ...tháng ...năm ...                             Số :...\n\nNợ :...\n\nCó :...\n\nHọ và tên người nhận tiền:...\n\nĐịa chỉ:...\n\nLý do chi:...\n\nSố tiền:...(Viết bằng chữ):...\n\n...\n\nKèm theo ... Chứng từ gốc:\n\n|  |  |  |  | Ngày ...tháng ...năm ... | Ngày ...tháng ...năm ... |\n| --- | --- | --- | --- | --- | --- |\n| Giám đốc | Kế toán trưởng | Thủ quỹ | Người lập phiếu | Người lập phiếu | Người nhận                  tiền |\n| (Ký, họ tên, đóng dấu) | (Ký, họ tên) | (Ký, họ tên) | (Ký, họ tên) | (Ký, họ tên) | (Ký, họ tên) |\n\nĐã nhận đủ số tiền (viết bằng chữ) :...\n\n+ Tỷ giá ngoại tệ (vàng bạc, đá quý):...\n\n+ Số tiền quy đổi:...\n\n(Liên gửi ra ngoài phải đóng dấu)\n\nPHIẾU CHI\n\n(Mẫu số 02 - TT)",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_02_TT_PL3_200-2014-TT-BTC_chunk_0002",
+            "char_count": 881,
+            "source_file": "mauphieu/MAU 02_TT_PL3_200-2014-TT-BTC.doc",
+            "file_name": "MAU 02_TT_PL3_200-2014-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:48:07",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02_TT_PL3_200-2014-TT-BTC_chunk_0002",
+        "doc_id": "mauphieu_MAU_02_TT_PL3_200-2014-TT-BTC",
+        "text": "(Ký, họ tên) | (Ký, họ tên) |\n\nĐã nhận đủ số tiền (viết bằng chữ) :...\n\n+ Tỷ giá ngoại tệ (vàng bạc, đá quý):...\n\n+ Số tiền quy đổi:...\n\n(Liên gửi ra ngoài phải đóng dấu)\n\nPHIẾU CHI\n\n(Mẫu số 02 - TT)\n\n1. Mục đích: Nhằm xác định các khoản tiền mặt, ngoại tệ thực tế xuất quỹ và làm căn cứ để thủ quỹ xuất quỹ, ghi sổ quỹ và kế toán ghi sổ kế toán.\n\n2. Phương pháp và trách nhiệm ghi\n\nGóc trên bên trái của chứng từ ghi rõ tên đơn vị và địa chỉ đơn vị.\n\n- Phiếu chi phải đóng thành quyển, trong mỗi Phiếu chi phải ghi số quyển và số của từng Phiếu chi. Số phiếu chi phải đánh liên tục trong 1 kỳ kế toán. Từng Phiếu chi phải ghi rõ ngày, tháng, năm lập phiếu, ngày, tháng, năm chi tiền.\n\n- Ghi rõ họ, tên, địa chỉ người nhận tiền.\n\n- Dòng “Lý do chi\" ghi rõ nội dung chi tiền.\n\n- Dòng “Số tiền\": Ghi bằng số hoặc bằng chữ số tiền xuất quỹ, ghi rõ đơn vị tính là đồng VN, hay USD ...\n\n- Dòng tiếp theo ghi số lượng chứng từ gốc kèm theo Phiếu chi.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_02_TT_PL3_200-2014-TT-BTC_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_02_TT_PL3_200-2014-TT-BTC_chunk_0003",
+            "char_count": 944,
+            "source_file": "mauphieu/MAU 02_TT_PL3_200-2014-TT-BTC.doc",
+            "file_name": "MAU 02_TT_PL3_200-2014-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:48:07",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02_TT_PL3_200-2014-TT-BTC_chunk_0003",
+        "doc_id": "mauphieu_MAU_02_TT_PL3_200-2014-TT-BTC",
+        "text": "ghi rõ nội dung chi tiền.\n\n- Dòng “Số tiền\": Ghi bằng số hoặc bằng chữ số tiền xuất quỹ, ghi rõ đơn vị tính là đồng VN, hay USD ...\n\n- Dòng tiếp theo ghi số lượng chứng từ gốc kèm theo Phiếu chi.\n\nPhiếu chi được lập thành 3 liên và chỉ sau khi có đủ chữ ký (Ký theo từng liên) của người lập phiếu, kế toán trưởng, giám đốc, thủ quỹ mới được xuất quỹ. Sau khi nhận đủ số tiền người nhận tiền phải ghi số tiền đã nhận bằng chữ, ký tên và ghi rõ họ, tên vào Phiếu chi.\n\nLiên 1 lưu ở  nơi lập phiếu.\n\nLiên 2 thủ quỹ dùng để ghi sổ quỹ và chuyển cho kế toán cùng với chứng từ gốc để vào sổ kế toán.\n\nLiên 3 giao cho người nhận tiền.\n\nChú ý:\n\n+ Nếu là chi ngoại tệ phải ghi rõ tỷ giá, đơn giá tại thời điểm xuất quỹ để tính ra tổng số tiền theo đơn vị đồng tiền ghi sổ.\n\n+ Liên phiếu chi gửi ra ngoài doanh nghiệp phải đóng dấu.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_02_TT_PL3_200-2014-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 822,
+            "source_file": "mauphieu/MAU 02_TT_PL3_200-2014-TT-BTC.doc",
+            "file_name": "MAU 02_TT_PL3_200-2014-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:48:07",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

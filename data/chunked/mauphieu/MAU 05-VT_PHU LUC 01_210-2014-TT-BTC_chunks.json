@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_05-VT_PHU_LUC_01_210-2014-TT-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_05-VT_PHU_LUC_01_210-2014-TT-BTC",
+        "text": "| CTCK:………………<br>Địa chỉ:……………………… | Mẫu số 05 - VT<br>(Ban hành theo TT số 210/2014/TT-BTC<br>Ngày 30/12/2014 của Bộ Tài chính) |\n| --- | --- |\n\nSố: ………\n\nPHIẾU XUẤT KHO TÀI SẢN TÀI CHÍNH\n\nNgày..…tháng…..năm…..\n\nHọ tên người xuất Quỹ:……………………………….\n\nĐơn vị, bộ phận:……………………………………………….\n\nLý do nhập Quỹ:……………………………………………………\n\nNhập tại Quỹ:…………………………………………………………………\n\n| STT | Tên Tài sản tài chính | Mã Chứng khoán | Mệnh giá | Số lượng | Đơn giá | Thành tiền | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| A | B | C | D | 1 | 2 | 4= 1*2 | D |\n| 1 | Cổ phiếu niêm yết | ACB |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  | Cộng | x | x | x | x |  | x |\n\n|  |  |  | ..., ngày…tháng…năm… |\n| --- | --- | --- | --- |\n| NGƯỜI LẬP | NGƯỜI KIỂM SOÁT | KẾ TOÁN TRƯỞNG | (TỔNG) GIÁM ĐỐC |\n| (Ký, họ tên) | (Ký, họ tên) | (Ký, họ tên) | (Ký, họ tên) |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 853,
+            "source_file": "mauphieu/MAU 05-VT_PHU LUC 01_210-2014-TT-BTC.doc",
+            "file_name": "MAU 05-VT_PHU LUC 01_210-2014-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:51:16",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

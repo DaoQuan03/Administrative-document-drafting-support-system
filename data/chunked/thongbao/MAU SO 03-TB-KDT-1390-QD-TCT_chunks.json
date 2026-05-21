@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_03-TB-KDT-1390-QD-TCT_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_03-TB-KDT-1390-QD-TCT",
+        "text": "Mẫu số: 03/TB-KĐT\n\n| TỔNG CỤC THUẾ<br>-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>---------------- |\n| --- | --- |\n| Số: .../TB-KĐT | Ngày...tháng... năm... |\n\nTHÔNG BÁO\n\nV/v Cấp tài khoản sử dụng hình thức khai thuế điện tử.\n\nKính gửi: <Tên người nộp thuế :….>\n\n<Mã số thuế của NNT:….>\n\n<...giờ ... phút ... giây , ngày DD/MM/YYYY>, đơn vị đã được Cơ quan Thuế cấp tài khoản sử dụng hình thức khai thuế điện tử với các thông tin tài khoản như sau:\n\nĐịnh danh: <mã số thuế của NNT>\n\nMật khẩu: <mật khẩu do hệ thống tự sinh>\n\nĐể sử dụng dịch vụ đơn vị truy cập theo đường dẫn: <đường dẫn>\n\nĐồng thời, Cơ quan Thuế xác nhận đơn vị đã đăng ký khai thuế điện tử qua tổ chức cung cấp dịch vụ giá trị gia tăng về giao dịch điện tử trong lĩnh vực thuế - T-VAN <tên tổ chức T-VAN>.\n\n|  | <Chữ ký số của Tổng cục Thuế> |\n| --- | --- |\n\nGhi chú: Thông báo được gửi tự động từ hệ thống khai thuế điện tử của Tổng cục Thuế.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 947,
+            "source_file": "thongbao/MAU SO 03-TB-KDT-1390-QD-TCT.doc",
+            "file_name": "MAU SO 03-TB-KDT-1390-QD-TCT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:41:58",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

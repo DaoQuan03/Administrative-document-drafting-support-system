@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "thongbao_PHU_LUC_03_16-2012-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_PHU_LUC_03_16-2012-TT-BTC",
+        "text": "Phụ lục số 3. Mẫu Thông báo phát hành hóa đơn\n\nTHÔNG BÁO PHÁT HÀNH HOÁ ĐƠN\n\n(Dành cho đơn vị dự trữ đặt in, tự in)\n\n1. Tên đơn vị phát hành hoá đơn (Đơn vị dự trữ A):...\n\n2. Mã số thuế:...\n\n3. Địa chỉ trụ sở chính:...\n\n4. Điện thoại:...\n\n5. Các loại hoá đơn phát hành:\n\n| STT | Tên loại hoá đơn | Mẫu số | Ký hiệu | Số lượng | Từ số | Đến số | Ngày bắt đầu sử dụng | Doanh nghiệp in | Doanh nghiệp in |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Tên loại hoá đơn | Mẫu số | Ký hiệu | Số lượng | Từ số | Đến số | Ngày bắt đầu sử dụng | Tên | MST |\n|  | Hóa đơn bán hàng DTQG |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n\n6. Thông tin đơn vị chủ quản (trường hợp tổ chức, cá nhân dùng hóa đơn của đơn vị chủ quản đặt in, tự in):\n\n- Tên đơn vị:...\n\n- Mã số thuế:...\n\n7. Tên cơ quan thuế tiếp nhận thông báo:...\n\n..., ngày...tháng...năm...\n\nNGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT\n\n(Ký, đóng dấu và ghi rõ họ tên)",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 939,
+            "source_file": "thongbao/PHU LUC 03_16-2012-TT-BTC.doc",
+            "file_name": "PHU LUC 03_16-2012-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:23:04",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

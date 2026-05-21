@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "thongbao_Mau_so_07_08_2021_ND-CP_chunk_0001",
+        "doc_id": "thongbao_Mau_so_07_08_2021_ND-CP",
+        "text": "Mẫu số 07\n\n| CƠ QUAN THÔNG BÁO LUỒNG <br>___<br><br>Số:.../... | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>___<br>..., ngày ... tháng ... năm... |\n| --- | --- |\n\nTHÔNG BÁO\n\nLuồng đường thủy nội địa (định kỳ)\n\n___\n\nCăn cứ Nghị định số.../2021/NĐ-CP ngày... tháng... năm 2021 của Chính phủ quy định về quản lý hoạt động đường thủy nội địa;\n\n(1) ...Thông báo luồng đường thủy nội địa như sau:\n\n1. Tên luồng:\n\n2. Chiều dài, chiều rộng, chiều sâu, bán kính cong của luồng:...\n\n3. Cấp kỹ thuật luồng:...\n\n4. Trong phạm vi luồng, hành lang luồng:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_Mau_so_07_08_2021_ND-CP_chunk_0002",
+            "char_count": 566,
+            "source_file": "thongbao/Mau so 07_08_2021_ND-CP.doc",
+            "file_name": "Mau so 07_08_2021_ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:50:49",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_Mau_so_07_08_2021_ND-CP_chunk_0002",
+        "doc_id": "thongbao_Mau_so_07_08_2021_ND-CP",
+        "text": "...Thông báo luồng đường thủy nội địa như sau:\n\n1. Tên luồng:\n\n2. Chiều dài, chiều rộng, chiều sâu, bán kính cong của luồng:...\n\n3. Cấp kỹ thuật luồng:...\n\n4. Trong phạm vi luồng, hành lang luồng:\n\n| TT | Tên điểm | Lý trình (km...) | Địa danh <br>(xã, huyện, tỉnh) | Hệ tọa độ VN-2000 | Hệ tọa độ VN-2000 | Hệ tọa độ WGS-84 | Hệ tọa độ WGS-84 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | Tên điểm | Lý trình (km...) | Địa danh <br>(xã, huyện, tỉnh) | Vĩ độ | Kinh độ | Vĩ độ | Kinh độ |\n| 1 | Điểm đầu |  |  |  |  |  |  |\n| 2 | Điểm tim luồng, điểm giao cắt với <br>các tuyến khác |  |  |  |  |  |  |\n| 3 | Điểm cuối |  |  |  |  |  |  |\n\n5. Tình hình luồng:",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "thongbao_Mau_so_07_08_2021_ND-CP_chunk_0001",
+            "next_chunk_id": "thongbao_Mau_so_07_08_2021_ND-CP_chunk_0003",
+            "char_count": 672,
+            "source_file": "thongbao/Mau so 07_08_2021_ND-CP.doc",
+            "file_name": "Mau so 07_08_2021_ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:50:49",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_Mau_so_07_08_2021_ND-CP_chunk_0003",
+        "doc_id": "thongbao_Mau_so_07_08_2021_ND-CP",
+        "text": "Kinh độ | Vĩ độ | Kinh độ |\n| 1 | Điểm đầu |  |  |  |  |  |  |\n| 2 | Điểm tim luồng, điểm giao cắt với <br>các tuyến khác |  |  |  |  |  |  |\n| 3 | Điểm cuối |  |  |  |  |  |  |\n\n5. Tình hình luồng:\n\n| TT | Tên vật chướng ngại, công trình trên đường thủy   nội địa | Lý trình (km...) | Địa danh (xã, huyện, tỉnh) | Các đặc trưng luồng | Các đặc trưng luồng | Các đặc trưng luồng | Các đặc trưng luồng |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | Tên vật chướng ngại, công trình trên đường thủy   nội địa | Lý trình (km...) | Địa danh (xã, huyện, tỉnh) | Độ sâu hoặc tĩnh không | Độ sâu hoặc tĩnh không | Độ sâu hoặc tĩnh không | Chiều rộng đáy luồng (B) |\n| TT | Tên vật chướng ngại, công trình trên đường thủy   nội địa | Lý trình (km...) | Địa danh (xã, huyện, tỉnh) | Nhỏ nhất (hmin) | Lớn nhất (hmax) | Thực đo (h) | Chiều rộng đáy luồng (B) |\n| 1 |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |\n\n6. Bãi cạn, đoạn cạn:",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "thongbao_Mau_so_07_08_2021_ND-CP_chunk_0002",
+            "next_chunk_id": "thongbao_Mau_so_07_08_2021_ND-CP_chunk_0004",
+            "char_count": 938,
+            "source_file": "thongbao/Mau so 07_08_2021_ND-CP.doc",
+            "file_name": "Mau so 07_08_2021_ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:50:49",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_Mau_so_07_08_2021_ND-CP_chunk_0004",
+        "doc_id": "thongbao_Mau_so_07_08_2021_ND-CP",
+        "text": "trình (km...) | Địa danh (xã, huyện, tỉnh) | Nhỏ nhất (hmin) | Lớn nhất (hmax) | Thực đo (h) | Chiều rộng đáy luồng (B) |\n| 1 |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |\n\n6. Bãi cạn, đoạn cạn:\n\n| TT | Tên bãi cạn, đoạn cạn | Lý trình (km...) | Địa danh (xã, huyện, tỉnh) | Độ sâu<br>(h) | Mực nước<br>(H) | Cao độ<br>(Z) | Chiều rộng<br>(B) | Chiều dài<br> (L) | Ngày đo |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |\n\n7. Một số vấn đề khác:...\n\n| Nơi nhận:<br>- ...;<br>- ...;<br>- Lưu: VT, ... | THỦ TRƯỞNG (1)<br>(Ký tên, đóng dấu, họ và tên) |\n| --- | --- |\n\nGhi chú:\n\n(1) Cơ quan thông báo luồng.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "thongbao_Mau_so_07_08_2021_ND-CP_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 690,
+            "source_file": "thongbao/Mau so 07_08_2021_ND-CP.doc",
+            "file_name": "Mau so 07_08_2021_ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:50:49",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

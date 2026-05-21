@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_05-PYCPT-XDTMS-2018-1921-QD-TCHQ_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_05-PYCPT-XDTMS-2018-1921-QD-TCHQ",
+        "text": "Mẫu số 05/PYCPT-XDTMS/2018\n\n| TỔNG CỤC HẢI QUAN<br>CỤC THUẾ XUẤT NHẬP KHẨU<br>------- |  |\n| --- | --- |\n| Số:        /TXNK-PL | Hà nội, ngày     tháng     năm |\n\nPHIẾU YÊU CẦU PHÂN TÍCH MẪU HÀNG HÓA THEO ĐƠN ĐỀ NGHỊ XÁC ĐỊNH TRƯỚC MÃ SỐ\n\nKính gửi: Trung tâm phân tích phân loại hàng hóa xuất nhập khẩu.\n\n1. Cán bộ tiếp nhận Đơn:\n\n2. Số, ngày Đơn đề nghị:\n\n3. Tên Tổ chức, cá nhân có Đơn:\n\n4. Mã số thuế: 0100101298\n\n5. Tên hàng theo Đơn:\n\n6. Mã số hàng hóa đề nghị theo Đơn:\n\n7. Số lượng mẫu:\n\n8. Đặc điểm và quy cách đóng gói mẫu:\n\n9. Số niêm phong hải quan mẫu:\n\n10. Hồ sơ kèm theo mẫu:\n\n(1) Đơn đề nghị xác định trước (bản chụp).\n\n(2) Tài liệu kỹ thuật (bản chụp, nếu có).\n\n(3) Chứng thư giám định (bản chụp, nếu có).\n\n(4) Các tài liệu khác (bản chụp, nếu có và ghi rõ tên tài liệu)\n\n11. Nội dung yêu cầu phân tích: thành phần, hàm lượng, bản chất, công dụng định danh mẫu, mã số đề xuất theo Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_05-PYCPT-XDTMS-2018-1921-QD-TCHQ_chunk_0002",
+            "char_count": 945,
+            "source_file": "mauphieu/MAU SO 05-PYCPT-XDTMS-2018-1921-QD-TCHQ.doc",
+            "file_name": "MAU SO 05-PYCPT-XDTMS-2018-1921-QD-TCHQ.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:59:24",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_05-PYCPT-XDTMS-2018-1921-QD-TCHQ_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_05-PYCPT-XDTMS-2018-1921-QD-TCHQ",
+        "text": "chụp, nếu có và ghi rõ tên tài liệu)\n\n11. Nội dung yêu cầu phân tích: thành phần, hàm lượng, bản chất, công dụng định danh mẫu, mã số đề xuất theo Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam.\n\nĐề nghị Trung tâm PTPL HHXNK thông báo kết quả phân tích mẫu trên theo nội dung yêu cầu và gửi về Cục Thuế XNK trong thời hạn 05 ngày làm việc kể từ ngày nhận được Phiếu yêu cầu phân tích.\n\n| CÁN BỘ ĐỀ XUẤT<br>(ký và ghi rõ họ tên) | LÃNH ĐẠO PHÒNG<br>(ký và ghi rõ họ tên) | LÃNH ĐẠO CỤC<br>(ký và ghi rõ họ tên) |\n| --- | --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_05-PYCPT-XDTMS-2018-1921-QD-TCHQ_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 532,
+            "source_file": "mauphieu/MAU SO 05-PYCPT-XDTMS-2018-1921-QD-TCHQ.doc",
+            "file_name": "MAU SO 05-PYCPT-XDTMS-2018-1921-QD-TCHQ.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:59:24",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    }
+]

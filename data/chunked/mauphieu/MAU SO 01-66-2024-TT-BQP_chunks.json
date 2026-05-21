@@ -1,0 +1,146 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP",
+        "text": "Mẫu số 01: Phiếu Hồ sơ xe cơ giới\n\n| [ĐƠN VỊ CHỦ QUẢN]<br>[CƠ SỞ KIỂM ĐỊNH]<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ………….. | [Địa danh], ngày ….. tháng …. năm 20….. |\n\nPHIẾU HỒ SƠ XE CƠ GIỚI\n\n1. Thông tin quản lý",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 8,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0002",
+            "char_count": 292,
+            "source_file": "mauphieu/MAU SO 01-66-2024-TT-BQP.doc",
+            "file_name": "MAU SO 01-66-2024-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:32:54",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP",
+        "text": "HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ………….. | [Địa danh], ngày ….. tháng …. năm 20….. |\n\nPHIẾU HỒ SƠ XE CƠ GIỚI\n\n1. Thông tin quản lý\n\n| Biển số: ……………………………… | Ngày ĐK/Ngày ĐK lần đầu: ………………… |\n| --- | --- |\n| Nguồn gốc xe: …… Số GCN NK/Số phiếu:…. | Ngày cấp: ………………………………………. |\n| Đơn vị (doanh nghiệp): ………………… | Điện thoại: …………………………………….. |\n| Địa chỉ:……………………………………………………………………………………………. | Địa chỉ:……………………………………………………………………………………………. |\n| Tình trạng PT khi lập hồ sơ: (Mới 100%, Đã qua sử dụng)………………………….. | Tình trạng cải tạo: (Cải tạo, CĐ công năng) …………………………………………….. |\n| Loại phương tiện: (ghi theo tên loại PT chi tiết) ……………………………... | Mã số VIN: (phần đầu số VIN)……………. |\n| Nhãn hiệu: …………………………… | Số loại/Tên thương mại: …………………… |\n| Số khung: ………………………………… | Vị trí: ……………………………………….. |\n| Số động cơ: …………. <br>Năm SX:………..Nước SX: ………… | Vị trí: …………………………………………..<br>Năm hết niên hạn sử dụng |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 8,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0003",
+            "char_count": 979,
+            "source_file": "mauphieu/MAU SO 01-66-2024-TT-BQP.doc",
+            "file_name": "MAU SO 01-66-2024-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:32:54",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0003",
+        "doc_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP",
+        "text": "Số loại/Tên thương mại: …………………… |\n| Số khung: ………………………………… | Vị trí: ……………………………………….. |\n| Số động cơ: …………. <br>Năm SX:………..Nước SX: ………… | Vị trí: …………………………………………..<br>Năm hết niên hạn sử dụng |\n\n2. Thông số kỹ thuật chung\n\n| Kích thước bao (DxRxC) (mm): ……… | Kích thước lòng thùng xe (mm): …….(1)……… |\n| --- | --- |\n| Công thức bánh xe: ……………… | Vết bánh xe (mm): ………………………………. |\n| Chiều dài cơ sở (mm): …………… | Số người CP chở (ngồi/đứng/nằm): ……….. |\n| Khối lượng bản thân (kg): ………… | Khối lượng kéo theo TGGT/TK (kg): ………….. |\n| KL hàng CC theo thiết kế (kg): ……… | KL hàng CC cho phép TGGT (kg): …………. |\n| KL toàn bộ theo thiết kế (kg): …..(2)……… | KL toàn bộ cho phép TGGT (kg): ….(2)…… |\n\n3. Động cơ",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 8,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0004",
+            "char_count": 713,
+            "source_file": "mauphieu/MAU SO 01-66-2024-TT-BQP.doc",
+            "file_name": "MAU SO 01-66-2024-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:32:54",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0004",
+        "doc_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP",
+        "text": "TGGT/TK (kg): ………….. |\n| KL hàng CC theo thiết kế (kg): ……… | KL hàng CC cho phép TGGT (kg): …………. |\n| KL toàn bộ theo thiết kế (kg): …..(2)……… | KL toàn bộ cho phép TGGT (kg): ….(2)…… |\n\n3. Động cơ\n\n| Ký hiệu: …………………………………… | Loại động cơ: ……………………………….. |\n| --- | --- |\n| Loại nhiên liệu sử dụng: …………………. | Tiêu chuẩn khí thải: (EURO 2, 3, 4, 5):….(3)… |\n| Loại xe Hybrid: …………………………… | Thể tích làm việc (cm3): …………………… |\n| Công suất lớn nhất/Vòng quay (kW/v/ph): ……………………………………………….. | Mô men xoắn lớn nhất/Vòng quay (N.m/v/ph): ………………………………………………….. |\n\n4. Hệ thống truyền lực\n\n| Kiểu ly hợp: ………(3)………….. | Dẫn động ly hợp: ………..(3)………… |\n| --- | --- |\n| Kiểu hộp số chính: ….Số cấp tiến:….(3)…. | Có hộp số phụ: ….. Số cấp tiến: …(3)…. |\n| Trục dẫn hướng: (liệt kê các trục dẫn hướng) ………………………………………………….. | Trục chủ động: (liệt kê các trục chủ động) …………………………………………… |\n\n5. Hệ thống lái\n\n| Kiểu cơ cấu lái: ……….(4)………….. | Kiểu dẫn động: ………….(5)…………. |\n| --- | --- |\n\n6. Hệ thống phanh",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 8,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0003",
+            "next_chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0005",
+            "char_count": 996,
+            "source_file": "mauphieu/MAU SO 01-66-2024-TT-BQP.doc",
+            "file_name": "MAU SO 01-66-2024-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:32:54",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0005",
+        "doc_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP",
+        "text": "| Trục chủ động: (liệt kê các trục chủ động) …………………………………………… |\n\n5. Hệ thống lái\n\n| Kiểu cơ cấu lái: ……….(4)………….. | Kiểu dẫn động: ………….(5)…………. |\n| --- | --- |\n\n6. Hệ thống phanh\n\n| Cơ cấu phanh: (trục 1, trục 2,...)….(5)…. | Kiểu dẫn động phanh chính: …..(5)….. |\n| --- | --- |\n| Loại phanh đỗ: ……………(5)……… | Loại phanh bổ trợ: …..(5)………. |\n\n7. Thông tin các trục\n\n|  | Kiểu treo | Kiểu giảm chấn | Số lốp | Cỡ lốp |\n| --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |\n| …. |  |  |  |  |\n\n8. Cơ cấu chuyên dùng: (Mô tả cơ cấu chuyên dùng nếu có)\n\n………………………………………………………………………………………………\n\n……………………………………………………………………………………………..\n\nCác nội dung ghi trong Phiếu đã được kiểm tra, soát xét trước khi ký xác nhận.\n\n| KIỂM ĐỊNH VIÊN<br>(ký, ghi rõ họ tên) | CHỈ HUY CƠ SỞ KIỂM ĐỊNH<br>(ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\nGhi chú: Nội dung trên Phiếu có thể thay đổi theo loại xe, nhãn hiệu - số loại và chương trình quản lý kiểm định.",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 8,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0004",
+            "next_chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0006",
+            "char_count": 935,
+            "source_file": "mauphieu/MAU SO 01-66-2024-TT-BQP.doc",
+            "file_name": "MAU SO 01-66-2024-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:32:54",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0006",
+        "doc_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP",
+        "text": "họ tên) | CHỈ HUY CƠ SỞ KIỂM ĐỊNH<br>(ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\nGhi chú: Nội dung trên Phiếu có thể thay đổi theo loại xe, nhãn hiệu - số loại và chương trình quản lý kiểm định.\n\n| CÁC THAY ĐỔI HÀNH CHÍNH | CÁC THAY ĐỔI HÀNH CHÍNH | CÁC THAY ĐỔI HÀNH CHÍNH | CÁC THAY ĐỔI HÀNH CHÍNH |\n| --- | --- | --- | --- |\n| Ngày | Biển số đăng ký<br>Ngày đăng ký | Số khung mới <br>Số động cơ mới | Đơn vị (doanh nghiệp) <br>Địa chỉ |\n|  | (Biển số cũ) | (Số khung cũ) | (Tên chủ, đơn vị cũ) |\n|  | (Biển số mới) | (Số khung mới) | (Tên chủ, đơn vị mới) |\n|  |  |  |  |",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 8,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0005",
+            "next_chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0007",
+            "char_count": 578,
+            "source_file": "mauphieu/MAU SO 01-66-2024-TT-BQP.doc",
+            "file_name": "MAU SO 01-66-2024-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:32:54",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0007",
+        "doc_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP",
+        "text": "mới <br>Số động cơ mới | Đơn vị (doanh nghiệp) <br>Địa chỉ |\n|  | (Biển số cũ) | (Số khung cũ) | (Tên chủ, đơn vị cũ) |\n|  | (Biển số mới) | (Số khung mới) | (Tên chủ, đơn vị mới) |\n|  |  |  |  |\n\n| TÀI LIỆU KÈM THEO: | TÀI LIỆU KÈM THEO: | TÀI LIỆU KÈM THEO: |\n| --- | --- | --- |\n| TT | Tài liệu | Số trang |\n| 1 | Bản sao Phiếu kiểm tra chất lượng xuất xưởng số…………cấp ngày ... |  |\n| 2 | Bản sao Giấy chứng nhận chất lượng ATKT và BVMT xe cơ giới cải tạo số……..ngày…………………………….. |  |\n| 3 | (Bản sao Giấy chứng nhận chất lượng ATKT và BVMT xe cơ giới……………….. |  |\n| 4 | (Tài liệu xác định năm sản xuất của………………………………………….. |  |\n|  | …………………………………………………………… |  |\n\nGhi chú:\n\n(1) Đối với xe tải có kích thước lòng thùng xe khác nhau trên cùng một chiều hoặc xe tải có mui phủ thì ghi kích thước lớn nhất và bé nhất (hoặc Hc - đối với xe tải có mui phủ) như sau: D/d x R/r x C/c (Hc);\n\n- Đối với xe khách: kích thước khoang hành lý lớn nhất;",
+        "metadata": {
+            "chunk_index": 7,
+            "total_chunks": 8,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0006",
+            "next_chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0008",
+            "char_count": 941,
+            "source_file": "mauphieu/MAU SO 01-66-2024-TT-BQP.doc",
+            "file_name": "MAU SO 01-66-2024-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:32:54",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0008",
+        "doc_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP",
+        "text": "một chiều hoặc xe tải có mui phủ thì ghi kích thước lớn nhất và bé nhất (hoặc Hc - đối với xe tải có mui phủ) như sau: D/d x R/r x C/c (Hc);\n\n- Đối với xe khách: kích thước khoang hành lý lớn nhất;\n\n- Đối với xe xi téc hoặc các thùng xe có kết cấu đặc biệt: kích thước bao thùng xe.\n\n(2) Đối với sơ mi rơ moóc thì ghi thêm giá trị phân bố lên chốt kéo như sau:\n\n- Khối lượng toàn bộ theo thiết kế/chốt kéo (kg): ……………../………………..;\n\n- Khối lượng toàn bộ cho phép TGGT/chốt kéo (kg): ………………./………………\n\n(3) Ghi theo hồ sơ kỹ thuật.\n\n(4) Kiểu cơ cấu lái bánh răng hay trục vít, hoặc loại bi tuần hoàn,……….\n\n(5) Ghi như trong tờ khai Hải quan hoặc chứng từ nhập khẩu (xe nhập khẩu); Giấy chứng nhận xuất xưởng (xe sản xuất, lắp ráp trong nước).\n\n* Các nội dung không xác định được thì để trống.",
+        "metadata": {
+            "chunk_index": 8,
+            "total_chunks": 8,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-66-2024-TT-BQP_chunk_0007",
+            "next_chunk_id": null,
+            "char_count": 786,
+            "source_file": "mauphieu/MAU SO 01-66-2024-TT-BQP.doc",
+            "file_name": "MAU SO 01-66-2024-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:32:54",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_02-188-2025-ND-CP",
+        "text": "Mẫu số 2\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nTỜ KHAI\nTHAM GIA, ĐIỀU CHỈNH THÔNG TIN BẢO HIỂM Y TẾ\nMã số bảo hiểm y tế:...\n\nI. Đăng ký tham gia bảo hiểm y tế lần đầu\n\n[01]. Họ và tên (viết chữ in hoa): ...[02]. Giới tính: ...\n\n[03]. Ngày, tháng, năm sinh: .../ .../... [04]. Dân tộc: ...\n\n[05]. Quốc tịch: ... [06]. Số CCCD/ĐDCN/Hộ chiếu: ...\n\n[07]. Điện thoại: ... [08]. Email (nếu có): ...\n\n[09]. Nơi đăng ký khám, chữa bệnh ban đầu: ...\n\n[10]. Đăng ký nhận kết quả giải quyết thủ tục hành chính:\n\n[10.1]. Nhận thẻ bảo hiểm y tế bản điện tử: - VssID □                  - Email □\n\n[10.2]. Nhận thẻ bảo hiểm y tế bản giấy, địa chỉ: □\n\n[10.2a]. Số nhà, đường/phố, thôn/xóm: ...\n\n[10.2b]. Xã, phường, đặc khu: ... [10.2c]. Tỉnh, thành phố: ...\n\nII. Điều chỉnh thông tin ghi trên thẻ bảo hiểm y tế\n\n[11]. Nội dung đề nghị điều chỉnh: ... ...\n\n... ... ... ...\n\n[12]. Hồ sơ kèm theo (nếu có): ... ... ...\n\n... ... ... ...\n\n... ... ... ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 8,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0002",
+            "char_count": 977,
+            "source_file": "tokhai/MAU SO 02-188-2025-ND-CP.doc",
+            "file_name": "MAU SO 02-188-2025-ND-CP.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:43",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_02-188-2025-ND-CP",
+        "text": "...\n\nII. Điều chỉnh thông tin ghi trên thẻ bảo hiểm y tế\n\n[11]. Nội dung đề nghị điều chỉnh: ... ...\n\n... ... ... ...\n\n[12]. Hồ sơ kèm theo (nếu có): ... ... ...\n\n... ... ... ...\n\n... ... ... ...\n\n| XÁC NHẬN CỦA ĐƠN VỊ<br>...<br>...<br>...<br>... | ..., ngày... tháng... năm...<br>NGƯỜI KÊ KHAI<br>...<br>...<br>...<br>... |\n| --- | --- |\n\nGhi chú:\n\n- Người tham gia tra cứu mã số bảo hiểm y tế tại địa chỉ: https://baohiemxahoi.gov.vn\n\n- Trường hợp triển khai tờ khai điện tử:\n\n+ Các trường thông tin đã được kết nối với Cơ sở dữ liệu Quốc gia về dân cư, Cơ sở dữ liệu Quốc gia về cư trú, Cơ sở dữ liệu Quốc gia về bảo hiểm, các cơ sở dữ liệu khác, ... trên Cổng dịch vụ công Quốc gia thì thông tin được tự động điền vào tờ khai điện tử. Cá nhân chỉ điền thông tin chưa có trong cơ sở dữ liệu.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 8,
+            "prev_chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0001",
+            "next_chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0003",
+            "char_count": 794,
+            "source_file": "tokhai/MAU SO 02-188-2025-ND-CP.doc",
+            "file_name": "MAU SO 02-188-2025-ND-CP.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:43",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0003",
+        "doc_id": "tokhai_MAU_SO_02-188-2025-ND-CP",
+        "text": "dữ liệu Quốc gia về bảo hiểm, các cơ sở dữ liệu khác, ... trên Cổng dịch vụ công Quốc gia thì thông tin được tự động điền vào tờ khai điện tử. Cá nhân chỉ điền thông tin chưa có trong cơ sở dữ liệu.\n\n+ Trường hợp người kê khai sử dụng Tài khoản định danh điện tử (VneID) mức độ 2 để đăng nhập vào Cổng dịch vụ công Quốc gia để giải quyết các thủ tục trên môi trường điện tử thì không phải ký tên vào tờ khai.\n\nHƯỚNG DẪN LẬP MẪU SỐ 2\n\nTờ khai tham gia, điều chỉnh thông tin bảo hiểm y tế\n\n1. Mục đích: người tham gia bảo hiểm y tế lần đầu kê khai đầy đủ thông tin khi tra cứu không thấy mã số bảo hiểm y tế hoặc người tham gia đề nghị điều chỉnh thông tin đã ghi trên thẻ bảo hiểm y tế (thông tin về nhân thân, nơi đăng ký khám, chữa bệnh ban đầu,...).\n\n2. Trách nhiệm lập: Người tham gia.\n\n3. Thời gian lập: Khi người tham gia đăng ký tham gia bảo hiểm y tế lần đầu hoặc đề nghị điều chỉnh thông tin đã ghi trên thẻ bảo hiểm y tế.\n\n4. Phương pháp lập:",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 8,
+            "prev_chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0002",
+            "next_chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0004",
+            "char_count": 951,
+            "source_file": "tokhai/MAU SO 02-188-2025-ND-CP.doc",
+            "file_name": "MAU SO 02-188-2025-ND-CP.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:43",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0004",
+        "doc_id": "tokhai_MAU_SO_02-188-2025-ND-CP",
+        "text": "Trách nhiệm lập: Người tham gia.\n\n3. Thời gian lập: Khi người tham gia đăng ký tham gia bảo hiểm y tế lần đầu hoặc đề nghị điều chỉnh thông tin đã ghi trên thẻ bảo hiểm y tế.\n\n4. Phương pháp lập:\n\nNgười tham gia tra cứu mã số bảo hiểm xã hội tại địa chỉ: https://baohiemxahoi.gov.vn\n\n4.1. Trường hợp người tham gia đăng ký tham gia bảo hiểm y tế lần đầu: kê khai mục I:\n\na) Đối với trường hợp người tham gia kê khai bản giấy:\n\n[01]. Họ và tên: ghi đầy đủ họ, chữ đệm và tên bằng chữ in hoa có dấu của người tham gia.\n\n[02]. Giới tính: ghi giới tính của người tham gia (nếu là nam thì ghi từ \"nam\" hoặc nếu là nữ thì ghi từ \"nữ\").\n\n[03]. Ngày, tháng, năm sinh: ghi đầy đủ ngày, tháng, năm sinh như trong giấy khai sinh hoặc căn cước công dân/định danh cá nhân hoặc hộ chiếu (đối với người mang quốc tịch nước ngoài).\n\n[04]. Dân tộc: ghi dân tộc của người tham gia như trong giấy khai sinh; đối với người mang quốc tịch nước ngoài để trống.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 8,
+            "prev_chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0003",
+            "next_chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0005",
+            "char_count": 938,
+            "source_file": "tokhai/MAU SO 02-188-2025-ND-CP.doc",
+            "file_name": "MAU SO 02-188-2025-ND-CP.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:43",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0005",
+        "doc_id": "tokhai_MAU_SO_02-188-2025-ND-CP",
+        "text": "danh cá nhân hoặc hộ chiếu (đối với người mang quốc tịch nước ngoài).\n\n[04]. Dân tộc: ghi dân tộc của người tham gia như trong giấy khai sinh; đối với người mang quốc tịch nước ngoài để trống.\n\n[05]. Quốc tịch: ghi quốc tịch của người tham gia như trong giấy khai sinh hoặc căn cước công dân/định danh cá nhân hoặc hộ chiếu (đối với người mang quốc tịch nước ngoài).\n\n[06]. Số căn cước công dân/định danh cá nhân/Hộ chiếu: ghi căn cước công dân/định danh cá nhân hoặc hộ chiếu của người tham gia được cơ quan có thẩm quyền cấp (bao gồm cả trẻ em dưới 6 tuổi được cấp số định danh cá nhân).\n\n[07]. Điện thoại: ghi số điện thoại của người tham gia hoặc số điện thoại để liên hệ với người tham gia.\n\n[08]. Email: ghi địa chỉ thư điện tử của người tham gia hoặc địa chỉ thư điện tử để liên hệ với người tham gia (nếu có).",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 8,
+            "prev_chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0004",
+            "next_chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0006",
+            "char_count": 817,
+            "source_file": "tokhai/MAU SO 02-188-2025-ND-CP.doc",
+            "file_name": "MAU SO 02-188-2025-ND-CP.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:43",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0006",
+        "doc_id": "tokhai_MAU_SO_02-188-2025-ND-CP",
+        "text": "thoại của người tham gia hoặc số điện thoại để liên hệ với người tham gia.\n\n[08]. Email: ghi địa chỉ thư điện tử của người tham gia hoặc địa chỉ thư điện tử để liên hệ với người tham gia (nếu có).\n\n[09]. Nơi đăng ký khám, chữa bệnh ban đầu (áp dụng đối với người tham gia bảo hiểm y tế lần đầu): ghi nơi đăng ký khám bệnh, chữa bệnh bảo hiểm y tế ban đầu do người tham gia lựa chọn theo hướng dẫn của cơ quan bảo hiểm xã hội.\n\n[10]. Đăng ký nhận kết quả giải quyết thủ tục hành chính.\n\nTrường hợp đăng ký phương thức nhận kết quả giải quyết thủ tục hành chính bản điện tử: lựa chọn nhận kết quả thông qua VssID hoặc Email.\n\nTrường hợp đăng ký phương thức nhận kết quả giải quyết thủ tục hành chính bản giấy: ghi cụ thể, đầy đủ địa chỉ nơi đang sinh sống (số nhà, đường/phố, thôn/xóm; xã/phường/đặc khu; tỉnh/thành phố trực thuộc Trung ương) để cơ quan bảo hiểm xã hội gửi thẻ bảo hiểm y tế hoặc kết quả giải quyết thủ tục hành chính khác.",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 8,
+            "prev_chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0005",
+            "next_chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0007",
+            "char_count": 938,
+            "source_file": "tokhai/MAU SO 02-188-2025-ND-CP.doc",
+            "file_name": "MAU SO 02-188-2025-ND-CP.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:43",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0007",
+        "doc_id": "tokhai_MAU_SO_02-188-2025-ND-CP",
+        "text": "đang sinh sống (số nhà, đường/phố, thôn/xóm; xã/phường/đặc khu; tỉnh/thành phố trực thuộc Trung ương) để cơ quan bảo hiểm xã hội gửi thẻ bảo hiểm y tế hoặc kết quả giải quyết thủ tục hành chính khác.\n\nb) Đối với trường hợp kê khai trên Cổng dịch vụ công Quốc gia thì người tham gia chỉ kê khai từ mục [06] đến mục [10]; từ mục [01] đến mục [05] thì hệ thống tự động điền thông tin đã được kết nối với Cơ sở dữ liệu Quốc gia về dân cư, Cơ sở dữ liệu Quốc gia về cư trú, Cơ sở dữ liệu Quốc gia về bảo hiểm,...\n\n4.2. Trường hợp người tham gia đề nghị điều chỉnh thông tin đã ghi trên thẻ bảo hiểm y tế; kê khai mục II (Điều chỉnh thông tin ghi trên thẻ bảo hiểm y tế) như sau:\n\n[11]. Nội dung đề nghị điều chỉnh: người tham gia ghi rõ nội dung đề nghị điều chỉnh thông tin đã ghi trên thẻ bảo hiểm y tế như điều chỉnh thông tin nhân thân (họ tên, ngày tháng năm sinh, số căn cước công dân/định danh cá nhân/Hộ chiếu,...), cấp lại thẻ bảo hiểm y tế, điện thoại, email,...",
+        "metadata": {
+            "chunk_index": 7,
+            "total_chunks": 8,
+            "prev_chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0006",
+            "next_chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0008",
+            "char_count": 967,
+            "source_file": "tokhai/MAU SO 02-188-2025-ND-CP.doc",
+            "file_name": "MAU SO 02-188-2025-ND-CP.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:43",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0008",
+        "doc_id": "tokhai_MAU_SO_02-188-2025-ND-CP",
+        "text": "đã ghi trên thẻ bảo hiểm y tế như điều chỉnh thông tin nhân thân (họ tên, ngày tháng năm sinh, số căn cước công dân/định danh cá nhân/Hộ chiếu,...), cấp lại thẻ bảo hiểm y tế, điện thoại, email,...\n\n[12]. Hồ sơ kèm theo (nếu có): ghi tên các giấy tờ chứng minh.",
+        "metadata": {
+            "chunk_index": 8,
+            "total_chunks": 8,
+            "prev_chunk_id": "tokhai_MAU_SO_02-188-2025-ND-CP_chunk_0007",
+            "next_chunk_id": null,
+            "char_count": 261,
+            "source_file": "tokhai/MAU SO 02-188-2025-ND-CP.doc",
+            "file_name": "MAU SO 02-188-2025-ND-CP.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:43",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_3-LS4-30-2007-TTLT-BTC-BLDTBXH_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_3-LS4-30-2007-TTLT-BTC-BLDTBXH",
+        "text": "MẪU SỐ 3-LS4\n\n| UBND TỈNH, THÀNH PHỐ<br>…………………………….<br>SỞ LAO ĐỘNG - THƯƠNG BINH<br>VÀ XÃ HỘI<br>Số:.../ | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>  ..., ngày... tháng... năm...<br> <br>Số hồ sơ:………………. |\n| --- | --- |\n\nPHIẾU TRỢ CẤP TIỀN TUẤT THÂN NHÂN LIỆT SỸ\n\nHọ và tên liệt sỹ:...Năm sinh: ...\n\nNguyên quán :...\n\nTrú quán :...\n\nCấp bậc, chức vụ khi hy sinh:...\n\nHy sinh  ngày         tháng         năm            tại:...\n\nTheo giấy báo tử số :...ngày       tháng       năm     của:...\n\nGia đình được hưởng tuất hàng tháng kể từ ngày.../.../... theo quyết định số:...ngày ……tháng…… năm ...của Giám đốc Sở Lao động - Thương binh và Xã hội\n\nTrợ cấp:\n\n- Hàng tháng:...\n\n- Nuôi dưỡng hàng tháng:……………………………………………….\n\n| Sổ A: Người đứng tên:...<br>Chỗ ở hiện nay:...<br>Số định xuất : ...x...=...<br>... | Sổ B: Người đứng tên:...<br>Chỗ ở hiện nay:...<br>Số định xuất : ...x...=...<br>... |\n| --- | --- |\n\nTrợ cấp  lần đầu:\n\n- Trợ cấp 1 lần:...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_3-LS4-30-2007-TTLT-BTC-BLDTBXH_chunk_0002",
+            "char_count": 972,
+            "source_file": "mauphieu/MAU SO 3-LS4-30-2007-TTLT-BTC-BLDTBXH.doc",
+            "file_name": "MAU SO 3-LS4-30-2007-TTLT-BTC-BLDTBXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:17:30",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_3-LS4-30-2007-TTLT-BTC-BLDTBXH_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_3-LS4-30-2007-TTLT-BTC-BLDTBXH",
+        "text": "ở hiện nay:...<br>Số định xuất : ...x...=...<br>... | Sổ B: Người đứng tên:...<br>Chỗ ở hiện nay:...<br>Số định xuất : ...x...=...<br>... |\n| --- | --- |\n\nTrợ cấp  lần đầu:\n\n- Trợ cấp 1 lần:...\n\n- Mai táng phí (nếu có) :...\n\n- Chi phí báo tử:...\n\n- Truy lĩnh (nếu có):...\n\nTrợ cấp hàng tháng:...\n\n| Người lập phiếu | Giám đốc<br>(ký tên, đóng dấu) |\n| --- | --- |\n\nNguồn: Thông tư liên tịch 30/2007/TTLT-BTC-BLĐTBXH",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_3-LS4-30-2007-TTLT-BTC-BLDTBXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 415,
+            "source_file": "mauphieu/MAU SO 3-LS4-30-2007-TTLT-BTC-BLDTBXH.doc",
+            "file_name": "MAU SO 3-LS4-30-2007-TTLT-BTC-BLDTBXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:17:30",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

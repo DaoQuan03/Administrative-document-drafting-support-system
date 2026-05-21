@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_Mau_so_01_141_2020_ND-CP_chunk_0001",
+        "doc_id": "totrinh_Mau_so_01_141_2020_ND-CP",
+        "text": "Mẫu số 01\n\n| ỦY BAN NHÂN DÂN<br>TỈNH …………<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | Địa danh, ngày ... tháng ... năm ..…... |\n\nTỜ TRÌNH\n\nĐề nghị phê duyệt chỉ tiêu cử tuyển\n(Năm …………….)\n\nKính gửi: (1) …………………………………………………….\n\n1. Tình hình triển khai thực hiện chế độ cử tuyển tại địa phương\n\na) Số lượng sinh viên cử tuyển đang học hiện nay (chia theo ngành học, dân tộc và nơi đào tạo cụ thể);\n\nb) Kế hoạch bố trí việc làm cho sinh viên cử tuyển sau tốt nghiệp;\n\nc) Các vấn đề khác liên quan.\n\n2. Căn cứ đề nghị chỉ tiêu cử tuyển\n\na) Thuyết minh căn cứ để đề xuất số lượng người học cử tuyển (yêu cầu nhiệm vụ, vị trí việc làm, số lượng người làm việc được giao và số biên chế công chức được giao ...);\n\nb) Các phương án, điều kiện đảm bảo bố trí việc làm cho người học cử tuyển sau tốt nghiệp.\n\n3. Đề nghị phê duyệt chỉ tiêu cử tuyển",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_Mau_so_01_141_2020_ND-CP_chunk_0002",
+            "char_count": 910,
+            "source_file": "totrinh/Mau so 01_141_2020_ND-CP.doc",
+            "file_name": "Mau so 01_141_2020_ND-CP.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:18:00",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_Mau_so_01_141_2020_ND-CP_chunk_0002",
+        "doc_id": "totrinh_Mau_so_01_141_2020_ND-CP",
+        "text": "người làm việc được giao và số biên chế công chức được giao ...);\n\nb) Các phương án, điều kiện đảm bảo bố trí việc làm cho người học cử tuyển sau tốt nghiệp.\n\n3. Đề nghị phê duyệt chỉ tiêu cử tuyển\n\na) Số lượng đề xuất chỉ tiêu người học theo chế độ cử tuyển. Chia ra: số lượng đề xuất chỉ tiêu cử tuyển các dân tộc thiểu số rất ít người và các số lượng đề xuất dân tộc thiểu số chưa có hoặc có rất ít cán bộ;\n\nb) Số lượng đề xuất chỉ tiêu theo các ngành học: Y - Dược, Kỹ thuật, Nông lâm, Kinh tế, Sư phạm và các ngành học khác (mỗi ngành chia theo trình độ đào tạo: trung cấp, cao đẳng, đại học).\n\n|  | TM. ỦY BAN NHÂN DÂN TỈNH...<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\nGhi chú:\n\n(1) Bộ Giáo dục và Đào tạo; Bộ Lao động - Thương binh và Xã hội.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_Mau_so_01_141_2020_ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 759,
+            "source_file": "totrinh/Mau so 01_141_2020_ND-CP.doc",
+            "file_name": "Mau so 01_141_2020_ND-CP.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:18:00",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

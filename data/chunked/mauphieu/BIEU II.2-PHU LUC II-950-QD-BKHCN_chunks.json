@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_BIEU_II_2-PHU_LUC_II-950-QD-BKHCN_chunk_0001",
+        "doc_id": "mauphieu_BIEU_II_2-PHU_LUC_II-950-QD-BKHCN",
+        "text": "Biểu II.2\n\nPHIẾU ĐÁNH GIÁ BỔ SUNG VỀ NHÂN LỰC THỰC HIỆN CÁC CÔNG VIỆC THEO TỪNG NỘI DUNG CỦA ĐỀ TÀI/ĐỀ ÁN/DỰ ÁN SXTN",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_BIEU_II_2-PHU_LUC_II-950-QD-BKHCN_chunk_0002",
+            "char_count": 116,
+            "source_file": "mauphieu/BIEU II.2-PHU LUC II-950-QD-BKHCN.doc",
+            "file_name": "BIEU II.2-PHU LUC II-950-QD-BKHCN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:41:17",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_BIEU_II_2-PHU_LUC_II-950-QD-BKHCN_chunk_0002",
+        "doc_id": "mauphieu_BIEU_II_2-PHU_LUC_II-950-QD-BKHCN",
+        "text": "II.2\n\nPHIẾU ĐÁNH GIÁ BỔ SUNG VỀ NHÂN LỰC THỰC HIỆN CÁC CÔNG VIỆC THEO TỪNG NỘI DUNG CỦA ĐỀ TÀI/ĐỀ ÁN/DỰ ÁN SXTN\n\n| Nội dung1: …………………………………………………………………………………… | Nội dung1: …………………………………………………………………………………… | Nội dung1: …………………………………………………………………………………… | Nội dung1: …………………………………………………………………………………… | Nội dung1: …………………………………………………………………………………… |\n| --- | --- | --- | --- | --- |\n| Công việc | Nhu cầu nhân lực theo chức danh | Nhu cầu nhân lực theo chức danh | Nhu cầu nhân lực theo chức danh | Nhu cầu nhân lực theo chức danh |\n| Công việc | Chủ nhiệm | Thành viên thực hiện chính, thư ký khoa học | Thành viên | Kỹ thuật viên, nhân viên hỗ trợ |\n| Công việc 1: ... | Tổng ngày công quy đổi: ….. | -Tổng số <br>người: …..<br>-Tổng ngày công quy đổi: ….. | -Tổng số <br>người: …..<br>-Tổng ngày công quy đổi: ….. | -Tổng số <br>người: …..<br>-Tổng ngày công quy đổi: ….. |\n| ………….. | ……… | ……….. | ……….. | ……….. |\n| Công việc n: ... |  |  |  |  |\n| Nội dung 2: …………………………………………………………………………………… | Nội dung 2: …………………………………………………………………………………… | Nội dung 2: …………………………………………………………………………………… | Nội dung 2: …………………………………………………………………………………… | Nội dung 2: …………………………………………………………………………………… |\n| ………….. | ………….. | ………….. | ………….. | ………….. |\n| …………………………………………………………………………………… | …………………………………………………………………………………… | …………………………………………………………………………………… | …………………………………………………………………………………… | …………………………………………………………………………………… |\n| Nội dung n: …………………………………………………………………………………… | Nội dung n: …………………………………………………………………………………… | Nội dung n: …………………………………………………………………………………… | Nội dung n: …………………………………………………………………………………… | Nội dung n: …………………………………………………………………………………… |\n| Công việc | Nhu cầu nhân lực theo chức danh | Nhu cầu nhân lực theo chức danh | Nhu cầu nhân lực theo chức danh | Nhu cầu nhân lực theo chức danh |\n| Công việc | Chủ nhiệm | Thành viên thực hiện chính, thư ký khoa học | Thành viên | Kỹ thuật viên, nhân viên hỗ trợ |\n| Công việc 1: ... | Tổng ngày công quy đổi: ….. | -Tổng số <br>người: …..<br>-Tổng ngày công quy đổi: ….. | -Tổng số <br>người: …..<br>-Tổng ngày công quy đổi: ….. | -Tổng số <br>người: …..<br>-Tổng ngày công quy đổi: ….. |\n| ………….. | ……… | ……….. | ……….. | ……….. |\n| Công việc n: ... |  |  |  |  |\n| Cộng tổng ngày công quy đổi của các nội dung |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_BIEU_II_2-PHU_LUC_II-950-QD-BKHCN_chunk_0001",
+            "next_chunk_id": "mauphieu_BIEU_II_2-PHU_LUC_II-950-QD-BKHCN_chunk_0003",
+            "char_count": 2271,
+            "source_file": "mauphieu/BIEU II.2-PHU LUC II-950-QD-BKHCN.doc",
+            "file_name": "BIEU II.2-PHU LUC II-950-QD-BKHCN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:41:17",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_BIEU_II_2-PHU_LUC_II-950-QD-BKHCN_chunk_0003",
+        "doc_id": "mauphieu_BIEU_II_2-PHU_LUC_II-950-QD-BKHCN",
+        "text": "….. | -Tổng số <br>người: …..<br>-Tổng ngày công quy đổi: ….. |\n| ………….. | ……… | ……….. | ……….. | ……….. |\n| Công việc n: ... |  |  |  |  |\n| Cộng tổng ngày công quy đổi của các nội dung |  |  |  |  |\n\nNgày ….. tháng ….. năm 20…\n\n(Chuyên gia đánh giá, ghi rõ họ tên)",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_BIEU_II_2-PHU_LUC_II-950-QD-BKHCN_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 264,
+            "source_file": "mauphieu/BIEU II.2-PHU LUC II-950-QD-BKHCN.doc",
+            "file_name": "BIEU II.2-PHU LUC II-950-QD-BKHCN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:41:17",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

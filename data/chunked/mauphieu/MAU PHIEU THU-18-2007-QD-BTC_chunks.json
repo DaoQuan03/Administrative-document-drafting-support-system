@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_PHIEU_THU-18-2007-QD-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_PHIEU_THU-18-2007-QD-BTC",
+        "text": "PHIẾU THU TIỀN CƯỚC VẬN CHUYỂN (SALES RECEIPT)\n\n(Liên 1: lưu)\n\nTên khách hàng: (Customer's Name) : ………………………………………………………….\n\nMã số thuế (VAT code):…………………………………………………………..\n\nĐịa chỉ (Address) :…………………………………………………………..\n\n1. Giá cước (Fare):\n\nSố vé Hành trình Số lượng  Đơn giá Thành tiền\n\n(Tictket No)  (Route) (Quantity) (Unit Price) (Amount)\n\n___\n\n2. Thuế giá trị gia tăng (Value Added Tax):\n\n3. Phí khác (Other Tax/Fee/Charge):\n\n3.1. Thuế khác (Other Tax):\n\n3.2. Phí khác (Other Fee/Charge):\n\n4. Tổng số tiền thanh toán (Total Amount Paid):\n\n5. Hình thức thanh toán (Form of Payment):\n\nXin quý khách vui lòng kiểm tra trước khi rời quầy (Please kindly check before leaving).\n\nNgày (Date):\n\nKhách hàng                             Người lập phiếu                                  Thủ quỹ\n\nKý, ghi rõ họ tên                            Ký, ghi rõ họ tên\n\n(Payer)   (Prepared by) (Cashier)\n\nBan hành kèm  theo Quyết định số 18/2007/QĐ-BTC ngày 22/03/2007 của Bộ trưởng Bộ Tài chính",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_PHIEU_THU-18-2007-QD-BTC_chunk_0002",
+            "char_count": 975,
+            "source_file": "mauphieu/MAU PHIEU THU-18-2007-QD-BTC.doc",
+            "file_name": "MAU PHIEU THU-18-2007-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:26:56",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_PHIEU_THU-18-2007-QD-BTC_chunk_0002",
+        "doc_id": "mauphieu_MAU_PHIEU_THU-18-2007-QD-BTC",
+        "text": "Thủ quỹ\n\nKý, ghi rõ họ tên                            Ký, ghi rõ họ tên\n\n(Payer)   (Prepared by) (Cashier)\n\nBan hành kèm  theo Quyết định số 18/2007/QĐ-BTC ngày 22/03/2007 của Bộ trưởng Bộ Tài chính\n\nGhi chú: liên 1: lưu, liên 2: giao cho khách hàng, liên 3: thanh toán nội bộ (nếu cần)",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_PHIEU_THU-18-2007-QD-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 286,
+            "source_file": "mauphieu/MAU PHIEU THU-18-2007-QD-BTC.doc",
+            "file_name": "MAU PHIEU THU-18-2007-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:26:56",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_5_1-PHU_LUC_V-898-QD-CHK_chunk_0001",
+        "doc_id": "mauphieu_MAU_5_1-PHU_LUC_V-898-QD-CHK",
+        "text": "Mẫu 5.1. Phiếu trình Lãnh đạo Cục giải quyết công việc\n\n| CỤC HÀNG KHÔNG VIỆT NAM<br>------- | Hà Nội, ngày   tháng   năm 20… |\n| --- | --- |\n| Số: ...(1)... /PT |  |\n\nPHIẾU TRÌNH GIẢI QUYẾT CÔNG VIỆC\n\nKính trình: ………………………………(2)\n\n1. Cơ quan chủ trì trình(3):\n\n2. Cơ quan phối hợp(4):\n\n3. Trích yếu nội dung dự thảo văn bản trình(5):\n\n4. Tóm tắt nội dung công việc trình(6):\n\n5. Ý kiến của cơ quan chủ trì trình(7):\n\n6. Ý kiến bảo lưu(8):\n\n7. Mức độ khẩn, mật, phạm vi lưu hành(9):\n\n- Mức độ khẩn: Hỏa tốc □                       Khẩn □                 Thượng khẩn □\n\n- Mức độ mật: Mật □                               Tối mật □              Tuyệt mật □\n\n+ Căn cứ đề xuất mức độ mật của văn bản:\n\n- Tài liệu hạn chế lưu hành: □\n\n8. Tài liệu kèm theo(10):\n\n| TT | Số, ký hiệu của văn bản | Ngày tháng năm của văn bản | Trích yếu nội dung văn bản | Cơ quan ban hành |\n| --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |\n| … |  |  |  |  |\n\n9. Chữ ký của chuyên viên, lãnh đạo cơ quan chủ trì trình:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_5_1-PHU_LUC_V-898-QD-CHK_chunk_0002",
+            "char_count": 992,
+            "source_file": "mauphieu/MAU 5.1-PHU LUC V-898-QD-CHK.doc",
+            "file_name": "MAU 5.1-PHU LUC V-898-QD-CHK.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:07:12",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_5_1-PHU_LUC_V-898-QD-CHK_chunk_0002",
+        "doc_id": "mauphieu_MAU_5_1-PHU_LUC_V-898-QD-CHK",
+        "text": "tháng năm của văn bản | Trích yếu nội dung văn bản | Cơ quan ban hành |\n| --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |\n| … |  |  |  |  |\n\n9. Chữ ký của chuyên viên, lãnh đạo cơ quan chủ trì trình:\n\n| CHUYÊN VIÊN <br>(Chữ ký)<br><br><br><br><br>Nguyễn Văn B | TRƯỞNG PHÒNG hoặc PHÓ<br>TRƯỞNG PHÒNG<br>(Chữ ký)<br><br><br><br>Nguyễn Văn A |\n| --- | --- |\n\nÝ KIẾN GIẢI QUYẾT CỦA ………………(11)\n\nGhi chú:\n\n(1) Ghi số Hồ sơ được cấp trên hệ thống quản lý văn bản điện tử.\n\n(2) Ghi rõ chức danh, họ và tên của Lãnh đạo Cục HKVN giải quyết công việc.\n\n(3) Ghi rõ tên cơ quan tham mưu chủ trì trình.\n\n(4) Ghi đầy đủ các cơ quan phối hợp.\n\n(5) Ghi trích yếu nội dung dự thảo văn bản trình.\n\n(6) Phần này thể hiện rõ các nội dung sau:\n\na) Lý do trình (VD: ghi rõ số, ký hiệu văn bản chỉ đạo/Chương trình, kế hoạch/văn bản đề nghị... là căn cứ để thực hiện công việc...);",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_5_1-PHU_LUC_V-898-QD-CHK_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_5_1-PHU_LUC_V-898-QD-CHK_chunk_0003",
+            "char_count": 859,
+            "source_file": "mauphieu/MAU 5.1-PHU LUC V-898-QD-CHK.doc",
+            "file_name": "MAU 5.1-PHU LUC V-898-QD-CHK.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:07:12",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_5_1-PHU_LUC_V-898-QD-CHK_chunk_0003",
+        "doc_id": "mauphieu_MAU_5_1-PHU_LUC_V-898-QD-CHK",
+        "text": "thảo văn bản trình.\n\n(6) Phần này thể hiện rõ các nội dung sau:\n\na) Lý do trình (VD: ghi rõ số, ký hiệu văn bản chỉ đạo/Chương trình, kế hoạch/văn bản đề nghị... là căn cứ để thực hiện công việc...);\n\nb) Liệt kê các bước đã thực hiện trong quá trình tham mưu giải quyết công việc (VD: xin ý kiến cơ quan liên quan...; tổ chức hội họp, đi khảo sát, nghiên cứu, kiểm tra..., đã báo cáo Lãnh đạo Cục có liên quan...)\n\n(7) Phần này thể hiện rõ các nội dung sau:\n\na) Giải trình lý do, căn cứ của nội dung tham mưu, quan điểm của cơ quan tham mưu (về thẩm quyền giải quyết, tính hợp hiến, hợp pháp hoặc cơ sở pháp lý của vấn đề xử lý..);\n\nb) Tóm tắt ý kiến của các cơ quan, đơn vị góp ý (nếu có), giải trình quan điểm xử lý; tiếp thu ý kiến của các cơ quan, đơn vị. Ghi rõ ý kiến, quan điểm của mình đối với những ý kiến chưa thống nhất;\n\nc) Trình bày rõ mối liên hệ với ý kiến chỉ đạo trước đây về cùng một vấn đề (nếu có);\n\nd) Các nội dung khác (nếu có).",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_5_1-PHU_LUC_V-898-QD-CHK_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_5_1-PHU_LUC_V-898-QD-CHK_chunk_0004",
+            "char_count": 950,
+            "source_file": "mauphieu/MAU 5.1-PHU LUC V-898-QD-CHK.doc",
+            "file_name": "MAU 5.1-PHU LUC V-898-QD-CHK.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:07:12",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_5_1-PHU_LUC_V-898-QD-CHK_chunk_0004",
+        "doc_id": "mauphieu_MAU_5_1-PHU_LUC_V-898-QD-CHK",
+        "text": "đơn vị. Ghi rõ ý kiến, quan điểm của mình đối với những ý kiến chưa thống nhất;\n\nc) Trình bày rõ mối liên hệ với ý kiến chỉ đạo trước đây về cùng một vấn đề (nếu có);\n\nd) Các nội dung khác (nếu có).\n\nCơ quan tham mưu có thể trình bày các nội dung nêu trên tại tờ trình riêng kèm theo hồ sơ trình nếu nội dung dài, phức tạp. Đối với trường hợp này ghi “Tờ trình kèm theo”.\n\n(8) Chuyên viên soạn thảo, cơ quan tham mưu trình có thể trình bày những nội dung đề nghị được bảo lưu ý kiến của mình. Nếu nội dung dài, phức tạp, có thể trình bày tại văn bản riêng kèm theo hồ sơ trình và ghi “Văn bản bảo lưu ý kiến kèm theo”.\n\n(9) Tích dấu X vào các ô tương ứng khi xác định mức độ khẩn, mật, hạn chế lưu hành. Nếu nội dung Dự thảo văn bản là \"Mật\" thì phải đưa ra căn cứ xác định mức độ mật.\n\n(10) Ghi đầy đủ số, ký hiệu, ngày tháng năm, cơ quan ban hành và trích yếu của văn bản, tài liệu kèm theo.\n\n(11) Ghi chức danh của Lãnh đạo Cục được trình (“Cục trưởng” hoặc “Phó Cục trưởng”).",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_5_1-PHU_LUC_V-898-QD-CHK_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 979,
+            "source_file": "mauphieu/MAU 5.1-PHU LUC V-898-QD-CHK.doc",
+            "file_name": "MAU 5.1-PHU LUC V-898-QD-CHK.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:07:12",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

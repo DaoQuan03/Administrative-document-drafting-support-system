@@ -1,0 +1,92 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT",
+        "text": "PHỤ LỤC 1\n\nCÁC BIỂU MẪU BÁO CÁO\n(Kèm theo Quyết định số 5703/QĐ-BYT ngày 20 tháng 12 năm 2017 của Bộ trưởng Bộ Y tế)\n\n|  | Mẫu 1 |\n| --- | --- |\n\nCơ sở y tế điều tra ca bệnh:………………………………………………………\n\nNgày điều tra: ……/……/……\n\nPHIẾU ĐIỀU TRA TRƯỜNG HỢP BỆNH THAN TRÊN NGƯỜI\n\nI. THÔNG TIN CÁ NHÂN\n\n1. Họ và tên bệnh nhân: ...\n\n2. Ngày/tháng/năm sinh: …../.…./….. Tuổi: ………. 3. Giới:     Nam    Nữ\n\n4. Dân tộc: …………… 5. Điện thoại: ...\n\n6. Nghề nghiệp (ghi rõ) ...\n\n7. Địa chỉ nơi cư ngụ: ...\n\n8. Địa chỉ nơi làm việc: ...\n\n9. Ngày khởi bệnh: …../.…./…..                                                   10. Ngày vào viện: ……/…../…..\n\n11. Cơ sở điều trị: ...\n\nII. TÌNH TRẠNG BỆNH\n\n12. Lý do vào viện: ...\n\n13. Tiền sử dịch tễ: ...\n\nBệnh kèm theo: ...\n\n14. Triệu chứng:\n\nThể da: lúc đầu ngứa, sau đó nổi phỏng nước, loét màu đen thường không đau, hay gặp ở cánh tay và bàn tay □ Khác",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 5,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT_chunk_0002",
+            "char_count": 878,
+            "source_file": "mauphieu/MAU 1-PHU LUC 1-5703-QD-BYT.doc",
+            "file_name": "MAU 1-PHU LUC 1-5703-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:54:58",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT_chunk_0002",
+        "doc_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT",
+        "text": "Lý do vào viện: ...\n\n13. Tiền sử dịch tễ: ...\n\nBệnh kèm theo: ...\n\n14. Triệu chứng:\n\nThể da: lúc đầu ngứa, sau đó nổi phỏng nước, loét màu đen thường không đau, hay gặp ở cánh tay và bàn tay □ Khác\n\nThể phổi: triệu chứng tương tự như viêm đường hô hấp trên thông thường nhưng diễn tiến nhanh chóng gây ra khó thở nặng và sốc □ Khác ...\n\nThể ruột (hiếm gặp): đau bụng dữ dội kèm theo sốt, nhiễm khuẩn huyết □ Khác ...\n\n15. Xét nghiệm:\n\nLoại mẫu: ...\n\nCơ sở lấy mẫu: ...\n\nNgày lấy mẫu: ….../….../……  Ngày có kết quả: ……./….../……\n\nKết quả xét nghiệm: ...\n\nPhương pháp xét nghiệm: ...\n\nCơ sở xét nghiệm: ...\n\nX- quang: (ngày.../.../…..) ...\n\nKết quả khám nghiệm tử thi: ...\n\nIII. YẾU TỐ DỊCH TỄ\n\nTiền sử tiếp xúc: (trong vòng 30 ngày trước khi mắc bệnh)\n\n16. Đi đâu trong vòng 30 ngày gần đây                                                             Có □ Không □\n\nĐịa chỉ (nếu có đi): ...\n\n17. Tiếp xúc với gia súc",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT_chunk_0003",
+            "char_count": 913,
+            "source_file": "mauphieu/MAU 1-PHU LUC 1-5703-QD-BYT.doc",
+            "file_name": "MAU 1-PHU LUC 1-5703-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:54:58",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT_chunk_0003",
+        "doc_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT",
+        "text": "vòng 30 ngày trước khi mắc bệnh)\n\n16. Đi đâu trong vòng 30 ngày gần đây                                                             Có □ Không □\n\nĐịa chỉ (nếu có đi): ...\n\n17. Tiếp xúc với gia súc\n\nLò mổ gia súc                                                                                                  Có □ Không □\n\nTrại chăn nuôi gia súc/ vật nuôi                                                                         Có □ Không □\n\nĐộng vật hoang dã                                                                                           Có □ Không □\n\nNơi tập trung, phân phối, sản xuất các sản phẩm từ các nguyên liệu có nguồn gốc động vật: da, xương, sừng, lông, len ...                                                                                                                        Có □ Không □\n\nTrực tiếp giết mổ gia súc                                                                                  Có □ Không □",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT_chunk_0004",
+            "char_count": 937,
+            "source_file": "mauphieu/MAU 1-PHU LUC 1-5703-QD-BYT.doc",
+            "file_name": "MAU 1-PHU LUC 1-5703-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:54:58",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT_chunk_0004",
+        "doc_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT",
+        "text": "Có □ Không □\n\nTrực tiếp giết mổ gia súc                                                                                  Có □ Không □\n\nĂn thịt gia súc chết không rõ nguyên nhân                                                         Có □ Không □\n\nNếu có, loại gia súc/ vật nuôi: ……… ở đâu: ………………….\n\nNgày tiếp xúc …./.../…\n\n18. Tiếp xúc gần với người được chẩn đoán bị bệnh than trong vòng 30 ngày hoặc 43 ngày (bệnh than thể phổi)\n\nCó □ Không □ Không rõ □\n\nĐịa chỉ (nếu có): ... ngày: …/…/…\n\nV. CHẨN ĐOÁN, RA VIỆN\n\n19. Chẩn đoán vào viện: ...\n\n20. Chẩn đoán khi ra viện/chuyển viện/tử vong: ...\n\n21. Ngày ra viện …/.../… chuyển viện …/.../… tử vong: …/.../…\n\n22. Tình trạng bệnh nhân khi ra viện:\n\nKhỏi □                                     Đỡ/ổn định □                                    Nặng, xin về □\n\nChuyển viện □                        Di chứng (...)□                               Tử vong □\n\n23. Nếu chuyển viện, tên bệnh viện chuyển đến: ...\n\n24. Các ghi nhận khác: ...",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT_chunk_0003",
+            "next_chunk_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT_chunk_0005",
+            "char_count": 978,
+            "source_file": "mauphieu/MAU 1-PHU LUC 1-5703-QD-BYT.doc",
+            "file_name": "MAU 1-PHU LUC 1-5703-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:54:58",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT_chunk_0005",
+        "doc_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT",
+        "text": "xin về □\n\nChuyển viện □                        Di chứng (...)□                               Tử vong □\n\n23. Nếu chuyển viện, tên bệnh viện chuyển đến: ...\n\n24. Các ghi nhận khác: ...\n\n| Ngày điều tra: …/…/…<br>Người điều tra | Ngày … tháng … năm 20...<br>Lãnh đạo cơ sở Y tế<br>(Ký tên đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_1-PHU_LUC_1-5703-QD-BYT_chunk_0004",
+            "next_chunk_id": null,
+            "char_count": 311,
+            "source_file": "mauphieu/MAU 1-PHU LUC 1-5703-QD-BYT.doc",
+            "file_name": "MAU 1-PHU LUC 1-5703-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:54:58",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

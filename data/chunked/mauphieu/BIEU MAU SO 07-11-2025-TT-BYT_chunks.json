@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_BIEU_MAU_SO_07-11-2025-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_BIEU_MAU_SO_07-11-2025-TT-BYT",
+        "text": "Biểu mẫu số 07\n\nMẫu số 04/GDP: Phiếu tiếp nhận hồ sơ\n\n| ...<br>Tên cơ quan tiếp nhận<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: .../... | ..., ngày…… tháng ... năm 20 ……. |\n\nPHIẾU TIẾP NHẬN\n\nHỒ SƠ ...(2)...\n\n1. Đơn vị nộp: ...\n\n2. Địa chỉ đơn vị nộp hồ sơ (trường hợp nộp hồ sơ qua đường bưu chính):\n\n| 2. Hình thức nộp: | Trực tiếp □ | Bưu chính □ |\n| --- | --- | --- |\n|  | Nộp lần đầu □ | Nộp bổ sung lần..(3)... □ |\n\n3. Số, ngày tháng năm văn bản của đơn vị (nếu có): ...\n\n4. Danh mục tài liệu(4): ...\n\nGhi chú: Phiếu tiếp nhận này chỉ có giá trị xác nhận cơ sở đã nộp hồ sơ tại cơ quan tiếp nhận hồ sơ\n\n| NGƯỜI NHẬN HỒ SƠ<br>(Ký và ghi rõ họ tên) |  |\n| --- | --- |\n\nGhi chú:\n\n(1) Số tiếp nhận hồ sơ\n\n(2) Tên thủ tục hành chính.\n\n(3) Ghi lần bổ sung hồ sơ.\n\n(4) Các tài liệu tương ứng theo thủ tục hành chính được quy định tại Luật dược và Nghị định này (liệt kê chi tiết hoặc danh mục kèm theo).",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 979,
+            "source_file": "mauphieu/BIEU MAU SO 07-11-2025-TT-BYT.doc",
+            "file_name": "BIEU MAU SO 07-11-2025-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:42:37",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

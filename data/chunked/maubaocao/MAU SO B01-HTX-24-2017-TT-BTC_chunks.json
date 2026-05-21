@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_B01-HTX-24-2017-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_B01-HTX-24-2017-TT-BTC",
+        "text": "| Đơn vị báo cáo:………………... | Mẫu số B01 - HTX |\n| --- | --- |\n| Địa chỉ:…………………………. | (Ban hành theo Thông tư số 24/2017/ TT-BTC ngày 28/3/2017 của Bộ Tài chính) |\n\nBÁO CÁO TÌNH HÌNH TÀI CHÍNH\n\nTại ngày ... tháng ... năm ...\n\nĐơn vị tính:...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_B01-HTX-24-2017-TT-BTC_chunk_0002",
+            "char_count": 241,
+            "source_file": "maubaocao/MAU SO B01-HTX-24-2017-TT-BTC.doc",
+            "file_name": "MAU SO B01-HTX-24-2017-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:37:28",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_B01-HTX-24-2017-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_B01-HTX-24-2017-TT-BTC",
+        "text": "HTX |\n| --- | --- |\n| Địa chỉ:…………………………. | (Ban hành theo Thông tư số 24/2017/ TT-BTC ngày 28/3/2017 của Bộ Tài chính) |\n\nBÁO CÁO TÌNH HÌNH TÀI CHÍNH\n\nTại ngày ... tháng ... năm ...\n\nĐơn vị tính:...\n\n| CHỈ TIÊU | Mã<br>số | Thuyết minh | Số cuối năm | Số<br>đầu  năm |\n| --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 |\n| TÀI SẢN |  |  |  |  |\n|  |  |  |  |  |\n| 1. Tiền | 110 |  |  |  |\n| 2. Đầu tư tài chính | 120 |  |  |  |\n| 3. Các khoản phải thu | 130 |  |  |  |\n| Trong đó: Phải thu của hoạt động tín dụng nội bộ | 137 |  |  |  |\n| 4. Hàng tồn kho | 140 |  |  |  |\n| 5. Giá trị còn lại của tài sản cố định | 150 |  |  |  |\n| 6. Tài sản khác | 160 |  |  |  |\n| 7. Dự phòng tổn thất tài sản | 170 |  |  |  |\n|  |  |  |  |  |\n| TỔNG CỘNG TÀI SẢN (200=110+120+130 + 140 +150+160 + 170) | 200 |  |  |  |\n| NGUỒN VỐN |  |  |  |  |\n| I. Nợ phải trả<br>(300 = 310 + 320 + 330 + 340 + 350 + 360 + 370 + 380 + 390) | 300 |  |  |  |\n| 1. Phải trả người bán <br>2. Nguời mua trả tiền truớc | 310<br>320 |  |  |  |\n| 3. Thuế và các khoản phải nộp Nhà nước | 330 |  |  |  |\n| 4. Phải trả người lao động | 340 |  |  |  |\n| 5. Phải trả nợ vay | 350 |  |  |  |\n| 6. Phải trả khác | 360 |  |  |  |\n| 7. Phải trả của hoạt động tín dụng nội bộ | 370 |  |  |  |\n| 8. Khoản trợ cấp, hỗ trợ của Nhà nước phải hoàn lại | 380 |  |  |  |\n| 9. Quỹ dự phòng rủi ro tín dụng | 390 |  |  |  |\n| II. Vốn chủ sở hữu<br>(400 = 410 + 420 + 430 + 440) | 400 |  |  |  |\n| 1. Vốn đầu tư của chủ sở hữu | 410 |  |  |  |\n| 2. Lợi nhuận sau thuế chưa phân phối | 420 |  |  |  |\n| 3. Các quỹ thuộc vốn chủ sở hữu | 430 |  |  |  |\n| 4. Nguồn vốn nhận trợ cấp, hỗ trợ không hoàn lại của Nhà nước | 440 |  |  |  |\n|  |  |  |  |  |\n| TỔNG CỘNG NGUỒN VỐN <br>(500=300+400) | 500 |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_B01-HTX-24-2017-TT-BTC_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_SO_B01-HTX-24-2017-TT-BTC_chunk_0003",
+            "char_count": 1753,
+            "source_file": "maubaocao/MAU SO B01-HTX-24-2017-TT-BTC.doc",
+            "file_name": "MAU SO B01-HTX-24-2017-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:37:28",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_B01-HTX-24-2017-TT-BTC_chunk_0003",
+        "doc_id": "maubaocao_MAU_SO_B01-HTX-24-2017-TT-BTC",
+        "text": "quỹ thuộc vốn chủ sở hữu | 430 |  |  |  |\n| 4. Nguồn vốn nhận trợ cấp, hỗ trợ không hoàn lại của Nhà nước | 440 |  |  |  |\n|  |  |  |  |  |\n| TỔNG CỘNG NGUỒN VỐN <br>(500=300+400) | 500 |  |  |  |\n\nLập, ngày ... tháng ... năm ...\n\n| NGƯỜI LẬP BIỂU | KẾ TOÁN TRƯỞNG | NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT |\n| --- | --- | --- |\n| (Ký, họ tên) | (Ký, họ tên) | (Ký, họ tên, đóng dấu) |\n\nGhi chú:\n\n(1) Những chỉ tiêu không có số liệu được miễn trình bày nhưng không được đánh lại “Mã số” chỉ tiêu.\n\n(2) Số liệu trong các chỉ tiêu có dấu (*) được ghi bằng số âm dưới hình thức ghi trong ngoặc đơn (...).\n\n(3) Đối với HTX có kỳ kế toán năm là năm dương lịch (X) thì “Số cuối năm” có thể ghi là “31.12.X\"; “Số đầu năm\" có thể ghi là “01.01.X\".\n\n(4) Đối với trường hợp thuê dịch vụ làm kế toán, làm kế toán trưởng thì phải ghi rõ số Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán, tên đơn vị cung cấp dịch vụ kế toán.\n\nNguồn: Thông tư 24/2017/TT-BTC",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_B01-HTX-24-2017-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 937,
+            "source_file": "maubaocao/MAU SO B01-HTX-24-2017-TT-BTC.doc",
+            "file_name": "MAU SO B01-HTX-24-2017-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:37:28",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

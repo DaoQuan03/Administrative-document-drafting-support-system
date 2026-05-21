@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_PHU_LUC_I-ND-39-2010-CP_chunk_0001",
+        "doc_id": "Maudon_PHU_LUC_I-ND-39-2010-CP",
+        "text": "PHỤ LỤC I\n\n(Ban hành kèm theo Nghị định số 39/2010/NĐ-CP ngày 07 tháng 4 năm 2010 của Chính phủ)\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\n--------------\n\nĐƠN ĐỀ NGHỊ CẤP GIẤY PHÉP XÂY DỰNG\n\n(Sử dụng cho công trình đường dây, đường ống ngầm, hào và cống, bể kỹ thuật)\n\nKính gửi: …………………………………...\n\n1. Tên chủ đầu tư: ...\n\n- Người đại diện: ... Chức vụ:...\n\n- Địa chỉ liên hệ: ...\n\n- Số điện thoại liên hệ: ...\n\n2. Tên công trình: ...\n\n3. Địa điểm xây dựng: ... ...\n\n- Vị trí xây dựng:...\n\n+ Điểm đầu công trình: ...\n\n+ Điểm cuối công trình: ...\n\n4. Nội dung đề nghị cấp phép: ...\n\n- Loại công trình: ... Cấp công trình: ...\n\n- Quy mô công trình: ...\n\n- Tổng chiều dài công trình: ...\n\n- Chiều rộng công trình:           từ: ………... m, đến: ... m.\n\n- Chiều sâu công trình:            từ: …...……..m, đến: ...       m.\n\n- Khoảng cách nhỏ nhất đến nhà dân: ... /...\n\n5. Đơn vị hoặc người thiết kế: ...\n\n- Địa chỉ: ...\n\n- Điện thoại: ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_PHU_LUC_I-ND-39-2010-CP_chunk_0002",
+            "char_count": 952,
+            "source_file": "Maudon/PHU LUC I-ND-39-2010-CP.doc",
+            "file_name": "PHU LUC I-ND-39-2010-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:58:53",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_PHU_LUC_I-ND-39-2010-CP_chunk_0002",
+        "doc_id": "Maudon_PHU_LUC_I-ND-39-2010-CP",
+        "text": "đến: ... m.\n\n- Chiều sâu công trình:            từ: …...……..m, đến: ...       m.\n\n- Khoảng cách nhỏ nhất đến nhà dân: ... /...\n\n5. Đơn vị hoặc người thiết kế: ...\n\n- Địa chỉ: ...\n\n- Điện thoại: ...\n\n6. Dự kiến thời gian hoàn thành công trình: ... tháng.\n\n7. Cam kết đảm bảo an toàn giao thông, vệ sinh môi trường và hoàn trả mặt bằng và tuân thủ đúng giấy phép được cấp, nếu sai tôi xin hoàn toàn chịu trách nhiệm và bị xử lý theo quy định của pháp luật.\n\n|  | ……., ngày…. tháng …. năm ……<br>Người làm đơn<br>(Ký ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_PHU_LUC_I-ND-39-2010-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 543,
+            "source_file": "Maudon/PHU LUC I-ND-39-2010-CP.doc",
+            "file_name": "PHU LUC I-ND-39-2010-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:58:53",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

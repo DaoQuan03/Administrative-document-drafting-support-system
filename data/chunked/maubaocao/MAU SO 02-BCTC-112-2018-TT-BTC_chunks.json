@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_02-BCTC-112-2018-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_02-BCTC-112-2018-TT-BTC",
+        "text": "| TỔNG CỤC HẢI QUAN<br>CỤC HẢI QUAN…………<br>CHI CỤC …………………. | Mẫu số: 02/BCTC<br>(Ban hành kèm theo Thông tư số 112/2018/TT-BTC ngày 15 tháng 11 năm 2018 của Bộ trưởng Bộ Tài chính) |\n| --- | --- |\n\n| Mã loại: ………… |\n| --- |\n\nBÁO CÁO TỔNG HỢP THU NGÂN SÁCH NHÀ NƯỚC VỀ THUẾ CHUYÊN THU\n\nTháng...năm...\n\nĐơn vị: đồng",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_02-BCTC-112-2018-TT-BTC_chunk_0002",
+            "char_count": 314,
+            "source_file": "maubaocao/MAU SO 02-BCTC-112-2018-TT-BTC.doc",
+            "file_name": "MAU SO 02-BCTC-112-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:26:02",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_02-BCTC-112-2018-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_02-BCTC-112-2018-TT-BTC",
+        "text": "ngày 15 tháng 11 năm 2018 của Bộ trưởng Bộ Tài chính) |\n| --- | --- |\n\n| Mã loại: ………… |\n| --- |\n\nBÁO CÁO TỔNG HỢP THU NGÂN SÁCH NHÀ NƯỚC VỀ THUẾ CHUYÊN THU\n\nTháng...năm...\n\nĐơn vị: đồng\n\n| TT | Loại thuế | Số phải thu thuế chuyên thu | Số phải thu thuế chuyên thu | Số phải thu thuế chuyên thu | Số phải thu thuế chuyên thu | Số thuế đã thu đã nộp NS | Số thuế đã thu đã nộp NS | Số thuế đã thu đã nộp NS | Số thuế đã thu đã nộp NS | Số phải hoàn trả do nộp thừa trong kỳ | Số thuế đã thu bằng tiền mặt chưa nộp NS trong kỳ | Số thuế chưa nhận được báo Có của KBNN | Số tiền thuế trừ lùi khoản nộp trước chưa nộp NS trong kỳ | Số chênh lệch tỷ giá do hoàn ngoại tệ nộp thừa trong kỳ | Số còn phải thu cuối kỳ |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | Loại thuế | Số phải thu đầu kỳ | Số phải thu trong kỳ | Số giảm trong kỳ | Số phải thu sau giảm | Tổng số thuế đã thu nộp NS trong kỳ | Trong đó | Trong đó | Trong đó |  |  |  | Số tiền thuế trừ lùi khoản nộp trước chưa nộp NS trong kỳ | Số chênh lệch tỷ giá do hoàn ngoại tệ nộp thừa trong kỳ | Số còn phải thu cuối kỳ |  |  |  |  |  |\n| TT | Loại thuế | Số phải thu đầu kỳ | Số phải thu trong kỳ | Số giảm trong kỳ | Số phải thu sau giảm | Tổng số thuế đã thu nộp NS trong kỳ | Số thuế tạm thu nộp NS | Số thuế nộp nhầm | Số thuế chuyên thu nộp NS |  |  |  |  |  |  |  |  |  |  |  |\n| A | B | 1 | 2 | 3 | 4=1+2-3 | 5 | 6 | 7 | 8=5-(6+7) | 9 | 10 | 11 | 12 | 13 | 14=4-8-9-10-11-12-13 |  |  |  |  |  |\n| 1 | Thuế xuất khẩu |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 | Thuế nhập khẩu |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3 | Thuế TTĐB |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4 | Thuế GTGT |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5 | Thuế BVMT |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6 | Thuế chống bán phá giá |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 7 | Thuế tự vệ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 8 | Thuế chống phân biệt đối xử |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 9 | Thuế chống trợ cấp |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 10 | Khác |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Tổng cộng |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_02-BCTC-112-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_SO_02-BCTC-112-2018-TT-BTC_chunk_0003",
+            "char_count": 2435,
+            "source_file": "maubaocao/MAU SO 02-BCTC-112-2018-TT-BTC.doc",
+            "file_name": "MAU SO 02-BCTC-112-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:26:02",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_02-BCTC-112-2018-TT-BTC_chunk_0003",
+        "doc_id": "maubaocao_MAU_SO_02-BCTC-112-2018-TT-BTC",
+        "text": "|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 10 | Khác |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Tổng cộng |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\n| NGƯỜI LẬP<br>(Ký, họ tên) | PHỤ TRÁCH KẾ TOÁN<br>(Ký, họ tên) | Ngày... tháng...năm...<br>THỦ TRƯỞNG ĐƠN VỊ<br>(Ký, họ tên, đóng dấu) |\n| --- | --- | --- |\n\nNguồn: Thông tư 112/2018/TT-BTC",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_02-BCTC-112-2018-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 389,
+            "source_file": "maubaocao/MAU SO 02-BCTC-112-2018-TT-BTC.doc",
+            "file_name": "MAU SO 02-BCTC-112-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:26:02",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

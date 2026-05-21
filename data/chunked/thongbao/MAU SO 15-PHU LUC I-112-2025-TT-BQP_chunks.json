@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_15-PHU_LUC_I-112-2025-TT-BQP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_15-PHU_LUC_I-112-2025-TT-BQP",
+        "text": "Mẫu số 15. Thông báo dùng cho cơ quan, tổ chức đưa người nước ngoài vào khu vực biên giới đất liền\n\n| TÊN CƠ QUAN CHỦ QUẢN<br>TÊN CƠ QUAN, TỔ CHỨC<br>THÔNG BÁO<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| V/v thông báo hoạt động trong khu vực biên giới | ...(1), ngày...tháng...năm... |\n\nKính gửi:...(2)...\n\nThực hiện...(3)...\n\nCơ quan, tổ chức...(4)...\n\nĐưa cá nhân...\n\nSinh ngày...tháng...năm...Quốc tịch:...\n\nNghề nghiệp/lĩnh vực hoạt động:...\n\nNơi thường trú, tạm trú tại Việt Nam:...\n\nHộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế, giấy tờ liên quan đến cư trú tại Việt Nam số:...cấp ngày..., cơ quan cấp...\n\nVào khu vực biên giới, với mục đích...(5)...\n\nThời gian: Từ... giờ... ngày...tháng...năm...đến...giờ...ngày...tháng...năm...\n\nNay thông báo Quý cơ quan biết, để phối hợp quản lý./.\n\n|  | TM. CƠ QUAN THÔNG BÁO<br>(Chữ ký của người có thẩm quyền,<br>dấu của cơ quan, tổ chức, họ và tên) |\n| --- | --- |\n\n___",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_15-PHU_LUC_I-112-2025-TT-BQP_chunk_0002",
+            "char_count": 992,
+            "source_file": "thongbao/MAU SO 15-PHU LUC I-112-2025-TT-BQP.doc",
+            "file_name": "MAU SO 15-PHU LUC I-112-2025-TT-BQP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:00:07",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_15-PHU_LUC_I-112-2025-TT-BQP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_15-PHU_LUC_I-112-2025-TT-BQP",
+        "text": "thông báo Quý cơ quan biết, để phối hợp quản lý./.\n\n|  | TM. CƠ QUAN THÔNG BÁO<br>(Chữ ký của người có thẩm quyền,<br>dấu của cơ quan, tổ chức, họ và tên) |\n| --- | --- |\n\n___\n\n(1) Ghi tên tỉnh, thành phố nơi cơ quan, tổ chức có trụ sở.\n\n(2) Ghi tên cơ quan nhận thông báo.\n\n(3) Ghi rõ căn cứ đưa người nước ngoài vào khu vực biên giới.\n\n(4) Ghi rõ tên, địa chỉ cơ quan, tổ chức.\n\n(5) Ghi rõ mục đích đưa người nước ngoài vào khu vực biên giới.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_15-PHU_LUC_I-112-2025-TT-BQP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 444,
+            "source_file": "thongbao/MAU SO 15-PHU LUC I-112-2025-TT-BQP.doc",
+            "file_name": "MAU SO 15-PHU LUC I-112-2025-TT-BQP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:00:07",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

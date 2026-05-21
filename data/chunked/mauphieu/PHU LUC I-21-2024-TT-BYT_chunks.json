@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_I-21-2024-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_I-21-2024-TT-BYT",
+        "text": "PHỤ LỤC I\n\nMẪU PHIẾU KHẢO SÁT THÔNG TIN VỀ GIÁ\n(Ban hành kèm theo Thông tư số: 21/2024/TT-BYT ngày 17 tháng 10 năm 2024 của Bộ trưởng Bộ Y tế)\n\nPHIẾU KHẢO SÁT THÔNG TIN VỀ GIÁ\n\nĐịa điểm khảo sát: Thị trấn(xã)...Quận(huyện)...Thành phố(tỉnh)...\n\nTên cơ sở khảo sát...\n\nĐịa chỉ cơ sở khảo sát:...\n\n| STT | Tên dịch vụ | Đặc điểm/thông tin về dịch vụ | Đơn vị tính giá | Giá khảo sát | Ghi chú |\n| --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |\n| 2 |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n\n|  | Ngày  tháng  năm  <br>NGƯỜI KHẢO SÁT<br>(Ký ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 613,
+            "source_file": "mauphieu/PHU LUC I-21-2024-TT-BYT.doc",
+            "file_name": "PHU LUC I-21-2024-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:39:52",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

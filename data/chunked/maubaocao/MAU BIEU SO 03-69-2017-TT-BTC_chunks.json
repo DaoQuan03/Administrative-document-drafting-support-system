@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_03-69-2017-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_BIEU_SO_03-69-2017-TT-BTC",
+        "text": "| UBND TỈNH, THÀNH PHỐ ... | MẪU BIỂU SỐ 03 |\n| --- | --- |\n\nDỰ KIẾN THU CÂN ĐỐI NGÂN SÁCH NHÀ NƯỚC THEO SẮC THUẾ GIAI ĐOẠN 03 NĂM ...\n\nDùng cho Ủy ban nhân dân cấp tỉnh báo cáo Bộ Tài chính trước ngày 20/7 hằng năm)\n\nĐơn vị: Triệu đồng",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_BIEU_SO_03-69-2017-TT-BTC_chunk_0002",
+            "char_count": 236,
+            "source_file": "maubaocao/MAU BIEU SO 03-69-2017-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 03-69-2017-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:19:10",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_03-69-2017-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_BIEU_SO_03-69-2017-TT-BTC",
+        "text": "SỐ 03 |\n| --- | --- |\n\nDỰ KIẾN THU CÂN ĐỐI NGÂN SÁCH NHÀ NƯỚC THEO SẮC THUẾ GIAI ĐOẠN 03 NĂM ...\n\nDùng cho Ủy ban nhân dân cấp tỉnh báo cáo Bộ Tài chính trước ngày 20/7 hằng năm)\n\nĐơn vị: Triệu đồng\n\n| STT | NỘI DUNG | NĂM HIỆN HÀNH (N - 1) | NĂM HIỆN HÀNH (N - 1) | DỰ KIẾN NĂM DỰ TOÁN (N) | SO SÁNH NĂM N VỚI ƯỚC THỰC HIỆN NĂM N-1 | DỰ KIẾN NĂM N+1 | DỰ KIẾN NĂM N+2 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | NỘI DUNG | DỰ TOÁN | ƯỚC THỰC HIỆN | DỰ KIẾN NĂM DỰ TOÁN (N) | SO SÁNH NĂM N VỚI ƯỚC THỰC HIỆN NĂM N-1 | DỰ KIẾN NĂM N+1 | DỰ KIẾN NĂM N+2 |\n|  |  | 1 | 2 | 3 | 4=3/2 | 5 | 6 |\n|  | TỔNG THU NGÂN SÁCH TRÊN ĐỊA BÀN (I+II+III) |  |  |  |  |  |  |\n| I | Các khoản thu từ thuế |  |  |  |  |  |  |\n| 1 | Thuế GTGT thu từ hàng hóa SX-KD trong nước |  |  |  |  |  |  |\n| 2 | Thuế TTĐB thu từ hàng hóa sản xuất trong nước |  |  |  |  |  |  |\n| 3 | Thuế BVMT thu từ hàng hóa SX-KD trong nước |  |  |  |  |  |  |\n| 4 | Thuế thu nhập doanh nghiệp |  |  |  |  |  |  |\n| 5 | Thuế thu nhập cá nhân |  |  |  |  |  |  |\n| 6 | Thuế tài nguyên |  |  |  |  |  |  |\n| II | Các khoản phí, lệ phí |  |  |  |  |  |  |\n| 1 | Lệ phí trước bạ |  |  |  |  |  |  |\n| 2 | Các loại phí, lệ phí |  |  |  |  |  |  |\n| III | Thu cổ tức, lợi nhuận được chia, lợi nhuận sau thuế, chênh lệch thu, chi của NHNN |  |  |  |  |  |  |\n| 1 | Thu cổ tức, lợi nhuận được chia, lợi nhuận sau thuế |  |  |  |  |  |  |\n| 2 | Chênh lệch thu, chi của NHNN |  |  |  |  |  |  |\n| IV | Các khoản thu về nhà đất |  |  |  |  |  |  |\n| 1 | Thuế sử dụng đất phi nông nghiệp |  |  |  |  |  |  |\n| 2 | Thuế sử dụng đất nông nghiệp |  |  |  |  |  |  |\n| 3 | Thu tiền cho thuê đất, mặt nước, mặt biển |  |  |  |  |  |  |\n| 4 | Thu tiền sử dụng đất |  |  |  |  |  |  |\n| 5 | Thu tiền cho thuê và bán nhà ở thuộc sở hữu nhà nước |  |  |  |  |  |  |\n| V | Thu khác |  |  |  |  |  |  |\n| 1 | Thu cấp quyền khai thác khoáng sản |  |  |  |  |  |  |\n| 2 | Thu bán tài sản nhà nước |  |  |  |  |  |  |\n| 3 | Các khoản thu khác còn lại |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_BIEU_SO_03-69-2017-TT-BTC_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_BIEU_SO_03-69-2017-TT-BTC_chunk_0003",
+            "char_count": 2015,
+            "source_file": "maubaocao/MAU BIEU SO 03-69-2017-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 03-69-2017-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:19:10",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_03-69-2017-TT-BTC_chunk_0003",
+        "doc_id": "maubaocao_MAU_BIEU_SO_03-69-2017-TT-BTC",
+        "text": "V | Thu khác |  |  |  |  |  |  |\n| 1 | Thu cấp quyền khai thác khoáng sản |  |  |  |  |  |  |\n| 2 | Thu bán tài sản nhà nước |  |  |  |  |  |  |\n| 3 | Các khoản thu khác còn lại |  |  |  |  |  |  |\n\n|  | …, ngày … tháng … năm ……<br>TM/ỦY BAN NHÂN DÂN<br>CHỦ TỊCH<br>(Ký tên, đóng dấu) |\n| --- | --- |\n\nNguồn: Thông tư 69/2017/TT-BTC",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_BIEU_SO_03-69-2017-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 332,
+            "source_file": "maubaocao/MAU BIEU SO 03-69-2017-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 03-69-2017-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:19:10",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

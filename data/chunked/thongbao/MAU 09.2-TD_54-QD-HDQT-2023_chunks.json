@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_09_2-TD_54-QD-HDQT-2023_chunk_0001",
+        "doc_id": "thongbao_MAU_09_2-TD_54-QD-HDQT-2023",
+        "text": "| NHCSXH……….. | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- | Mẫu số 09.2/TD<br>Lập 01 liên lưu Tổ TK&VV (c.vay ủy thác) hoặc lưu khách hàng (c.vay trực tiếp) |\n| --- | --- | --- |\n\nTHÔNG BÁO\n\nDANH SÁCH KHÁCH HÀNG KHÔNG ĐƯỢC GIA HẠN NỢ\n\n| STT | Khách hàng | Địa chỉ | Món vay | Chương trình | Ngày đến hạn trả nợ | Số tiền nợ gốc<br>(đồng) | Lý do không được gia hạn nợ |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  | Tổng cộng |  |  |  |  |  |  |\n\nNgân hàng Chính sách xã hội không phê duyệt cho gia hạn nợ theo Giấy đề nghị gia hạn nợ của Quý khách hàng có tên trên và chuyển số tiền vay của Quý khách hàng sang nợ quá hạn kể từ ngày đến hạn trả nợ (cột 6).",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_09_2-TD_54-QD-HDQT-2023_chunk_0002",
+            "char_count": 899,
+            "source_file": "thongbao/MAU 09.2-TD_54-QD-HDQT-2023.doc",
+            "file_name": "MAU 09.2-TD_54-QD-HDQT-2023.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:20:04",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_09_2-TD_54-QD-HDQT-2023_chunk_0002",
+        "doc_id": "thongbao_MAU_09_2-TD_54-QD-HDQT-2023",
+        "text": "sách xã hội không phê duyệt cho gia hạn nợ theo Giấy đề nghị gia hạn nợ của Quý khách hàng có tên trên và chuyển số tiền vay của Quý khách hàng sang nợ quá hạn kể từ ngày đến hạn trả nợ (cột 6).\n\nĐề nghị Quý khách hàng có tên trên thực hiện nghĩa vụ trả nợ vay Ngân hàng Chính sách xã hội theo đúng thỏa thuận đã ký./.\n\n| Cán bộ tín dụng <br>(Ký, ghi rõ họ tên) | …….., ngày ….. tháng ... năm …..<br>Giám đốc<br>(Ký tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_09_2-TD_54-QD-HDQT-2023_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 446,
+            "source_file": "thongbao/MAU 09.2-TD_54-QD-HDQT-2023.doc",
+            "file_name": "MAU 09.2-TD_54-QD-HDQT-2023.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:20:04",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

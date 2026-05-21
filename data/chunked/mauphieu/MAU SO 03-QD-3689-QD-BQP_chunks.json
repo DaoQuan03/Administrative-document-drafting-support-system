@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-QD-3689-QD-BQP_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_03-QD-3689-QD-BQP",
+        "text": "Mẫu số 03\n\n| (1)<br>(2)<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: /KSGQ-TNTTHC | Hà Nội, ngày tháng năm |\n\nPHIẾU KIỂM SOÁT\nQUÁ TRÌNH GIẢI QUYẾT HỒ SƠ\n\nMã số hồ sơ: …………………………………..………………………………………………….\n\nCơ quan giải quyết TTHC: ………………………………………………………………………\n\nCơ quan phối hợp giải quyết TTHC ……………………………………………………………\n\nNgày nhận: ………………………………………………………………………………………..\n\nHẹn trả kết quả vào ….. giờ ….. phút, ngày …. tháng ….. năm …….",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_03-QD-3689-QD-BQP_chunk_0002",
+            "char_count": 502,
+            "source_file": "mauphieu/MAU SO 03-QD-3689-QD-BQP.doc",
+            "file_name": "MAU SO 03-QD-3689-QD-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:52:42",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-QD-3689-QD-BQP_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_03-QD-3689-QD-BQP",
+        "text": "………………………………………………………………………\n\nCơ quan phối hợp giải quyết TTHC ……………………………………………………………\n\nNgày nhận: ………………………………………………………………………………………..\n\nHẹn trả kết quả vào ….. giờ ….. phút, ngày …. tháng ….. năm …….\n\n| Tên đơn vị | Thời gian giao nhận hồ sơ | Thời gian giao nhận hồ sơ | Kết quả giải quyết hồ sơ (trước hạn/đúng hạn/ quá hạn) |\n| --- | --- | --- | --- |\n| 1. Giao: (2)<br>2. Nhận: …….(3)……. | ….. giờ ….. phút, ngày …./…./……. | ….. giờ ….. phút, ngày …./…./……. |  |\n| 1. Giao: (2)<br>2. Nhận: …….(3)……. | Người giao | Người nhận |  |\n| 1. Giao: (2)<br>2. Nhận: …….(3)……. | ….. giờ ….. phút, ngày …./…./……. | ….. giờ ….. phút, ngày …./…./……. |  |\n| 1. Giao: (2)<br>2. Nhận: …….(3)……. | Người giao | Người nhận |  |\n\nGhi chú: (1). Cấp trên trực tiếp của cơ quan, đơn vị giải quyết thủ tục hành chính.\n\n(2), (3). Cơ quan, đơn vị giải quyết thủ tục hành chính.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_03-QD-3689-QD-BQP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 856,
+            "source_file": "mauphieu/MAU SO 03-QD-3689-QD-BQP.doc",
+            "file_name": "MAU SO 03-QD-3689-QD-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:52:42",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

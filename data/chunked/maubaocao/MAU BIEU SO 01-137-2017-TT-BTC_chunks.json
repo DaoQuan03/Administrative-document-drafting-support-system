@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_01-137-2017-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_BIEU_SO_01-137-2017-TT-BTC",
+        "text": "Mẫu biểu số 01\n\nBÁO CÁO QUYẾT TOÁN CÁC QUỸ TÀI CHÍNH NHÀ NƯỚC NGOÀI NGÂN SÁCH NĂM...\n(Dùng cho Quỹ tài chính nhà nước ngoài ngân sách, đơn vị dự toán cấp trên, đơn vị dự toán cấp I)\n\nĐơn vị: đồng",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_BIEU_SO_01-137-2017-TT-BTC_chunk_0002",
+            "char_count": 195,
+            "source_file": "maubaocao/MAU BIEU SO 01-137-2017-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 01-137-2017-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:18:57",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_01-137-2017-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_BIEU_SO_01-137-2017-TT-BTC",
+        "text": "biểu số 01\n\nBÁO CÁO QUYẾT TOÁN CÁC QUỸ TÀI CHÍNH NHÀ NƯỚC NGOÀI NGÂN SÁCH NĂM...\n(Dùng cho Quỹ tài chính nhà nước ngoài ngân sách, đơn vị dự toán cấp trên, đơn vị dự toán cấp I)\n\nĐơn vị: đồng\n\n| STT | TÊN QUỸ | DƯ NGUỒN ĐẾN 31/12/... (năm trước) (1) | KẾ HOẠCH NĂM… | KẾ HOẠCH NĂM… | KẾ HOẠCH NĂM… | KẾ HOẠCH NĂM… | THỰC HIỆN NĂM... | THỰC HIỆN NĂM... | THỰC HIỆN NĂM... | THỰC HIỆN NĂM... | DƯ NGUỒN ĐẾN 31/12/... |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | TÊN QUỸ | DƯ NGUỒN ĐẾN 31/12/... (năm trước) (1) | TỔNG NGUỒN VỐN PHÁT SINH TRONG NĂM (2) | TỔNG NGUỒN VỐN PHÁT SINH TRONG NĂM (2) | TỔNG SỬ DỤNG NGUỒN VỐN TRONG NĂM (3) | CHÊNH LỆCH NGUỒN TRONG NĂM | TỔNG NGUỒN VỐN PHÁT SINH TRONG NĂM (2) | TỔNG NGUỒN VỐN PHÁT SINH TRONG NĂM (2) | TỔNG SỬ DỤNG NGUỒN VỐN TRONG NĂM (3) | CHÊNH LỆCH NGUỒN TRONG NĂM | DƯ NGUỒN ĐẾN 31/12/... |\n| STT | TÊN QUỸ | DƯ NGUỒN ĐẾN 31/12/... (năm trước) (1) | TỔNG SỐ | TRONG ĐÓ: HỖ TRỢ TỪ NSTW (nếu có) | TỔNG SỬ DỤNG NGUỒN VỐN TRONG NĂM (3) | CHÊNH LỆCH NGUỒN TRONG NĂM | TỔNG SỐ | TRONG ĐÓ: HỖ TRỢ TỪ NSTW (nếu có) | TỔNG SỬ DỤNG NGUỒN VỐN TRONG NĂM (3) | CHÊNH LỆCH NGUỒN TRONG NĂM | DƯ NGUỒN ĐẾN 31/12/... |\n| A | B | 1 | 2 | 3 | 4 | 5=2-4 | 6 | 7 | 8 | 9=6-8 | 10=1+6-8 |\n| 1 | Quỹ... |  |  |  |  |  |  |  |  |  |  |\n| 2 | Quỹ... |  |  |  |  |  |  |  |  |  |  |\n| 3 | ... |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_MAU_BIEU_SO_01-137-2017-TT-BTC_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_BIEU_SO_01-137-2017-TT-BTC_chunk_0003",
+            "char_count": 1459,
+            "source_file": "maubaocao/MAU BIEU SO 01-137-2017-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 01-137-2017-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:18:57",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_01-137-2017-TT-BTC_chunk_0003",
+        "doc_id": "maubaocao_MAU_BIEU_SO_01-137-2017-TT-BTC",
+        "text": "|  |  |  |  |  |  |  |  |  |  |\n| 2 | Quỹ... |  |  |  |  |  |  |  |  |  |  |\n| 3 | ... |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n\nGhi chú:\n\n(1) Đối với các quỹ bảo hiểm (bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp) là số dư Quỹ.\n\n(2) - Đối với các quỹ bảo hiểm: phạm vi bao gồm thu tiền đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo chế độ quy định, thu lãi từ hoạt động đầu tư quỹ.\n\n- Đối với các quỹ khác: phạm vi bao gồm vốn thu hồi nợ vay, NSNN cấp, vốn huy động, đóng góp của các tổ chức, cá nhân, thu tài chính quỹ.\n\n(3) - Đối với các Quỹ Bảo hiểm: phạm vi bao gồm chi trả chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; chi phí hoạt động quản lý và đầu tư của hệ thống Bảo hiểm xã hội VN.\n\n- Đối với các Quỹ khác: phạm vi bao gồm cho vay đầu tư; hỗ trợ lãi suất; tài trợ không hoàn lại; chi tài chính Quỹ, bao gồm cả chênh lệch thu lớn hơn chi Quỹ (nếu có).",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_MAU_BIEU_SO_01-137-2017-TT-BTC_chunk_0002",
+            "next_chunk_id": "maubaocao_MAU_BIEU_SO_01-137-2017-TT-BTC_chunk_0004",
+            "char_count": 969,
+            "source_file": "maubaocao/MAU BIEU SO 01-137-2017-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 01-137-2017-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:18:57",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_01-137-2017-TT-BTC_chunk_0004",
+        "doc_id": "maubaocao_MAU_BIEU_SO_01-137-2017-TT-BTC",
+        "text": "hệ thống Bảo hiểm xã hội VN.\n\n- Đối với các Quỹ khác: phạm vi bao gồm cho vay đầu tư; hỗ trợ lãi suất; tài trợ không hoàn lại; chi tài chính Quỹ, bao gồm cả chênh lệch thu lớn hơn chi Quỹ (nếu có).\n\n| NGƯỜI LẬP BIỂU<br>(Ký, họ và tên) | Ngày   tháng   năm<br>THỦ TRƯỞNG ĐƠN VỊ<br>(Ký, họ tên, đóng dấu) |\n| --- | --- |\n\nNguồn: Thông tư 137/2017/TT-BTC",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_MAU_BIEU_SO_01-137-2017-TT-BTC_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 351,
+            "source_file": "maubaocao/MAU BIEU SO 01-137-2017-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 01-137-2017-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:18:57",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

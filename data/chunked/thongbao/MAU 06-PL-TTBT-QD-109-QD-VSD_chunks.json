@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_06-PL-TTBT-QD-109-QD-VSD_chunk_0001",
+        "doc_id": "thongbao_MAU_06-PL-TTBT-QD-109-QD-VSD",
+        "text": "### Bảng tính: Sheet1",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_06-PL-TTBT-QD-109-QD-VSD_chunk_0002",
+            "char_count": 21,
+            "source_file": "thongbao/MAU 06-PL-TTBT-QD-109-QD-VSD.xls",
+            "file_name": "MAU 06-PL-TTBT-QD-109-QD-VSD.xls",
+            "folder": "thongbao",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-20T23:17:10",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_06-PL-TTBT-QD-109-QD-VSD_chunk_0002",
+        "doc_id": "thongbao_MAU_06-PL-TTBT-QD-109-QD-VSD",
+        "text": "Bảng tính: Sheet1\n\n|  |  |  |  |  |  |  |  | Mẫu 06/PL-TTBT |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  | Số: |  |\n| TRUNG TÂM |  |  |  |  | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM |  |  |  |  |\n| LƯU KÝ CHỨNG KHOÁN VIỆT NAM |  |  |  |  | Độc lập - Tự do - Hạnh phúc |  |  |  |  |\n| THÔNG BÁO TỔNG HỢP KẾT QUẢ BÙ TRỪ ĐA PHƯƠNG VÀ THANH TOÁN TIỀN GIAO DỊCH * |  |  |  |  |  |  |  |  |  |\n| Kính gửi : Ngân hàng thanh toán |  |  |  |  |  |  |  |  |  |\n| Ngày giao dịch: |  |  |  |  | Ngày thanh toán: |  |  |  |  |\n|  |  |  |  |  |  |  |  | Đơn vị tính : VNĐ |  |\n| Mã GD | Số ĐK<br>TVLK | Tự doanh |  | Môi giới |  |  |  | Tổng thuần |  |\n|  |  |  |  | Trong nước |  | Nước ngoài |  |  |  |\n|  |  | Được nhận | Phải trả | Được nhận | Phải trả | Được nhận | Phải trả | Được nhận | Phải trả |\n| …… |  |  |  |  |  |  |  |  |  |\n| Tổng cộng |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  | ……, ngày ….. tháng …. năm ….. |  |  |  |\n| NGƯỜI LẬP |  |  |  |  |  | TUQ. TỔNG GIÁM ĐỐC |  |  |  |\n| (Ký, ghi rõ họ tên) |  |  |  |  |  | TRƯỞNG PHÒNG TTBT |  |  |  |\n|  |  |  |  |  |  | (Ký,  ghi rõ họ tên, đóng dấu) |  |  |  |\n| * Ghi thêm \"cổ phiếu, chứng chỉ quỹ\" hoặc \"trái phiếu\" vào chỗ có đánh dấu \"*\" tương ứng với các giao dịch cổ phiếu, chứng chỉ quỹ hoặc các giao dịch trái phiếu. |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_06-PL-TTBT-QD-109-QD-VSD_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 1349,
+            "source_file": "thongbao/MAU 06-PL-TTBT-QD-109-QD-VSD.xls",
+            "file_name": "MAU 06-PL-TTBT-QD-109-QD-VSD.xls",
+            "folder": "thongbao",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-20T23:17:10",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

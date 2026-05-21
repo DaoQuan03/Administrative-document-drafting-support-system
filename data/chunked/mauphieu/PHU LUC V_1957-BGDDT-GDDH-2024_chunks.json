@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_V_1957-BGDDT-GDDH-2024_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_V_1957-BGDDT-GDDH-2024",
+        "text": "PHỤ LỤC V",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 9,
+            "source_file": "mauphieu/PHU LUC V_1957-BGDDT-GDDH-2024.doc",
+            "file_name": "PHU LUC V_1957-BGDDT-GDDH-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:51:01",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-PHU_LUC_IV-QD-3012-QD-BHXH_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_01-PHU_LUC_IV-QD-3012-QD-BHXH",
+        "text": "Mẫu 01 - Phiếu trình giải quyết công việc *\n\n| BẢO HIỂM XÃ HỘI VIỆT NAM<br>ĐƠN VỊ ...<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | ..., ngày …… tháng …… năm…… |\n\nPHIẾU TRÌNH GIẢI QUYẾT CÔNG VIỆC\nTrình lần thứ ...\n\nKính gửi: Tổng Giám đốc\n\nVấn đề trình: ...\n\nHồ sơ kèm theo (ghi rõ từng loại văn bản, tài liệu kèm theo): ...\n\n1. Tóm tắt nội dung\n\n……………………………………….……………………………………………………...\n\n2. Đề xuất\n\n……………………………………….……………………………………………………...\n\n|  | Cán bộ soạn thảo<br>(Ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_01-PHU_LUC_IV-QD-3012-QD-BHXH_chunk_0002",
+            "char_count": 574,
+            "source_file": "mauphieu/MAU SO 01-PHU LUC IV-QD-3012-QD-BHXH.doc",
+            "file_name": "MAU SO 01-PHU LUC IV-QD-3012-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:36:08",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-PHU_LUC_IV-QD-3012-QD-BHXH_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_01-PHU_LUC_IV-QD-3012-QD-BHXH",
+        "text": "liệu kèm theo): ...\n\n1. Tóm tắt nội dung\n\n……………………………………….……………………………………………………...\n\n2. Đề xuất\n\n……………………………………….……………………………………………………...\n\n|  | Cán bộ soạn thảo<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\n| Ý kiến của Lãnh đạo phòng<br>(nếu có)<br>(Ký. ghi rõ họ và tên) | Ý kiến của Phó Tổng Giám đốc phụ trách<br>Ngày ... tháng ... năm ... |  |\n| --- | --- | --- |\n| Ý kiến của Lãnh đạo đơn vị<br>(nếu có)<br>(Ký, ghi rõ họ và tên) | Ý kiến của Phó Tổng Giám đốc phụ trách<br>Ngày ... tháng ... năm ... |  |\n| Ý kiến của Lãnh đạo đơn vị<br>(nếu có)<br>(Ký, ghi rõ họ và tên) | Ý kiến của Tổng Giám đốc<br>Ngày ... tháng ... năm ... |  |\n| Ý kiến của Lãnh đạo Văn phòng<br>(nếu có)<br>(Ký, ghi rõ họ và tên) | Ý kiến của Tổng Giám đốc<br>Ngày ... tháng ... năm ... |  |\n\n___\n\n* Mẫu áp dụng tại Bảo hiểm xã hội Việt Nam; Nam; căn cứ mẫu phiếu trình giải quyết công việc BHXH các tỉnh, BHXH huyện điều chỉnh cho phù hợp.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-PHU_LUC_IV-QD-3012-QD-BHXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 912,
+            "source_file": "mauphieu/MAU SO 01-PHU LUC IV-QD-3012-QD-BHXH.doc",
+            "file_name": "MAU SO 01-PHU LUC IV-QD-3012-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:36:08",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

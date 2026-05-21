@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_SO_02_D-200-2015-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_BIEU_SO_02_D-200-2015-TT-BTC",
+        "text": "| Tên cơ quan/doanh nghiệp | Biểu số 02.D |\n| --- | --- |\n\nTÌNH HÌNH THỰC HIỆN SẢN PHẨM, DỊCH VỤ CÔNG ÍCH\n(Ban hành kèm theo Thông tư số 200/2015/TT-BTC ngày 15/12/2015 của Bộ Tài chính)\n\n| Chỉ tiêu | Kế hoạch | Thực hiện | Tỷ lệ so với KH | Tỷ lệ so với cùng kỳ năm trước |\n| --- | --- | --- | --- | --- |\n| 1. Khối lượng, sản lượng sản phẩm dịch vụ công ích thực hiện trong năm? | (tấn, kg...) | (tấn, kg...) | …..% | …..% |\n| 2. Khối lượng, sản lượng sản phẩm, dịch vụ công ích bị lỗi, không đạt yêu cầu? | (tấn, kg...) | (tấn, kg...) | ….% | …..% |\n| 3. Số lượng ý kiến phản hồi về chất lượng sản phẩm, dịch vụ của doanh nghiệp không đạt yêu cầu? |  |  | ….% | …..% |\n| 4. Chi phí phát sinh liên quan đến các sản phẩm, dịch vụ công ích thực hiện trong năm | ……….tr.đ | ……….tr.đ | ….% | …..% |\n| 5. Doanh thu thực hiện các sản phẩm, dịch vụ công ích trong năm | ……….tr.đ | ……….tr.đ | ….% | …..% |\n\n| Người lập biểu<br>(Ký) | (Tổng) Giám đốc doanh nghiệp<br>(Ký, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_BIEU_SO_02_D-200-2015-TT-BTC_chunk_0002",
+            "char_count": 990,
+            "source_file": "maubaocao/BIEU SO 02.D-200-2015-TT-BTC.doc",
+            "file_name": "BIEU SO 02.D-200-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:02:53",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_SO_02_D-200-2015-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_BIEU_SO_02_D-200-2015-TT-BTC",
+        "text": "|\n| 5. Doanh thu thực hiện các sản phẩm, dịch vụ công ích trong năm | ……….tr.đ | ……….tr.đ | ….% | …..% |\n\n| Người lập biểu<br>(Ký) | (Tổng) Giám đốc doanh nghiệp<br>(Ký, đóng dấu) |\n| --- | --- |\n\nNguồn: Thông tư 200/2015/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_BIEU_SO_02_D-200-2015-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 228,
+            "source_file": "maubaocao/BIEU SO 02.D-200-2015-TT-BTC.doc",
+            "file_name": "BIEU SO 02.D-200-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:02:53",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

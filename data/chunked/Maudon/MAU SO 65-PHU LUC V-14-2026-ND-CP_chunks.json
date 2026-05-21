@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_65-PHU_LUC_V-14-2026-ND-CP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_65-PHU_LUC_V-14-2026-ND-CP",
+        "text": "Mẫu số 65\n\n| TÊN TỔ CHỨC<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số:…... | ..., ngày ... tháng ... năm ... |\n\nĐƠN ĐỀ NGHỊ\n\nChấp thuận vùng hoạt động tàu lặn……………(2)\n\nKính gửi:………..(3)……….\n\n1. Thông tin tổ chức đề nghị chấp thuận vùng hoạt động tàu lặn\n\na) Tên tổ chức/Doanh nghiệp: ……………………………………………..\n\nb) Người đại diện theo pháp luật: …………………………………………..\n\nc) Đăng ký kinh doanh:…………….ngày……tháng…….năm……tại…….\n\nd) Địa chỉ: ………………………………………………………………….\n\nđ) Số điện thoại liên hệ: …………………………………………………….\n\n2. Nội dung đề xuất\n\na) Quy mô, kích thước, diện tích vùng hoạt động: …………………………;\n\nb) Tọa độ các điểm xác định vùng hoạt động (theo Hệ quy chiếu và Hệ tọa độ quốc gia VN-2000): …………………………………\n\nc) Thời gian bắt đầu thực hiện khai thác…………………………………….;\n\n(4)…………………….kính đề nghị …………….(3)…………xem xét, chấp thuận vùng hoạt động tàu lặn tại……………..(2) ……………………………….\n\nXin trân trọng cảm ơn.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_65-PHU_LUC_V-14-2026-ND-CP_chunk_0002",
+            "char_count": 959,
+            "source_file": "Maudon/MAU SO 65-PHU LUC V-14-2026-ND-CP.doc",
+            "file_name": "MAU SO 65-PHU LUC V-14-2026-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:46:23",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_65-PHU_LUC_V-14-2026-ND-CP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_65-PHU_LUC_V-14-2026-ND-CP",
+        "text": "Thời gian bắt đầu thực hiện khai thác…………………………………….;\n\n(4)…………………….kính đề nghị …………….(3)…………xem xét, chấp thuận vùng hoạt động tàu lặn tại……………..(2) ……………………………….\n\nXin trân trọng cảm ơn.\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: VT. | TỔ CHỨC ĐỀ NGHỊ (5)<br>(Ký tên, đóng dấu, họ và tên) |\n| --- | --- |\n\nGhi chú:\n\n(1) Ký hiệu viết tắt của cơ quan, tổ chức (đơn vị, doanh nghiệp).\n\n(2) Nêu tên vùng hoạt động (nếu có).\n\n(3) Nêu tên cơ quan có thẩm quyền chấp thuận theo quy định.\n\n(4) Tên cơ quan, tổ chức.\n\n(5) Thẩm quyền ký là Thủ trưởng cơ quan, tổ chức.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_65-PHU_LUC_V-14-2026-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 554,
+            "source_file": "Maudon/MAU SO 65-PHU LUC V-14-2026-ND-CP.doc",
+            "file_name": "MAU SO 65-PHU LUC V-14-2026-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:46:23",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

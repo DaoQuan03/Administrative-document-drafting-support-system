@@ -1,0 +1,146 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC",
+        "text": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập- Tự do- Hạnh phúc\n\nSOCIALIST REPUBLIC OF VIET NAM\n\nIndependence - Freedom - Happiness\n\nTỜ KHAI THUẾ ĐỐI VỚI HOẠT ĐỘNG KINH DOANH THƯƠNG MẠI ĐIỆN TỬ TẠI VIỆT NAM\n\n(Dành cho nhà cung cấp ở nước ngoài kê khai trực tiếp với cơ quan thuế)\n\nTAX DECLARATION FOR E-COMMERCE BUSINESS IN VIET NAM\n\n(For foreign providers who declare directly with tax authorities)\n\n[01] Kỳ tính thuế:   Quý ...năm ...\n\nTax period:     Quarter …. Year……\n\n[02] Lần đầu:\t           [03] Điều chỉnh lần thứ:\n\nFirst time                     Time of adjustment:\n\n[04] Tên người nộp thuế:……………………………………………………………………………………………\n\nName of taxpayer:\n\n[05]Mã số thuế:……………………………………………………\n\nTax identification number:\n\n[06]Địa chỉ:……………………………………………………………[07] Quốc gia nơi thành lậpdoanh nghiệp……………………..\n\nPostal dddress:\t\t\t\t\t\t\t\tCountry in which business is established:\n\n[08]Điện thoại: ………………………… [09] E-mail: ………………………\n\nTel: \t\t\t\t\t                   E-mail",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 8,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0002",
+            "char_count": 959,
+            "source_file": "tokhai/MAU SO 02-NCCNN-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 02-NCCNN-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:49:31",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC",
+        "text": "Quốc gia nơi thành lậpdoanh nghiệp……………………..\n\nPostal dddress:\t\t\t\t\t\t\t\tCountry in which business is established:\n\n[08]Điện thoại: ………………………… [09] E-mail: ………………………\n\nTel: \t\t\t\t\t                   E-mail\n\n[10] Đồng tiền nộp thuế:...           [11] Quốc gia có Hiệp định với Việt Nam:  ☐Có     ☐Không\n\nPayment currency: \t\t\t\tFrom a country which signed a Double Tax Agreement with Viet Nam: Yes     No\n\n[12] Tên đại lý thuế, tổ chức được ủy quyền (nếu có): ……………………………………………………………………………………\n\nName of tax agent, authorized organization (if any)\n\n| [13]Mã số thuế của đại lý thuế, tổ chức được ủy quyền:<br>Tax identification number of tax agent, authorized organization: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[14]Địa chỉ của đại lý thuế, tổ chức được ủy quyền: ………………………………\n\nAddress\tof tax agent, authorized organization:",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 8,
+            "prev_chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0003",
+            "char_count": 911,
+            "source_file": "tokhai/MAU SO 02-NCCNN-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 02-NCCNN-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:49:31",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0003",
+        "doc_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC",
+        "text": "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[14]Địa chỉ của đại lý thuế, tổ chức được ủy quyền: ………………………………\n\nAddress\tof tax agent, authorized organization:\n\n[15]Điện thoại của đại lý thuế, tổ chức được ủy quyền: …………………………… [16] E-mail của đại lý thuế, tổ chức được ủyquyền: …………\n\nTel of tax agent, authorized organization:\t\t\t\t\t\tE-mail of tax agent, authorized organization:\n\nĐối với trường hợp doanh thu phát sinh tại Việt Nam\n\n(Doanh thu từ cung cấp dịch vụ hoặc dịch vụ gắn với hàng hóa mà không tách riêng được)\n\nIn terms of revenue generated in Viet Nam\n\n(Revenue generated from services supply or services are associated to goods which can not be separated)\n\nĐơn vị tiền: ………….\n\nCurrency :",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 8,
+            "prev_chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0002",
+            "next_chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0004",
+            "char_count": 739,
+            "source_file": "tokhai/MAU SO 02-NCCNN-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 02-NCCNN-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:49:31",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0004",
+        "doc_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC",
+        "text": "tách riêng được)\n\nIn terms of revenue generated in Viet Nam\n\n(Revenue generated from services supply or services are associated to goods which can not be separated)\n\nĐơn vị tiền: ………….\n\nCurrency :\n\n| Nội dung công việc<br>Contents | Thuế Giá trị gia tăng (GTGT)<br>Value-Added Tax | Thuế Giá trị gia tăng (GTGT)<br>Value-Added Tax | Thuế Giá trị gia tăng (GTGT)<br>Value-Added Tax | Thuế Giá trị gia tăng (GTGT)<br>Value-Added Tax | Thuế thu nhập doanh nghiệp (TNDN)<br>Corporate Income Tax | Thuế thu nhập doanh nghiệp (TNDN)<br>Corporate Income Tax | Thuế thu nhập doanh nghiệp (TNDN)<br>Corporate Income Tax | Thuế thu nhập doanh nghiệp (TNDN)<br>Corporate Income Tax | Thuế thu nhập doanh nghiệp (TNDN)<br>Corporate Income Tax | Tổng số thuế nộp vào NSNN<br>Total tax payable |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Nội dung công việc<br>Contents | Doanh thu tính thuế<br><br>Revenue subject to VAT | Doanh thu bên Việt Nam đã khấu trừ, nộp thay<br>Revenue from which Vietnamese counter-party withheld tax before payment | Tỷ lệ % thuế GTGT trên doanh thu<br>Deemed VAT rate | Thuế GTGT phải nộp<br>VAT payable | Doanh thu tính thuế<br>Revenue subject to CIT | Doanh thu bên Việt Nam đã khấu trừ, nộp thay<br>Revenue from which Vietnamese counter-party  withheld tax before payment | Tỷ lệ % thuế TNDN trên doanh thu<br>Deemed CIT rate | Số thuế được miễn giảm theo Hiệp định<br>Tax amount exempted or reduced under Double TaxAgreement | Thuế TNDN phải nộp<br>CIT payable | Tổng số thuế nộp vào NSNN<br>Total tax payable |\n| (1) | (2) | (3) | (4) | (5)={(2)-(3)}x(4) | (6) | (7) | (8) | (9) | (10)={(6)-(7)}x(8)-(9) | (11)=(5)+(10) |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n| Tổng cộng:<br>Total: |  |  |  | [17] |  |  |  |  | [18] | [19] |",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 8,
+            "prev_chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0003",
+            "next_chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0005",
+            "char_count": 1841,
+            "source_file": "tokhai/MAU SO 02-NCCNN-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 02-NCCNN-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:49:31",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0005",
+        "doc_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC",
+        "text": "| (11)=(5)+(10) |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n| Tổng cộng:<br>Total: |  |  |  | [17] |  |  |  |  | [18] | [19] |\n\nTổng số thuế GTGT và thuế TNDN phải nộp kỳ này (Viết bằng chữ):...\n\nTotal amount of VAT and CIT payable this period (In words):\n\nĐối với trường hợp giao dịch hàng hóa phát sinh tại Việt Nam\n\nB. In terms of goods transactions carried out in Viet Nam\n\nĐơn vị tiền: …………..\n\nCurrency:",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 8,
+            "prev_chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0004",
+            "next_chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0006",
+            "char_count": 471,
+            "source_file": "tokhai/MAU SO 02-NCCNN-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 02-NCCNN-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:49:31",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0006",
+        "doc_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC",
+        "text": "of VAT and CIT payable this period (In words):\n\nĐối với trường hợp giao dịch hàng hóa phát sinh tại Việt Nam\n\nB. In terms of goods transactions carried out in Viet Nam\n\nĐơn vị tiền: …………..\n\nCurrency:\n\n| Nội dung công việc<br>Contents | Thuế thu nhập doanh nghiệp (TNDN) | Thuế thu nhập doanh nghiệp (TNDN) | Thuế thu nhập doanh nghiệp (TNDN) | Thuế thu nhập doanh nghiệp (TNDN) | Thuế thu nhập doanh nghiệp (TNDN) |\n| --- | --- | --- | --- | --- | --- |\n| Nội dung công việc<br>Contents | Doanh thu tính thuế<br><br>Revenue subject to CIT | Doanh thu bên Việt Nam đã khấu trừ, nộp thay<br>Revenue from which Vietnamese counter-party withheld tax before payment | Tỷ lệ % thuế TNDN trên doanh thu<br>Deemed CIT rate | Số thuế được miễn giảm theo Hiệp định<br>Tax amount exempted or reduced under Double Tax Agreement | Thuế TNDN phải nộp<br>CIT payable |\n| (1) | (2) | (3) | (4) | (5) | (6)={(2)-(3)}x(4)-(5) |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n| Tổng cộng:<br>Total: |  |  |  |  | [20] |",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 8,
+            "prev_chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0005",
+            "next_chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0007",
+            "char_count": 1013,
+            "source_file": "tokhai/MAU SO 02-NCCNN-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 02-NCCNN-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:49:31",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0007",
+        "doc_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC",
+        "text": "| Thuế TNDN phải nộp<br>CIT payable |\n| (1) | (2) | (3) | (4) | (5) | (6)={(2)-(3)}x(4)-(5) |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n| Tổng cộng:<br>Total: |  |  |  |  | [20] |\n\nTổng số thuế TNDN phải nộp kỳ này (viết bằng chữ):...\n\nTotal amount of CIT payable this period (In words)\n\nFile đính kèm: ...\n\nAttachments\n\nTôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về những số liệu đã khai./.\n\nI hereby commit that the above declared data is correct and take legal responsibility for the declared data./ .\n\n| NHÂN VIÊN ĐẠI LÝ THUẾ HOẶC BÊN ĐƯỢC ỦY QUYỀN (nếu có)<br>Họ và tên:…….<br>Chứng chỉ hành nghề số/:... (nếucó)<br>TAX AGENT STAFF OR AUTHORIZED PARTY (if any)<br>Full name: . . . . . . .<br>Practitioner Certificate number: ... . (if any) | ..., ngày ...tháng …...năm …...<br>Date      month      year<br>NGƯỜI NỘP THUẾ hoặc <br>ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ<br>TAXPAYER or<br>THE LEGAL REPRESENTATIVE OF TAX PAYER |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 7,
+            "total_chunks": 8,
+            "prev_chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0006",
+            "next_chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0008",
+            "char_count": 993,
+            "source_file": "tokhai/MAU SO 02-NCCNN-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 02-NCCNN-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:49:31",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0008",
+        "doc_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC",
+        "text": "| ..., ngày ...tháng …...năm …...<br>Date      month      year<br>NGƯỜI NỘP THUẾ hoặc <br>ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ<br>TAXPAYER or<br>THE LEGAL REPRESENTATIVE OF TAX PAYER |\n| --- | --- |\n\nNguồn: Thông tư 80/2021/TT-BTC",
+        "metadata": {
+            "chunk_index": 8,
+            "total_chunks": 8,
+            "prev_chunk_id": "tokhai_MAU_SO_02-NCCNN-80-2021-TT-BTC_chunk_0007",
+            "next_chunk_id": null,
+            "char_count": 230,
+            "source_file": "tokhai/MAU SO 02-NCCNN-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 02-NCCNN-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:49:31",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

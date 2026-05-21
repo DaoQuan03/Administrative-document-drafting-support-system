@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_01-TB-XLKL-531-QD-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_01-TB-XLKL-531-QD-BTC",
+        "text": "Mẫu số 01/TB-XLKL\n\n| TÊN ĐƠN VỊ (cấp trên)<br>TÊN ĐƠN VỊ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>------------------ |\n| --- | --- |\n| Số:   /TB-(Tên viết tắt của ĐV) | (Địa danh), ngày … tháng … năm … |\n\nTHÔNG BÁO\n\nVề việc xem xét, xử lý kỷ luật\nCông chức (viên chức)...\n\nCăn cứ ... (Kết luận kiểm tra về hành vi vi phạm số... ngày... tháng... năm…; hoặc Bản án có hiệu lực số...; hoặc kết luận điều tra, thanh tra, kiểm tra của cơ quan có thẩm quyền...)\n\n... (Cơ quan có thẩm quyền xử lý kỷ luật) thông báo xem xét, xử lý kỷ luật đối với (tên công chức, viên chức vi phạm): (ghi tóm tắt nội dung vi phạm), cụ thể như sau:\n\n- Thời gian và địa điểm công chức (viên chức) vi phạm:...\n\n- Thời hạn xem xét, xử lý kỷ luật:...\n\n+ Thời gian tổ chức họp kiểm điểm tại đơn vị:...\n\n+ Thời gian tổ chức họp HĐKL (trường hợp phải thành lập HĐKL):...\n\n- Yêu cầu đối với Thủ trưởng đơn vị sử dụng công chức, viên chức:\n\n...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_01-TB-XLKL-531-QD-BTC_chunk_0002",
+            "char_count": 951,
+            "source_file": "thongbao/MAU SO 01-TB-XLKL-531-QD-BTC.doc",
+            "file_name": "MAU SO 01-TB-XLKL-531-QD-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:33:20",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-TB-XLKL-531-QD-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_01-TB-XLKL-531-QD-BTC",
+        "text": "luật:...\n\n+ Thời gian tổ chức họp kiểm điểm tại đơn vị:...\n\n+ Thời gian tổ chức họp HĐKL (trường hợp phải thành lập HĐKL):...\n\n- Yêu cầu đối với Thủ trưởng đơn vị sử dụng công chức, viên chức:\n\n...\n\n- Yêu cầu đối với người vi phạm: Viết bản tự kiểm điểm và giải trình về việc vi phạm pháp luật.\n\nĐề nghị đơn vị và cá nhân nghiêm túc thực hiện./.\n\n| Nơi nhận:<br>- ĐV có người vi phạm;<br>- Người vi phạm;<br>- Bộ phận tổ chức cán bộ;<br>- Lưu:.. | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký tên và đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_01-TB-XLKL-531-QD-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 505,
+            "source_file": "thongbao/MAU SO 01-TB-XLKL-531-QD-BTC.doc",
+            "file_name": "MAU SO 01-TB-XLKL-531-QD-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:33:20",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

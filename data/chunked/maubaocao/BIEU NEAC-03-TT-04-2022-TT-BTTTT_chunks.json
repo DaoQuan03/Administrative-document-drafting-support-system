@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_NEAC-03-TT-04-2022-TT-BTTTT_chunk_0001",
+        "doc_id": "maubaocao_BIEU_NEAC-03-TT-04-2022-TT-BTTTT",
+        "text": "| Biểu NEAC-03<br>Ban hành kèm theo TT số …./2022/TT-BTTTT<br>Ngày nhận báo cáo: Trước 15 tháng tiếp theo quý | TỔNG HỢP CẢ NƯỚC SỐ LƯỢNG CHỨNG THƯ SỐ ĐANG HOẠT ĐỘNG THEO ĐỊA BÀN TỈNH/THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG | Đơn vị báo cáo: NEAC |  |\n| --- | --- | --- | --- |\n| Biểu NEAC-03<br>Ban hành kèm theo TT số …./2022/TT-BTTTT<br>Ngày nhận báo cáo: Trước 15 tháng tiếp theo quý | Quý …/20… | Đơn vị báo cáo: NEAC |  |\n| Biểu NEAC-03<br>Ban hành kèm theo TT số …./2022/TT-BTTTT<br>Ngày nhận báo cáo: Trước 15 tháng tiếp theo quý | Quý …/20… | Đơn vị nhận báo cáo: Vụ KHTC, VP Bộ |  |\n\nĐơn vị tính: CTS",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_BIEU_NEAC-03-TT-04-2022-TT-BTTTT_chunk_0002",
+            "char_count": 602,
+            "source_file": "maubaocao/BIEU NEAC-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU NEAC-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:00:28",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_NEAC-03-TT-04-2022-TT-BTTTT_chunk_0002",
+        "doc_id": "maubaocao_BIEU_NEAC-03-TT-04-2022-TT-BTTTT",
+        "text": "cáo: NEAC |  |\n| Biểu NEAC-03<br>Ban hành kèm theo TT số …./2022/TT-BTTTT<br>Ngày nhận báo cáo: Trước 15 tháng tiếp theo quý | Quý …/20… | Đơn vị nhận báo cáo: Vụ KHTC, VP Bộ |  |\n\nĐơn vị tính: CTS\n\n| TT | ĐỊA BÀN | Mã địa bàn | Tổng số <br>CTS đang hoạt động (1= 2 + 3 + 4) | Trong đó | Trong đó | Trong đó | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | ĐỊA BÀN | Mã địa bàn | Tổng số <br>CTS đang hoạt động (1= 2 + 3 + 4) | Công cộng | Chuyên dùng Chính phủ | Chuyên dùng Cơ quan, tổ chức |  |\n| A | B | C | 1 | 2 | 3 | 4 | 5 |\n|  | CẢ NƯỚC |  |  |  |  |  |  |\n|  | Trong đó |  |  |  |  |  |  |\n| 1 | Hà Nội | 01 |  |  |  |  |  |\n| 2 | Hà Giang | 02 |  |  |  |  |  |\n|  | ... | ... |  |  |  |  |  |\n| 63 | Cà Mau | 96 |  |  |  |  |  |\n\n| TỔNG HỢP, LẬP BIỂU<br>(Thông tin người thực hiện) | KIỂM TRA BIỂU<br>(Thông tin người thực hiện) | Hà Nội, ngày … tháng … năm 20…<br>GIÁM ĐỐC<br>(Ký điện tử) |\n| --- | --- | --- |\n\nNguồn số liệu:",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_BIEU_NEAC-03-TT-04-2022-TT-BTTTT_chunk_0001",
+            "next_chunk_id": "maubaocao_BIEU_NEAC-03-TT-04-2022-TT-BTTTT_chunk_0003",
+            "char_count": 957,
+            "source_file": "maubaocao/BIEU NEAC-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU NEAC-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:00:28",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_NEAC-03-TT-04-2022-TT-BTTTT_chunk_0003",
+        "doc_id": "maubaocao_BIEU_NEAC-03-TT-04-2022-TT-BTTTT",
+        "text": "TỔNG HỢP, LẬP BIỂU<br>(Thông tin người thực hiện) | KIỂM TRA BIỂU<br>(Thông tin người thực hiện) | Hà Nội, ngày … tháng … năm 20…<br>GIÁM ĐỐC<br>(Ký điện tử) |\n| --- | --- | --- |\n\nNguồn số liệu:\n\nBiểu được lập từ dữ liệu hành chính của NEAC.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_BIEU_NEAC-03-TT-04-2022-TT-BTTTT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 242,
+            "source_file": "maubaocao/BIEU NEAC-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU NEAC-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:00:28",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

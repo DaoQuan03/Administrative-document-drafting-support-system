@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_B02-ETF-181-2015-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_B02-ETF-181-2015-TT-BTC",
+        "text": "|  | Mẫu số B02 - ETF<br>(Ban hành theo TT số 181/2015 /TT-BTC<br>Ngày 13/11/2015 của Bộ Tài chính) |\n| --- | --- |\n| Công ty Quản lý quỹ:...<br>Quỹ... | Mẫu số B02 - ETF<br>(Ban hành theo TT số 181/2015 /TT-BTC<br>Ngày 13/11/2015 của Bộ Tài chính) |\n\nBÁO CÁO TÌNH HÌNH TÀI CHÍNH\n\nTại ngày... tháng... năm...(1)\n\nĐơn vị tính: Đồng Việt Nam",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_B02-ETF-181-2015-TT-BTC_chunk_0002",
+            "char_count": 339,
+            "source_file": "maubaocao/MAU SO B02-ETF-181-2015-TT-BTC.doc",
+            "file_name": "MAU SO B02-ETF-181-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:38:26",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_B02-ETF-181-2015-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_B02-ETF-181-2015-TT-BTC",
+        "text": "| Mẫu số B02 - ETF<br>(Ban hành theo TT số 181/2015 /TT-BTC<br>Ngày 13/11/2015 của Bộ Tài chính) |\n\nBÁO CÁO TÌNH HÌNH TÀI CHÍNH\n\nTại ngày... tháng... năm...(1)\n\nĐơn vị tính: Đồng Việt Nam\n\n|  | Mã số | Thuyết minh | Năm<br>N | Năm<br>N-1 |\n| --- | --- | --- | --- | --- |\n| I. TÀI SẢN | 100 |  |  |  |\n| 1.Tiền gửi ngân hàng và tương đương tiền<br>Trong đó: | 110 | A.7.1 | ... | ... |\n| 1.1. Tiền gửi ngân hàng cho hoạt động của Quỹ ETF<br>1.2. Tiền gửi có kỳ hạn dưới 3 tháng | 111<br>112 | A.7.1<br>A.7.1 | ... | ... |\n| 2. Các khoản đầu tư thuần | 120 |  | ... | ... |\n| 2.1. Các khoản đầu tư | 121 | A.7.2 |  |  |\n| 2.2. Dự phòng giảm giá tài sản nhận thế chấp | 122 | A.7.3 |  |  |\n| 3. Các khoản phải thu | 130 | A.7.4 |  |  |\n| 3.1 Phải thu về bán các khoản đầu tư<br>Trong đó: Phải thu khó đòi về bán các khoản đầu tư | 131<br>132 | A.7.4 | ... | ... |\n| 3.2. Phải thu và dự thu cổ tức, tiền lãi các khoản đầu tư | 133 | A.7.4 | ... | ... |\n| 3.2.1. Phải thu cổ tức, tiền lãi đến ngày nhận | 134 |  | ... | ... |\n| Trong đó: Phải thu khó đòi về cổ tức, tiền lãi đến ngày nhận nhưng chưa nhận được | 135 |  |  |  |\n| 3.2.2 Dự thu cổ tức, tiền lãi chưa đến ngày nhận | 136 | A.7.4 | ... | ... |\n| 3.3. Các khoản phải thu khác | 137 | A.7.4 |  |  |\n| 3.4. Dự phòng nợ phải thu khó đòi (*) | 138 | A.7.5 | (...) | (...) |\n| TỔNG TÀI SẢN | 100 |  | ... | ... |\n| II. NỢ PHẢI TRẢ | 300 |  |  |  |\n| 1. Vay ngắn hạn | 311 | A.7.6 | ... | ... |\n| 2. Phải trả về hoán đổi/Mua các khoản đầu tư | 312 | A.7.7 | ... | ... |\n| 3. Phải trả cho các Đại lý phân phối Chứng chỉ quỹ | 313 | A.7.8 | ... | ... |\n| 4. Thuế và các khoản phải nộp Nhà nước | 314 | A.7.9 |  |  |\n| 5. Phải trả thu nhập cho Nhà đầu tư | 315 | A.7.10 |  |  |\n| 6. Chi phí phải trả | 316 | A.7.11 |  |  |\n| 7. Phải trả cho Nhà đầu tư về hoán đổi Chứng chỉ quỹ | 317 | A.7.12 | ... | ... |\n| 8. Phải trả cho Nhà đầu tư về hoán đổi lại Chứng chỉ quỹ | 318 | A.7.13 | ... | ... |\n| 9. Phải trả dịch vụ quản lý Quỹ ETF | 319 | A.7.15 | ... | ... |\n| 10. Phải trả, phải nộp khác | 320 | A.7.14 | ... | ... |\n| TỔNG NỢ PHẢI TRẢ | 300 |  | ... | ... |\n| III. GIÁ TRỊ TÀI SẢN RÒNG CÓ THỂ PHÂN PHỐI CHO NHÀ ĐẦU TƯ NẮM GIỮ CHỨNG CHỈ QUỸ ETF (I-II) | 400 |  | ... | ... |\n| 1. Vốn góp của Nhà đầu tư<br>1.1 Vốn góp phát hành<br>1.2 Vốn góp hoán đổi lại | 411<br>412<br>413 | A.7.16<br>A.7.16<br>A.7.16 | ...<br>...<br>... | ...<br>...<br>... |\n| 2. Thặng dư vốn góp của Nhà đầu tư | 414 | A.7.16 | ... | ... |\n| 3. Lợi nhuận chưa phân phối<br>IV. GIÁ TRỊ TÀI SẢN RÒNG QUỸ ETF TRÊN 1 ĐƠN VỊ CHỨNG CHỈ QUỸ (IV=(I-II)/III)<br>V. LỢI NHUẬN ĐÃ PHÂN PHỐI CHO NHÀ ĐẦU TƯ<br>1. Lợi nhuận/Tài sản đã phân phối cho Nhà đầu tư trong năm<br>2. Lợi nhuận đã phân phối cho Nhà đầu tư lũy kể từ khi thành lập Quỹ ETF đến kỳ lập báo cáo này | 420<br>430<br><br>440<br><br>441<br><br>442 | A.7.16<br><br><br><br><br>A.7.18<br><br>A.7.18 | ... | ... |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_B02-ETF-181-2015-TT-BTC_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_SO_B02-ETF-181-2015-TT-BTC_chunk_0003",
+            "char_count": 2888,
+            "source_file": "maubaocao/MAU SO B02-ETF-181-2015-TT-BTC.doc",
+            "file_name": "MAU SO B02-ETF-181-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:38:26",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_B02-ETF-181-2015-TT-BTC_chunk_0003",
+        "doc_id": "maubaocao_MAU_SO_B02-ETF-181-2015-TT-BTC",
+        "text": "nhuận đã phân phối cho Nhà đầu tư lũy kể từ khi thành lập Quỹ ETF đến kỳ lập báo cáo này | 420<br>430<br><br>440<br><br>441<br><br>442 | A.7.16<br><br><br><br><br>A.7.18<br><br>A.7.18 | ... | ... |\n\nVI. CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH\n\n| CHỈ TIÊU | Mã số | Thuyết minh | Năm<br>N | Năm<br>N-1 |\n| --- | --- | --- | --- | --- |\n| A | B | C | 1 | 2 |\n| 1. Tài sản nhận thế chấp<br>2. Nợ khó đòi đã xử lý | 001<br>002 | F.32.1<br>F.32.2 | ...<br>... | ...<br>... |\n| 3. Ngoại tệ các loại<br>4. Số lượng Chứng chỉ Quỹ ETF đang lưu hành<br>5. Chứng khoán chờ thanh toán | 003<br>004<br>009 | F.32.3<br>F.32.4<br>F.32.5 | ...<br>...<br>... | ...<br>...<br>... |\n\n| NGƯỜI LẬP BIỂU<br>(Ký, họ tên) | KẾ TOÁN TRƯỞNG<br>(Ký, họ tên) | ..., ngày...tháng...năm...<br>TỔNG (GIÁM) ĐỐC<br>(Ký, họ tên, đóng dấu) |\n| --- | --- | --- |\n\nNguồn: Thông tư 181/2015/TT-BTC",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_B02-ETF-181-2015-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 866,
+            "source_file": "maubaocao/MAU SO B02-ETF-181-2015-TT-BTC.doc",
+            "file_name": "MAU SO B02-ETF-181-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:38:26",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

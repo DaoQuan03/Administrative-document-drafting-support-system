@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_PHIEU-4948-CT-NVT_chunk_0001",
+        "doc_id": "mauphieu_MAU_PHIEU-4948-CT-NVT",
+        "text": "| THUẾ TỈNH/THÀNH PHỐ..<br>THUẾ CƠ SỞ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | Hà Nội, ngày   tháng   năm 2025 |\n\nPHIẾU KHẢO SÁT THÔNG TIN HỘ KINH DOANH\n\nĐể hỗ trợ hộ kinh doanh, cá nhân kinh doanh chuẩn bị cho việc thực hiện chuyển đổi từ phương pháp khoán sang phương thức tự kê khai thuế, cơ quan thuế thực hiện khảo sát một số thông tin đối với hộ kinh doanh.\n\nCơ quan thuế mong rằng các hộ kinh doanh kịp thời phối hợp phản hồi thông tin để cơ quan thuế tiếp tục đồng hành, hỗ trợ cho các hộ kinh doanh chuyển đổi thuận lợi, không làm ảnh hưởng đến hoạt động sản xuất kinh doanh của hộ kinh doanh trong giai đoạn chuyển đổi.\n\nCâu 1: Anh/ chị cho biết thông tin chung:\n\n1. Tên chủ hộ kinh doanh:\n\n2. Số định danh cá nhân:\n\n3. Địa điểm kinh doanh:\n\n- Phường/Xã/Đặc khu:\n\n- Tỉnh/Thành phố:\n\nCâu 2: Anh/ chị cho biết lĩnh vực hoạt động sản xuất kinh doanh:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_PHIEU-4948-CT-NVT_chunk_0002",
+            "char_count": 935,
+            "source_file": "mauphieu/MAU PHIEU-4948-CT-NVT.doc",
+            "file_name": "MAU PHIEU-4948-CT-NVT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:27:27",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_PHIEU-4948-CT-NVT_chunk_0002",
+        "doc_id": "mauphieu_MAU_PHIEU-4948-CT-NVT",
+        "text": "tin chung:\n\n1. Tên chủ hộ kinh doanh:\n\n2. Số định danh cá nhân:\n\n3. Địa điểm kinh doanh:\n\n- Phường/Xã/Đặc khu:\n\n- Tỉnh/Thành phố:\n\nCâu 2: Anh/ chị cho biết lĩnh vực hoạt động sản xuất kinh doanh:\n\n| 1. Phân phối, cung cấp hàng hóa | □ |\n| --- | --- |\n| 2. Dịch vụ, xây dựng không bao thầu nguyên vật liệu | □ |\n| 3. Sản xuất, vận tải, dịch vụ có gắn với hàng hóa, xây dựng có bao thầu nguyên vật liệu | □ |\n| 4. Hoạt động kinh doanh khác | □ |\n\nCâu 3: Hình thức kinh doanh\n\n| 1. Truyền thống | □ |\n| --- | --- |\n| 2. Thương mại điện tử | □ |\n| 3. Cả truyền thống và thương mại điện tử | □ |\n\nCâu 4: Doanh thu ước tính năm 2025\n\n| 1. Từ 200 triệu đồng trở xuống | □ |\n| --- | --- |\n| 2. Trên 200 triệu đồng đến 3 tỷ đồng | □ |\n| 3. Trên 3 tỷ đồng đến 50 tỷ đồng | □ |\n| 4. Trên 50 tỷ đồng | □ |\n\nCâu 5: Hộ kinh doanh đã sử dụng các thiết bị, phần mềm sau đây chưa?",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_PHIEU-4948-CT-NVT_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_PHIEU-4948-CT-NVT_chunk_0003",
+            "char_count": 863,
+            "source_file": "mauphieu/MAU PHIEU-4948-CT-NVT.doc",
+            "file_name": "MAU PHIEU-4948-CT-NVT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:27:27",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_PHIEU-4948-CT-NVT_chunk_0003",
+        "doc_id": "mauphieu_MAU_PHIEU-4948-CT-NVT",
+        "text": "|\n| --- | --- |\n| 2. Trên 200 triệu đồng đến 3 tỷ đồng | □ |\n| 3. Trên 3 tỷ đồng đến 50 tỷ đồng | □ |\n| 4. Trên 50 tỷ đồng | □ |\n\nCâu 5: Hộ kinh doanh đã sử dụng các thiết bị, phần mềm sau đây chưa?\n\n| 1. Đã có điện thoại Smartphone | □ |\n| --- | --- |\n| 2. Đã có kết nối Intenet/WiFi ổn định tại nơi kinh doanh | □ |\n| 3. Đã sử dụng phần mềm bán hàng hoặc phần mềm quản lý doanh thu | □ |\n| 4. Đã sử dụng phần mềm kế toán | □ |\n| 5. Đã sử dụng các ứng dụng ngành thuế (ứng dụng hỗ trợ kê khai, icanhan, EtaxMobile) | □ |\n\nCâu 6. Hộ kinh doanh có gặp khó khăn gì trong việc thực hiện sử dụng các ứng dụng của cơ quan thuế hay không?\n\n| 1. Chưa biết cài đặt (cần hướng dẫn cài đặt) | □ |\n| --- | --- |\n| 2. Chưa nắm được các chức năng để khai, nộp thuế (cần hướng dẫn sử dụng) | □ |\n| 3. Đã từng sử dụng các chức năng để khai, nộp thuế nhưng không biết có đúng quy định hay không? | □ |\n| 4. Đã sử dụng thành thạo, không cần hỗ trợ, hướng dẫn | □ |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_PHIEU-4948-CT-NVT_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_PHIEU-4948-CT-NVT_chunk_0004",
+            "char_count": 947,
+            "source_file": "mauphieu/MAU PHIEU-4948-CT-NVT.doc",
+            "file_name": "MAU PHIEU-4948-CT-NVT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:27:27",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_PHIEU-4948-CT-NVT_chunk_0004",
+        "doc_id": "mauphieu_MAU_PHIEU-4948-CT-NVT",
+        "text": "(cần hướng dẫn sử dụng) | □ |\n| 3. Đã từng sử dụng các chức năng để khai, nộp thuế nhưng không biết có đúng quy định hay không? | □ |\n| 4. Đã sử dụng thành thạo, không cần hỗ trợ, hướng dẫn | □ |\n\nCâu 7: Hộ kinh doanh có thuê nhân viên hỗ trợ kế toán, kê khai thuế chưa?\n\n1. Đã có \t□\n\n2. Chưa có \t□\n\nCâu 8: Anh/ Chị đã biết về chủ trương của Đảng và Nhà nước về xóa bỏ thuế khoán từ 1/1/2026 và nghĩa vụ thực hiện?\n\n| 1. Chưa biết tới quy định mới | □ |\n| --- | --- |\n| 2. Đã biết tới quy định mới | □ |\n| 3. Hiểu rõ nghĩa vụ cần thực hiện | □ |\n| 4. Hiểu sơ bộ nhưng không rõ cần làm gì | □ |\n| 5. Chưa hiểu | □ |\n\nTrân trọng cảm ơn./.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_PHIEU-4948-CT-NVT_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 636,
+            "source_file": "mauphieu/MAU PHIEU-4948-CT-NVT.doc",
+            "file_name": "MAU PHIEU-4948-CT-NVT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:27:27",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

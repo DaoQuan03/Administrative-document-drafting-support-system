@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_01-05-2017-NDCP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_01-05-2017-NDCP",
+        "text": "Mẫu số 01\n\n| CƠ QUAN CÓ THẨM QUYỀN<br>THÔNG BÁO1<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: /TB-1 | ….., ngày… tháng… năm…… |\n\nTHÔNG BÁO\n\nVề việc tìm chủ sở hữu tài sản chìm đắm\n\n…………………………………1………………………………………………………. thông báo:\n\nTên và đặc điểm tài sản bị chìm đắm:...\n\n...\n\nVị trí tài sản bị chìm đắm: ...\n\n...\n\nYêu cầu chủ sở hữu tài sản bị chìm đắm hoặc người đại diện hợp pháp có mặt tại địa điểm: ...\n\n...\n\n………………………………………………………………………để xử lý tài sản bị chìm đắm.\n\nThời hạn trình phương án trục vớt tài sản chìm đắm: ...\n\nThời hạn trục vớt tài sản chìm đắm: ...\n\nTrường hợp chủ sở hữu tài sản chìm đắm hoặc người đại diện hợp pháp không liên hệ với cơ quan ra thông báo hoặc không thực hiện việc trục vớt tài sản chìm đắm thì tài sản chìm đắm nói trên sẽ được xử lý theo quy định của pháp luật./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_01-05-2017-NDCP_chunk_0002",
+            "char_count": 877,
+            "source_file": "thongbao/MAU SO 01-05-2017-NDCP.doc",
+            "file_name": "MAU SO 01-05-2017-NDCP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:30",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-05-2017-NDCP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_01-05-2017-NDCP",
+        "text": "đắm hoặc người đại diện hợp pháp không liên hệ với cơ quan ra thông báo hoặc không thực hiện việc trục vớt tài sản chìm đắm thì tài sản chìm đắm nói trên sẽ được xử lý theo quy định của pháp luật./.\n\n| Nơi nhận:<br>- Phương tiện thông tin đại chúng;<br>- Lưu 1. | QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ<br>(Chữ ký, dấu)<br><br><br><br><br>Họ và tên |\n| --- | --- |\n\n___\n\n1 Cục Hàng hải Việt Nam hoặc Cục Đường thủy nội địa Việt Nam hoặc Ủy ban nhân dân cấp tỉnh.\n\nNguồn: Nghị định 05/2017/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_01-05-2017-NDCP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 487,
+            "source_file": "thongbao/MAU SO 01-05-2017-NDCP.doc",
+            "file_name": "MAU SO 01-05-2017-NDCP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:30",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

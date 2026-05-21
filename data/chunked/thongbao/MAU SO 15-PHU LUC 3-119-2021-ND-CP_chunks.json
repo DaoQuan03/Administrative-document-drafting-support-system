@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_15-PHU_LUC_3-119-2021-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_15-PHU_LUC_3-119-2021-ND-CP",
+        "text": "Mẫu số 15. Thông báo khai thác tuyến vận tải hành khách định kỳ giữa Việt Nam và Trung Quốc\n\n| CƠ QUAN QUẢN LÝ TUYẾN<br>___<br>Số: .../... | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>___<br>..., ngày... tháng ... năm... |\n| --- | --- |\n\nTHÔNG BÁO\n\nKHAI THÁC TUYẾN VẬN TẢI HÀNH KHÁCH ĐỊNH KỲ\n\nGIỮA VIỆT NAM VÀ TRUNG QUỐC\n\nTuyến: ... đi ... và ngược lại\n\nGiữa Bến xe ... và Bến xe ...\n\n___\n\nKính gửi:\n\nCục ĐBVN/Sở GTVT/Sở GTVT-XD(bị bãi bỏ) nhận được công văn số .../... ngày ... của ... về việc đăng ký khai thác vận tải hành khách định kỳ giữa Việt Nam và Trung Quốc;\n\nThực hiện Điều ... Nghị định số .../2021/NĐ-CP ngày ... của Chính phủ quy định trình tự, thủ tục cấp, cấp lại, thu hồi giấy phép vận tải đường bộ qua biên giới, Cục ĐBVN ĐBVN/Sở GTVT/Sở GTVT-XD (bị bãi bỏ) ... thông báo như sau:\n\nChấp thuận ... được khai thác tuyến vận tải hành khách định kỳ giữa Việt Nam và Trung Quốc.\n\nTên Tuyến: ... đi ... và ngược lại.\n\nBến đi: Bến xe\n\nBến đến: Bến xe",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_15-PHU_LUC_3-119-2021-ND-CP_chunk_0002",
+            "char_count": 988,
+            "source_file": "thongbao/MAU SO 15-PHU LUC 3-119-2021-ND-CP.doc",
+            "file_name": "MAU SO 15-PHU LUC 3-119-2021-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:59:59",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_15-PHU_LUC_3-119-2021-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_15-PHU_LUC_3-119-2021-ND-CP",
+        "text": "(bị bãi bỏ) ... thông báo như sau:\n\nChấp thuận ... được khai thác tuyến vận tải hành khách định kỳ giữa Việt Nam và Trung Quốc.\n\nTên Tuyến: ... đi ... và ngược lại.\n\nBến đi: Bến xe\n\nBến đến: Bến xe\n\nSố lượng phương tiện tham gia khai thác:\n\nTrong thời gian 60 ngày kể từ ngày ký văn bản này ... phải đưa phương tiện vào khai thác. Quá thời hạn nêu trên, giấy thông báo không còn hiệu lực.\n\n... (Đơn vị kinh doanh vận tải) ký hợp đồng khai thác với bến xe cho phương tiện đã được Cục ĐBVN ĐBVN/Sở GTVT/Sở GTVT-XD (bị bãi bỏ) ... chấp thuận và tổ chức hoạt động vận tải hành khách trên tuyến theo đúng các quy định hiện hành./.\n\n| Nơi nhận: <br>-  ...<br>-  ... | Thủ trưởng đơn vị<br>(Ký tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_15-PHU_LUC_3-119-2021-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 717,
+            "source_file": "thongbao/MAU SO 15-PHU LUC 3-119-2021-ND-CP.doc",
+            "file_name": "MAU SO 15-PHU LUC 3-119-2021-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:59:59",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

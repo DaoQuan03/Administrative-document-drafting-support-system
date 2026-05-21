@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_15-246-2025-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_15-246-2025-ND-CP",
+        "text": "Mẫu số 15\n\n| BỘ XÂY DỰNG<br>CỤC HÀNG KHÔNG VIỆT NAM<br>-------<br>MINISTRY OF CONSTRUCTION<br>CIVIL AVIATION AUTHORITY OF VIETNAM<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>---------------<br>SOCIALIST REPUBLIC OF VIETNAM <br>Independence - Freedom - Happiness<br>---------------------------- |\n| --- | --- |\n| Số/Number ref:  /TB-CHK | Hà Nội, ngày …… tháng …… năm …… <br>Hanoi, day ... month ... year ... |\n\nTHÔNG BÁO\n\nVề việc trả lại hồ sơ do không đủ điều kiện giải quyết\n\nNOTICE\n\nRegarding the return of documents due to insufficient conditions for resolution\n\nKính gửi/ To: ...\n\nNgày ... tháng ... năm ..., Cục Hàng không Việt Nam tiếp nhận hồ sơ của Ông/bà ... về việc ...\n\nOn day ... month ... year ..., the Civil Aviation Authority of Vietnam received the application from Mr./Ms. ... regarding ...\n\nMã hồ sơ/ Application code: ...\n\nThời gian hẹn trả kết quả giải quyết hồ sơ: ...\n\nScheduled time for returning results: ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_15-246-2025-ND-CP_chunk_0002",
+            "char_count": 972,
+            "source_file": "thongbao/MAU SO 15-246-2025-ND-CP.doc",
+            "file_name": "MAU SO 15-246-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:59:54",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_15-246-2025-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_15-246-2025-ND-CP",
+        "text": "of Vietnam received the application from Mr./Ms. ... regarding ...\n\nMã hồ sơ/ Application code: ...\n\nThời gian hẹn trả kết quả giải quyết hồ sơ: ...\n\nScheduled time for returning results: ...\n\nSau khi thẩm định/thẩm tra/xác minh và đối chiếu với các quy định hiện hành./After appraisal/verification/confirmation and comparison with current regulations.\n\nCục Hàng không Việt Nam trả lại hồ sơ do không đủ điều kiện giải quyết với lý do sau/ The Civil Aviation Authority of Vietnam returns the application due to insufficient conditions for resolution for the following reason:\n\n...\n\n...\n\n...\n\n...\n\n...\n\nCục Hàng không Việt Nam thông báo để Ông/bà ...\n\nbiết và hoàn thiện các nội dung nêu trên trước khi nộp lại hồ sơ.\n\nThe Civil Aviation Authority of Vietnam informs Mr./Ms. ... to be aware and complete the above-mentioned contents before re-submitting the application.\n\nTrân trọng./.\n\nSincerely./.\n\n|  | (Ký và ghi rõ họ tên) <br>(Sign and state full name) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_15-246-2025-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 973,
+            "source_file": "thongbao/MAU SO 15-246-2025-ND-CP.doc",
+            "file_name": "MAU SO 15-246-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:59:54",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

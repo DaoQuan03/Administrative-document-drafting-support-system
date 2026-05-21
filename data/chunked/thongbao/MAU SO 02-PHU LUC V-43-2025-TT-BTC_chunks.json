@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_02-PHU_LUC_V-43-2025-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_02-PHU_LUC_V-43-2025-TT-BTC",
+        "text": "Mẫu số 2\n\n| ỦY BAN NHÂN DÂN XÃ ...<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: …./….. | ….., ngày ... tháng ... năm ... |\n\nTHÔNG BÁO TIẾP NHẬN HỒ SƠ ĐĂNG KÝ NHU CẦU HỖ TRỢ CỦA TỔ HỢP TÁC/HỢP TÁC XÃ/LIÊN HIỆP HỢP TÁC XÃ\n\nKính gửi: Tên THT/HTX/LHHTX: ……………………\n\nCăn cứ Nghị định số 113/2024/NĐ-CP ngày 12 tháng 9 năm 2024 của Chính phủ quy định chi tiết một số điều của Luật Hợp tác xã;\n\nCăn cứ đơn/hồ sơ đăng ký nhu cầu hỗ trợ số... ngày... tháng... năm ………của Tổ hợp tác/hợp tác xã/liên hiệp hợp tác xã...;\n\nỦy ban nhân dân xã ………………. tiếp nhận hồ sơ đề xuất hỗ trợ tổ hợp tác/hợp tác xã/liên hiệp hợp tác xã theo quy định tại Nghị định số 113/2024/NĐ-CP ngày 12 tháng 9 năm 2024 của Chính phủ và thông báo như sau:\n\nI. Hồ sơ, tài liệu tiếp nhận\n\n1 ...\n\n2 ...\n\n3 ...\n\nII. Ý kiến của cơ quan tiếp nhận",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_02-PHU_LUC_V-43-2025-TT-BTC_chunk_0002",
+            "char_count": 875,
+            "source_file": "thongbao/MAU SO 02-PHU LUC V-43-2025-TT-BTC.doc",
+            "file_name": "MAU SO 02-PHU LUC V-43-2025-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:37:14",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_02-PHU_LUC_V-43-2025-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_02-PHU_LUC_V-43-2025-TT-BTC",
+        "text": "tác xã theo quy định tại Nghị định số 113/2024/NĐ-CP ngày 12 tháng 9 năm 2024 của Chính phủ và thông báo như sau:\n\nI. Hồ sơ, tài liệu tiếp nhận\n\n1 ...\n\n2 ...\n\n3 ...\n\nII. Ý kiến của cơ quan tiếp nhận\n\n1. Trường hợp hồ sơ đủ điều kiện và Ủy ban nhân dân xã không có khả năng và nguồn lực hỗ trợ: Hồ sơ của... đã đủ điều kiện để tổng hợp nhu cầu hỗ trợ để chuyển tới Ủy ban nhân dân cấp tỉnh và cơ quan, đơn vị có khả năng, thẩm quyền hỗ trợ khi có yêu cầu.\n\n2. Trường hợp chưa đủ điều kiện để tổng hợp: Đề nghị bổ sung tài liệu (ghi rõ tài liệu cẩn bổ sung).\n\n3. Trường hợp hồ sơ đủ điều kiện và Ủy ban nhân dân xã có khả năng và nguồn lực hỗ trợ: Hồ sơ của ………….  đã đủ điều kiện để Ủy ban nhân dân xã hỗ trợ chính sách ……….. (ghi cụ thể chính sách hỗ trợ).\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu:.. | ỦY BAN NHÂN DÂN XÃ ...<br>(Ký, ghi rõ họ tên đóng dấuxi) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_02-PHU_LUC_V-43-2025-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 871,
+            "source_file": "thongbao/MAU SO 02-PHU LUC V-43-2025-TT-BTC.doc",
+            "file_name": "MAU SO 02-PHU LUC V-43-2025-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:37:14",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC",
+        "text": "| Đơn vị:... | Đơn vị:... | Mẫu số 01 - VT |\n| --- | --- | --- |\n| Bộ phận:... |  | (Ban hành theo Thông tư số 200/2014/TT-BTC |\n|  |  | Ngày 22/12/2014 của Bộ Tài chính) |\n\n|  | PHIẾU NHẬP KHO |  |\n| --- | --- | --- |\n|  | Ngày...tháng...năm ... | Nợ ... |\n|  | Số: ... | Có ... |\n\n- Họ và tên người giao: ...\n\n- Theo ... số ... ngày ... tháng ... năm ... của ...\n\nNhập tại kho: ...địa điểm...\n\n| S | Tên, nhãn hiệu, quy cách, |  | Đơn | Số lượng | Số lượng |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| T | phẩm chất vật tư, dụng cụ | Mã | vị | Theo | Thực | Đơn | Thành |\n| T | sản phẩm, hàng hoá | số | tính | chứng từ | nhập | giá | tiền |\n| A | B | C | D | 1 | 2 | 3 | 4 |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  | Cộng | x | x | x | x | x |  |\n\n- Tổng số tiền (viết bằng chữ):...\n\n- Số chứng từ gốc kèm theo:...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 5,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC_chunk_0002",
+            "char_count": 873,
+            "source_file": "mauphieu/MAU 01_VT_PL3_200-2014-TT-BTC.doc",
+            "file_name": "MAU 01_VT_PL3_200-2014-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:45:52",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC_chunk_0002",
+        "doc_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC",
+        "text": "| 1 | 2 | 3 | 4 |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  | Cộng | x | x | x | x | x |  |\n\n- Tổng số tiền (viết bằng chữ):...\n\n- Số chứng từ gốc kèm theo:...\n\n|  |  |  | Ngày ... tháng...  năm... |\n| --- | --- | --- | --- |\n| Người lập phiếu | Người giao hàng | Thủ kho | Kế toán trưởng |\n| (Ký, họ tên) | (Ký, họ tên) | (Ký, họ tên) | (Hoặc bộ phận |\n|  |  |  | có nhu cầu nhập) |\n|  |  | (Ký, họ tên) | (Ký, họ tên) |\n\nPHIẾU NHẬP KHO\n\n(Mẫu số 01- VT)\n\n1. Mục đích: Nhằm xác nhận số lượng vật tư, công cụ, dụng cụ, sản phẩm, hàng hoá nhập kho làm căn cứ ghi Thẻ kho, thanh toán tiền hàng, xác định trách nhiệm với người có liên quan và ghi sổ kế toán.\n\n2. Phương pháp và trách nhiệm ghi",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC_chunk_0003",
+            "char_count": 728,
+            "source_file": "mauphieu/MAU 01_VT_PL3_200-2014-TT-BTC.doc",
+            "file_name": "MAU 01_VT_PL3_200-2014-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:45:52",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC_chunk_0003",
+        "doc_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC",
+        "text": "vật tư, công cụ, dụng cụ, sản phẩm, hàng hoá nhập kho làm căn cứ ghi Thẻ kho, thanh toán tiền hàng, xác định trách nhiệm với người có liên quan và ghi sổ kế toán.\n\n2. Phương pháp và trách nhiệm ghi\n\nGóc trên bên trái của Phiếu nhập kho phải ghi rõ tên của đơn vị (hoặc đóng dấu đơn vị), bộ phận nhập kho. Phiếu nhập kho áp dụng trong các trường hợp nhập kho vật tư, công cụ, dụng cụ, sản phẩm, hàng hoá mua ngoài, tự sản xuất, thuê ngoài gia công chế biến, nhận góp vốn, hoặc thừa phát hiện trong kiểm kê.\n\nKhi lập phiếu nhập kho phải ghi rõ số phiếu nhập và ngày, tháng, năm lập phiếu, họ tên người giao vật tư, công cụ, dụng cụ, sản phẩm, hàng hoá, số hoá đơn hoặc lệnh nhập kho, tên kho, địa điểm kho nhập.\n\nCột A, B, C, D: Ghi số thứ tự, tên, nhãn hiệu, qui cách, phẩm chất, mã số và đơn vị tính của vật tư, công cụ, dụng cụ, sản phẩm, hàng hoá.\n\nCột 1: Ghi số lượng theo chứng từ (hoá đơn hoặc lệnh nhập).\n\nCột 2: Thủ kho ghi số lượng thực nhập vào kho.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC_chunk_0004",
+            "char_count": 958,
+            "source_file": "mauphieu/MAU 01_VT_PL3_200-2014-TT-BTC.doc",
+            "file_name": "MAU 01_VT_PL3_200-2014-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:45:52",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC_chunk_0004",
+        "doc_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC",
+        "text": "cách, phẩm chất, mã số và đơn vị tính của vật tư, công cụ, dụng cụ, sản phẩm, hàng hoá.\n\nCột 1: Ghi số lượng theo chứng từ (hoá đơn hoặc lệnh nhập).\n\nCột 2: Thủ kho ghi số lượng thực nhập vào kho.\n\nCột 3, 4: Do kế toán ghi đơn giá (giá hạch toán hoặc giá hoá đơn,... tuỳ theo qui định của từng đơn vị) và tính ra số tiền của từng thứ vật tư, dụng cụ, sản phẩm, hàng hoá thực nhập.\n\nDòng cộng: Ghi tổng số tiền của các loại vật tư, công cụ, dụng cụ, sản phẩm, hàng hoá nhập cùng một phiếu nhập kho.\n\nDòng số tiền viết bằng chữ: Ghi tổng số tiền trên Phiếu nhập kho bằng chữ.\n\nPhiếu nhập kho do bộ phận mua hàng hoặc bộ phận sản xuất lập thành 2 liên (đối với vật tư, hàng hoá mua ngoài) hoặc 3 liên (đối với vật tư tự sản xuất) (đặt giấy than viết 1 lần), và người lập phiếu ký (ghi rõ họ tên), người giao hàng mang phiếu đến kho để nhập vật tư, dụng cụ, sản phẩm, hàng hoá.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC_chunk_0003",
+            "next_chunk_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC_chunk_0005",
+            "char_count": 873,
+            "source_file": "mauphieu/MAU 01_VT_PL3_200-2014-TT-BTC.doc",
+            "file_name": "MAU 01_VT_PL3_200-2014-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:45:52",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC_chunk_0005",
+        "doc_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC",
+        "text": "mua ngoài) hoặc 3 liên (đối với vật tư tự sản xuất) (đặt giấy than viết 1 lần), và người lập phiếu ký (ghi rõ họ tên), người giao hàng mang phiếu đến kho để nhập vật tư, dụng cụ, sản phẩm, hàng hoá.\n\nNhập kho xong thủ kho ghi ngày, tháng, năm nhập kho và cùng người giao hàng ký vào phiếu, thủ kho giữ liên 2 để ghi vào thẻ kho và sau đó chuyển cho phòng kế toán để ghi sổ kế toán và liên 1 lưu ở nơi lập phiếu, liên 3 (nếu có) người giao hàng giữ.",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_01_VT_PL3_200-2014-TT-BTC_chunk_0004",
+            "next_chunk_id": null,
+            "char_count": 448,
+            "source_file": "mauphieu/MAU 01_VT_PL3_200-2014-TT-BTC.doc",
+            "file_name": "MAU 01_VT_PL3_200-2014-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:45:52",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

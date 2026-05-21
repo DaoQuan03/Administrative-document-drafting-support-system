@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_30A-THQ-09-QD-HDTV_doc_chunk_0001",
+        "doc_id": "thongbao_MAU_30A-THQ-09-QD-HDTV_doc",
+        "text": "(Ban hành kèm theo Quy chế thực hiện quyền cho người sở hữu chứng khoán)\n\nMẫu 30A/THQ\n\n| TÊN THÀNH VIÊN | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM |\n| --- | --- |\n| Trụ sở chính:     <br>Điện thoại/Fax: | Độc lập - Tự do - Hạnh phúc |\n| Số: |  |\n|  | ..., ngày... tháng... năm... |\n\nTHÔNG BÁO\n\nVề việc thực hiện quyền bán lại trái phiếu cho tổ chức phát hành\n\nKính gửi: ……………………………………\n\nCăn cứ vào danh sách người sở hữu chứng khoán được quyền bán lại trái phiếu cho tổ chức phát hành của VSDC, Công ty…./Ngân hàng lưu ký….xác nhận:\n\nTên khách hàng:\n\nĐịa chỉ:\n\nĐiện thoại:\n\nSố ĐKSH:\t\t\t   Ngày cấp:\t\t\t Nơi cấp:\n\nSố tài khoản:\t\t    tại Thành viên:\n\nĐã sở hữu số lượng trái phiếu như sau:\n\nTên trái phiếu:\n\nMã trái phiếu:\n\nMệnh giá:\n\nNgày đăng ký cuối cùng:\n\nSố lượng trái phiếu sở hữu:\n\nSố lượng trái phiếu được tham gia thực hiện quyền bán lại cho tổ chức phát hành:\n\nNgười sở hữu có thể làm thủ tục đăng ký bán số lượng trái phiếu trên tại Công ty/Ngân hàng...trong thời gian từ ngày…đến ngày…",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_30A-THQ-09-QD-HDTV_doc_chunk_0002",
+            "char_count": 986,
+            "source_file": "thongbao/MAU 30A-THQ-09-QD-HDTV.doc.docx",
+            "file_name": "MAU 30A-THQ-09-QD-HDTV.doc.docx",
+            "folder": "thongbao",
+            "original_extension": ".docx",
+            "cleaned_at": "2026-05-20T23:25:47",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_30A-THQ-09-QD-HDTV_doc_chunk_0002",
+        "doc_id": "thongbao_MAU_30A-THQ-09-QD-HDTV_doc",
+        "text": "trái phiếu được tham gia thực hiện quyền bán lại cho tổ chức phát hành:\n\nNgười sở hữu có thể làm thủ tục đăng ký bán số lượng trái phiếu trên tại Công ty/Ngân hàng...trong thời gian từ ngày…đến ngày…\n\n|  | CHỦ TỊCH HĐQT/NGƯỜI ĐẠI DIỆN PHÁP LUẬT<br>(chữ ký, họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_30A-THQ-09-QD-HDTV_doc_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 290,
+            "source_file": "thongbao/MAU 30A-THQ-09-QD-HDTV.doc.docx",
+            "file_name": "MAU 30A-THQ-09-QD-HDTV.doc.docx",
+            "folder": "thongbao",
+            "original_extension": ".docx",
+            "cleaned_at": "2026-05-20T23:25:47",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

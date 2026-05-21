@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_08_QLT-09-2025-TT-BNNMT_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_08_QLT-09-2025-TT-BNNMT",
+        "text": "Mẫu số 08.QLT\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n\nĐƠN ĐĂNG KÝ, GIA HẠN KIỂM TRA ĐIỀU KIỆN SẢN XUẤT\n\nTHUỐC THÚ Y\n\nKính gửi: ...\n\nCăn cứ ...\n\nTên cơ sở:\n\nĐịa chỉ cơ sở:\n\nSố điện thoại: \tFax:\n\nChủ cơ sở:\n\nĐịa chỉ thường trú:\n\nCác loại sản phẩm đăng ký sản xuất lưu hành:\n\n□ Thuốc dược liệu \t□ Chế phẩm sinh học\n\n□ Hóa chất \t□ Các loại khác\n\nĐề nghị quý Cơ quan tiến hành kiểm tra cấp giấy chứng nhận đủ điều kiện sản xuất thuốc thú y cho cơ sở chúng tôi.\n\nHồ sơ gửi kèm (đối với đăng ký kiểm tra lần đầu):\n\na) Đơn đăng ký kiểm tra điều kiện sản xuất thuốc thú y;\n\nb) Bản thuyết minh về cơ sở vật chất, kỹ thuật sản xuất thuốc thú y;\n\nc) Danh mục các loại thuốc thú y, nguyên liệu sản xuất;\n\nd) Giấy chứng nhận đăng ký doanh nghiệp (bản chính hoặc bản sao có đóng dấu xác nhận của doanh nghiệp đăng ký);\n\nđ) Chứng chỉ hành nghề sản xuất thuốc thú y (bản chính hoặc bản sao có đóng dấu xác nhận của doanh nghiệp đăng ký).",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_08_QLT-09-2025-TT-BNNMT_chunk_0002",
+            "char_count": 954,
+            "source_file": "Maudon/MAU SO 08.QLT-09-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 08.QLT-09-2025-TT-BNNMT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:34:21",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_08_QLT-09-2025-TT-BNNMT_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_08_QLT-09-2025-TT-BNNMT",
+        "text": "nghiệp (bản chính hoặc bản sao có đóng dấu xác nhận của doanh nghiệp đăng ký);\n\nđ) Chứng chỉ hành nghề sản xuất thuốc thú y (bản chính hoặc bản sao có đóng dấu xác nhận của doanh nghiệp đăng ký).\n\n|  | ..., ngày... tháng... năm...<br>Đại diện cơ sở<br>(Ký tên và đóng dấu nếu có) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_08_QLT-09-2025-TT-BNNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 297,
+            "source_file": "Maudon/MAU SO 08.QLT-09-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 08.QLT-09-2025-TT-BNNMT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:34:21",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

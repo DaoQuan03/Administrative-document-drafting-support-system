@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_PHIEU_SO_10b-QD-2969-QD-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_PHIEU_SO_10b-QD-2969-QD-BYT",
+        "text": "Mẫu phiếu 10b\n\n| TÊN ĐƠN VỊ<br>* |  |\n| --- | --- |\n|  | …………, ngày tháng năm |\n\nPHIẾU LẤY Ý KIẾN\n\nVề việc bổ nhiệm chức vụ Trưởng/Phó Trưởng khoa/phòng...\n(Phiếu dành cho Tập thể lãnh đạo khoa/phòng)\n\nCăn cứ nhu cầu công tác, tiêu chuẩn các chức danh quy định tại Quyết định số………./QĐ-BYT ngày.../.../2021 của Bộ trưởng Bộ Y tế; trên cơ sở kết quả phiếu giới thiệu ở Bước 2, đề nghị đồng chí cho ý kiến về việc bổ nhiệm 01 trong 02 đồng chí có tên dưới đây giữ chức vụ Trưởng/Phó Trưởng khoa, phòng…..:\n\n| TT | Họ và tên | Ngày tháng năm sinh | Chức vụ, đơn vị công tác hiện nay | Đồng ý | Không đồng ý |\n| --- | --- | --- | --- | --- | --- |\n| 01 | Nguyễn Văn A | 10/6/1975 | Viên chức khoa A |  |  |\n| 02 | Nguyễn Văn B | 20/5/1970 | Viên chức khoa C |  |  |\n\n* Nếu đồng chí đồng ý hoặc không đồng ý thì đánh dấu X vào ô tương ứng.\n\n* Nếu không đồng ý, đồng chí có thể giới thiệu nhân sự khác ……………………………….\n\n………………………………………………………………………………………………………..\n\n(Ký tên hoặc không phải ký tên)",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 985,
+            "source_file": "mauphieu/MAU PHIEU SO 10b-QD-2969-QD-BYT.doc",
+            "file_name": "MAU PHIEU SO 10b-QD-2969-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:25:46",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

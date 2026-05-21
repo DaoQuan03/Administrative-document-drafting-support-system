@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_23-PHU_LUC_II-68-2025-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_23-PHU_LUC_II-68-2025-TT-BTC",
+        "text": "Mẫu số 23\n\n| CƠ QUAN ĐĂNG KÝ KINH DOANH<br>CẤP XÃ<br>----------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>------------------ |\n| --- | --- |\n| Số: …………. | ……, ngày…..tháng…..năm…… |\n\nTHÔNG BÁO\n\nVề việc xử lý hồ sơ đăng ký hộ kinh doanh hoặc ra thông báo, quyết định không đúng quy định về hồ sơ, trình tự, thủ tục\n\n| Kính gửi: | (Tên hộ kinh doanh)<br>Trụ sở của hộ kinh doanh:<br>Mã số hộ kinh doanh: |\n| --- | --- |\n\n(Cơ quan đăng ký kinh doanh cấp xã)...\n\nĐịa chỉ trụ sở: ...\n\nĐiện thoại: ... Fax: ...\n\nThư điện tử: ...Website: ...\n\nCăn cứ:\n\n- Kết luận/biên bản làm việc về việc...;\n\n- ...\n\n(Cơ quan đăng ký kinh doanh cấp xã) thông báo về việc xử lý hồ sơ đăng ký hộ kinh doanh/ra thông báo, quyết định không đúng quy định về hồ sơ, trình tự, thủ tục theo quy định đối với (tên hộ kinh doanh, mã số hộ kinh doanh) như sau: …………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_23-PHU_LUC_II-68-2025-TT-BTC_chunk_0002",
+            "char_count": 867,
+            "source_file": "thongbao/MAU SO 23-PHU LUC II-68-2025-TT-BTC.doc",
+            "file_name": "MAU SO 23-PHU LUC II-68-2025-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:05:47",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_23-PHU_LUC_II-68-2025-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_23-PHU_LUC_II-68-2025-TT-BTC",
+        "text": "về việc xử lý hồ sơ đăng ký hộ kinh doanh/ra thông báo, quyết định không đúng quy định về hồ sơ, trình tự, thủ tục theo quy định đối với (tên hộ kinh doanh, mã số hộ kinh doanh) như sau: …………………………\n\n(Cơ quan đăng ký kinh doanh cấp xã) sẽ thực hiện lại việc xử lý hồ sơ đăng ký hộ kinh doanh/ra thông báo, quyết định nêu trên theo đúng quy định về hồ sơ, trình tự, thủ tục.\n\n| Nơi nhận:<br>- Như trên;<br>- ……….;<br>- Lưu: ….. | TRƯỞNG PHÒNG<br>(Ký, ghi họ tên và đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_23-PHU_LUC_II-68-2025-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 488,
+            "source_file": "thongbao/MAU SO 23-PHU LUC II-68-2025-TT-BTC.doc",
+            "file_name": "MAU SO 23-PHU LUC II-68-2025-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:05:47",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

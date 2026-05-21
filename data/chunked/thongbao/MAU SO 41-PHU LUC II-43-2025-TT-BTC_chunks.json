@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_41-PHU_LUC_II-43-2025-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_41-PHU_LUC_II-43-2025-TT-BTC",
+        "text": "Mẫu số 41\n\n| CƠ QUAN ĐĂNG KÝ KINH DOANH CẤP XÃ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ……. | ….., ngày …. tháng …. năm ….. |\n\nTHÔNG BÁO\n\nVề cơ quan thuế quản lý trực tiếp tổ hợp tác/hợp tác xã/ chi nhánh/văn phòng đại diện của hợp tác xã\n\n| Kính gửi: | (Tên tổ hợp tác/hợp tác xã)<br>Địa chỉ trụ sở chính:<br>Mã số tổ hợp tác/hợp tác xã: |\n| --- | --- |\n\n(Tên Cơ quan đăng ký kinh doanh cấp xã) ...\n\nĐịa chỉ trụ sở: ...\n\nĐiện thoại: ………………………………… Fax: ...\n\nEmail: ……………………………………… Website: ...\n\nCăn cứ thông tin do cơ quan thuế cung cấp, (Tên Cơ quan đăng ký kinh doanh cấp xã) xin thông báo về cơ quan thuế quản lý trực tiếp tổ hợp tác/hợp tác xã/chi nhánh/văn phòng đại diện của hợp tác xã như sau:\n\nTên cơ quan thuế quản lý trực tiếp tổ hợp tác/hợp tác xã/chi nhánh/văn phòng đại diện của hợp tác xã:\n\nĐề nghị tổ hợp tác/hợp tác xã liên hệ với cơ quan thuế quản lý trực tiếp để kê khai, nộp thuế theo quy định.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_41-PHU_LUC_II-43-2025-TT-BTC_chunk_0002",
+            "char_count": 992,
+            "source_file": "thongbao/MAU SO 41-PHU LUC II-43-2025-TT-BTC.doc",
+            "file_name": "MAU SO 41-PHU LUC II-43-2025-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:13:03",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_41-PHU_LUC_II-43-2025-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_41-PHU_LUC_II-43-2025-TT-BTC",
+        "text": "thuế quản lý trực tiếp tổ hợp tác/hợp tác xã/chi nhánh/văn phòng đại diện của hợp tác xã:\n\nĐề nghị tổ hợp tác/hợp tác xã liên hệ với cơ quan thuế quản lý trực tiếp để kê khai, nộp thuế theo quy định.\n\n| Nơi nhận:<br>- Như trên;<br>- ………..;<br>- Lưu: ... | TRƯỞNG PHÒNG<br>(Ký, ghi họ tên và đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_41-PHU_LUC_II-43-2025-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 316,
+            "source_file": "thongbao/MAU SO 41-PHU LUC II-43-2025-TT-BTC.doc",
+            "file_name": "MAU SO 41-PHU LUC II-43-2025-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:13:03",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

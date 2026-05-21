@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_04-PHU_LUC_I-69-2025-TT-BNNMT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_04-PHU_LUC_I-69-2025-TT-BNNMT",
+        "text": "Mẫu số 04\n\nMẪU PHIẾU ĐÁNH GIÁ LOÀI NGOẠI LAI XÂM HẠI\n\n| BỘ NÔNG NGHIỆP VÀ <br>MÔI TRƯỜNG<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | ..., ngày  tháng  năm |\n\nPHIẾU ĐÁNH GIÁ LOÀI NGOẠI LAI XÂM HẠI\n\nI. Thông tin về thành viên Hội đồng\n\n1. Họ và tên:\n\n2. Chức vụ:\n\n3. Học hàm, học vị:\n\n4. Đơn vị công tác:\n\nII. Thông tin về đánh giá nguy cơ xâm hại của loài ngoại lai đề nghị thẩm định\n\n1. Tên khoa học:...\n\n2. Tên tiếng Việt:...\n\n3. Thuộc đối tượng: □ Động vật □ Thực vật □ Vi sinh vật\n\n4. Phân loại học: Giới: ... Ngành: ... Lớp:... Bộ:... Họ: ...\n\n5. Khu vực phân bố (nguồn gốc phân bố): ...\n\nThông tin bổ sung (nếu có) và trích dẫn nguồn tài liệu tham khảo: ...\n\n6. Ghi nhận xuất hiện tại Việt Nam: ...\n\nThông tin bổ sung (nếu có) và trích dẫn nguồn tài liệu tham khảo: ...\n\n7. Những cân nhắc về ảnh hưởng đối với kinh tế - xã hội khi đưa loài vào hoặc đưa ra khỏi Danh mục loài ngoại lai xâm hại (nếu có).",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_04-PHU_LUC_I-69-2025-TT-BNNMT_chunk_0002",
+            "char_count": 983,
+            "source_file": "mauphieu/MAU SO 04-PHU LUC I-69-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 04-PHU LUC I-69-2025-TT-BNNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:55:51",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_04-PHU_LUC_I-69-2025-TT-BNNMT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_04-PHU_LUC_I-69-2025-TT-BNNMT",
+        "text": "tin bổ sung (nếu có) và trích dẫn nguồn tài liệu tham khảo: ...\n\n7. Những cân nhắc về ảnh hưởng đối với kinh tế - xã hội khi đưa loài vào hoặc đưa ra khỏi Danh mục loài ngoại lai xâm hại (nếu có).\n\nIII. Đề xuất và kiến nghị:\n\n1. Đề xuất đối với loài ngoại lai\n\n□ Đưa vào Danh mục loài ngoại lai xâm hại.\n\n□ Không đưa vào Danh mục loài ngoại lai xâm hại.\n\n2. Kiến nghị: ...\n\n|  | Ngày ... tháng ... năm ... <br>THÀNH VIÊN HỘI ĐỒNG <br>(Ký tên, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_04-PHU_LUC_I-69-2025-TT-BNNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 473,
+            "source_file": "mauphieu/MAU SO 04-PHU LUC I-69-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 04-PHU LUC I-69-2025-TT-BNNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:55:51",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    }
+]

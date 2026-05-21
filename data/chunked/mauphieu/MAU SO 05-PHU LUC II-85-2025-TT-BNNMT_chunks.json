@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_05-PHU_LUC_II-85-2025-TT-BNNMT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_05-PHU_LUC_II-85-2025-TT-BNNMT",
+        "text": "Mẫu số 05\n\nPHIẾU CUNG CẤP THÔNG TIN KẾT QUẢ ĐIỀU TRA, QUAN TRẮC, ĐÁNH GIÁ TÌNH TRẠNG LOÀI\n\nKính gửi: Bộ Nông nghiệp và Môi trường\n\nI. THÔNG TIN CHUNG\n\n1. Tên tổ chức/cá nhân:...\n\n2. Địa chỉ:...\n\n3. Số điện thoại: ...\n\n4. Địa điểm:...\n\n5. Thời gian (Ngày bắt đầu đến ngày kết thúc):...\n\nII. PHƯƠNG PHÁP (Mô tả chi tiết phương pháp thực hiện thu thập thông tin/số liệu): …………………………………………………………………………………………\n\nIII. KẾT QUẢ\n\n1. Điều tra:\n\na) Vùng phân bố, nơi cư trú và tình trạng môi trường sống:…………………….\n\nb) Tình trạng quần thể: (thông tin số lượng quần thể, cá thể)...\n\nc) Các giá trị đặc biệt về khoa học, y tế, kinh tế, sinh thái, cảnh quan, môi trường, văn hóa - lịch sử:…………………………………………………………………\n\nd) Hiện trạng quản lý, bảo vệ và phát triển loài:………………………………….\n\n2. Quan trắc:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_05-PHU_LUC_II-85-2025-TT-BNNMT_chunk_0002",
+            "char_count": 777,
+            "source_file": "mauphieu/MAU SO 05-PHU LUC II-85-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 05-PHU LUC II-85-2025-TT-BNNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:58:46",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_05-PHU_LUC_II-85-2025-TT-BNNMT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_05-PHU_LUC_II-85-2025-TT-BNNMT",
+        "text": "trị đặc biệt về khoa học, y tế, kinh tế, sinh thái, cảnh quan, môi trường, văn hóa - lịch sử:…………………………………………………………………\n\nd) Hiện trạng quản lý, bảo vệ và phát triển loài:………………………………….\n\n2. Quan trắc:\n\n| TT | Tên loài | Tên loài | Tần suất bắt gặp | Địa điểm bắt gặp | Số lượng | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- |\n|  | Tên tiếng Việt | Tên khoa học | Tần suất bắt gặp | Địa điểm bắt gặp | Số lượng | Ghi chú |\n| A | ĐỘNG VẬT |  |  |  |  |  |\n| A.1 | ĐỘNG VẬT CÓ XƯƠNG/ KHÔNG XƯƠNG/… |  |  |  |  |  |\n| A.1.1 | THÚ |  |  |  |  |  |\n| I | TÊN BỘ 1 |  |  |  |  |  |\n| 1.1 | Tên họ 1 (thuộc bộ 1) |  |  |  |  |  |\n| 1.1.1 | Tên chi 1 (thuộc họ 1) |  |  |  |  |  |\n|  | Tên loài 1 (thuộc chi 1) |  |  |  |  |  |\n|  | Tên loài 2 (thuộc chi 1) |  |  |  |  |  |\n|  | … |  |  |  |  |  |\n| 1.1.2 | Tên chi 2 (thuộc họ 1) |  |  |  |  |  |\n|  | Tên loài 1 (thuộc chi 2) |  |  |  |  |  |\n|  | Tên loài 2 (thuộc chi 2) |  |  |  |  |  |\n|  | … |  |  |  |  |  |\n| II | TÊN BỘ 2 |  |  |  |  |  |\n| 2.1 | Tên họ 1 (thuộc bộ 2) |  |  |  |  |  |\n| 2.1.1 | Tên chi 1 (thuộc họ 1) |  |  |  |  |  |\n|  | Tên loài 1 (thuộc chi 1) |  |  |  |  |  |\n|  | Tên loài 2 (thuộc chi 1) |  |  |  |  |  |\n|  | … |  |  |  |  |  |\n| 2.1.2 | Tên chi 2 (thuộc họ 1) |  |  |  |  |  |\n|  | Tên loài 1 (thuộc chi 2) |  |  |  |  |  |\n|  | Tên loài 2 (thuộc chi 2) |  |  |  |  |  |\n|  | …. |  |  |  |  |  |\n| A.1.2 | CHIM |  |  |  |  |  |\n|  | … |  |  |  |  |  |\n| A.1.3 | BÒ SÁT |  |  |  |  |  |\n|  | … |  |  |  |  |  |\n| A.1.4 | LƯỠNG CƯ |  |  |  |  |  |\n|  | … |  |  |  |  |  |\n| A.1.5 | CÁ |  |  |  |  |  |\n|  | …. |  |  |  |  |  |\n| Tổng | Tổng |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_SO_05-PHU_LUC_II-85-2025-TT-BNNMT_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_SO_05-PHU_LUC_II-85-2025-TT-BNNMT_chunk_0003",
+            "char_count": 1640,
+            "source_file": "mauphieu/MAU SO 05-PHU LUC II-85-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 05-PHU LUC II-85-2025-TT-BNNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:58:46",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_05-PHU_LUC_II-85-2025-TT-BNNMT_chunk_0003",
+        "doc_id": "mauphieu_MAU_SO_05-PHU_LUC_II-85-2025-TT-BNNMT",
+        "text": "| BÒ SÁT |  |  |  |  |  |\n|  | … |  |  |  |  |  |\n| A.1.4 | LƯỠNG CƯ |  |  |  |  |  |\n|  | … |  |  |  |  |  |\n| A.1.5 | CÁ |  |  |  |  |  |\n|  | …. |  |  |  |  |  |\n| Tổng | Tổng |  |  |  |  |  |\n\n3. Đánh giá:\n\na) Mức độ bị đe dọa tuyệt chủng:………………………………………………\n\nb) Hiệu quả quản lý, bảo vệ:……………………………………………………\n\nIV. KIẾN NGHỊ (Nếu có)\n\n……………………………………………………………………………………..\n\n…………………………………………………………………………………………….\n\n|  | Địa điểm, ngày…. tháng….. năm…….<br>Tổ chức/ cá nhân<br>(Ký, đóng dấu, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_SO_05-PHU_LUC_II-85-2025-TT-BNNMT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 517,
+            "source_file": "mauphieu/MAU SO 05-PHU LUC II-85-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 05-PHU LUC II-85-2025-TT-BNNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:58:46",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    }
+]

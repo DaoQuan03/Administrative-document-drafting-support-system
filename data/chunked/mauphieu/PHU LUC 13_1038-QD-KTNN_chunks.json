@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_13_1038-QD-KTNN_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_13_1038-QD-KTNN",
+        "text": "PHỤ LỤC 13\n\nPHIẾU ĐÁNH GIÁ, XẾP LOẠI\n\nKẾT QUẢ ĐỀ TÀI NGHIÊN CỨU KHOA HỌC CẤP BỘ (CƠ SỞ)\n\n1. Tên đề tài: …………………………………………………………………………………………\n\n…………………………………………………………………………………………………………\n\n2. Tên tổ chức chủ trì thực hiện đề tài:\n\n3. Tên chủ nhiệm đề tài:…………………………………………………………………………\n\n4. Họ và tên người đánh giá: ………………………………………………………………….\n\n- Học vị: ……………………..., Chức danh khoa học: ……………………...\n\n- Ngành chuyên môn: ……………………..., Chức danh hội đồng………………………….\n\n5. Nội dung đánh giá",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_13_1038-QD-KTNN_chunk_0002",
+            "char_count": 475,
+            "source_file": "mauphieu/PHU LUC 13_1038-QD-KTNN.doc",
+            "file_name": "PHU LUC 13_1038-QD-KTNN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:35:42",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_13_1038-QD-KTNN_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_13_1038-QD-KTNN",
+        "text": "Họ và tên người đánh giá: ………………………………………………………………….\n\n- Học vị: ……………………..., Chức danh khoa học: ……………………...\n\n- Ngành chuyên môn: ……………………..., Chức danh hội đồng………………………….\n\n5. Nội dung đánh giá\n\n| TT | Nội dung đánh giá | Thang điểm | Điểm đánh giá |\n| --- | --- | --- | --- |\n| 1 | Về phương pháp nghiên cứu của đề tài (cách tiếp cận đề tài và việc sử dụng các phương pháp khoa học trong nghiên cứu, điều tra, khảo sát) | 10 |  |\n| 2 | Về giá trị khoa học của kết quả nghiên cứu: | 45 |  |\n| 2.1 | Mức độ đạt mục tiêu, nhiệm vụ nghiên cứu và các yêu cầu về sản phảm của đề tài đã cam kết trong hợp đồng (thể hiện qua báo cáo tổng hợp kết quả nghiên cứu, báo cáo tóm tắt và bản kiến nghị) | 20 |  |\n| 2.2 | Độ tin cậy, tính cập nhật, phong phú của hệ thống tài liệu đã sử dụng và số liệu đã điều tra, thu thập | 15 |  |\n| 2.3 | Cái mới của kết quả nghiên cứu; tính sáng tạo, độc đáo của đề tài | 10 |  |\n| 3 | Về giá trị thực tiễn của kết quả nghiên cứu: | 35 |  |\n| 3.1 | Cung cấp các luận cứ khoa học cho việc hoạch định đường lối, chính sách; giải quyết những vấn đề của thực tiễn và đóng góp vào việc phát triển khoa học | 10 |  |\n| 3.2 | Phục vụ cho công tác đào tạo, nghiên cứu | 5 |  |\n| 3.3 | Khả năng ứng dụng, sử dụng kết quả nghiên cứu của đề tài vào thực tiễn | 20 |  |\n| 4 | Về tổ chức thực hiện đề tài (thực hiện tiến độ và huy động, sử dụng lực lượng nghiên cứu) | 10 |  |\n|  | Tổng cộng | 100 |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_PHU_LUC_13_1038-QD-KTNN_chunk_0001",
+            "next_chunk_id": "mauphieu_PHU_LUC_13_1038-QD-KTNN_chunk_0003",
+            "char_count": 1414,
+            "source_file": "mauphieu/PHU LUC 13_1038-QD-KTNN.doc",
+            "file_name": "PHU LUC 13_1038-QD-KTNN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:35:42",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_13_1038-QD-KTNN_chunk_0003",
+        "doc_id": "mauphieu_PHU_LUC_13_1038-QD-KTNN",
+        "text": "dụng, sử dụng kết quả nghiên cứu của đề tài vào thực tiễn | 20 |  |\n| 4 | Về tổ chức thực hiện đề tài (thực hiện tiến độ và huy động, sử dụng lực lượng nghiên cứu) | 10 |  |\n|  | Tổng cộng | 100 |  |\n\n……………, Ngày……..tháng…….năm……..\n\nNGƯỜI ĐÁNH GIÁ",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_PHU_LUC_13_1038-QD-KTNN_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 247,
+            "source_file": "mauphieu/PHU LUC 13_1038-QD-KTNN.doc",
+            "file_name": "PHU LUC 13_1038-QD-KTNN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:35:42",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

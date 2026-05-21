@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_C41-BB-79-2019-TT-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_C41-BB-79-2019-TT-BTC",
+        "text": "| ĐƠN VỊ: …………………………<br>Mã QHNS:………………………. | Mẫu số: C41-BB<br>(Ban hành kèm theo Thông tư số 79/2019/TT-BTC ngày 14/11/2019 của Bộ Tài chính) |\n| --- | --- |\n\n| PHIẾU CHI |  |\n| --- | --- |\n| Ngày ….tháng……năm<br>Số: ………… | Quyển số:…….. |\n\nNợ:…………..\n\nCó:…………...\n\nHọ tên người nộp tiền: ……………………………………………………………………….\n\nĐịa chỉ: …………………………………………………………………………………………\n\nNội dung: ………………………………………………………………………………………\n\nSố tiền: ……………………………………………………………………………….(loại tiền)\n\n(Viết bằng chữ): ……………………………………………………………………………….\n\nKèm theo: ………………………………………………………………………………………\n\n| THỦ TRƯỞNG ĐƠN VỊ<br>(Ký, họ tên) | KẾ TOÁN TRƯỞNG<br>(Ký, họ tên) | NGƯỜI LẬP<br>(Ký, họ tên) |\n| --- | --- | --- |\n\nĐã nhận đủ số tiền: - Bằng số: ……………………………………………………………….\n\n- Bằng chữ: ……………………………………………………………..\n\n| THỦ QUỸ<br>(Ký, họ tên) | Ngày….tháng…..năm……<br>NGƯỜI NHẬN TIỀN<br>(Ký, họ tên) |\n| --- | --- |\n\n+ Tỷ giá ngoại tệ: ………………………………………………………………………….\n\n+ Số tiền quy đổi: ………………………………………………………………………….",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_C41-BB-79-2019-TT-BTC_chunk_0002",
+            "char_count": 971,
+            "source_file": "mauphieu/MAU SO C41-BB-79-2019-TT-BTC.doc",
+            "file_name": "MAU SO C41-BB-79-2019-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:22:49",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_C41-BB-79-2019-TT-BTC_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_C41-BB-79-2019-TT-BTC",
+        "text": "THỦ QUỸ<br>(Ký, họ tên) | Ngày….tháng…..năm……<br>NGƯỜI NHẬN TIỀN<br>(Ký, họ tên) |\n| --- | --- |\n\n+ Tỷ giá ngoại tệ: ………………………………………………………………………….\n\n+ Số tiền quy đổi: ………………………………………………………………………….\n\nNguồn: Thông tư 79/2019/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_C41-BB-79-2019-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 228,
+            "source_file": "mauphieu/MAU SO C41-BB-79-2019-TT-BTC.doc",
+            "file_name": "MAU SO C41-BB-79-2019-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:22:49",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

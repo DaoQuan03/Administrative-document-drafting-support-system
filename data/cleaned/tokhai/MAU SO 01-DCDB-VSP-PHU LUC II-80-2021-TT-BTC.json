@@ -1,0 +1,10 @@
+{
+    "content": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTỜ KHAI ĐIỀU CHỈNH THUẾ ĐẶC BIỆT ĐỐI VỚI KHÍ THIÊN NHIÊN\n\n[01] Kỳ tính thuế: Năm ...\n\n[01a] Lần đầu □          [01b] Bổ sung lần thứ: ...\n\n[02] Tên người nộp thuế: ...\n\n[03] Mã số thuế:\n\n[04] Địa chỉ: ... [05] Xã/phường/đặc khu: ... [06] Tỉnh/Thành phố: ...\n\n[07] Điện thoại: ... [08] Fax:  ... [09] E-mail: ...\n\n[10] Hợp đồng dầu khí lô: ...\n\n[11] Mã số thuế nhà điều hành hợp đồng dầu khí:\n\n[12] Tên đơn vị được uỷ quyền [   ] hoặc Đại lý thuế [   ]: ...\n\n[13] Mã số thuế:\n\n[14] Địa chỉ: ... [15] Xã/phường/đặc khu: ... [16] Tỉnh/Thành phố: ...\n\n[17] Điện thoại: ... [18] Fax:  ... [19] E-mail: ...\n\n[20] Hợp đồng uỷ quyền hoặc Hợp đồng đại lý thuế, số: ... ngày: ...\n\n| STT | Chỉ tiêu | Mã số | Đơn vị | Giá trị |\n| --- | --- | --- | --- | --- |\n| STT | Chỉ tiêu | Mã số | Đơn vị | Giá trị |\n| (1) | (2) | (3) | (4) | (5) |\n| 1 | Số tiền thuế đặc biệt phải nộp trong kỳ tính thuế | [21] | (USD; VND) |  |\n| 2 | Số tiền thuế đặc biệt tạm tính đã kê khai trong kỳ tính thuế | [22] | (USD; VND) |  |\n| 3 | Chênh lệch giữa số tiền thuế đặc biệt phải nộp với số đã kê khai trong kỳ tính thuế [23]=[21]-[22] | [23] | (USD; VND) |  |\n| 4 | Tỷ giá quy đổi | [24] | VND/USD |  |\n\nTôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về số liệu đã khai./.\n\n| NHÂN VIÊN ĐẠI LÝ THUẾ<br>Họ và tên:...<br>Chứng chỉ hành nghề số:... | ..., ngày... tháng... năm...<br>NGƯỜI NỘP THUẾ hoặc <br>ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ<br>(Chữ ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có)/Ký điện tử) |\n| --- | --- |\n\nGhi chú: USD: đô la Mỹ; VND: đồng Việt Nam.",
+    "metadata": {
+        "source_file": "tokhai/MAU SO 01-DCDB-VSP-PHU LUC II-80-2021-TT-BTC.doc",
+        "file_name": "MAU SO 01-DCDB-VSP-PHU LUC II-80-2021-TT-BTC.doc",
+        "folder": "tokhai",
+        "original_extension": ".doc",
+        "cleaned_at": "2026-05-20T22:45:47"
+    }
+}

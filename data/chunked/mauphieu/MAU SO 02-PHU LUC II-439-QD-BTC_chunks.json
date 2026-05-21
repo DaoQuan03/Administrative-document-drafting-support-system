@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_02-PHU_LUC_II-439-QD-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_02-PHU_LUC_II-439-QD-BTC",
+        "text": "Mẫu số 02\n\n| TÊN ĐƠN VỊ:...<br>------- |  |\n| --- | --- |\n\nPHIẾU ĐỊNH HƯỚNG/GIỚI THIỆU/BIỂU QUYẾT BỔ NHIỆM\nĐối với chức danh ...\n\n(Hội nghị...)\n\n| STT | Họ và tên | Ngày, tháng, năm sinh | Ngày, tháng, năm sinh | Chức vụ hiện tại | Định hướng/Giới thiệu/biểu quyết | Định hướng/Giới thiệu/biểu quyết |\n| --- | --- | --- | --- | --- | --- | --- |\n| STT | Họ và tên | Nam | Nữ |  | Đồng ý | Không đồng ý |\n| I | 2 | 3 | 4 | 5 | 6 | 7 |\n| 1 |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |\n\nÝ kiến khác (nếu có): ...\n\n|  | NGƯỜI GHI PHIẾU<br>(Có thể ký hoặc không ký tên) |\n| --- | --- |\n\nDanh sách các nhân sự đáp ứng tiêu chuẩn, điều kiện theo quy định được hội nghị tập thể lãnh đạo thông qua ở Bước 1 hoặc được hội nghị ở bước 2, 3 giới thiệu, bảo đảm nguyên tắc lựa chọn, giới thiệu theo quy định.\n\nLưu ý: - Đánh dấu nhân (x) vào cột lựa chọn.\n\n- Mỗi thành viên tham dự hội nghị đồng ý và giới thiệu không quá số lượng bổ nhiệm đã được cấp có thẩm quyền phê duyệt.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 984,
+            "source_file": "mauphieu/MAU SO 02-PHU LUC II-439-QD-BTC.doc",
+            "file_name": "MAU SO 02-PHU LUC II-439-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:44:33",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

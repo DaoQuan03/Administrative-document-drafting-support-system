@@ -1,0 +1,128 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0001",
+        "doc_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015",
+        "text": "| NGÂN HÀNG<br>CHÍNH SÁCH XÃ HỘI<br>--------<br>Huyện:... | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>-------------- | Mẫu số: 01/TĐ<br>Lập 01 liên |\n| --- | --- | --- |\n\nPHIẾU THẨM ĐỊNH\nDỰ ÁN VAY VỐN TRỒNG RỪNG SẢN XUẤT\n(Áp dụng đối với người vay trồng rừng sản xuất trên 50 triệu đồng)\n\nI. THÔNG TIN CHUNG VỀ NGƯỜI VAY\n\n1. Họ và tên chủ dự án:……………………………………….. sinh ngày:……./……./……; Nam/Nữ\n\nCMND số:…………….; cấp ngày:…….. /…… /……… Nơi cấp:…………………………………….\n\nHiện cư trú: Thôn:…………………………….. xã ………………………………………………………\n\nhuyện …………………………………………..tỉnh ………………………………………………………\n\n□ Hộ khẩu thường trú;\n\n□ Đăng ký tạm trú: thời hạn…………. tháng, kể từ ngày.../…… /……..\n\n2. Họ tên người thừa kế:……………………………. Quan hệ với người vay:……………………….\n\n3. Chủ dự án và người thừa kế có đủ năng lực pháp luật dân sự và năng lực hành vi dân sự:\n\n□ Có                                         □ Không\n\n4. Được giao ………..ha đất trồng rừng, tại: thửa đất số: …………. thôn:…………………………;",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 7,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0002",
+            "char_count": 974,
+            "source_file": "mauphieu/MAU 01-TDD_4288-NHCS-TDNN-2015.doc",
+            "file_name": "MAU 01-TDD_4288-NHCS-TDNN-2015.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:44:11",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0002",
+        "doc_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015",
+        "text": "kế có đủ năng lực pháp luật dân sự và năng lực hành vi dân sự:\n\n□ Có                                         □ Không\n\n4. Được giao ………..ha đất trồng rừng, tại: thửa đất số: …………. thôn:…………………………;\n\nxã:……………………; huyện:…………………………; tỉnh:………………………………………….\n\n5. Thửa đất trồng rừng này:\n\n□ Đã được giao sử dụng trồng rừng trong ………..năm, kể từ năm …………………..\n\n□ Đã được cấp Giấy chứng nhận quyền sử dụng/Quyết định giao đất rừng: Số:……………..\n\nNgày cấp:.../……../…….. Cơ quan cấp:……………………………………..\n\nII. MỤC TIÊU CỦA DỰ ÁN\n\nA. Trồng rừng sản xuất:\n\n1. Diện tích trồng: ……………….. ha. Trong đó:\n\n| TT | Loại cây trồng | Diện tích (ha) | Thời gian sinh trưởng (năm) | Dự kiến thời gian thu hoạch (năm) | Sản lượng (m3) | Giá trị (Triệu đ) |\n| --- | --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |\n| ... |  |  |  |  |  |  |\n| Tổng cộng | Tổng cộng |  |  |  |  |  |\n\n2. Dự kiến thu hoạch được:………m3 gỗ các loại.\n\n3. Tạo thêm việc làm tương đương ………………..lao động.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 7,
+            "prev_chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0003",
+            "char_count": 980,
+            "source_file": "mauphieu/MAU 01-TDD_4288-NHCS-TDNN-2015.doc",
+            "file_name": "MAU 01-TDD_4288-NHCS-TDNN-2015.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:44:11",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0003",
+        "doc_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015",
+        "text": "|  |  |  |\n| 2 |  |  |  |  |  |  |\n| ... |  |  |  |  |  |  |\n| Tổng cộng | Tổng cộng |  |  |  |  |  |\n\n2. Dự kiến thu hoạch được:………m3 gỗ các loại.\n\n3. Tạo thêm việc làm tương đương ………………..lao động.\n\n4. Tăng thêm thu nhập cho hộ gia đình bình quân:………………….triệu đồng/năm.\n\n5. Kỹ năng trồng, chăm sóc rừng của chủ dự án\n\na) Chủ dự án đã qua lớp tập huấn khuyến lâm về loại cây trồng này?\n\n□ Có              □ Không\n\nb) Chủ dự án có đủ kỹ năng về trồng, chăm sóc loại cây trồng này?\n\n□ Có               □ Không\n\n6 Thị trường đầu vào, đầu ra\n\na) Nguồn cung cấp cây/hạt giống (tên, địa chỉ): ……………………………………………………..\n\n………………………………………………………………………………………………………………\n\n……………………………………………………………………………………………………………….\n\nb) Dự báo khả năng tiêu thụ sản phẩm trồng rừng tại địa phương:\n\n| ● Gỗ: | □ Có | □ Không |\n| --- | --- | --- |\n| ● Củi: | □ Có | □ Không |\n| ● ……… | □ Có | □ Không |\n| ● ……… | □ Có | □ Không |\n\n7. Doanh thu, chi phí, thu nhập trồng rừng",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 7,
+            "prev_chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0004",
+            "char_count": 939,
+            "source_file": "mauphieu/MAU 01-TDD_4288-NHCS-TDNN-2015.doc",
+            "file_name": "MAU 01-TDD_4288-NHCS-TDNN-2015.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:44:11",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0004",
+        "doc_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015",
+        "text": "rừng tại địa phương:\n\n| ● Gỗ: | □ Có | □ Không |\n| --- | --- | --- |\n| ● Củi: | □ Có | □ Không |\n| ● ……… | □ Có | □ Không |\n| ● ……… | □ Có | □ Không |\n\n7. Doanh thu, chi phí, thu nhập trồng rừng\n\n| a | Tổng doanh thu bán sản phẩm rừng trồng |  |\n| --- | --- | --- |\n| b | Tổng chi phí trồng rừng |  |\n| c | Lợi nhuận [= (1) - (2)] |  |\n| d | Trả lãi tiền vay NHCSXH |  |\n| đ | Thu nhập ròng [= (3) - (4)] |  |\n\nB. Phát triển chăn nuôi\n\n1. Mục đích chăn nuôi:………………….. con ……………………………\n\n2. Thời gian thực hiện (tháng):…………………………………………….\n\n3. Chi phí chăn nuôi (chưa tính lãi vay NH):……………………………..\n\n| STT | Khoản Mục | Đơn giá | Số lượng | Thành tiền |\n| --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |\n| 2 |  |  |  |  |\n| … |  |  |  |  |\n|  | Tổng cộng |  |  |  |\n\n4. Doanh thu chăn nuôi\n\n| TT | Khoản Mục | Đơn giá | Số lượng | Thành tiền |\n| --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |\n| 2 |  |  |  |  |\n| … |  |  |  |  |\n| Tổng cộng | Tổng cộng |  |  |  |",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 7,
+            "prev_chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0003",
+            "next_chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0005",
+            "char_count": 959,
+            "source_file": "mauphieu/MAU 01-TDD_4288-NHCS-TDNN-2015.doc",
+            "file_name": "MAU 01-TDD_4288-NHCS-TDNN-2015.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:44:11",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0005",
+        "doc_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015",
+        "text": "Doanh thu chăn nuôi\n\n| TT | Khoản Mục | Đơn giá | Số lượng | Thành tiền |\n| --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |\n| 2 |  |  |  |  |\n| … |  |  |  |  |\n| Tổng cộng | Tổng cộng |  |  |  |\n\n5. Hiệu quả của chăn nuôi (Tổng doanh thu - Tổng chi phí): …………………………….triệu đồng.\n\na) Lợi nhuận (Tổng doanh thu - Tổng chi phí):……………………………………………. triệu đồng.\n\nb) Trả lãi tiền vay NH:………………………………………………………………………… triệu đồng.\n\nc) Thu nhập ròng (a-b):\n\nIII. NGUỒN VỐN VÀ KHẢ NĂNG TRẢ NỢ CỦA CHỦ DỰ ÁN\n\n1. Tổng nguồn vốn thực hiện Dự án:……………………………… đồng: Trong đó:\n\n- Vốn tự …………………………….đồng;\n\n- Vốn Ngân sách hỗ trợ ……………………………đồng;\n\n- Vốn vay NHCSXH: ………………………………đồng (Bằng chữ:……………………………. )\n\n2. Nguồn trả nợ: - Từ doanh thu bán sản phẩm rừng trồng: ………………………..triệu đồng.\n\n- Từ chăn nuôi:……………………………………………………….. triệu đồng.\n\n- Từ thu nhập khác:………………………………………………….. triệu đồng.\n\nTổng cộng:…………………………………………. triệu đồng.\n\nIV. CAM KẾT CỦA CHỦ DỰ ÁN VỀ BẢO VỆ MÔI TRƯỜNG, PHÒNG CHÁY, PHÒNG CHỐNG DỊCH BỆNH",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 7,
+            "prev_chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0004",
+            "next_chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0006",
+            "char_count": 999,
+            "source_file": "mauphieu/MAU 01-TDD_4288-NHCS-TDNN-2015.doc",
+            "file_name": "MAU 01-TDD_4288-NHCS-TDNN-2015.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:44:11",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0006",
+        "doc_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015",
+        "text": "triệu đồng.\n\n- Từ thu nhập khác:………………………………………………….. triệu đồng.\n\nTổng cộng:…………………………………………. triệu đồng.\n\nIV. CAM KẾT CỦA CHỦ DỰ ÁN VỀ BẢO VỆ MÔI TRƯỜNG, PHÒNG CHÁY, PHÒNG CHỐNG DỊCH BỆNH\n\nChủ dự án đã có cam kết, biện pháp nào về bảo vệ môi trường, phòng cháy, phòng chống dịch bệnh, bảo vệ rừng:………………………………………………………………………………………..\n\n………………………………………………………………………………………………………………\n\nV. PHÊ DUYỆT CỦA NHCSXH\n\n1. Số tiền cho vay:...đồng (Bằng chữ:……………………………………………………………… )\n\n2. Phương thức giải ngân (số kỳ, số tiền từng kỳ):…………………………………………………….\n\n………………………………………………………………………………………………………………\n\n3. Thời hạn cho vay:……….. tháng;\n\n4. Lãi suất cho vay: ……….%/tháng; Lãi suất quá hạn: Bằng 130% lãi suất cho vay.\n\n5. Trả nợ gốc thành……. kỳ,…….. tháng/kỳ. Trong đó:\n\nTrả kỳ 1: ngày… /… /…, số tiền:…………………………. đồng.\n\nTrả kỳ 2: ngày… /… /…, số tiền:…………………………. đồng.\n\nTrả kỳ 3: ngày… /… /…, số tiền:…………………………. đồng.\n\nTrả kỳ 4: ngày… …/… /, số tiền:……………………….. đồng,...",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 7,
+            "prev_chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0005",
+            "next_chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0007",
+            "char_count": 955,
+            "source_file": "mauphieu/MAU 01-TDD_4288-NHCS-TDNN-2015.doc",
+            "file_name": "MAU 01-TDD_4288-NHCS-TDNN-2015.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:44:11",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0007",
+        "doc_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015",
+        "text": "kỳ 1: ngày… /… /…, số tiền:…………………………. đồng.\n\nTrả kỳ 2: ngày… /… /…, số tiền:…………………………. đồng.\n\nTrả kỳ 3: ngày… /… /…, số tiền:…………………………. đồng.\n\nTrả kỳ 4: ngày… …/… /, số tiền:……………………….. đồng,...\n\nTrả kỳ cuối cùng: Ngày… /… /…; số tiền……………... đồng\n\n6. Trả lãi tiền vay theo định kỳ……….. tháng.\n\n| Ngày… tháng… năm…..<br>Cán bộ thẩm định<br>(Ký, ghi rõ họ tên) | Ngày… tháng… năm….. <br>Trưởng phòng (tổ trưởng) Tín dụng<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n| Ngày… tháng… năm…..<br>Giám đốc<br>(Ký tên, đóng dấu) | Ngày… tháng… năm…..<br>Giám đốc<br>(Ký tên, đóng dấu) |",
+        "metadata": {
+            "chunk_index": 7,
+            "total_chunks": 7,
+            "prev_chunk_id": "mauphieu_MAU_01-TDD_4288-NHCS-TDNN-2015_chunk_0006",
+            "next_chunk_id": null,
+            "char_count": 575,
+            "source_file": "mauphieu/MAU 01-TDD_4288-NHCS-TDNN-2015.doc",
+            "file_name": "MAU 01-TDD_4288-NHCS-TDNN-2015.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:44:11",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

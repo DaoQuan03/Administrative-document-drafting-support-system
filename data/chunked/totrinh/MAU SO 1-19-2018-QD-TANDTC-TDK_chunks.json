@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_SO_1-19-2018-QD-TANDTC-TDK_chunk_0001",
+        "doc_id": "totrinh_MAU_SO_1-19-2018-QD-TANDTC-TDK",
+        "text": "Mẫu số 1\n\n| …………(1)…………<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số:       /TTr-TĐKT | ……, ngày…… tháng…… năm 20... |\n\nTỜ TRÌNH\n\nVề việc đề nghị xét tặng Kỷ niệm chương “Vì sự nghiệp Tòa án”\n\nKính gửi: Tòa án nhân dân tối cao\n\nCăn cứ Quy chế xét tặng Kỷ niệm chương “Vì sự nghiệp Tòa án” được ban hành kèm theo Quyết định số .../2018/QĐ-TANDTC-TĐKT ngày.../.../20.. của Chánh án Tòa án nhân dân tối cao, (2)……..……………………………………………… đã họp xét, thống nhất và trình (3)……………………………… đề nghị tặng thưởng Kỷ niệm chương “Vì sự nghiệp Tòa án” cho ………… cá nhân.\n\n(Có hồ sơ kèm theo).\n\nTrong đó:\n\n1. Cán bộ, công chức trong hệ thống Tòa án nhân dân:\n\n- Đang công tác: …………người;\n\n- Đã nghỉ hưu:    …………người.\n\n2. Hội thẩm:\n\n- Đang công tác: …………người (đang trong nhiệm kỳ hội thẩm);\n\n- Đã nghỉ hưu:    …………người (đã hết nhiệm kỳ hội thẩm).\n\n3. Các trường hợp đối ngoại:\n\n- Đang công tác: …………người;\n\n- Đã nghỉ hưu:    …………người.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_SO_1-19-2018-QD-TANDTC-TDK_chunk_0002",
+            "char_count": 994,
+            "source_file": "totrinh/MAU SO 1-19-2018-QD-TANDTC-TDK.doc",
+            "file_name": "MAU SO 1-19-2018-QD-TANDTC-TDK.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:23:58",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_SO_1-19-2018-QD-TANDTC-TDK_chunk_0002",
+        "doc_id": "totrinh_MAU_SO_1-19-2018-QD-TANDTC-TDK",
+        "text": "công tác: …………người (đang trong nhiệm kỳ hội thẩm);\n\n- Đã nghỉ hưu:    …………người (đã hết nhiệm kỳ hội thẩm).\n\n3. Các trường hợp đối ngoại:\n\n- Đang công tác: …………người;\n\n- Đã nghỉ hưu:    …………người.\n\nĐề nghị Hội đồng Thi đua - Khen thưởng Tòa án nhân dân xét, trình Chánh án Tòa án nhân dân tối cao quyết định.\n\n|  | CHÁNH ÁN<br>(Ký tên, đóng dấu) |\n| --- | --- |\n\nGhi chú: (1) - Ghi tên cơ quan, đơn vị. Thí dụ: Tòa án quân sự trung ương, TAND thành phố Hà Nội, TAND cấp cao tại Đà Nẵng...\n\n(2) - Ghi tên Hội đồng Thi đua - Khen thưởng của đơn vị trình. Thí dụ: Hội đồng Thi đua - Khen thưởng Tòa án quân sự, Hội đồng Thi đua - Khen thưởng TAND thành phố Hà Nội...\n\n(3) - Ghi tên Thủ trưởng đơn vị. Thí dụ: Chánh án Tòa án quân sự trung ương, Chánh án TAND thành phố Hà Nội...",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_SO_1-19-2018-QD-TANDTC-TDK_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 776,
+            "source_file": "totrinh/MAU SO 1-19-2018-QD-TANDTC-TDK.doc",
+            "file_name": "MAU SO 1-19-2018-QD-TANDTC-TDK.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:23:58",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

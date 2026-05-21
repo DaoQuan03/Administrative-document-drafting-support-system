@@ -1,0 +1,84 @@
+/* ===== REGISTER.CSS ===== */
+
+/* Steps indicator */
+.steps-indicator {
+  display: flex; align-items: center;
+  margin: 0 0 6px;
+}
+
+.step {
+  width: 28px; height: 28px; border-radius: 50%;
+  border: 2px solid var(--border-default);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 12px; font-weight: 600;
+  color: var(--text-tertiary); background: var(--white);
+  flex-shrink: 0;
+  transition: all 0.2s;
+}
+.step.active { border-color: var(--blue-500); background: var(--blue-500); color: white; }
+.step.done { border-color: var(--green-400); background: var(--green-50); color: var(--green-600); }
+.step-line { flex: 1; height: 2px; background: var(--border-subtle); margin: 0 4px; }
+
+.steps-labels {
+  display: flex; justify-content: space-between;
+  margin-bottom: 20px;
+}
+.step-lbl {
+  font-size: 11px; color: var(--text-tertiary);
+  font-weight: 500; flex: 1; text-align: center;
+}
+.step-lbl:first-child { text-align: left; }
+.step-lbl:last-child { text-align: right; }
+.step-lbl.active { color: var(--blue-600); }
+.step-lbl.done { color: var(--green-600); }
+
+/* Field hint */
+.field-hint { font-size: 11px; color: var(--text-tertiary); margin-top: 4px; }
+
+/* Password strength */
+.password-strength {
+  display: flex; align-items: center; gap: 8px; margin-top: 6px;
+}
+.pw-bar-wrap {
+  flex: 1; height: 4px;
+  background: var(--gray-200); border-radius: 2px; overflow: hidden;
+}
+.pw-bar { height: 100%; border-radius: 2px; transition: width 0.3s, background 0.3s; width: 0%; }
+.pw-label { font-size: 11px; font-weight: 500; flex-shrink: 0; }
+
+/* Radio group */
+.radio-group { display: flex; gap: 12px; flex-wrap: wrap; }
+
+.radio-label {
+  display: flex; align-items: center; gap: 6px;
+  font-size: 13px; color: var(--text-secondary); cursor: pointer;
+}
+.radio-label input { display: none; }
+.radio-custom {
+  width: 16px; height: 16px; border-radius: 50%;
+  border: 1.5px solid var(--border-default);
+  background: var(--white); flex-shrink: 0;
+  position: relative; transition: all 0.15s;
+}
+.radio-label input:checked + .radio-custom {
+  border-color: var(--blue-500);
+}
+.radio-label input:checked + .radio-custom::after {
+  content: '';
+  position: absolute; top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  width: 8px; height: 8px;
+  background: var(--blue-500); border-radius: 50%;
+}
+
+/* Confirm summary */
+.confirm-summary {
+  background: var(--gray-50);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 16px; margin-bottom: 16px;
+  font-size: 13px;
+}
+.confirm-row { display: flex; gap: 8px; padding: 4px 0; }
+.confirm-key { color: var(--text-secondary); min-width: 90px; flex-shrink: 0; }
+.confirm-val { font-weight: 500; color: var(--text-primary); }

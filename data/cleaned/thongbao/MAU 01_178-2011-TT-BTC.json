@@ -1,0 +1,10 @@
+{
+    "content": "Mẫu số 1:\n\nTHÔNG BÁO PHÁT HÀNH BIÊN LAI\n\n(Lần thứ ...)\n\n1. Tên Doanh nghiệp phát hành Biên lai (Công ty A):...\n\n2. Mã số thuế:...\n\n3. Địa chỉ trụ sở chính:...\n\n4. Điện thoại:...\n\n5. Loại Biên lai phát hành:\n\n| STT | Tên<br>Biên lai | Mẫu số | Ký hiệu | Từ số | Ngày bắt đầu sử dụng |\n| --- | --- | --- | --- | --- | --- |\n| STT | Tên<br>Biên lai | Mẫu số | Ký hiệu | Từ số | Ngày bắt đầu sử dụng |\n|  | Biên lai thu thuế, lệ phí hải quan | xxx | AA/2011 | 0000001 | 01/01/2012 |\n|  |  |  |  |  |  |\n\n6. Thông tin đơn vị chủ quản (trường hợp đơn vị tự in Biên lai là các chi nhánh, đơn vị trực thuộc):\n\n- Tên đơn vị:...\n\n- Mã số thuế:...\n\n7. Tên cơ quan hải quan tiếp nhận thông báo:...\n\n..., ngày...tháng...năm...\n\nNGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT\n\n(Ký, đóng dấu và ghi rõ họ tên)\n\nNơi nhận:\n\n- Cơ quan HQ nơi Doanh nghiệp mở tờ khai hải quan;\n\n- Lưu.",
+    "metadata": {
+        "source_file": "thongbao/MAU 01_178-2011-TT-BTC.doc",
+        "file_name": "MAU 01_178-2011-TT-BTC.doc",
+        "folder": "thongbao",
+        "original_extension": ".doc",
+        "cleaned_at": "2026-05-20T23:12:29"
+    }
+}

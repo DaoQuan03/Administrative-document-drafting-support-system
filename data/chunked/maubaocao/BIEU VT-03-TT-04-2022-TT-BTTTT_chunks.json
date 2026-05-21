@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_VT-03-TT-04-2022-TT-BTTTT_chunk_0001",
+        "doc_id": "maubaocao_BIEU_VT-03-TT-04-2022-TT-BTTTT",
+        "text": "| Biểu VT-03 | SỐ NHÂN LỰC, HẠ TẦNG, THUÊ BAO, DOANH THU VIỄN THÔNG THEO ĐỊA BÀN TỈNH/THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG | Đơn vị báo cáo: DNVT |  |\n| --- | --- | --- | --- |\n| Ban hành kèm theo TT số .../2022/TT-BTTTT | SỐ NHÂN LỰC, HẠ TẦNG, THUÊ BAO, DOANH THU VIỄN THÔNG THEO ĐỊA BÀN TỈNH/THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG | Đơn vị báo cáo: DNVT |  |\n| Ban hành kèm theo TT số .../2022/TT-BTTTT |  |  |  |\n| Ngày nhận báo cáo: Trước ngày 10 tháng tiếp theo quý | Quý ... /20… | Đơn vị nhận báo cáo: <br>Cục VT; Sở TT&TT (*) |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_BIEU_VT-03-TT-04-2022-TT-BTTTT_chunk_0002",
+            "char_count": 526,
+            "source_file": "maubaocao/BIEU VT-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU VT-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:09:07",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_VT-03-TT-04-2022-TT-BTTTT_chunk_0002",
+        "doc_id": "maubaocao_BIEU_VT-03-TT-04-2022-TT-BTTTT",
+        "text": "vị báo cáo: DNVT |  |\n| Ban hành kèm theo TT số .../2022/TT-BTTTT |  |  |  |\n| Ngày nhận báo cáo: Trước ngày 10 tháng tiếp theo quý | Quý ... /20… | Đơn vị nhận báo cáo: <br>Cục VT; Sở TT&TT (*) |  |\n\n| T<br>T | Địa bàn | Số lao động trong lĩnh vực viễn thông | Trong đó lao động nữ | Tỷ lệ dân số được phủ sóng mạng di động tế bào (2G, 3G, 4G, 5G) | Trong đó, tỷ lệ dân số được phủ sóng chia theo công nghệ | Trong đó, tỷ lệ dân số được phủ sóng chia theo công nghệ | Trong đó, tỷ lệ dân số được phủ sóng chia theo công nghệ | Doanh thu dịch vụ viễn thông<br>(tỷ đồng) | Doanh thu băng rộng cố định <br>(tỷ đồng) | Doanh thu băng rộng di động <br>(tỷ đồng) | Số tiền DNVT nộp NSNN <br>(tỷ đồng) | Số thuê bao điện thoại | Số thuê bao điện thoại | Số thuê bao truy nhập Internet băng rộng | Số thuê bao truy nhập Internet băng rộng | Số thuê bao băng rộng cố định FTTH là hộ gia đình | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| T<br>T | Địa bàn | Số lao động trong lĩnh vực viễn thông | Trong đó lao động nữ | Tỷ lệ dân số được phủ sóng mạng di động tế bào (2G, 3G, 4G, 5G) | 3G | 4G | 5G |  |  | Doanh thu băng rộng di động <br>(tỷ đồng) |  | Cố định | Di động | Cố định | Di động |  |  |\n| A | B | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |\n|  | TOÀN QUỐC |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1 | Hà Nội |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 | Hà Giang |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| ... | ... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 63 | Cà Mau |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_BIEU_VT-03-TT-04-2022-TT-BTTTT_chunk_0001",
+            "next_chunk_id": "maubaocao_BIEU_VT-03-TT-04-2022-TT-BTTTT_chunk_0003",
+            "char_count": 1669,
+            "source_file": "maubaocao/BIEU VT-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU VT-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:09:07",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_VT-03-TT-04-2022-TT-BTTTT_chunk_0003",
+        "doc_id": "maubaocao_BIEU_VT-03-TT-04-2022-TT-BTTTT",
+        "text": "|  |  |\n| 2 | Hà Giang |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| ... | ... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 63 | Cà Mau |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\n| TỔNG HỢP, LẬP BIỂU<br>(Thông tin người thực hiện) | ..., ngày ... tháng ... năm 20...<br>TRƯỞNG ĐƠN VỊ<br>(Ký điện tử) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_BIEU_VT-03-TT-04-2022-TT-BTTTT_chunk_0002",
+            "next_chunk_id": "maubaocao_BIEU_VT-03-TT-04-2022-TT-BTTTT_chunk_0004",
+            "char_count": 336,
+            "source_file": "maubaocao/BIEU VT-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU VT-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:09:07",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_VT-03-TT-04-2022-TT-BTTTT_chunk_0004",
+        "doc_id": "maubaocao_BIEU_VT-03-TT-04-2022-TT-BTTTT",
+        "text": "63 | Cà Mau |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\n| TỔNG HỢP, LẬP BIỂU<br>(Thông tin người thực hiện) | ..., ngày ... tháng ... năm 20...<br>TRƯỞNG ĐƠN VỊ<br>(Ký điện tử) |\n| --- | --- |\n\n| (*) | DNVT gửi báo cáo Sở TT&TT tỉnh, thành phố trực thuộc Trung ương nơi doanh nghiệp có thuê bao và lao động. | DNVT gửi báo cáo Sở TT&TT tỉnh, thành phố trực thuộc Trung ương nơi doanh nghiệp có thuê bao và lao động. |\n| --- | --- | --- |\n| a) Khái niệm, phương pháp tính | a) Khái niệm, phương pháp tính | a) Khái niệm, phương pháp tính |\n| Cột | Nội dung |  |\n| (1) | Là tổng số lao động làm việc toàn thời gian của doanh nghiệp tại Việt Nam trong kỳ báo cáo có tham gia trong quá trình cung cấp dịch vụ viễn thông của doanh nghiệp. (Cách tính lao động làm toàn thời gian: Số lao động làm việc toàn thời gian bằng tỷ lệ tổng số thời gian làm việc của các lao động trong kỳ báo cáo chia cho số thời gian làm việc của một kỳ báo cáo). | Là tổng số lao động làm việc toàn thời gian của doanh nghiệp tại Việt Nam trong kỳ báo cáo có tham gia trong quá trình cung cấp dịch vụ viễn thông của doanh nghiệp. (Cách tính lao động làm toàn thời gian: Số lao động làm việc toàn thời gian bằng tỷ lệ tổng số thời gian làm việc của các lao động trong kỳ báo cáo chia cho số thời gian làm việc của một kỳ báo cáo). |\n| (3) | Là tỷ lệ phần trăm dân cư trong phạm vi có tín hiệu di động tế bào (2G/3G/4G/5G) đảm bảo tiêu chuẩn theo quy định hiện hành (không phân biệt là họ có đăng ký thuê bao hay là người sử dụng dịch vụ) và tổng dân số tính đến thời điểm cuối kỳ báo cáo. (Loại trừ những khu dân cư được bao phủ bởi mạng GPRS, EDGE hoặc CDMA 1xRTT). | Là tỷ lệ phần trăm dân cư trong phạm vi có tín hiệu di động tế bào (2G/3G/4G/5G) đảm bảo tiêu chuẩn theo quy định hiện hành (không phân biệt là họ có đăng ký thuê bao hay là người sử dụng dịch vụ) và tổng dân số tính đến thời điểm cuối kỳ báo cáo. (Loại trừ những khu dân cư được bao phủ bởi mạng GPRS, EDGE hoặc CDMA 1xRTT). |\n| (7) | Là tổng số tiền thu được từ cung cấp dịch vụ viễn thông của doanh nghiệp trong kỳ báo cáo (gồm doanh thu từ việc cung cấp dịch vụ viễn thông cho người sử dụng dịch vụ viễn thông, doanh thu từ việc cung cấp dịch vụ viễn thông cho các doanh nghiệp viễn thông trong nước, doanh thu từ việc cung cấp dịch vụ viễn thông cho các đối tác nước ngoài hoạt động ngoài lãnh thổ Việt Nam, doanh thu từ việc cung cấp dịch vụ viễn thông công ích cho người sử dụng dịch vụ viễn thông là đối tượng thụ hưởng dịch vụ viễn thông công ích) theo hướng dẫn tại Thông tư số 21/2019/TT-BTTTT ngày 31/12/2019 của Bộ TT&TT quy định về thuyết minh doanh thu viễn thông. | Là tổng số tiền thu được từ cung cấp dịch vụ viễn thông của doanh nghiệp trong kỳ báo cáo (gồm doanh thu từ việc cung cấp dịch vụ viễn thông cho người sử dụng dịch vụ viễn thông, doanh thu từ việc cung cấp dịch vụ viễn thông cho các doanh nghiệp viễn thông trong nước, doanh thu từ việc cung cấp dịch vụ viễn thông cho các đối tác nước ngoài hoạt động ngoài lãnh thổ Việt Nam, doanh thu từ việc cung cấp dịch vụ viễn thông công ích cho người sử dụng dịch vụ viễn thông là đối tượng thụ hưởng dịch vụ viễn thông công ích) theo hướng dẫn tại Thông tư số 21/2019/TT-BTTTT ngày 31/12/2019 của Bộ TT&TT quy định về thuyết minh doanh thu viễn thông. |\n| (10) | Là số tiền doanh nghiệp viễn thông nộp NSNN qua cơ quan Thuế địa phương trong kỳ báo cáo. | Là số tiền doanh nghiệp viễn thông nộp NSNN qua cơ quan Thuế địa phương trong kỳ báo cáo. |\n| b) Cách ghi biểu | b) Cách ghi biểu |  |\n|  | Ghi thông tin theo đúng các hướng dẫn trên biểu mẫu. | Ghi thông tin theo đúng các hướng dẫn trên biểu mẫu. |\n| c) Nguồn số liệu | c) Nguồn số liệu |  |\n|  | Biểu được lập từ các thông tin, số liệu của doanh nghiệp phục vụ hoạt động sản xuất, kinh doanh, vận hành mạng lưới. | Biểu được lập từ các thông tin, số liệu của doanh nghiệp phục vụ hoạt động sản xuất, kinh doanh, vận hành mạng lưới. |",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_BIEU_VT-03-TT-04-2022-TT-BTTTT_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 3910,
+            "source_file": "maubaocao/BIEU VT-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU VT-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:09:07",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

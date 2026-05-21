@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_20-TT-08-2023-TT-BLDTBXH_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_20-TT-08-2023-TT-BLDTBXH",
+        "text": "Mẫu số 20\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n------------------\n\nBẢN KHAI CÁ NHÂN\n\nHọ và tên ……………………………………….……………...\n\nNgày, tháng, năm sinh:………………………………………………………..\n\nSố định danh cá nhân/Chứng minh nhân dân:…………………………….cấp ngày……tháng……năm…………nơi cấp……….…………………………………..\n\nTham gia thanh niên xung phong thời kỳ kháng chiến chống Pháp đã hoàn thành nhiệm vụ trở về gia đình, thuộc đơn vị thanh niên xung phong:………………\n\n……………..…………………………………………………………………………\n\nNgày tham gia thanh niên xung phong: ……….………………………………\n\nNgày hoàn thành nhiệm vụ trở về gia đình: …………………………...\n\nĐã được hưởng chế độ: ……………………………………………………….\n\n…….………………………………………………………………………………….\n\n………..………………………………………………………………………………\n\n…………..………………………………………………………………………...\n\nĐược công nhận là thanh niên xung phong thời kỳ kháng chiến chống Pháp theo giấy tờ sau: ……………………………………………………...\n\n………………………………………………………………………………………..\n\n….………………………………………………………………………………...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_20-TT-08-2023-TT-BLDTBXH_chunk_0002",
+            "char_count": 938,
+            "source_file": "tokhai/MAU SO 20-TT-08-2023-TT-BLDTBXH.doc",
+            "file_name": "MAU SO 20-TT-08-2023-TT-BLDTBXH.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:00:12",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_20-TT-08-2023-TT-BLDTBXH_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_20-TT-08-2023-TT-BLDTBXH",
+        "text": "công nhận là thanh niên xung phong thời kỳ kháng chiến chống Pháp theo giấy tờ sau: ……………………………………………………...\n\n………………………………………………………………………………………..\n\n….………………………………………………………………………………...\n\nĐề nghị các cơ quan chức năng xem xét, giải quyết chế độ bảo hiểm y tế theo quy định./.\n\n| …., ngày …..tháng….năm……<br>Xác nhận của UBND cấp xã<br>Chủ tịch<br>(Ký tên, đóng dấu) | …., ngày…..tháng….năm ……<br>Người khai<br>(Ký tên, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "tokhai_MAU_SO_20-TT-08-2023-TT-BLDTBXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 444,
+            "source_file": "tokhai/MAU SO 20-TT-08-2023-TT-BLDTBXH.doc",
+            "file_name": "MAU SO 20-TT-08-2023-TT-BLDTBXH.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:00:12",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

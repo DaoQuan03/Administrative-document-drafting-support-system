@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_05_31-2023-UBTVQH15_chunk_0001",
+        "doc_id": "mauphieu_MAU_05_31-2023-UBTVQH15",
+        "text": "Mẫu 5: Phiếu biểu quyết bằng bỏ phiếu kín về nội dung khác\n\n| QUỐC HỘI KHÓA …<br>Kỳ họp …<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| (đóng dấu “Quốc hội”) |  |\n| PHIẾU BIỂU QUYẾT<br>Thông qua ……………………1<br>Trân trọng đề nghị các vị đại biểu Quốc hội biểu quyết thông qua …………………………………1: | PHIẾU BIỂU QUYẾT<br>Thông qua ……………………1<br>Trân trọng đề nghị các vị đại biểu Quốc hội biểu quyết thông qua …………………………………1: |\n| - Tán thành<br>- Không tán thành<br>- Không biểu quyết | □<br>□<br>□ |\n| Ghi chú:<br>Đại biểu thể hiện chính kiến bằng cách đánh dấu “X” vào 1 trong 3 ô “Tán thành” hoặc “Không tán thành” hoặc “Không biểu quyết”. | Ghi chú:<br>Đại biểu thể hiện chính kiến bằng cách đánh dấu “X” vào 1 trong 3 ô “Tán thành” hoặc “Không tán thành” hoặc “Không biểu quyết”. |\n\n1 Ghi nội dung được biểu quyết.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 879,
+            "source_file": "mauphieu/MAU 05_31-2023-UBTVQH15.doc",
+            "file_name": "MAU 05_31-2023-UBTVQH15.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:51:21",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

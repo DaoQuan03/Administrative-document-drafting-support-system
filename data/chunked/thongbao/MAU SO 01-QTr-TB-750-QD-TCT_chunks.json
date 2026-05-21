@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_01-QTr-TB-750-QD-TCT_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_01-QTr-TB-750-QD-TCT",
+        "text": "|  | Mẫu số: 01/QTr-TB<br>(Ban hành kèm theo Quyết định số 750/QĐ-TCT ngày 20/4/2015 của Tổng cục trưởng Tổng cục Thuế) |\n| --- | --- |\n\n| ...TÊN CQT CẤP TRÊN...<br>...TÊN CQT...<br>--------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>---------------- |\n| --- | --- |\n| Số:       /TB-…. | …., ngày… tháng…. năm… |\n\nTHÔNG BÁO\n\nVề việc hồ sơ chưa đúng, chưa đủ thủ tục\n\nNgày ... tháng ... năm ..., Cơ quan Thuế nhận được văn bản đề nghị .. của (Tên NHTM hoặc tên NNT)... (mã số thuế: ...) và hồ sơ gửi kèm theo.\n\nCăn cứ Thông tư số 72/2014/TT-BTC; các văn bản hướng dẫn thực hiện và hồ sơ đề nghị của (Tên NHTM hoặc tên NNT), cơ quan Thuế thông báo hồ sơ của (Tên NHTM hoặc tên NNT) chưa đúng, đủ thủ tục theo quy định, cụ thể:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_01-QTr-TB-750-QD-TCT_chunk_0002",
+            "char_count": 753,
+            "source_file": "thongbao/MAU SO 01-QTr-TB-750-QD-TCT.doc",
+            "file_name": "MAU SO 01-QTr-TB-750-QD-TCT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:32:19",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-QTr-TB-750-QD-TCT_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_01-QTr-TB-750-QD-TCT",
+        "text": "số 72/2014/TT-BTC; các văn bản hướng dẫn thực hiện và hồ sơ đề nghị của (Tên NHTM hoặc tên NNT), cơ quan Thuế thông báo hồ sơ của (Tên NHTM hoặc tên NNT) chưa đúng, đủ thủ tục theo quy định, cụ thể:\n\n| Số TT | Quy định hiện hành | Hồ sơ người nộp thuế đã (hoặc chưa) nộp cơ quan thuế |\n| --- | --- | --- |\n| 1 | ...(ghi rõ tên tài liệu)... | ...(ghi rõ đã nộp hay chưa nộp, chưa đúng)... |\n| 2 | ...(ghi rõ tên tài liệu)... | ...(ghi rõ đã nộp hay chưa nộp, chưa đúng)... |\n| ... | ... | ... |\n\nCơ quan Thuế thông báo để (Tên NHTM hoặc tên NNT) bổ sung đúng, đủ thủ tục hồ sơ theo quy định.\n\nNếu có vướng mắc, xin liên hệ với cơ quan Thuế để được giải đáp.\n\nSố điện thoại: ...\n\nĐịa chỉ: .../.\n\n| Nơi nhận:<br>- ...(Tên NHTM hoặc tên NNT)...;<br>- Lưu: VT, tên đơn vị soạn thảo viết tắt. | THỦ TRƯỞNG CƠ QUAN THUẾ<br>(Chữ ký, dấu)<br>Họ và tên |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_01-QTr-TB-750-QD-TCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 858,
+            "source_file": "thongbao/MAU SO 01-QTr-TB-750-QD-TCT.doc",
+            "file_name": "MAU SO 01-QTr-TB-750-QD-TCT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:32:19",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

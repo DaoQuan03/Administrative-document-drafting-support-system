@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_18-84-2019-NDCP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_18-84-2019-NDCP",
+        "text": "Mẫu số 18\n\n| TÊN CƠ QUAN KIỂM TRA<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ……………….. | …………, ngày ……. tháng ….. năm ….. |\n\nTHÔNG BÁO KẾT QUẢ KIỂM TRA NHÀ NƯỚC\nVỀ CHẤT LƯỢNG PHÂN BÓN NHẬP KHẨU\n\nTên phân bón: ………………………………………………………………………………….\n\nMã số phân bón: ……………………………………………………………………………….\n\nNgày sản xuất ……………………, Hạn sử dụng ………………….., Xuất xứ……………\n\nSố lượng: ……………………. Khối lượng: ………………………………………………….\n\nThuộc tờ khai hải quan số:……………….. ngày: …………………………………………..\n\nĐã làm thủ tục hải quan tại hải quan: ……………………………………………………….\n\nHợp đồng số:………………………………. Ngày……………………………………………\n\nDanh mục hàng hóa:…………………………………………………………………………..\n\nHóa đơn số: …………………………………………………………………………………….\n\nVận đơn số: …………………………………………………………………………………….\n\nTổ chức, cá nhân nhập khẩu: ………………………………………………………………..\n\nĐịa chỉ, số điện thoại: …………………………………………………………………………\n\nGiấy đăng ký kiểm tra số: …………………………………………………………………….",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_18-84-2019-NDCP_chunk_0002",
+            "char_count": 962,
+            "source_file": "thongbao/MAU SO 18-84-2019-NDCP.doc",
+            "file_name": "MAU SO 18-84-2019-NDCP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:02:01",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_18-84-2019-NDCP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_18-84-2019-NDCP",
+        "text": "chức, cá nhân nhập khẩu: ………………………………………………………………..\n\nĐịa chỉ, số điện thoại: …………………………………………………………………………\n\nGiấy đăng ký kiểm tra số: …………………………………………………………………….\n\nĐịa điểm lấy mẫu kiểm tra: …………………………………………………………………..\n\nCăn cứ kiểm tra: ………………………………………………………………………………\n\nKẾT QUẢ KIỂM TRA\n\n□ Lô hàng đạt yêu cầu chất lượng nhập khẩu\n\n□ Lô hàng không đạt yêu cầu chất lượng nhập khẩu (nêu cụ thể lý do không đạt kèm theo kết quả kiểm tra chi tiết)\n\n| Nơi nhận:<br>- Tổ chức, cá nhân nhập khẩu;<br>- Hải quan cửa khẩu;<br>- Lưu:.. (tên cơ quan kiểm tra nhà nước). | TÊN CƠ QUAN<br>KIỂM TRA NHÀ NƯỚC<br>(Ký tên, đóng dấu) |\n| --- | --- |\n\nNguồn: Nghị định 84/2019/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_18-84-2019-NDCP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 661,
+            "source_file": "thongbao/MAU SO 18-84-2019-NDCP.doc",
+            "file_name": "MAU SO 18-84-2019-NDCP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:02:01",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

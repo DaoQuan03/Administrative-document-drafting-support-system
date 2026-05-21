@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_SO_09-PHU_LUC_I-125-2024-ND-CP_chunk_0001",
+        "doc_id": "totrinh_MAU_SO_09-PHU_LUC_I-125-2024-ND-CP",
+        "text": "Mẫu số 09. Tờ trình đề nghị cho phép thực hiện chương trình giáo dục phổ thông cấp tiểu học\n\n| ….(1)….<br>….(2)….<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: …../TTr-…..<br>V/v đề nghị ………. | ……., ngày … tháng … năm …… |\n\nKính gửi: ...(3) ...\n\n1. Tên cơ sở giáo dục: ... ... (2) ... ...\n\nTên giao dịch quốc tế bằng tiếng Anh (nếu có) ... ...\n\n2. Địa chỉ trụ sở chính: ... ... ... (4) ...\n\n- Số điện thoại: …………………………………., Fax: ………………………………………\n\n- Website: ……………………………………….., Email: ……………………………………\n\n3. Quyết định thành lập, cho phép thành lập hoặc giấy chứng nhận đăng ký đầu tư: [Tên loại văn bản, số hiệu, ngày, tháng, năm ban hành, cơ quan ban hành, trích yếu của văn bản].\n\n4. Quyết định cho phép hoạt động giáo dục: [Tên loại văn bản, số hiệu, ngày, tháng, năm ban hành, cơ quan ban hành, trích yếu của văn bản].\n\n5. Các điều kiện bảo đảm thực hiện chương trình giáo dục phổ thông cấp tiểu học: …………………………………(5)...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_SO_09-PHU_LUC_I-125-2024-ND-CP_chunk_0002",
+            "char_count": 994,
+            "source_file": "totrinh/MAU SO 09-PHU LUC I-125-2024-ND-CP.doc",
+            "file_name": "MAU SO 09-PHU LUC I-125-2024-ND-CP.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:23:33",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_SO_09-PHU_LUC_I-125-2024-ND-CP_chunk_0002",
+        "doc_id": "totrinh_MAU_SO_09-PHU_LUC_I-125-2024-ND-CP",
+        "text": "[Tên loại văn bản, số hiệu, ngày, tháng, năm ban hành, cơ quan ban hành, trích yếu của văn bản].\n\n5. Các điều kiện bảo đảm thực hiện chương trình giáo dục phổ thông cấp tiểu học: …………………………………(5)...\n\n6... (2)... cam kết thực hiện đúng quy định của pháp luật về giáo dục và quy định của pháp luật có liên quan.\n\n| Nơi nhận:<br>- ……..<br>- …….. | (6)<br>(Ký tên, đóng dấu, ghi rõ họ tên) |\n| --- | --- |\n\nGhi chú:\n\n(1) Tên cơ quan, tổ chức quản lý trực tiếp (nếu có).\n\n(2) Tên cơ sở giáo dục đề nghị thực hiện chương trình.\n\n(3) Cơ quan có thẩm quyền cho phép thực hiện chương trình giáo dục cấp tiểu học.\n\n(4) Ghi địa chỉ số nhà, đường/phố, xã/phường/thị trấn, quận/huyện, tỉnh/thành phố.\n\n(5) Ghi rõ số lượng, trình độ đội ngũ cán bộ quản lý, giáo viên (kèm theo bản sao văn bằng, chứng chỉ của người phụ trách cơ sở giáo dục); danh mục phòng học, thiết bị, tài liệu giảng dạy và học tập.\n\n(6) Chức danh người đứng đầu cơ sở giáo dục đề nghị thực hiện chương trình.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_SO_09-PHU_LUC_I-125-2024-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 965,
+            "source_file": "totrinh/MAU SO 09-PHU LUC I-125-2024-ND-CP.doc",
+            "file_name": "MAU SO 09-PHU LUC I-125-2024-ND-CP.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:23:33",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

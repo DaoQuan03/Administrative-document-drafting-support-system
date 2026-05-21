@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_04A-LDNN_7886-NHCS-TDNN-2019_chunk_0001",
+        "doc_id": "thongbao_MAU_04A-LDNN_7886-NHCS-TDNN-2019",
+        "text": "Mẫu số 04a/LĐNN\n\n| NHCSXH tỉnh, TP …………………<br>PGD quận, huyện ………………… | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | ……….., ngày ……. tháng……. năm…………. |\n\nTHÔNG BÁO TỪ CHỐI CHO VAY\n\nKính gửi: Ông (bà)……………………………………………………….\n\nĐịa chỉ:……………………………………………………….\n\nNgày……..tháng……….năm ………., Chi nhánh/Phòng giao dịch Ngân hàng Chính sách xã hội…………………………………………………………………………………………….nhận được đầy đủ hồ sơ đề nghị vay vốn của Ông (bà) gửi đến.\n\nSau khi thẩm định, kiểm tra chi nhánh/Phòng giao dịch Ngân hàng Chính sách xã hội tỉnh/huyện………………………………………………………………………thông báo từ chối cho vay đối với Ông (bà)………………………………………………………………..vì những lý do như sau:\n\n- ………………………………………………………………………………………………………..\n\n- ………………………………………………………………………………………………………..\n\n- ………………………………………………………………………………………………………..",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_04A-LDNN_7886-NHCS-TDNN-2019_chunk_0002",
+            "char_count": 840,
+            "source_file": "thongbao/MAU 04A-LDNN_7886-NHCS-TDNN-2019.doc",
+            "file_name": "MAU 04A-LDNN_7886-NHCS-TDNN-2019.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:15:54",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_04A-LDNN_7886-NHCS-TDNN-2019_chunk_0002",
+        "doc_id": "thongbao_MAU_04A-LDNN_7886-NHCS-TDNN-2019",
+        "text": "với Ông (bà)………………………………………………………………..vì những lý do như sau:\n\n- ………………………………………………………………………………………………………..\n\n- ………………………………………………………………………………………………………..\n\n- ………………………………………………………………………………………………………..\n\nTrường hợp Ông(bà) có nhu cầu nhận lại hồ sơ đã gửi về Ngân hàng đề nghị ông(bà) đến trụ sở NHCSXH …………………………………………………………………………………… địa chỉ ……………………………………………………………………………… trong giờ làm việc để nhận lại hồ sơ.\n\nTrân trọng thông báo!\n\n|  | GIÁM ĐỐC<br>(Ký tên, đóng dấu) |\n| --- | --- |\n\nGhi chú: Thông báo từ chối cho vay được lập thành 02 bản: 01 bản lưu tại NHCSXH, 01 bản gửi cho khách hàng vay vốn.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_04A-LDNN_7886-NHCS-TDNN-2019_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 599,
+            "source_file": "thongbao/MAU 04A-LDNN_7886-NHCS-TDNN-2019.doc",
+            "file_name": "MAU 04A-LDNN_7886-NHCS-TDNN-2019.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:15:54",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

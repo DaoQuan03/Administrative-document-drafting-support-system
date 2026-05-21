@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_40_23-2023-TT-BTTTT_chunk_0001",
+        "doc_id": "Maudon_MAU_40_23-2023-TT-BTTTT",
+        "text": "Mẫu số 40\n\n| TÊN CQ, TC CHỦ QUẢN<br>(NẾU CÓ)<br>TÊN CQ, TC ĐỀ NGHỊ <br>CẤP PHÉP<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: …./…(nếu có) | …., ngày….tháng….năm… |\n\nĐƠN ĐỀ NGHỊ\n\nĐiều chỉnh, bổ sung thông tin trong giấy phép thành lập văn phòng đại diện tại Việt Nam\n\nKính gửi: Cục Xuất bản, In và Phát hành\n\n- Tên đầy đủ của nhà xuất bản nước ngoài, tổ chức phát hành xuất bản phẩm nước ngoài: ……………….\n\n- Trụ sở chính (địa chỉ): ...\n\n- Số điện thoại: ……………………………………….. E-mail: ...\n\n- Chức năng, nội dung và phạm vi hoạt động của nhà xuất bản nước ngoài, tổ chức phát hành xuất bản phẩm nước ngoài: ………………………………………………………………………………….\n\nĐề nghị Cục Xuất bản, In và Phát hành điều chỉnh/bổ sung thông tin thay đổi vào Giấy phép thành lập văn phòng đại diện tại Việt Nam số: ... cấp ngày ………. tháng ……… năm…….. theo các thông tin, cụ thể sau:\n\n- Tên gọi ...\n\n- Địa chỉ văn phòng đại diện tại Việt Nam: ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_40_23-2023-TT-BTTTT_chunk_0002",
+            "char_count": 973,
+            "source_file": "Maudon/MAU 40_23-2023-TT-BTTTT.doc",
+            "file_name": "MAU 40_23-2023-TT-BTTTT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:08:57",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_40_23-2023-TT-BTTTT_chunk_0002",
+        "doc_id": "Maudon_MAU_40_23-2023-TT-BTTTT",
+        "text": "thay đổi vào Giấy phép thành lập văn phòng đại diện tại Việt Nam số: ... cấp ngày ………. tháng ……… năm…….. theo các thông tin, cụ thể sau:\n\n- Tên gọi ...\n\n- Địa chỉ văn phòng đại diện tại Việt Nam: ...\n\n- Họ và tên người đứng đầu văn phòng đại diện: ...\n\n- Quốc tịch người đứng đầu văn phòng đại diện: ...\n\n- Số căn cước công dân hoặc Số hộ chiếu người đứng đầu văn phòng đại diện ... cấp ngày ... tháng ... năm ... tại ...\n\n- Nội dung hoạt động của văn phòng đại diện: ...\n\nKèm theo đơn này là bản sao Giấy phép thành lập văn phòng đại diện nói trên. Chúng tôi cam kết thực hiện đúng các quy định của pháp luật Việt Nam về văn phòng đại diện tại Việt Nam của nhà xuất bản, của tổ chức phát hành xuất bản phẩm nước ngoài và các quy định pháp luật, điều ước quốc tế có liên quan.\n\n|  | NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT<br>(Chữ ký của người có thẩm quyền, dấu/<br>chữ ký số của cơ quan, tổ chức) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_40_23-2023-TT-BTTTT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 904,
+            "source_file": "Maudon/MAU 40_23-2023-TT-BTTTT.doc",
+            "file_name": "MAU 40_23-2023-TT-BTTTT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:08:57",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

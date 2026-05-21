@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_16-BCTHDMMT-TXNK-PHU_LUC_VI-39-2018-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_16-BCTHDMMT-TXNK-PHU_LUC_VI-39-2018-TT-BTC",
+        "text": "Mẫu số 16/BCTHDMMT/TXNK\n\n| TÊN CƠ QUAN CHỦ QUẢN<br>TÊN CƠ QUAN BAN HÀNH VB | ..., ngày... tháng... năm... |\n| --- | --- |\n\nBÁO CÁO TỔNG HỢP ĐĂNG KÝ DANH MỤC HÀNG HÓA\n\nMIỄN THUẾ NHẬP KHẨU TẠO TSCĐ CỦA DỰ ÁN ƯU ĐÃI ĐẦU TƯ QUÝ.../NĂM...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_16-BCTHDMMT-TXNK-PHU_LUC_VI-39-2018-TT-BTC_chunk_0002",
+            "char_count": 233,
+            "source_file": "maubaocao/MAU SO 16-BCTHDMMT-TXNK-PHU LUC VI-39-2018-TT-BTC.doc",
+            "file_name": "MAU SO 16-BCTHDMMT-TXNK-PHU LUC VI-39-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:34:41",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_16-BCTHDMMT-TXNK-PHU_LUC_VI-39-2018-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_16-BCTHDMMT-TXNK-PHU_LUC_VI-39-2018-TT-BTC",
+        "text": "QUAN CHỦ QUẢN<br>TÊN CƠ QUAN BAN HÀNH VB | ..., ngày... tháng... năm... |\n| --- | --- |\n\nBÁO CÁO TỔNG HỢP ĐĂNG KÝ DANH MỤC HÀNG HÓA\n\nMIỄN THUẾ NHẬP KHẨU TẠO TSCĐ CỦA DỰ ÁN ƯU ĐÃI ĐẦU TƯ QUÝ.../NĂM...\n\n| STT | Tên dự án được ưu đãi đầu tư | Giấy chứng nhận đầu tư (Số, ngày, cơ quan cấp) | Giấy chứng nhận đầu tư mở rộng (nếu có) (Số, ngày, cơ quan cấp) | Thuộc đối tượng miễn thuế | Thuộc đối tượng miễn thuế | Tổng số DMMT doanh nghiệp đăng ký đã được cơ quan HQ cấp | Dự án chưa nhập khẩu hết hàng hóa theo DMMT đã đăng ký | Dự án đã kết thúc việc nhập khẩu hết hàng hóa theo DMMT đã đăng ký | Việc thực hiện quyết toán theo quy định | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Tên dự án được ưu đãi đầu tư | Giấy chứng nhận đầu tư (Số, ngày, cơ quan cấp) | Giấy chứng nhận đầu tư mở rộng (nếu có) (Số, ngày, cơ quan cấp) | Theo địa bàn ưu đãi đầu tư | Theo lĩnh vực ưu đãi đầu tư | Tổng số DMMT doanh nghiệp đăng ký đã được cơ quan HQ cấp | Dự án chưa nhập khẩu hết hàng hóa theo DMMT đã đăng ký | Dự án đã kết thúc việc nhập khẩu hết hàng hóa theo DMMT đã đăng ký | Việc thực hiện quyết toán theo quy định | Ghi chú |\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |\n|  | Dự án A |  |  |  |  |  |  |  |  |  |\n|  | Dự án B |  |  |  |  |  |  |  |  |  |\n|  | ... |  |  |  |  |  |  |  |  |  |\n|  | Tổng số: |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_16-BCTHDMMT-TXNK-PHU_LUC_VI-39-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_SO_16-BCTHDMMT-TXNK-PHU_LUC_VI-39-2018-TT-BTC_chunk_0003",
+            "char_count": 1378,
+            "source_file": "maubaocao/MAU SO 16-BCTHDMMT-TXNK-PHU LUC VI-39-2018-TT-BTC.doc",
+            "file_name": "MAU SO 16-BCTHDMMT-TXNK-PHU LUC VI-39-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:34:41",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_16-BCTHDMMT-TXNK-PHU_LUC_VI-39-2018-TT-BTC_chunk_0003",
+        "doc_id": "maubaocao_MAU_SO_16-BCTHDMMT-TXNK-PHU_LUC_VI-39-2018-TT-BTC",
+        "text": "4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |\n|  | Dự án A |  |  |  |  |  |  |  |  |  |\n|  | Dự án B |  |  |  |  |  |  |  |  |  |\n|  | ... |  |  |  |  |  |  |  |  |  |\n|  | Tổng số: |  |  |  |  |  |  |  |  |  |\n\n| Nơi nhận:<br>- Cục Hải quan;<br>- Lưu: VT, đơn vị soạn thảo. | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\nGhi chú:\n\nTại cột 5, cột 6: Đề nghị ghi rõ miễn thuế theo lĩnh vực ưu đãi đầu tư, địa bàn ưu đãi đầu tư cụ thể theo quy định tại Phụ lục ban hành kèm theo Nghị định số 149/2005/NĐ-CP, Nghị định số 108/2006/NĐ-CP, Nghị định số 124/2008/NĐ-CP, Nghị định số 87/2010/NĐ-CP của Chính phủ...\n\nVí dụ: Dự án sản xuất, tinh chế thức ăn gia súc, gia cầm, thủy sản quy định tại điểm 2.1, Mục II, Phần B - Danh mục lĩnh vực khuyến khích đầu tư, Phụ lục I ban hành kèm theo Nghị định số 87/2010/NĐ-CP",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_16-BCTHDMMT-TXNK-PHU_LUC_VI-39-2018-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 820,
+            "source_file": "maubaocao/MAU SO 16-BCTHDMMT-TXNK-PHU LUC VI-39-2018-TT-BTC.doc",
+            "file_name": "MAU SO 16-BCTHDMMT-TXNK-PHU LUC VI-39-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:34:41",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

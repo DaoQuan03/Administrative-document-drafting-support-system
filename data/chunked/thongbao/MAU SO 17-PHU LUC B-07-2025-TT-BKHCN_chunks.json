@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_17-PHU_LUC_B-07-2025-TT-BKHCN_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_17-PHU_LUC_B-07-2025-TT-BKHCN",
+        "text": "Mẫu số 17\n\n| (TÊN CƠ QUAN CẤP <br>THÔNG BÁO)<br>------- | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số:                /TB-... | ..., ngày... tháng... năm... |\n\nTHÔNG BÁO\n\nvề việc tiếp nhận hồ sơ công bố năng lực thực hiện hoạt động đào tạo\n\n...Tên cơ quan cấp Thông báo... xác nhận đã tiếp nhận hồ sơ công bố năng lực thực hiện đào tạo chuyên gia đánh giá hệ thống quản lý và/hoặc đánh giá chứng nhận sản phẩm của: ………..(tên cơ sở đào tạo)... địa chỉ: ... Điện thoại/Fax: ... E-mail: đối với tiêu chuẩn:... (ghi rõ tên tiêu chuẩn).\n\nThông báo này có hiệu lực 03 năm kể từ ngày ký.\n\nThông báo này ghi nhận sự cam kết của (Tên cơ sở đào tạo) …….. trong việc tuân thủ các yêu cầu đối với việc thực hiện hoạt động đào tạo chuyên gia đánh giá.\n\n(Tên cơ sở đào tạo)……….. phải hoàn toàn chịu trách nhiệm về sự phù hợp của các khóa đào tạo theo các quy định hiện hành./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_17-PHU_LUC_B-07-2025-TT-BKHCN_chunk_0002",
+            "char_count": 924,
+            "source_file": "thongbao/MAU SO 17-PHU LUC B-07-2025-TT-BKHCN.doc",
+            "file_name": "MAU SO 17-PHU LUC B-07-2025-TT-BKHCN.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:01:33",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_17-PHU_LUC_B-07-2025-TT-BKHCN_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_17-PHU_LUC_B-07-2025-TT-BKHCN",
+        "text": "các yêu cầu đối với việc thực hiện hoạt động đào tạo chuyên gia đánh giá.\n\n(Tên cơ sở đào tạo)……….. phải hoàn toàn chịu trách nhiệm về sự phù hợp của các khóa đào tạo theo các quy định hiện hành./.\n\n| Nơi nhận:<br>- Như trên;<br>- Bộ KH&CN (để b/c);<br>- Lưu … | LÃNH ĐẠO CƠ QUAN CẤP THÔNG BÁO<br>(Ký tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_17-PHU_LUC_B-07-2025-TT-BKHCN_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 331,
+            "source_file": "thongbao/MAU SO 17-PHU LUC B-07-2025-TT-BKHCN.doc",
+            "file_name": "MAU SO 17-PHU LUC B-07-2025-TT-BKHCN.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:01:33",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

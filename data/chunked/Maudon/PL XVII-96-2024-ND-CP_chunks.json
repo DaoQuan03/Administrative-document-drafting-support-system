@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_PL_XVII-96-2024-ND-CP_chunk_0001",
+        "doc_id": "Maudon_PL_XVII-96-2024-ND-CP",
+        "text": "PHỤ LỤC XVII\n\nĐƠN ĐĂNG KÝ HOẠT ĐỘNG CỦA SÀN GIAO DỊCH BẤT ĐỘNG SẢN\n(Kèm theo Nghị định số 96/2024/NĐ-CP ngày 24 tháng 7 năm 2024 của Chính phủ)\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN ĐĂNG KÝ HOẠT ĐỘNG CỦA SÀN GIAO DỊCH BẤT ĐỘNG SẢN\n\nKính gửi: Sở Xây dựng tỉnh (thành phố) …………\n\n1. Tên Sàn giao dịch bất động sản (ghi bằng chữ in hoa):\n\n2. Địa chỉ trụ sở: \t(1)\n\nĐiện thoại: …………………. Fax (nếu có): …………. Email (nếu có):\n\nWebsite (nếu có):\n\n3. Giám đốc Sàn giao dịch bất động sản:\n\nHọ và tên: …………………………….Nam/Nữ: ……………..Sinh ngày ………/……../\n\nCMND/CCCD/Thẻ căn cước theo quy định pháp luật về căn cước hoặc hộ chiếu số:\n\nNgày cấp: …………../………./………… Nơi cấp:\n\nNơi đăng ký hộ khẩu thường trú:\n\nChỗ ở hiện nay:\n\n4. Danh sách nhân viên môi giới:\n\n| STT | Họ và tên | Nơi cư trú | Chữ ký |\n| --- | --- | --- | --- |\n| 1 |  |  |  |\n| 2 |  |  |  |\n| … |  |  |  |\n\n|  | Tỉnh (thành phố)..., ngày … tháng … năm ….<br>Giám đốc sàn<br>(Ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_PL_XVII-96-2024-ND-CP_chunk_0002",
+            "char_count": 999,
+            "source_file": "Maudon/PL XVII-96-2024-ND-CP.doc",
+            "file_name": "PL XVII-96-2024-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T05:09:23",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_PL_XVII-96-2024-ND-CP_chunk_0002",
+        "doc_id": "Maudon_PL_XVII-96-2024-ND-CP",
+        "text": "| Nơi cư trú | Chữ ký |\n| --- | --- | --- | --- |\n| 1 |  |  |  |\n| 2 |  |  |  |\n| … |  |  |  |\n\n|  | Tỉnh (thành phố)..., ngày … tháng … năm ….<br>Giám đốc sàn<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\nGhi chú:\n\n(1) Ghi cụ thể số nhà, đường/phố, phường/xã, tỉnh/thành phố; trường hợp không có số nhà, đường/phố thì ghi đến đơn vị hành chính nhỏ nhất của trụ sở (thôn, ấp, khu đô thị...).",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_PL_XVII-96-2024-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 385,
+            "source_file": "Maudon/PL XVII-96-2024-ND-CP.doc",
+            "file_name": "PL XVII-96-2024-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T05:09:23",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

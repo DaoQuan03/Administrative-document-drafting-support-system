@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_02-QD-125-QD-BNV_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_02-QD-125-QD-BNV",
+        "text": "| Mẫu số 02 |  | Dấu ký số của cơ quan (nếu là biểu mẫu điện tử) |\n| --- | --- | --- |\n\n| BỘ NỘI VỤ<br>BỘ PHẬN MỘT CỬA<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: /BPMC | ..., ngày ... tháng ... năm ... |\n\nPHIẾU YÊU CẦU BỔ SUNG, HOÀN THIỆN HỒ SƠ\n\nHồ sơ của:...\n\nNội dung yêu cầu giải quyết:...\n\nĐịa chỉ:...\n\nSố điện thoại:..…………………………Email:...\n\nYêu cầu hoàn thiện hồ sơ gồm những nội dung sau: Thành phần hồ sơ nộp gồm:\n\n1...\n\n2...\n\n3...\n\n4...\n\n...\n\n...\n\nLý do:...\n\nTrong quá trình hoàn thiện hồ sơ nếu có vướng mắc, Ông/Bà liên hệ với:………………... số điện thoại ... để được hướng dẫn./.\n\n| NGƯỜI NỘP HỒ SƠ<br>(Ký và ghi rõ họ tên) | NGƯỜI HƯỚNG DẪN<br>(Ký và ghi rõ họ tên)<br>(Chữ ký số của Người hướng dẫn nếu là biểu mẫu điện tử) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 822,
+            "source_file": "mauphieu/MAU SO 02-QD-125-QD-BNV.doc",
+            "file_name": "MAU SO 02-QD-125-QD-BNV.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:46:26",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_I-04-2025-TT-BGDDT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_03-PHU_LUC_I-04-2025-TT-BGDDT",
+        "text": "Biểu 03. Mẫu Phiếu phân tích tiêu chí, thu thập thông tin và minh chứng\n\nPHIẾU THU THẬP, PHÂN TÍCH VÀ XỬ LÝ THÔNG TIN, MINH CHỨNG\n\nNhóm công tác hoặc cá nhân: …………………………………………………………..\n\nTiêu chuẩn: ………………………………………………………………………………….\n\nTiêu chí: ………………………………………………………………………………………\n\n| Phân tích tiêu chí | Phân tích tiêu chí | Thông tin, minh chứng | Thông tin, minh chứng | Thông tin, minh chứng | Ghi chú |\n| --- | --- | --- | --- | --- | --- |\n| Các yêu cầu | Các câu hỏi đặt ra | Cần thu thập | Nơi thu thập | Phương pháp thu thập |  |\n| 1 |  |  |  |  |  |\n| 2 |  |  |  |  |  |\n| …… |  |  |  |  |  |\n\nDỰ KIẾN CÁC MINH CHỨNG THEO TIÊU CHÍ",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_I-04-2025-TT-BGDDT_chunk_0002",
+            "char_count": 634,
+            "source_file": "mauphieu/MAU SO 03-PHU LUC I-04-2025-TT-BGDDT.doc",
+            "file_name": "MAU SO 03-PHU LUC I-04-2025-TT-BGDDT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:51:23",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_I-04-2025-TT-BGDDT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_03-PHU_LUC_I-04-2025-TT-BGDDT",
+        "text": "|\n| Các yêu cầu | Các câu hỏi đặt ra | Cần thu thập | Nơi thu thập | Phương pháp thu thập |  |\n| 1 |  |  |  |  |  |\n| 2 |  |  |  |  |  |\n| …… |  |  |  |  |  |\n\nDỰ KIẾN CÁC MINH CHỨNG THEO TIÊU CHÍ\n\n| Tiêu chuẩn | Tiêu chí | Mã minh chứng | Tên minh chứng | Số, ngày ban hành, hoặc thời điểm khảo sát, điều tra, phỏng vấn, quan sát,... | Nơi ban hành hoặc nhóm, cá nhân thực hiện | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- |\n| 1 | 1 | Hn.ab.cd.01 |  | … | … |  |\n| 1 | 2 | Hn.ab.cd.02 |  |  |  | Dùng chung với các tiêu chí:... |\n| 1 | … | … | … | … | … |  |\n| 2 | 1 |  |  | … | … |  |\n| 2 | 2 |  |  |  |  |  |\n| 2 | … |  |  | … | … |  |\n| … | … |  |  | … | … |  |\n| … | … |  |  |  |  |  |\n| … | … |  |  | … | … |  |\n\n|  | ……., ngày   tháng   năm 20...<br>TRƯỞNG NHÓM CÔNG TÁC<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\n* Hướng dẫn mã hóa thông tin, minh chứng (thuộc Biểu 03)",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_I-04-2025-TT-BGDDT_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_I-04-2025-TT-BGDDT_chunk_0003",
+            "char_count": 883,
+            "source_file": "mauphieu/MAU SO 03-PHU LUC I-04-2025-TT-BGDDT.doc",
+            "file_name": "MAU SO 03-PHU LUC I-04-2025-TT-BGDDT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:51:23",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_I-04-2025-TT-BGDDT_chunk_0003",
+        "doc_id": "mauphieu_MAU_SO_03-PHU_LUC_I-04-2025-TT-BGDDT",
+        "text": "|  |  |  |  |\n| … | … |  |  | … | … |  |\n\n|  | ……., ngày   tháng   năm 20...<br>TRƯỞNG NHÓM CÔNG TÁC<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\n* Hướng dẫn mã hóa thông tin, minh chứng (thuộc Biểu 03)\n\nCơ sở đào tạo có CTĐT được đánh giá có thể mã hóa các thông tin và minh chứng (Mã MC) được ký hiệu bằng chuỗi có ít nhất 11 ký tự, bao gồm 1 chữ cái, ba dấu chấm và 7 chữ số (Mỗi MC chỉ mã hóa 01 lần); cứ 2 chữ số có 1 dấu chấm (.) để phân cách theo công thức sau: Hn.ab.cd.ef. (trường hợp sử dụng bằng phần mềm có thể mã hóa theo phần mềm nhưng cần bảo đảm yêu cầu về đặt tên)\n\nTrong đó:\n\n- H: viết tắt “Hộp minh chứng” (Minh chứng của mỗi tiêu chuẩn được tập hợp trong 1 hộp hoặc một số hộp).\n\n- n: số thứ tự của hộp minh chứng được đánh số từ 1 đến hết (trường hợp n ≥ 10 thì chuỗi ký hiệu có 12 ký tự trở lên).\n\n- ab: số thứ tự của tiêu chuẩn (tiêu chuẩn 1 viết 01, tiêu chuẩn 8 viết 08).\n\n- cd: số thứ tự của tiêu chí (tiêu chí 1 viết 01, tiêu chí 6 viết 06).",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_I-04-2025-TT-BGDDT_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_I-04-2025-TT-BGDDT_chunk_0004",
+            "char_count": 963,
+            "source_file": "mauphieu/MAU SO 03-PHU LUC I-04-2025-TT-BGDDT.doc",
+            "file_name": "MAU SO 03-PHU LUC I-04-2025-TT-BGDDT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:51:23",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_I-04-2025-TT-BGDDT_chunk_0004",
+        "doc_id": "mauphieu_MAU_SO_03-PHU_LUC_I-04-2025-TT-BGDDT",
+        "text": "n ≥ 10 thì chuỗi ký hiệu có 12 ký tự trở lên).\n\n- ab: số thứ tự của tiêu chuẩn (tiêu chuẩn 1 viết 01, tiêu chuẩn 8 viết 08).\n\n- cd: số thứ tự của tiêu chí (tiêu chí 1 viết 01, tiêu chí 6 viết 06).\n\n- ef: số thứ tự của minh chứng theo từng tiêu chí (thông tin và minh chứng thứ nhất viết 01, thứ 15 viết 15, ...).\n\nVí dụ:\n\nH1.01.01.01: là MC thứ nhất của tiêu chí 1 của tiêu chuẩn 1, được đặt ở hộp 1.\n\nH3.03.02.15: là MC thứ 15 của tiêu chí 2 của tiêu chuẩn 3, được đặt ở hộp 3.\n\nH4.04.03.25: là MC thứ 25 của tiêu chí 03 của tiêu chuẩn 4, được đặt ở hộp 4.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_I-04-2025-TT-BGDDT_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 557,
+            "source_file": "mauphieu/MAU SO 03-PHU LUC I-04-2025-TT-BGDDT.doc",
+            "file_name": "MAU SO 03-PHU LUC I-04-2025-TT-BGDDT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:51:23",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

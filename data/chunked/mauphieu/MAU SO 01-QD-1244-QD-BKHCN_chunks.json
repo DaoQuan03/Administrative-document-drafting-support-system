@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-QD-1244-QD-BKHCN_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_01-QD-1244-QD-BKHCN",
+        "text": "Mẫu số 1\n\n| TỈNH, THÀNH PHỐ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | ………., ngày ... tháng ... năm 20... |\n\nPHIẾU ĐĂNG KÝ\n\nTham gia xét chọn Danh hiệu “Doanh nghiệp đổi mới công nghệ tiêu biểu”\n\nKính gửi: UBND tỉnh/thành phố ...\n\n(thông qua Sở Khoa học và Công nghệ)\n\nTên doanh nghiệp: …………………………………………………………………………………\n\nQuy mô doanh nghiệp: Lớn □ Vừa □ Nhỏ □\n\nĐơn vị chủ quản (nếu có): …………………………………………………………………………\n\nMã số thuế: …………………………………. Mã số doanh nghiệp: ……………………………..\n\nGiấy chứng nhận đăng ký doanh nghiệp số …………… do …………………………………….\n\n………………………………………… cấp ngày …………………………………………………..\n\nNgành nghề kinh doanh chính: ………………………………………………………………………\n\n…………………………………………………………………………………………………………….\n\n…………………………………………………………………………………………………………….\n\n…………………………………………………………………………………………………………….\n\nĐịa chỉ liên lạc …………………………………………………………………………………………..\n\nNgười đại diện: ……………………………………… Chức vụ ………………………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_01-QD-1244-QD-BKHCN_chunk_0002",
+            "char_count": 969,
+            "source_file": "mauphieu/MAU SO 01-QD-1244-QD-BKHCN.doc",
+            "file_name": "MAU SO 01-QD-1244-QD-BKHCN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:37:01",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-QD-1244-QD-BKHCN_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_01-QD-1244-QD-BKHCN",
+        "text": "chỉ liên lạc …………………………………………………………………………………………..\n\nNgười đại diện: ……………………………………… Chức vụ ………………………………………\n\nĐiện thoại: ………………………./Di động ……………………. Email: ……………………………..\n\nNgười liên lạc: ……………………………………………. Chức vụ ………………………………….\n\nĐiện thoại: …………………………./Di động ………………….Email: ………………………………\n\nDoanh nghiệp đã tìm hiểu Quy chế xét chọn, tôn vinh Danh hiệu “Doanh nghiệp đổi mới công nghệ tiêu biểu” do Bộ Khoa học và Công nghệ tổ chức và xin đăng ký tham gia.\n\nHồ sơ đăng ký theo quy định tại Khoản 1, Điều 111.\n\n|  | ĐẠI DIỆN DOANH NGHIỆP<br>(ký tên, đóng dấu) |\n| --- | --- |\n\n___\n\n1 Doanh nghiệp lưu ý nội dung này để chuẩn bị đầy đủ các hồ sơ theo quy định",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-QD-1244-QD-BKHCN_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 657,
+            "source_file": "mauphieu/MAU SO 01-QD-1244-QD-BKHCN.doc",
+            "file_name": "MAU SO 01-QD-1244-QD-BKHCN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:37:01",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

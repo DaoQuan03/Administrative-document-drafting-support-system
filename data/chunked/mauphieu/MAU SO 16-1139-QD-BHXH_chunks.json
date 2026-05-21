@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_16-1139-QD-BHXH_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_16-1139-QD-BHXH",
+        "text": "Mẫu số 16 - Phiếu yêu cầu sử dụng hồ sơ, tài liệu\n\nPHIẾU YÊU CẦU SỬ DỤNG HỒ SƠ, TÀI LIỆU\n\n1. Họ và tên người sử dụng: ……………………………………………………………………….\n\n2. Đơn vị công tác: …………………………………………………………………………………..\n\n3. Nơi cư trú: ………………………………………………………………………………………….\n\n4. Chứng minh thư nhân dân số: ..…………………………………………………………………\n\n5. Mục đích sử dụng: ………………………………………………………………………………..\n\n………………………………………………………………………………………………………….\n\n………………………………………………………………………………………………………….\n\n6. Đề nghị sử dụng hồ sơ, tài liệu:\n\n- Tài liệu hành chính nghiệp vụ:\n\n| STT | Số ký hiệu hồ sơ, tài liệu | Ngày tháng ban hành văn bản | Trích yếu văn bản | Cơ quan, đơn vị ban hành văn bản |\n| --- | --- | --- | --- | --- |\n|  |  |  |  |  |\n|  |  |  |  |  |\n|  |  |  |  |  |\n\n- Hồ sơ hưởng các chế độ BHXH:\n\n| STT | Họ tên đối tượng hưởng BHXH | Sinh năm | Đơn vị công tác trước khi nghỉ hưởng BHXH | Số sổ | Ngày hưởng |\n| --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n\n7. Yêu cầu sử dụng:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_16-1139-QD-BHXH_chunk_0002",
+            "char_count": 997,
+            "source_file": "mauphieu/MAU SO 16-1139-QD-BHXH.doc",
+            "file_name": "MAU SO 16-1139-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:11:47",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_16-1139-QD-BHXH_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_16-1139-QD-BHXH",
+        "text": "| Sinh năm | Đơn vị công tác trước khi nghỉ hưởng BHXH | Số sổ | Ngày hưởng |\n| --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n\n7. Yêu cầu sử dụng:\n\n| - Nghiên cứu tại chỗ: | £ | - Rút hồ sơ để di chuyển: | £ |\n| --- | --- | --- | --- |\n| - Cung cấp bản sao, bản chứng thực | £ | - Số lượng:…………………. |  |\n\n|  | …………,ngày     tháng    năm 20...<br>Người yêu cầu<br>(Ký và ghi rõ họ tên) |\n| --- | --- |\n| Lãnh đạo Trung tâm Lưu trữ duyệt<br>(hay Giám đốc BHXH tỉnh, huyện) | Lưu trữ cơ quan<br>(Ký, ghi rõ họ tên) |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_16-1139-QD-BHXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 563,
+            "source_file": "mauphieu/MAU SO 16-1139-QD-BHXH.doc",
+            "file_name": "MAU SO 16-1139-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:11:47",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    }
+]

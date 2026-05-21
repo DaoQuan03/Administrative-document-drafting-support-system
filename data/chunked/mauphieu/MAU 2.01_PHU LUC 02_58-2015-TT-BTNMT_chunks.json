@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_2_01_PHU_LUC_02_58-2015-TT-BTNMT_chunk_0001",
+        "doc_id": "mauphieu_MAU_2_01_PHU_LUC_02_58-2015-TT-BTNMT",
+        "text": "Mẫu 2.01\n\n| CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- |\n\n..., ngày... tháng... năm 20...\n\nPHIẾU GHI Ý KIẾN KIỂM TRA\n\nHồ sơ kiểm tra, nghiệm thu của đơn vị thi công\n\nDự án: [tên dự án]\n\nHạng mục: [tên hạng mục] (nếu có).\n\nĐơn vị kiểm tra: [Ghi tên đơn vị kiểm tra]\n\nNgười kiểm tra:\t\t\t\tChức vụ:\n\nBên được kiểm tra: [Ghi tên đơn vị thi công]\n\n1. Căn cứ\n\nCăn cứ Hồ sơ kiểm tra, nghiệm thu cấp đơn vị thi công của [tên đơn vị thi công],\n\n2. Nội dung kiểm tra\n\nHồ sơ kiểm tra, nghiệm thu cấp đơn vị thi công theo quy định\n\nChi tiết về hồ sơ kiểm tra, nghiệm thu của đơn vị thi công như sau:\n\n| STT | Thành phần hồ sơ <br>kiểm tra, nghiệm thu | Số lượng | Mức độ đầy đủ | Ghi chú / đánh giá |\n| --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |\n| 2 |  |  |  |  |\n| … |  |  |  |  |\n\nĐánh giá về mức độ đầy đủ của hồ sơ:\n\nĐánh giá về chất lượng:\n\nCác ý kiến khác (nếu có):\n\n3. Kết luận\n\n[Đủ / không đủ điều kiện tiến hành kiểm tra, nghiệm thu hạng mục, sản phẩm dự án.]",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_2_01_PHU_LUC_02_58-2015-TT-BTNMT_chunk_0002",
+            "char_count": 990,
+            "source_file": "mauphieu/MAU 2.01_PHU LUC 02_58-2015-TT-BTNMT.doc",
+            "file_name": "MAU 2.01_PHU LUC 02_58-2015-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:59:53",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_2_01_PHU_LUC_02_58-2015-TT-BTNMT_chunk_0002",
+        "doc_id": "mauphieu_MAU_2_01_PHU_LUC_02_58-2015-TT-BTNMT",
+        "text": "|  |  |  |\n\nĐánh giá về mức độ đầy đủ của hồ sơ:\n\nĐánh giá về chất lượng:\n\nCác ý kiến khác (nếu có):\n\n3. Kết luận\n\n[Đủ / không đủ điều kiện tiến hành kiểm tra, nghiệm thu hạng mục, sản phẩm dự án.]\n\n[Nếu không đủ, cần bổ sung ...]\n\n| Người kiểm tra | ĐẠI DIỆN ĐƠN VỊ<br>KIỂM TRA, NGHIỆM THU<br>(Ký, đóng dấu, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_2_01_PHU_LUC_02_58-2015-TT-BTNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 339,
+            "source_file": "mauphieu/MAU 2.01_PHU LUC 02_58-2015-TT-BTNMT.doc",
+            "file_name": "MAU 2.01_PHU LUC 02_58-2015-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:59:53",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_09-PL-TTTP_16-QD-HDTV_chunk_0001",
+        "doc_id": "thongbao_MAU_09-PL-TTTP_16-QD-HDTV",
+        "text": "### Bảng tính: Sheet1",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_09-PL-TTTP_16-QD-HDTV_chunk_0002",
+            "char_count": 21,
+            "source_file": "thongbao/MAU 09-PL-TTTP_16-QD-HDTV.xls",
+            "file_name": "MAU 09-PL-TTTP_16-QD-HDTV.xls",
+            "folder": "thongbao",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-20T23:19:33",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_09-PL-TTTP_16-QD-HDTV_chunk_0002",
+        "doc_id": "thongbao_MAU_09-PL-TTTP_16-QD-HDTV",
+        "text": "Bảng tính: Sheet1\n\n| (Ban hành kèm theo Quy chế hoạt động thanh toán giao dịch công cụ nợ của Chính phủ, trái phiếu được |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Chính phủ bảo lãnh do ngân hàng chính sách phát hành và trái phiếu chính quyền địa phương) |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  | Mẫu 09/PL-TTTP |  |  |  |\n|  |  |  |  |  |  |  |  |  | Số: |  |  |  |\n| TỔNG CÔNG TY LƯU KÝ |  |  |  |  | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM |  |  |  |  |  |  |  |\n| VÀ BÙ TRỪ CHỨNG KHOÁN  VIỆT NAM |  |  |  |  | Độc lập - Tự do - Hạnh phúc |  |  |  |  |  |  |  |\n| THÔNG BÁO TỔNG HỢP THANH TOÁN TIỀN GIAO DỊCH CÔNG CỤ NỢ |  |  |  |  |  |  |  |  |  |  |  |  |\n| Kính gửi: Ngân hàng Nhà nước |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  | Ngày thanh toán: |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  | Đơn vị tính: VNĐ |  |  |\n| STT | Số định danh | Mã <br>công cụ nợ | Ngày giao dịch | Phải trả |  |  | Được nhận |  |  | Ngân hàng đối ứng |  |  |\n|  |  |  |  | Tự doanh | MGTN | MGNN | Tự doanh | MGTN | MGNN | Tên viết tắt | Mã CITAD |  |\n| Tên viết tắt - Tên NH |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |  |  |  |\n| ... |  |  |  |  |  |  |  |  |  |  |  |  |\n| Tổng |  |  |  | … | … | … | … | … | … |  |  |  |\n| Tên viết tắt - Tên NH |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |  |  |  |\n| ... |  |  |  |  |  |  |  |  |  |  |  |  |\n| Tổng |  |  |  | … | … | … | … | … | … |  |  |  |\n| Tổng cộng |  |  |  | … | … | … | … | … | … |  |  |  |\n|  |  |  |  |  |  | …, ngày ... tháng ... năm … |  |  |  |  |  |  |\n|  |  |  |  |  |  | TUQ. TỔNG GIÁM ĐỐC |  |  |  |  |  |  |\n| NGƯỜI LẬP |  |  |  |  | TRƯỞNG PHÒNG TTBT |  |  |  |  |  |  |  |\n| (Ký, ghi rõ họ tên) |  |  |  |  |  | (Ký, ghi rõ họ tên, đóng dấu) |  |  |  |  |  |  |\n|  | Ghi chú: gửi NHNN |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_09-PL-TTTP_16-QD-HDTV_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 2033,
+            "source_file": "thongbao/MAU 09-PL-TTTP_16-QD-HDTV.xls",
+            "file_name": "MAU 09-PL-TTTP_16-QD-HDTV.xls",
+            "folder": "thongbao",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-20T23:19:33",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

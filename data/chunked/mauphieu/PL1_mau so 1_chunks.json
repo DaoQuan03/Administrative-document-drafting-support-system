@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_PL1_mau_so_1_chunk_0001",
+        "doc_id": "mauphieu_PL1_mau_so_1",
+        "text": "PHỤ LỤC I\n\nMẫu số 01\n\nHỒ SƠ MỜI THẦU MUA SẮM DƯỢC LIỆU, VỊ THUỐC CỔ TRUYỀN ÁP DỤNG PHƯƠNG THỨC MỘT GIAI ĐOẠN MỘT TÚI HỒ SƠ\n\n(Ban hành kèm Thông tư số  09/2022/TT-BYT ngày 09 tháng 09 năm 2022 của Bộ trưởng Bộ Y tế quy định hồ sơ mời thầu dược liệu, vị thuốc cổ truyền tại các cơ sở y tế công lập)\n\nHỒ SƠ MỜI THẦU\n\nSố hiệu gói thầu:  ___\n\nTên gói thầu:        ___\n\nDự án:                   ___\n\n[ghi số hiệu gói thầu, tên gói thầu và tên dự án theo kế hoạch lựa chọn nhà thầu]\n\nPhát hành ngày:   ___\n\n[ghi ngày bắt đầu phát hành hồ sơ mời thầu cho nhà thầu]\n\nBan hành kèm theo Quyết định: ___\n\n[ghi số quyết định, ngày phát hành quyết định phê duyệt hồ sơ mời thầu]\n\n| Tư vấn lập hồ sơ mời thầu<br>(nếu có)<br>[ghi tên, đóng dấu] | Bên mời thầu<br>[ghi tên, đóng dấu] |\n| --- | --- |\n\nNguồn: Thông tư 09/2022/TT-BYT",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 814,
+            "source_file": "mauphieu/PL1_mau so 1.doc",
+            "file_name": "PL1_mau so 1.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:54:52",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

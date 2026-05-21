@@ -1,0 +1,10 @@
+{
+    "content": "Mẫu số 24/BC-KNQ/GSQL\n\nTÊN KHO NGOẠI QUAN\n\nBÁO CÁO TÌNH HÌNH HOẠT ĐỘNG CỦA KHO NGOẠI QUAN\n\nKỳ báo cáo: Quý.../20..\n\n| STT | Tên hàng | Đơn vị tính | Tồn đầu kỳ | Nhập kho | Nhập kho | Nhập kho | Xuất kho | Xuất kho | Xuất kho | Tồn kho | Tồn kho |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Tên hàng | Đơn vị tính | Tồn đầu kỳ | Số lượng | Số, ngày tờ khai xuất khẩu hoặc vận đơn hàng nhập | Hải quan đăng ký tờ khai hoặc hãng tàu | Ngày xuất kho | Số lượng | Cửa khẩu xuất | Số lượng | Số ngày tồn |\n| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) | (11)=(4)+(5)-(9) | (12) |\n| 1 | Mặt hàng 1 | m2 | 100 | 200 | 123456, 01/01/2017 | 03TG | 30/6/2017 | 150 | 15BB | 150 | 184 |\n| 2 | Mặt hàng 2 | Kg | 200 | 300 | 234567, 01/01/2017 | 03TG | 30/6/2017 | 100 | 15BB | 400 | 184 |\n| 3 |  |  |  |  |  |  |  |  |  |  |  |\n\nGhi chú:\n\n1. Cột số (5) bao gồm các trường hợp nhập từ nước ngoài, từ nội địa và từ kho khác chuyển sang.\n\n2. Cột số (9) bao gồm các trường hợp xuất ra nước ngoài, đưa vào nội địa và đưa sang kho khác.\n\n3. Cột số (12) phải tính cả thời gian đã lưu giữ ở kho khác (nếu có).\n\nDOANH NGHIỆP KINH DOANH\n\nDỊCH VỤ KHO NGOẠI QUAN\n\n(Ký tên, đóng dấu)",
+    "metadata": {
+        "source_file": "maubaocao/MAU SO 24-BC-KNQ-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+        "file_name": "MAU SO 24-BC-KNQ-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+        "folder": "maubaocao",
+        "original_extension": ".doc",
+        "cleaned_at": "2026-05-21T03:35:38"
+    }
+}

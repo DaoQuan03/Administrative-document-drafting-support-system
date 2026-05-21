@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_02_PHU_LUC_I_02-2024-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_02_PHU_LUC_I_02-2024-TT-BYT",
+        "text": "Mẫu số 02: Phiếu tiếp nhận hồ sơ đề nghị cấp/cấp lại giấy chứng nhận lương y\n\n| ...1...<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số:    /PTN-...2... | ...3..., ngày    tháng     năm 20... |\n\nPHIẾU TIẾP NHẬN\n\nHồ sơ đề nghị cấp/cấp lại giấy chứng nhận lương y\n\nHọ và tên người đề nghị: ...\n\nĐịa chỉ cư trú: ...\n\nĐiện thoại: ...;\n\nĐã nhận hồ sơ đề nghị ...4...gồm các giấy tờ sau:5\n\n1 ...\n\n2 ...\n\n3 ...\n\n...\n\n|  | NGƯỜI TIẾP NHẬN HỒ SƠ<br>(Ký, ghi rõ chức danh, họ và tên) |\n| --- | --- |\n\n| Tiếp nhận hồ sơ bổ sung lần: | ngày    tháng    năm | Ký nhận |\n| --- | --- | --- |\n| Tiếp nhận hồ sơ bổ sung lần: | ngày    tháng    năm | Ký nhận |\n| Tiếp nhận hồ sơ bổ sung lần: | ngày    tháng    năm | Ký nhận |\n\n___\n\n1 Tên cơ quan cấp giấy chứng nhận lương y (Cục Quản lý Y, Dược cổ truyền hoặc cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh).\n\n2 Chữ viết tắt tên cơ quan cấp giấy chứng nhận lương y\n\n3 Địa danh",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_02_PHU_LUC_I_02-2024-TT-BYT_chunk_0002",
+            "char_count": 992,
+            "source_file": "mauphieu/MAU 02_PHU LUC I_02-2024-TT-BYT.doc",
+            "file_name": "MAU 02_PHU LUC I_02-2024-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:48:03",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02_PHU_LUC_I_02-2024-TT-BYT_chunk_0002",
+        "doc_id": "mauphieu_MAU_02_PHU_LUC_I_02-2024-TT-BYT",
+        "text": "cơ quan cấp giấy chứng nhận lương y (Cục Quản lý Y, Dược cổ truyền hoặc cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh).\n\n2 Chữ viết tắt tên cơ quan cấp giấy chứng nhận lương y\n\n3 Địa danh\n\n4 Ghi rõ tên thủ tục hành chính\n\n5 Liệt kê đầy đủ các giấy tờ, tài liệu nộp kèm theo đơn.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_02_PHU_LUC_I_02-2024-TT-BYT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 290,
+            "source_file": "mauphieu/MAU 02_PHU LUC I_02-2024-TT-BYT.doc",
+            "file_name": "MAU 02_PHU LUC I_02-2024-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:48:03",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

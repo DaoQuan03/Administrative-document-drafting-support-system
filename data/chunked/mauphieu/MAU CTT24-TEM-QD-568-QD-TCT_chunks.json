@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_CTT24-TEM-QD-568-QD-TCT_chunk_0001",
+        "doc_id": "mauphieu_MAU_CTT24-TEM-QD-568-QD-TCT",
+        "text": "| Mẫu: CTT24/TEM |\n| --- |\n\n| CƠ QUAN THUẾ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | ... Ngày ... tháng ... năm ... |\n\nPHIẾU XUẤT TEM ĐIỆN TỬ\n\n|  |  | Ký hiệu AA/2021<br>Số 0000001 |\n| --- | --- | --- |\n\nXuất cho: ...\n\nTừ kho:\n\nNgười nhận tem điện tử:\n\nTheo giấy giới thiệu: ngày .../.../...\n\nGhi chú:\n\nđơn vị tính: tem\n\n| STT | Tên tem | Ký hiệu mẫu | Ký hiệu | Từ số | Đến số | Số lượng | Đơn giá vốn | Trị giá vốn (VNĐ) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9=7x8 |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  | Cộng |  |  |  |  | xxx |  | xxxx |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_CTT24-TEM-QD-568-QD-TCT_chunk_0002",
+            "char_count": 889,
+            "source_file": "mauphieu/MAU CTT24-TEM-QD-568-QD-TCT.doc",
+            "file_name": "MAU CTT24-TEM-QD-568-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:19:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_CTT24-TEM-QD-568-QD-TCT_chunk_0002",
+        "doc_id": "mauphieu_MAU_CTT24-TEM-QD-568-QD-TCT",
+        "text": "|  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  | Cộng |  |  |  |  | xxx |  | xxxx |\n\n| NGƯỜI NHẬN PHIẾU XUẤT<br>(Ký, ghi rõ họ tên) | CÔNG CHỨC XUẤT TEM ĐIỆN TỬ<br>(Ký, ghi rõ họ tên) | ĐƠN VỊ NHẬN TEM ĐIỆN TỬ<br>(Ký, ghi rõ họ tên) | LÃNH ĐẠO PHỤ TRÁCH<br><br>(Ký, ghi rõ họ tên) |\n| --- | --- | --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_CTT24-TEM-QD-568-QD-TCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 423,
+            "source_file": "mauphieu/MAU CTT24-TEM-QD-568-QD-TCT.doc",
+            "file_name": "MAU CTT24-TEM-QD-568-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:19:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

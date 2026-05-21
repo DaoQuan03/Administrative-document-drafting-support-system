@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_PHU_LUC-34-2025-TT-BYT_chunk_0001",
+        "doc_id": "Maudon_PHU_LUC-34-2025-TT-BYT",
+        "text": "PHỤ LỤC\n\n(Kèm theo Thông tư số 34/2025/TT-BYT ngày 03 tháng 7 năm 2025 của Bộ trưởng Bộ Y tế)\n\nPhụ lục số 14-MP: Mẫu Đơn hàng nhập khẩu mỹ phẩm dùng cho nghiên cứu, kiểm nghiệm\n\n| TÊN CƠ SỞ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: ... | ... , ngày … tháng … năm … |\n\nĐƠN HÀNG\nNHẬP KHẨU MỸ PHẨM DÙNG CHO NGHIÊN CỨU, KIỂM NGHIỆM\n\nKính gửi: Cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh(1) ...\n\n(Tên cơ sở) ... đề nghị cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh(1) ... xét duyệt để đơn vị được nhập khẩu mỹ phẩm dùng cho nghiên cứu, kiểm nghiệm sau:\n\n| TT | Tên mỹ phẩm, dạng bào chế, quy cách đóng gói | Dạng sản phẩm | Thành phần công thức | Đơn vị tính | Số lượng(2) | Tên công ty sản xuất, tên nước | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |\n| ... |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_PHU_LUC-34-2025-TT-BYT_chunk_0002",
+            "char_count": 978,
+            "source_file": "Maudon/PHU LUC-34-2025-TT-BYT.doc",
+            "file_name": "PHU LUC-34-2025-TT-BYT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T05:08:40",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_PHU_LUC-34-2025-TT-BYT_chunk_0002",
+        "doc_id": "Maudon_PHU_LUC-34-2025-TT-BYT",
+        "text": "công ty sản xuất, tên nước | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |\n| ... |  |  |  |  |  |  |  |\n\n| Cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh(1)...<br>Chấp thuận đơn hàng nhập khẩu gồm ... trang ... khoản kèm theo Công văn số ... ngày ... tháng ... năm ... của cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh(1).<br>Đơn hàng nhập khẩu mỹ phẩm dùng cho nghiên cứu, kiểm nghiệm chỉ có giá trị 01 lần./.<br>... , ngày … tháng … năm …<br>THỦ TRƯỞNG CƠ QUAN<br>(Ký tên, đóng dấu, ghi rõ họ và tên người ký) | GIÁM ĐỐC CƠ SỞ<br>(Ký tên, đóng dấu, ghi rõ họ và tên người ký) |\n| --- | --- |\n\n___\n\n(1) Cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh nơi đặt trụ sở chính của cơ sở.\n\n(2) Số lượng tối đa cho mỗi sản phẩm là 10 mẫu.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_PHU_LUC-34-2025-TT-BYT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 860,
+            "source_file": "Maudon/PHU LUC-34-2025-TT-BYT.doc",
+            "file_name": "PHU LUC-34-2025-TT-BYT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T05:08:40",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

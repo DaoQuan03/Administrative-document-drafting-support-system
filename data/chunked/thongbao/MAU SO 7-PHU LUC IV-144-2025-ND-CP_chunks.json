@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_7-PHU_LUC_IV-144-2025-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_7-PHU_LUC_IV-144-2025-ND-CP",
+        "text": "Mẫu số 07. Thông báo bổ sung, thay thế, ngừng phương tiện khai thác tuyến vận tải hành khách cố định giữa Việt Nam và Lào\n\n| ỦY BAN NHÂN DÂN...<br>SỞ XÂY DỰNG<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ... /SXD- | ..., ngày... tháng... năm... |\n\nTHÔNG BÁO\n\nBỔ SUNG/THAY THẾ/NGỪNG PHƯƠNG TIỆN KHAI THÁC TUYẾN\nVẬN TẢI HÀNH KHÁCH CỐ ĐỊNH GIỮA VIỆT NAM VÀ LÀO\n\nKính gửi:…...\n\nSở Xây dựng ...nhận được công văn số ...ngày ... tháng ... năm... và hồ sơ kèm theo của ... về việc đăng ký bổ sung, thay thế, ngừng phương tiện khai thác tuyến vận tải hành khách cố định giữa Việt Nam và Lào;\n\nSở Xây dựng...thông báo như sau:\n\nThông báo cho phép  ... được bổ sung/thay thế/ngừng phương tiện khai thác tuyến vận tải hành khách cố định giữa Việt Nam và Lào.\n\nTên tuyến: ... đi ... và ngược lại\n\nBến đi: Bến xe ...(tên tỉnh đi).\n\nBến đến: Bến xe... (tên tỉnh đến).\n\nHành trình:... cửa khẩu đi/cửa khẩu đến ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_7-PHU_LUC_IV-144-2025-ND-CP_chunk_0002",
+            "char_count": 973,
+            "source_file": "thongbao/MAU SO 7-PHU LUC IV-144-2025-ND-CP.doc",
+            "file_name": "MAU SO 7-PHU LUC IV-144-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:15:42",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_7-PHU_LUC_IV-144-2025-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_7-PHU_LUC_IV-144-2025-ND-CP",
+        "text": "vận tải hành khách cố định giữa Việt Nam và Lào.\n\nTên tuyến: ... đi ... và ngược lại\n\nBến đi: Bến xe ...(tên tỉnh đi).\n\nBến đến: Bến xe... (tên tỉnh đến).\n\nHành trình:... cửa khẩu đi/cửa khẩu đến ...\n\nSố xe bổ sung khai thác tuyến: ... (dành cho phương tiện bổ sung khai thác tuyến)\n\nSố xe thay thế:... Thay thế cho xe... (dành cho phương tiện thay thế khai thác tuyến)\n\nSố xe ngừng hoạt động trên tuyến: ... (đối với phương tiện ngừng hoạt động trên tuyến)\n\nThời hạn triển khai hoạt động vận tải hành khách trên tuyến cho xe được bổ sung/thay thế: 30 ngày kể từ ngày ký văn bản, trong thời hạn này đơn vị kinh doanh vận tải phải ký hợp đồng khai thác với bến xe hai đầu tuyến, báo cáo về Sở xây dựng ... Quá... thời hạn nêu trên, văn bản thông báo không còn hiệu lực.\n\nYêu cầu …….. tổ chức hoạt động vận tải hành khách trên tuyến theo đúng các quy định hiện hành.\n\n| Nơi nhận:<br>- …..<br>- …..<br>- Lưu…. | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_7-PHU_LUC_IV-144-2025-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 964,
+            "source_file": "thongbao/MAU SO 7-PHU LUC IV-144-2025-ND-CP.doc",
+            "file_name": "MAU SO 7-PHU LUC IV-144-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:15:42",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

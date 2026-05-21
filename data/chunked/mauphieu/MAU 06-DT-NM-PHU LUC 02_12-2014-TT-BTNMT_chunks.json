@@ -1,0 +1,92 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0001",
+        "doc_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT",
+        "text": "Mẫu số 06-ĐT/NM\n\n| ĐƠN VỊ CHỦ TRÌ<br>ĐƠN VỊ THỰC HIỆN<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | ……….., ngày….. tháng….. năm 20… |\n\nPHIẾU ĐIỀU TRA TÀI NGUYÊN NƯỚC MẶT\nĐOẠN SÔNG CÓ HIỆN TƯỢNG Ô NHIỄM, SUY THOÁI\nCHẤT LƯỢNG NƯỚC\n\n(DỰ ÁN: ………………………………………………………………………)\n\nSố hiệu:………………..\n\n1. Tên sông:\n\n| - Tên sông trên bản đồ: |  |\n| --- | --- |\n| - Tên sông địa phương: |  |\n\n2. Vị trí địa lý:\n\n- Điểm đầu:\n\n| Xã, huyện, tỉnh: |  |  |  |  |\n| --- | --- | --- | --- | --- |\n| Tọa độ | X: |  | Y: |  |\n\n- Điểm cuối:\n\n| Xã, huyện, tỉnh: |  |  |  |  |\n| --- | --- | --- | --- | --- |\n| Tọa độ | X: |  | Y: |  |\n\n- Điểm khảo sát:\n\n| Xã, huyện, tỉnh: |  |  |  |  |\n| --- | --- | --- | --- | --- |\n| Tọa độ | X: |  | Y: |  |\n\n3. Đặc điểm của đoạn sông:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 5,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0002",
+            "char_count": 819,
+            "source_file": "mauphieu/MAU 06-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "file_name": "MAU 06-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:51:53",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0002",
+        "doc_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT",
+        "text": "|\n| --- | --- | --- | --- | --- |\n| Tọa độ | X: |  | Y: |  |\n\n- Điểm khảo sát:\n\n| Xã, huyện, tỉnh: |  |  |  |  |\n| --- | --- | --- | --- | --- |\n| Tọa độ | X: |  | Y: |  |\n\n3. Đặc điểm của đoạn sông:\n\n| Hướng dòng chảy: | Hướng dòng chảy: |  |  |\n| --- | --- | --- | --- |\n| Độ dài đoạn sông (km) |  | Độ rộng lòng sông (m) |  |\n| Độ rộng bờ trái (m) |  | Độ rộng bờ phải (m) |  |\n| Độ sâu mực nước (m) |  |  |  |\n| Tốc độ dòng chảy (ước lượng) (m/s) | Tốc độ dòng chảy (ước lượng) (m/s) |  |  |\n\n4. Nguyên nhân gây ô nhiễm, suy thoái nguồn nước:\n\n| Công nghiệp: |  | Dịch vụ: |  |\n| --- | --- | --- | --- |\n| Nông nghiệp: |  | Thủy sản: |  |\n| Y tế: |  | Nước thải sinh hoạt: |  |\n| Nguyên nhân khác: |  |  |  |\n\nThông tin về nguồn xả:",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0003",
+            "char_count": 736,
+            "source_file": "mauphieu/MAU 06-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "file_name": "MAU 06-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:51:53",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0003",
+        "doc_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT",
+        "text": "nước:\n\n| Công nghiệp: |  | Dịch vụ: |  |\n| --- | --- | --- | --- |\n| Nông nghiệp: |  | Thủy sản: |  |\n| Y tế: |  | Nước thải sinh hoạt: |  |\n| Nguyên nhân khác: |  |  |  |\n\nThông tin về nguồn xả:\n\n| STT | Tên nguồn thải | Tọa độ | Tọa độ | Đặc điểm nguồn thải | Lượng thải (m3/ngày.đêm) | Mức độ xử lý |\n| --- | --- | --- | --- | --- | --- | --- |\n| STT | Tên nguồn thải | X | Y | Đặc điểm nguồn thải | Lượng thải (m3/ngày.đêm) | Mức độ xử lý |\n| (1) | (2) | (3) | (4) | (5) | (6) | (7) |\n| 1 |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |\n| 4 |  |  |  |  |  |  |\n\n(5) Đặc điểm nguồn thải: Sinh hoạt (SH), Nông nghiệp (NN), Công nghiệp (CN)\n\n(7) Mức độ xử lý: Không xử lý (K), Sơ bộ (SB), Sinh học (SH), Hóa học (HH)\n\n5. Mức độ, phạm vi ảnh hưởng:",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0004",
+            "char_count": 768,
+            "source_file": "mauphieu/MAU 06-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "file_name": "MAU 06-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:51:53",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0004",
+        "doc_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT",
+        "text": "|  |  |  |  |\n\n(5) Đặc điểm nguồn thải: Sinh hoạt (SH), Nông nghiệp (NN), Công nghiệp (CN)\n\n(7) Mức độ xử lý: Không xử lý (K), Sơ bộ (SB), Sinh học (SH), Hóa học (HH)\n\n5. Mức độ, phạm vi ảnh hưởng:\n\n| STT | Phạm vi ảnh hưởng | Phạm vi ảnh hưởng | Phạm vi ảnh hưởng | Các hoạt động bị ảnh hưởng | Các hoạt động bị ảnh hưởng | Các hoạt động bị ảnh hưởng | Các hoạt động bị ảnh hưởng | Các hoạt động bị ảnh hưởng | Các hoạt động bị ảnh hưởng | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Thôn, xã | Huyện | Tỉnh | SH | CN | NN | CHN | TS | Khác | Ghi chú |\n| 1 |  |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |  |  |  |\n| 4 |  |  |  |  |  |  |  |  |  |  |\n| 5 |  |  |  |  |  |  |  |  |  |  |\n\n6. Mô tả diễn biến chất lượng nước:…………………………………………………\n\n…………………………………………………………………………………………...\n\n…………………………………………………………………………………………...\n\n7. Số hiệu mẫu nước: ...\n\nThời gian lấy mẫu: ...",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0003",
+            "next_chunk_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0005",
+            "char_count": 959,
+            "source_file": "mauphieu/MAU 06-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "file_name": "MAU 06-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:51:53",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0005",
+        "doc_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT",
+        "text": "|  |  |  |  |\n\n6. Mô tả diễn biến chất lượng nước:…………………………………………………\n\n…………………………………………………………………………………………...\n\n…………………………………………………………………………………………...\n\n7. Số hiệu mẫu nước: ...\n\nThời gian lấy mẫu: ...\n\n| Tọa độ lấy mẫu | X: |  | Y: |  |\n| --- | --- | --- | --- | --- |\n\n8. Các thông tin về kết quả đo đạc, khảo sát chất lượng nước tại hiện trường:\n\n| Màu: |  |  | Mùi: | Mùi: |  | Vị: | Vị: |  | pH: |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| DO: |  |  | (mg/l) | (mg/l) | (mg/l) | Nhiệt độ nước: | Nhiệt độ nước: | Nhiệt độ nước: |  |  | (oC) |\n| Độ dẫn điện: | Độ dẫn điện: |  |  | (mS/cm) | (mS/cm) | (mS/cm) | Độ mặn: | Độ mặn: |  |  | (‰) |\n| Khác: | Khác: |  |  |  |  |  |  |  |  |  |  |\n\n9. Thông tin khác:\n\n…………………………………………………………………………………………...\n\n…………………………………………………………………………………………...\n\n…………………………………………………………………………………………...\n\n…………………………………………………………………………………………...\n\n10. Sơ họa vị trí nguồn xả trong hệ thống\n\n|  |\n| --- |\n\nCÁN BỘ ĐIỀU TRA",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_06-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0004",
+            "next_chunk_id": null,
+            "char_count": 981,
+            "source_file": "mauphieu/MAU 06-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "file_name": "MAU 06-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:51:53",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

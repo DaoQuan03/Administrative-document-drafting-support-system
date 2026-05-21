@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_A_III_3-PHU_LUC_A-TT-03-2021-TT-BKHDT_chunk_0001",
+        "doc_id": "maubaocao_MAU_A_III_3-PHU_LUC_A-TT-03-2021-TT-BKHDT",
+        "text": "### Bảng tính: III.3",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_A_III_3-PHU_LUC_A-TT-03-2021-TT-BKHDT_chunk_0002",
+            "char_count": 20,
+            "source_file": "maubaocao/MAU A_III_3-PHU LUC A-TT-03-2021-TT-BKHDT.xls",
+            "file_name": "MAU A_III_3-PHU LUC A-TT-03-2021-TT-BKHDT.xls",
+            "folder": "maubaocao",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-21T03:11:57",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_A_III_3-PHU_LUC_A-TT-03-2021-TT-BKHDT_chunk_0002",
+        "doc_id": "maubaocao_MAU_A_III_3-PHU_LUC_A-TT-03-2021-TT-BKHDT",
+        "text": "Bảng tính: III.3\n\n| Mẫu A.III.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| BÁO CÁO TÌNH HÌNH THỰC HIỆN CÁC DỰ ÁN HỢP TÁC VỚI NƯỚC NGOÀI TRONG LĨNH VỰC DẦU KHÍ QUÝ… |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| (Quy định tại điểm a, khoản 2, Điều 72 Luật Đầu tư và khoản 2, Điều 102 Nghị định 31/2021/NĐ-CP) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| (Thời hạn báo cáo: trước ngày 10 tháng đầu của quý sau quý báo cáo) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| TẬP ĐOÀN DẦU KHÍ VIỆT NAM |  |  |  |  |  |  |  |  |  | Nơi nhận: Bộ Kế hoạch và Đầu tư (Cục Đầu tư nước ngoài) |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Đơn vị tính: USD |  |\n| TT | Mã số dự án/Số GCNĐT | Ngày cấp | Tên dự án | Địa điểm dự án | Vốn đăng ký | Tỷ lệ góp vốn/Tỷ lệ phân chia | Vốn thực hiện |  | Doanh thu | Xuất khẩu | Nhập khẩu | Nộp ngân sách | Lao động (người) |  | Tình hình hoạt động |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  | Người NN | Người VN |  |  |\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |  |\n| I | Các dự án đầu tư tại Việt Nam |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Tổng |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| II | Các dự án đầu tư ra nước ngoài |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Tổng |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  | …..., ngày ... tháng ... năm ... |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  | Tập đoàn Dầu khí Việt Nam (người đại diện theo pháp luật của tổ chức kinh tế, ghi rõ họ tên, chức danh và đóng dấu) |  |  |  |  |  |\n|  | Nguồn: Thông tư 03/2021/TT-BKHĐT |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_A_III_3-PHU_LUC_A-TT-03-2021-TT-BKHDT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 1796,
+            "source_file": "maubaocao/MAU A_III_3-PHU LUC A-TT-03-2021-TT-BKHDT.xls",
+            "file_name": "MAU A_III_3-PHU LUC A-TT-03-2021-TT-BKHDT.xls",
+            "folder": "maubaocao",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-21T03:11:57",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

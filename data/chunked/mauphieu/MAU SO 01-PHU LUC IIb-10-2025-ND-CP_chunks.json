@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-PHU_LUC_IIb-10-2025-ND-CP_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_01-PHU_LUC_IIb-10-2025-ND-CP",
+        "text": "Mẫu số 01\n\n| BỘ TÀI NGUYÊN VÀ<br>MÔI TRƯỜNG<br>(ỦY BAN NHÂN DÂN TỈNH…)<br>HỘI ĐỒNG THẨM ĐỊNH<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | Địa danh, ngày … tháng … năm … |\n\nPHIẾU ĐÁNH GIÁ\n\nKết quả xác định chi phí điều tra cơ bản địa chất về khoáng sản, chi phí thăm dò khoáng sản phải hoàn trả\n\n(tên khoáng sản)... tại khu vực ... thuộc xã... huyện... tỉnh...\n\n1. Đơn vị xác định chi phí phải hoàn trả: ………………………………\n\n2. Ủy viên Hội đồng: ………………………………………………………\n\n- Chức vụ: ……………………………………………………………………\n\n- Đơn vị công tác: ……………………………………………………………\n\n3. Nội dung đánh giá:\n\n- Cơ sở pháp lý: □ Phù hợp □ Không phù hợp\n\nÝ kiến bổ sung: …………………………………………………………….\n\n……………………………………………………………………………….\n\n………………………………………………………………………………..\n\n…………………………………………………………………………………\n\n- Phương pháp tính: □ Phù hợp □ Không phù hợp\n\nÝ kiến bổ sung: ……………………………………………………………..\n\n……………………………………………………………………………….\n\n………………………………………………………………………………..",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_01-PHU_LUC_IIb-10-2025-ND-CP_chunk_0002",
+            "char_count": 982,
+            "source_file": "mauphieu/MAU SO 01-PHU LUC IIb-10-2025-ND-CP.doc",
+            "file_name": "MAU SO 01-PHU LUC IIb-10-2025-ND-CP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:35:43",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-PHU_LUC_IIb-10-2025-ND-CP_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_01-PHU_LUC_IIb-10-2025-ND-CP",
+        "text": "Phương pháp tính: □ Phù hợp □ Không phù hợp\n\nÝ kiến bổ sung: ……………………………………………………………..\n\n……………………………………………………………………………….\n\n………………………………………………………………………………..\n\n…………………………………………………………………………………\n\n- Kết quả tính: □ Đạt □ Không đạt\n\nÝ kiến bổ sung: ……………………………………………………………..\n\n……………………………………………………………………………….\n\n………………………………………………………………………………..\n\n…………………………………………………………………………………\n\n- Kiến nghị:\n\n…………………………………………………………………………………\n\n…………………………………………………………………………………\n\n…………………………………………………………………………………\n\n- Đánh giá chung:\n\n□ Thông qua\n\n□ Thông qua có sửa đổi, bổ sung\n\n□ Không thông qua\n\n|  | ỦY VIÊN HỘI ĐỒNG<br>(Ký và ghi rõ họ, tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-PHU_LUC_IIb-10-2025-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 626,
+            "source_file": "mauphieu/MAU SO 01-PHU LUC IIb-10-2025-ND-CP.doc",
+            "file_name": "MAU SO 01-PHU LUC IIb-10-2025-ND-CP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:35:43",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_PHU_LUC_SO_03-10-2017-TT-NHNN_chunk_0001",
+        "doc_id": "Maudon_PHU_LUC_SO_03-10-2017-TT-NHNN",
+        "text": "Phụ lục số 03\n\n| TÊN DOANH NGHIỆP<br>------ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số:…….. | …………, ngày … tháng … năm … |\n\nĐƠN ĐỀ NGHỊ CẤP LẠI/ĐIỀU CHỈNH/GIA HẠN GIẤY PHÉP THU, CHI NGOẠI TỆ VÀ CÁC HOẠT ĐỘNG NGOẠI HỐI KHÁC\n\n(Đối với hoạt động kinh doanh casino)\n\nKính gửi: Ngân hàng Nhà nước chi nhánh tỉnh, thành phố...\n\nTên doanh nghiệp:...\n\nĐịa chỉ trụ sở chính:...\n\nĐịa chỉ Điểm kinh doanh casino:...\n\nSố điện thoại:... Fax:...\n\nGiấy chứng nhận đăng ký đầu tư/Quyết định chủ trương đầu tư số...ngày...\n\nGiấy chứng nhận đủ điều kiện kinh doanh casino số ... ngày...\n\nGiấy phép thu, chi ngoại tệ và các hoạt động ngoại hối khác số ... ngày...\n\n(Tên doanh nghiệp) ... đề nghị Ngân hàng Nhà nước Việt Nam cấp lại/điều chỉnh/gia hạn Giấy phép thu, chi ngoại tệ và các hoạt động ngoại hối khác theo các nội dung sau:\n\n1. Nội dung thu, chi ngoại tệ tiền mặt và các hoạt động ngoại hối khác tại Giấy phép đã được cấp:\n\na)\n\nb)\n\n……….",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_PHU_LUC_SO_03-10-2017-TT-NHNN_chunk_0002",
+            "char_count": 992,
+            "source_file": "Maudon/PHU LUC SO 03-10-2017-TT-NHNN.doc",
+            "file_name": "PHU LUC SO 03-10-2017-TT-NHNN.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T05:03:56",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_PHU_LUC_SO_03-10-2017-TT-NHNN_chunk_0002",
+        "doc_id": "Maudon_PHU_LUC_SO_03-10-2017-TT-NHNN",
+        "text": "hạn Giấy phép thu, chi ngoại tệ và các hoạt động ngoại hối khác theo các nội dung sau:\n\n1. Nội dung thu, chi ngoại tệ tiền mặt và các hoạt động ngoại hối khác tại Giấy phép đã được cấp:\n\na)\n\nb)\n\n……….\n\n2. Nội dung xin cấp lại/điều chỉnh/gia hạn Giấy phép:...\n\n3. Lý do xin cấp lại/điều chỉnh/gia hạn Giấy phép: ...\n\n(Tên doanh nghiệp)... xin cam kết chịu trách nhiệm trước pháp luật về sự trung thực và chính xác của nội dung trong đơn và các tài liệu kèm theo và chấp hành nghiêm chỉnh, đầy đủ quy định tại Thông tư số .../2017/TT-NHNN và các quy định khác của pháp luật có liên quan\n\n|  | NGƯỜI ĐẠI DIỆN HỢP PHÁP CỦA DOANH NGHIỆP<br>(ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\nNguồn: Thông tư 10/2017/TT-NHNN",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_PHU_LUC_SO_03-10-2017-TT-NHNN_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 712,
+            "source_file": "Maudon/PHU LUC SO 03-10-2017-TT-NHNN.doc",
+            "file_name": "PHU LUC SO 03-10-2017-TT-NHNN.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T05:03:56",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

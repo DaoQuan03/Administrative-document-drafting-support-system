@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_BM01-QT03_06-PCR_01-HCLS_119-2023-TT-BQP_chunk_0001",
+        "doc_id": "mauphieu_MAU_BM01-QT03_06-PCR_01-HCLS_119-2023-TT-BQP",
+        "text": "Biểu mẫu BM01 - QT03.06/HCLS: Phiếu tinh sạch sản phẩm PCR\n\nPHIẾU TINH SẠCH SẢN PHẨM PCR\n\nKý hiệu mẫu:\n\nNgày thực hiện:\n\nNgười thực hiện:\n\n1. Loại hóa chất\n\nKít tinh sạch (GeneJet PCR Purification hoặc ExoSap-IT™ PCR clean up product):\n\n|  | Lot No: | Hạn sử dụng: |\n| --- | --- | --- |\n| Nước cất siêu sạch | Lot No: | Hạn sử dụng: |\n| Cồn 96° | Lot No: | Hạn sử dụng: |\n\n2. Chuẩn bị hóa chất\n\n| Thành phần | Ngày pha | Người pha | Rửa | Cồn 96° | Tổng | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- |\n| Dung dịch đệm |  |  |  |  |  |  |\n\n3. Các bước thực hiện\n\n| STT | Ký hiệu mẫu | Lượng mẫu sử dụng | Đệm gắn | Đệm rửa | Nước | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 761,
+            "source_file": "mauphieu/MAU BM01-QT03.06-PCR 01-HCLS_119-2023-TT-BQP.doc",
+            "file_name": "MAU BM01-QT03.06-PCR 01-HCLS_119-2023-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:16:02",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

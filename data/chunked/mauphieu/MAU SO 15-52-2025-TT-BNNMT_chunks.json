@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_15-52-2025-TT-BNNMT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_15-52-2025-TT-BNNMT",
+        "text": "Mẫu số 15. Phiếu kết quả lấy mẫu nước tại mạch lộ\n\nĐƠN VỊ CHỦ TRÌ\nĐƠN VỊ THỰC HIỆN\n----------\n\nPHIẾU KẾT QUẢ LẤY MẪU NƯỚC TẠI MẠCH LỘ\n\nTháng…….năm…..\n\nNhiệm vụ: ...\n\nSố hiệu công trình quan trắc: ……………………… Tuyến: ………………………\n\nVị trí lấy mẫu: ………………………………………………………………………\n\nThời gian lấy mẫu: …………………………………………………………………\n\nSố lượng mẫu lấy:……………………………………………………………………\n\nĐiều kiện thời tiết lúc lấy mẫu: …………….………………………………………\n\nĐiều kiện dòng chảy (nếu có): ……………………………………………………\n\n………………………………………………………………………………\n\n………………………………………………………………………………\n\nCác thông tin khác về tình hình ô nhiễm bất thường xung quanh vị trí lấy mẫu (nếu có): ……………………………………………………………………………………..……\n\n…………………………………………………………………………………………\n\n……………………………………………………………………………………..……\n\nKẾT QUẢ LẤY MẪU\n\n1. Mẫu: ………………… Số hiệu: ……………………… Khối lượng: ……………\n\n2. Mẫu: ………………… Số hiệu: ……………………… Khối lượng: ……………\n\n...\n\n...\n\n* Kết quả phân tích thực địa: pH: ………….;        T0: …………; Ec: ………………….\n\n...\n\n……………… ngày ….. tháng ….. năm 20…..",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_15-52-2025-TT-BNNMT_chunk_0002",
+            "char_count": 985,
+            "source_file": "mauphieu/MAU SO 15-52-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 15-52-2025-TT-BNNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:11:13",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_15-52-2025-TT-BNNMT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_15-52-2025-TT-BNNMT",
+        "text": "Khối lượng: ……………\n\n2. Mẫu: ………………… Số hiệu: ……………………… Khối lượng: ……………\n\n...\n\n...\n\n* Kết quả phân tích thực địa: pH: ………….;        T0: …………; Ec: ………………….\n\n...\n\n……………… ngày ….. tháng ….. năm 20…..\n\n| Người thực hiện<br>(Ký, ghi rõ họ tên) | Tổ trưởng<br>(Ký, ghi rõ họ tên) | Đơn vị thực hiện<br>(Ký tên và đóng dấu) |\n| --- | --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_15-52-2025-TT-BNNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 338,
+            "source_file": "mauphieu/MAU SO 15-52-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 15-52-2025-TT-BNNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:11:13",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    }
+]

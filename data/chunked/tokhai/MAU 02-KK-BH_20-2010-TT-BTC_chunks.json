@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_02-KK-BH_20-2010-TT-BTC_chunk_0001",
+        "doc_id": "tokhai_MAU_02-KK-BH_20-2010-TT-BTC",
+        "text": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTỜ KHAI TỔNG HỢP THUẾ THU NHẬP CÁ NHÂN\n\n(Dành cho cơ sở giao đại lý bảo hiểm trả thu nhập cho đại lý bảo hiểm)\n\nChính thức:  [    ]      Bổ sung: [    ]    Lần: [    ]\n\n[01] Kỳ tính thuế: Năm………..\n\n[02] Tên tổ chức, cá nhân trả thu nhập:……………………………………………………...…\n\n| [03] Mã số thuế: |  |  |  |  |  |  |  |  |  |  | - |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[04] Địa chỉ: ...\n\n[05] Điện thoại:………………...[06] Fax:……...……….[07] Email:……………..…………..",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_02-KK-BH_20-2010-TT-BTC_chunk_0002",
+            "char_count": 571,
+            "source_file": "tokhai/MAU 02-KK-BH_20-2010-TT-BTC.doc",
+            "file_name": "MAU 02-KK-BH_20-2010-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:36:16",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_02-KK-BH_20-2010-TT-BTC_chunk_0002",
+        "doc_id": "tokhai_MAU_02-KK-BH_20-2010-TT-BTC",
+        "text": "|  | - |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[04] Địa chỉ: ...\n\n[05] Điện thoại:………………...[06] Fax:……...……….[07] Email:……………..…………..\n\n| Stt | Chỉ tiêu | Chỉ tiêu | Đơn vị tính | Số lượng/ Số tiền |\n| --- | --- | --- | --- | --- |\n| 1 | Tổng số đại lý bảo hiểm trong kỳ | [08] | người |  |\n| 2 | Tổng thu nhập trả cho đại lý bảo hiểm trong kỳ | [09] | vnđ |  |\n| 3 | Tổng số đại lý bảo hiểm thuộc diện khấu trừ thuế trong kỳ | [10] | người |  |\n| 4 | Tổng thu nhập trả cho đại lý bảo hiểm thuộc diện khấu trừ | [11] | vnđ |  |\n| 5 | Tổng số thuế thu nhập cá nhân đã khấu trừ | [12] | vnđ |  |\n\nTôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về những số liệu đã khai./.\n\n|  |  |\n| --- | --- |\n|  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "tokhai_MAU_02-KK-BH_20-2010-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 791,
+            "source_file": "tokhai/MAU 02-KK-BH_20-2010-TT-BTC.doc",
+            "file_name": "MAU 02-KK-BH_20-2010-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:36:16",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

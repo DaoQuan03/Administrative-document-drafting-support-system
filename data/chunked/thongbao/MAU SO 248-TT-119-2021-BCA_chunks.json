@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_248-TT-119-2021-BCA_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_248-TT-119-2021-BCA",
+        "text": "| ...<br>... |  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- | --- | --- |\n| Số: ... /TB- ………..…….. |  | ..., ngày ... tháng ... năm... |\n\nTHÔNG BÁO\n\nVề việc tiến hành hoạt động điều tra\n\nKính gửi(1): ...\n\n...\n\nCơ quan\n\nđang tiến hành điều tra vụ án\n\ntheo Quyết định khởi tố vụ án hình sự số:... ngày ... tháng ... năm\n\nCăn cứ các Điều 73, 79, 83, 84 Bộ luật Tố tụng hình sự, Cơ quan\n\nsẽ tiến hành (2)\n\nđối với:\n\nThời gian:\n\nĐịa điểm:\n\nCơ quan…\n\nthông báo ông/bà:\n\nlà(1):\n\nđể biết trước khi tiến hành hoạt động điều tra trên.\n\n| Nơi nhận:<br>- Như trên; <br>- Hồ sơ 02 bản. | ... |\n| --- | --- |\n\n(1) Ghi rõ: Người bảo vệ quyền và lợi ích hợp pháp của người bị tố giác, người bị kiến nghị khởi tố; người bào chữa; người bảo vệ quyền và lợi ích hợp pháp của bị hại, đương sự.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_248-TT-119-2021-BCA_chunk_0002",
+            "char_count": 805,
+            "source_file": "thongbao/MAU SO 248-TT-119-2021-BCA.doc",
+            "file_name": "MAU SO 248-TT-119-2021-BCA.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:07:00",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_248-TT-119-2021-BCA_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_248-TT-119-2021-BCA",
+        "text": "... |\n| --- | --- |\n\n(1) Ghi rõ: Người bảo vệ quyền và lợi ích hợp pháp của người bị tố giác, người bị kiến nghị khởi tố; người bào chữa; người bảo vệ quyền và lợi ích hợp pháp của bị hại, đương sự.\n\n(2) Đối với người bảo vệ quyền và lợi ích hợp pháp của người bị tố giác; người bị kiến nghị khởi tố; người bảo vệ quyền và lợi ích hợp pháp của bị hại, đương sự: Lấy lời khai; đối chất; nhận dạng; nhận biết giọng nói của người mà mình bảo vệ. Đối với người bào chữa: Lấy lời khai của người bị bắt, bị tạm giữ; hỏi cung bị can; đối chất; nhận dạng; nhận biết giọng nói hoặc hoạt động điều tra khác theo quy định của BLTTHS.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_248-TT-119-2021-BCA_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 631,
+            "source_file": "thongbao/MAU SO 248-TT-119-2021-BCA.doc",
+            "file_name": "MAU SO 248-TT-119-2021-BCA.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:07:00",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

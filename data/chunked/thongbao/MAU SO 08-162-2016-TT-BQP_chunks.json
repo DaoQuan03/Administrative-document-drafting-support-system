@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_08-162-2016-TT-BQP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_08-162-2016-TT-BQP",
+        "text": "Mẫu số 08. Thông báo của cơ quan, tổ chức về hoạt động diễn tập quân sự; diễn tập tìm kiếm, cứu nạn; diễn tập an ninh hàng hải; tổ chức bắn đạn thật hoặc sử dụng vật liệu nổ trong khu vực biên giới biển\n\n| TÊN CƠ QUAN CHỦ QUẢN<br>TÊN CƠ QUAN, TỔ CHỨC THÔNG BÁO<br>----------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>------------------------ |\n| --- | --- |\n| Số:          /TB-(2)<br>V/v hoạt động diễn tập quân sự……… | ……(1)….., ngày... tháng... năm……… |\n\nKính gửi(3):  ...\n\nThực hiện quy định tại Điều 9 Nghị định số 71/2015/NĐ-CP của Chính phủ và Thông tư số …………/2016/TT-BQP;\n\nCơ quan, tổ chức: ...\n\nQuyết định thành lập/Đăng ký kinh doanh số ...\n\nCơ quan cấp:... Ngày: ...\n\nTrụ sở: ...\n\nTiến hành hoạt động trong khu vực biên giới biển, tại địa điểm(4): ...\n\nVới mục đích(5): ...\n\nSố người tham gia:... (có danh sách kèm theo)\n\nSố phương tiện tham gia: ... (có danh sách kèm theo)\n\nThời gian từ ……….giờ... ngày ……… tháng …….. năm ………..",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_08-162-2016-TT-BQP_chunk_0002",
+            "char_count": 970,
+            "source_file": "thongbao/MAU SO 08-162-2016-TT-BQP.doc",
+            "file_name": "MAU SO 08-162-2016-TT-BQP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:51:04",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_08-162-2016-TT-BQP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_08-162-2016-TT-BQP",
+        "text": "tại địa điểm(4): ...\n\nVới mục đích(5): ...\n\nSố người tham gia:... (có danh sách kèm theo)\n\nSố phương tiện tham gia: ... (có danh sách kèm theo)\n\nThời gian từ ……….giờ... ngày ……… tháng …….. năm ………..\n\nĐến...giờ………..ngày ……… tháng …….. năm ………..\n\nPhạm vi: ...\n\nNay thông báo để Quý cơ quan biết, tạo điều kiện và phối hợp./.\n\n| Nơi nhận: <br>- Như trên; <br>- ……………;<br>- Lưu: VT, …(6), H10. | CƠ QUAN THÔNG BÁO<br>(Ký, đóng dấu, ghi rõ họ tên, chức vụ) |\n| --- | --- |\n\n___\n\n(1) Ghi rõ địa danh tỉnh, thành phố trực thuộc Trung ương nơi cơ quan, tổ chức có trụ sở;\n\n(2) Chữ Viết tắt tên cơ quan ban hành Thông báo;\n\n(3) Ghi rõ tên cơ quan nhận thông báo;\n\n(4) Ghi rõ địa điểm cụ thể;\n\n(5) Ghi rõ mục đích hoạt động;\n\n(6) Chữ viết tắt tên đơn vị soạn thảo, tên người đánh máy (soạn thảo) và số lượng bản phát hành.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_08-162-2016-TT-BQP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 812,
+            "source_file": "thongbao/MAU SO 08-162-2016-TT-BQP.doc",
+            "file_name": "MAU SO 08-162-2016-TT-BQP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:51:04",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

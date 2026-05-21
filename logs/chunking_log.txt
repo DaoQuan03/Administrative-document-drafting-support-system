@@ -1,0 +1,172 @@
+[2026-05-21 21:41:00] === KHỞI ĐỘNG PIPELINE PHÂN ĐOẠN VĂN BẢN THÔNG MINH (HYBRID CHUNKER) ===
+[2026-05-21 21:41:01] Tìm thấy tổng cộng: 6791 file văn bản sạch cần phân đoạn.
+[2026-05-21 21:41:01] Tiến trình Checkpoint: Đã phân đoạn xong 0/6791 file. Còn lại 6791 file cần xử lý.
+[2026-05-21 21:41:01] [1/6791] Đã phân đoạn: data_cleaned\files\MAU SO 01-29-2025-TTLT-BTP-BCA-BQP-BTC-TANDTC-VKSNDTC.json -> 7 chunks.
+[2026-05-21 21:41:01] [2/6791] Đã phân đoạn: data_cleaned\files\MAU SO 01-PHU LUC I-58-2026-ND-CP.json -> 3 chunks.
+[2026-05-21 21:41:01] [3/6791] Đã phân đoạn: data_cleaned\files\MAU SO 01-PHU LUC IV-58-2026-ND-CP.json -> 3 chunks.
+[2026-05-21 21:41:01] [4/6791] Đã phân đoạn: data_cleaned\files\MAU SO 03-29-2025-TTLT-BTP-BCA-BQP-BTC-TANDTC-VKSNDTC.json -> 5 chunks.
+[2026-05-21 21:41:01] [5/6791] Đã phân đoạn: data_cleaned\files\MAU SO 03-PHU LUC I-58-2026-ND-CP.json -> 4 chunks.
+[2026-05-21 21:41:01] [6/6791] Đã phân đoạn: data_cleaned\files\MAU SO 03-PHU LUC II-58-2026-ND-CP.json -> 3 chunks.
+[2026-05-21 21:41:01] [7/6791] Đã phân đoạn: data_cleaned\files\MAU SO 05-62-2026-ND-CP.json -> 3 chunks.
+[2026-05-21 21:41:01] [8/6791] Đã phân đoạn: data_cleaned\files\MAU SO 06-62-2026-ND-CP.json -> 3 chunks.
+[2026-05-21 21:41:01] [9/6791] Đã phân đoạn: data_cleaned\files\MAU SO 06B-29-2025-TTLT-BTP-BCA-BQP-BTC-TANDTC-VKSNDTC.json -> 6 chunks.
+[2026-05-21 21:41:01] [10/6791] Đã phân đoạn: data_cleaned\files\MAU SO 06C-29-2025-TTLT-BTP-BCA-BQP-BTC-TANDTC-VKSNDTC.json -> 3 chunks.
+[2026-05-21 21:41:02] [100/6791] Đã phân đoạn: data_cleaned\maubaocao\BIEU SO 010-H-BCDTQG-BN-130-2018-TT-BTC.json -> 7 chunks.
+[2026-05-21 21:41:04] [200/6791] Đã phân đoạn: data_cleaned\maubaocao\BIEU VNNIC-07-TT-04-2022-TT-BTTTT.json -> 5 chunks.
+[2026-05-21 21:41:05] [300/6791] Đã phân đoạn: data_cleaned\maubaocao\MAU B09b-BH-102-2018-TT-BTC.json -> 5 chunks.
+[2026-05-21 21:41:07] [400/6791] Đã phân đoạn: data_cleaned\maubaocao\MAU BIEU SO 5.1-PHU LUC 05-TT_7_2021_BNV.json -> 3 chunks.
+[2026-05-21 21:41:08] [500/6791] Đã phân đoạn: data_cleaned\maubaocao\MAU SO 03-PHU LUC X-ND-67-2023-CP.json -> 3 chunks.
+[2026-05-21 21:41:10] [600/6791] Đã phân đoạn: data_cleaned\maubaocao\MAU SO 11-21-2023-NDCP.json -> 3 chunks.
+[2026-05-21 21:41:11] [700/6791] Đã phân đoạn: data_cleaned\maubaocao\MAU SO B03b-1-CTCK-334-2016-TT-BTC.json -> 2 chunks.
+[2026-05-21 21:41:12] [800/6791] Đã phân đoạn: data_cleaned\maubaocao\PHU LUC 04-TT_7_2021_BNV.json -> 9 chunks.
+[2026-05-21 21:41:14] [900/6791] Đã phân đoạn: data_cleaned\maubaocao\PHU LUC SO 05-TT-07-2021-BKHCN.json -> 2 chunks.
+[2026-05-21 21:41:15] [1000/6791] Đã phân đoạn: data_cleaned\Maudon\MAU 01-DON-21-2015-TTLT-BTTTT-BTC.json -> 3 chunks.
+[2026-05-21 21:41:17] [1100/6791] Đã phân đoạn: data_cleaned\Maudon\MAU 07_07-2011-TT-BVHTTDL.json -> 2 chunks.
+[2026-05-21 21:41:19] [1200/6791] Đã phân đoạn: data_cleaned\Maudon\MAU DON DE NGHI XEM XET MIEN LAI CHAM NOP_148_2021_ND-CP.json -> 3 chunks.
+[2026-05-21 21:41:20] [1300/6791] Đã phân đoạn: data_cleaned\Maudon\MAU SO 01-CHUONG VI-PHU LUC II-TT-09-2021-TT-BKHDT.json -> 4 chunks.
+[2026-05-21 21:41:22] [1400/6791] Đã phân đoạn: data_cleaned\Maudon\MAU SO 02-ND-81_2016-CP.json -> 4 chunks.
+[2026-05-21 21:41:24] [1500/6791] Đã phân đoạn: data_cleaned\Maudon\MAU SO 04-PHU LUC II-151-2025-ND-CP.json -> 12 chunks.
+[2026-05-21 21:41:25] [1600/6791] Đã phân đoạn: data_cleaned\Maudon\MAU SO 08-PHU LUC X-QD-793-QD-TTg.json -> 3 chunks.
+[2026-05-21 21:41:27] [1700/6791] Đã phân đoạn: data_cleaned\Maudon\Mau so 17_08_2021_ND-CP.json -> 2 chunks.
+[2026-05-21 21:41:28] [1800/6791] Đã phân đoạn: data_cleaned\Maudon\MAU SO 57-PHU LUC I-308-2025-ND-CP.json -> 3 chunks.
+[2026-05-21 21:41:30] [1900/6791] Đã phân đoạn: data_cleaned\Maudon\PHU LUC 03_43-2023-TT-BCT.json -> 5 chunks.
+[2026-05-21 21:41:32] [2000/6791] Đã phân đoạn: data_cleaned\Maudon\PHU LUC I-53-2026-ND-CP.json -> 5 chunks.
+[2026-05-21 21:41:33] [2100/6791] Đã phân đoạn: data_cleaned\Maudon\PHU LUC SO 02-101-2017-TT-BTC.json -> 4 chunks.
+[2026-05-21 21:41:34] [2200/6791] Đã phân đoạn: data_cleaned\Maudon\PL1_mau so 3.json -> 6 chunks.
+[2026-05-21 21:41:36] [2300/6791] Đã phân đoạn: data_cleaned\mauphieu\MAU 01C_TT_PHU LUC 03_199-2014-TT-BTC.json -> 1 chunks.
+[2026-05-21 21:41:38] [2400/6791] Đã phân đoạn: data_cleaned\mauphieu\MAU 04_PHU LUC 04_24-2023-TT-BYT.json -> 4 chunks.
+[2026-05-21 21:41:39] [2500/6791] Đã phân đoạn: data_cleaned\mauphieu\MAU 12-BV-02_PHU LUC XXIX_32-2023-TT-BYT.json -> 3 chunks.
+[2026-05-21 21:41:41] [2600/6791] Đã phân đoạn: data_cleaned\mauphieu\MAU 3-31-2023-UBTVQH15.json -> 1 chunks.
+[2026-05-21 21:41:42] [2700/6791] Đã phân đoạn: data_cleaned\mauphieu\MAU 9.4-PHU LUC IX-898-QD-CHK.json -> 2 chunks.
+[2026-05-21 21:41:44] [2800/6791] Đã phân đoạn: data_cleaned\mauphieu\MAU BM01-QT01.01-HCLS_119-2023-TT-BQP.json -> 3 chunks.
+[2026-05-21 21:41:45] [2900/6791] Đã phân đoạn: data_cleaned\mauphieu\MAU IV.08-DGDA-PHU LUC IV-09-2024-TT-BKHCN.json -> 3 chunks.
+[2026-05-21 21:41:47] [3000/6791] Đã phân đoạn: data_cleaned\mauphieu\MAU PHU LUC 6D_16-2015-TT-BVHTTDL.json -> 5 chunks.
+[2026-05-21 21:41:48] [3100/6791] Đã phân đoạn: data_cleaned\mauphieu\MAU SO 01-QD-489-QD-TTCP.json -> 3 chunks.
+[2026-05-21 21:41:50] [3200/6791] Đã phân đoạn: data_cleaned\mauphieu\MAU SO 02-QD-402-QD-BKHCN.json -> 3 chunks.
+[2026-05-21 21:41:51] [3300/6791] Đã phân đoạn: data_cleaned\mauphieu\MAU SO 03a-PHU LUC I-352-2025-ND-CP.json -> 4 chunks.
+[2026-05-21 21:41:52] [3400/6791] Đã phân đoạn: data_cleaned\mauphieu\MAU SO 05-PYCPT-XDTMS-2018-1921-QD-TCHQ.json -> 2 chunks.
+[2026-05-21 21:41:54] [3500/6791] Đã phân đoạn: data_cleaned\mauphieu\MAU SO 08-TT-45-2020-TT-BGDDT.json -> 3 chunks.
+[2026-05-21 21:41:55] [3600/6791] Đã phân đoạn: data_cleaned\mauphieu\MAU SO 15-52-2025-TT-BNNMT.json -> 2 chunks.
+[2026-05-21 21:41:57] [3700/6791] Đã phân đoạn: data_cleaned\mauphieu\MAU SO 3-1164-QD-BTTTT.json -> 2 chunks.
+[2026-05-21 21:41:59] [3800/6791] Đã phân đoạn: data_cleaned\mauphieu\MAU SO C6-06-NS-77-2017-TT-BTC.json -> 1 chunks.
+[2026-05-21 21:42:00] [3900/6791] Đã phân đoạn: data_cleaned\mauphieu\PHIEU SO 4A-333-QD-BHXH.json -> 5 chunks.
+[2026-05-21 21:42:02] [4000/6791] Đã phân đoạn: data_cleaned\mauphieu\PHU LUC 11-2246-QD-BYT.json -> 3 chunks.
+[2026-05-21 21:42:04] [4100/6791] Đã phân đoạn: data_cleaned\mauphieu\PHU LUC II-3199-QD-BTNMT.json -> 3 chunks.
+[2026-05-21 21:42:05] [4200/6791] Đã phân đoạn: data_cleaned\mauphieu\PHU LUC SO 03-QD-1788-QD-BLDTBXH.json -> 2 chunks.
+[2026-05-21 21:42:07] [4300/6791] Đã phân đoạn: data_cleaned\mauphieu\PHU LUC-QD-896-QD-BGDDT.json -> 3 chunks.
+[2026-05-21 21:42:08] [4400/6791] Đã phân đoạn: data_cleaned\thongbao\MAU 01_PHU LUC 3_13-2023-TT-BVHTTDL.json -> 1 chunks.
+[2026-05-21 21:42:10] [4500/6791] Đã phân đoạn: data_cleaned\thongbao\MAU 08-CVTL_6199-HD-NHCS-2021.json -> 2 chunks.
+[2026-05-21 21:42:12] [4600/6791] Đã phân đoạn: data_cleaned\thongbao\MAU 21-PL-TTBT-QD-109-QD-VSD.json -> 2 chunks.
+[2026-05-21 21:42:14] [4700/6791] Đã phân đoạn: data_cleaned\thongbao\MAU PHU LUC B-22-2024-TT-BTNMT.json -> 3 chunks.
+[2026-05-21 21:42:16] [4800/6791] Đã phân đoạn: data_cleaned\thongbao\MAU SO 02-BM-PQUD-PHU LUC I-QD-1650-QD-TCT.json -> 6 chunks.
+[2026-05-21 21:42:17] [4900/6791] Đã phân đoạn: data_cleaned\thongbao\MAU SO 03-TT-05-2020-TT-BGTVT.json -> 2 chunks.
+[2026-05-21 21:42:19] [5000/6791] Đã phân đoạn: data_cleaned\thongbao\MAU SO 06-01-2012-TTLT-TANDTC-VKSNDTC-BTP.json -> 5 chunks.
+[2026-05-21 21:42:20] [5100/6791] Đã phân đoạn: data_cleaned\thongbao\MAU SO 10-PHU LUC II-68-2025-TT-BTC.json -> 2 chunks.
+[2026-05-21 21:42:22] [5200/6791] Đã phân đoạn: data_cleaned\thongbao\MAU SO 15-PHU LUC 4-119-2021-ND-CP.json -> 1 chunks.
+[2026-05-21 21:42:24] [5300/6791] Đã phân đoạn: data_cleaned\thongbao\MAU SO 24-PHU LUC I-112-2025-TT-BQP.json -> 3 chunks.
+[2026-05-21 21:42:25] [5400/6791] Đã phân đoạn: data_cleaned\thongbao\MAU SO 3A_09-2005-TT-BCA.json -> 2 chunks.
+[2026-05-21 21:42:27] [5500/6791] Đã phân đoạn: data_cleaned\thongbao\MAU SO II.34a-PHU LUC I-04-2026-TT-BNNMT.json -> 2 chunks.
+[2026-05-21 21:42:28] [5600/6791] Đã phân đoạn: data_cleaned\thongbao\PHU LUC 3-04-QD-MT.json -> 3 chunks.
+[2026-05-21 21:42:30] [5700/6791] Đã phân đoạn: data_cleaned\thongbao\PHU LUC III-TT-06-2022-TT-BTTTT.json -> 2 chunks.
+[2026-05-21 21:42:32] [5800/6791] Đã phân đoạn: data_cleaned\thongbao\PHU LUC XIV-96-2020-TT-BTC.json -> 10 chunks.
+[2026-05-21 21:42:33] [5900/6791] Đã phân đoạn: data_cleaned\tokhai\MAU 08-TKCHC-PHU LUC IV-121-2025-TT-BTC.json -> 3 chunks.
+[2026-05-21 21:42:35] [6000/6791] Đã phân đoạn: data_cleaned\tokhai\MAU NA8-04-2015-TT-BCA.json -> 6 chunks.
+[2026-05-21 21:42:37] [6100/6791] Đã phân đoạn: data_cleaned\tokhai\MAU SO 02-QD-1762-QD-BTNMT.json -> 2 chunks.
+[2026-05-21 21:42:38] [6200/6791] Đã phân đoạn: data_cleaned\tokhai\MAU SO 07-PHU LUC IV-10-2025-TT-BTP.json -> 2 chunks.
+[2026-05-21 21:42:40] [6300/6791] Đã phân đoạn: data_cleaned\tokhai\MAU SO 5-PHU LUC II-ND-65-2023-CP.json -> 3 chunks.
+[2026-05-21 21:42:42] [6400/6791] Đã phân đoạn: data_cleaned\tokhai\PHU LUC III-03-2021-TT-BNNPTNT.json -> 2 chunks.
+[2026-05-21 21:42:43] [6500/6791] Đã phân đoạn: data_cleaned\totrinh\MAU 7-1106-QD-LDTBXH.json -> 1 chunks.
+[2026-05-21 21:42:45] [6600/6791] Đã phân đoạn: data_cleaned\totrinh\MAU SO 04-08-2018-TT-BNNPTNT.json -> 3 chunks.
+[2026-05-21 21:42:46] [6700/6791] Đã phân đoạn: data_cleaned\totrinh\MAU SO 4.3 - PHU LUC IV - 2699-QD-BTC.json -> 2 chunks.
+[2026-05-21 21:42:48] [6791/6791] Đã phân đoạn: data_cleaned\totrinh\TO TRINH VE VIEC XIN PHE DUYET THANH LAP KHU LAO DONG HUONG NGHIEP DAY NGHE CHO PHAM NHAN NGOAI TRAI GIAM_09_2023_ND-CP.json -> 5 chunks.
+[2026-05-21 21:42:48] === TỔNG KẾT QUY TRÌNH PHÂN ĐOẠN (CHUNKING COMPLETE) ===
+[2026-05-21 21:42:48] Thành công: 6791 file JSON
+[2026-05-21 21:42:48] Thất bại: 0 file (Chi tiết lỗi tại chunk_failed_files.json)
+[2026-05-21 21:42:48] Tổng số chunks đã được sinh ra: 21919 chunks
+[2026-05-21 21:42:48] Thời gian thực hiện: 107.06 giây (~1.78 phút)
+[2026-05-21 21:52:02] === KHỞI ĐỘNG PIPELINE PHÂN ĐOẠN VĂN BẢN THÔNG MINH (HYBRID CHUNKER) ===
+[2026-05-21 21:52:02] Tìm thấy tổng cộng: 6791 file văn bản sạch cần phân đoạn.
+[2026-05-21 21:52:02] Tiến trình Checkpoint: Đã phân đoạn xong 6791/6791 file. Còn lại 6791 file cần xử lý.
+[2026-05-21 21:52:02] [1/6791] Đã phân đoạn: data/cleaned\files\MAU SO 01-29-2025-TTLT-BTP-BCA-BQP-BTC-TANDTC-VKSNDTC.json -> 7 chunks.
+[2026-05-21 21:52:02] [2/6791] Đã phân đoạn: data/cleaned\files\MAU SO 01-PHU LUC I-58-2026-ND-CP.json -> 3 chunks.
+[2026-05-21 21:52:02] [3/6791] Đã phân đoạn: data/cleaned\files\MAU SO 01-PHU LUC IV-58-2026-ND-CP.json -> 3 chunks.
+[2026-05-21 21:52:02] [4/6791] Đã phân đoạn: data/cleaned\files\MAU SO 03-29-2025-TTLT-BTP-BCA-BQP-BTC-TANDTC-VKSNDTC.json -> 5 chunks.
+[2026-05-21 21:52:02] [5/6791] Đã phân đoạn: data/cleaned\files\MAU SO 03-PHU LUC I-58-2026-ND-CP.json -> 4 chunks.
+[2026-05-21 21:52:02] [6/6791] Đã phân đoạn: data/cleaned\files\MAU SO 03-PHU LUC II-58-2026-ND-CP.json -> 3 chunks.
+[2026-05-21 21:52:02] [7/6791] Đã phân đoạn: data/cleaned\files\MAU SO 05-62-2026-ND-CP.json -> 3 chunks.
+[2026-05-21 21:52:02] [8/6791] Đã phân đoạn: data/cleaned\files\MAU SO 06-62-2026-ND-CP.json -> 3 chunks.
+[2026-05-21 21:52:02] [9/6791] Đã phân đoạn: data/cleaned\files\MAU SO 06B-29-2025-TTLT-BTP-BCA-BQP-BTC-TANDTC-VKSNDTC.json -> 6 chunks.
+[2026-05-21 21:52:02] [10/6791] Đã phân đoạn: data/cleaned\files\MAU SO 06C-29-2025-TTLT-BTP-BCA-BQP-BTC-TANDTC-VKSNDTC.json -> 3 chunks.
+[2026-05-21 21:52:02] [100/6791] Đã phân đoạn: data/cleaned\maubaocao\BIEU SO 010-H-BCDTQG-BN-130-2018-TT-BTC.json -> 7 chunks.
+[2026-05-21 21:52:02] [200/6791] Đã phân đoạn: data/cleaned\maubaocao\BIEU VNNIC-07-TT-04-2022-TT-BTTTT.json -> 5 chunks.
+[2026-05-21 21:52:02] [300/6791] Đã phân đoạn: data/cleaned\maubaocao\MAU B09b-BH-102-2018-TT-BTC.json -> 5 chunks.
+[2026-05-21 21:52:02] [400/6791] Đã phân đoạn: data/cleaned\maubaocao\MAU BIEU SO 5.1-PHU LUC 05-TT_7_2021_BNV.json -> 3 chunks.
+[2026-05-21 21:52:02] [500/6791] Đã phân đoạn: data/cleaned\maubaocao\MAU SO 03-PHU LUC X-ND-67-2023-CP.json -> 3 chunks.
+[2026-05-21 21:52:02] [600/6791] Đã phân đoạn: data/cleaned\maubaocao\MAU SO 11-21-2023-NDCP.json -> 3 chunks.
+[2026-05-21 21:52:03] [700/6791] Đã phân đoạn: data/cleaned\maubaocao\MAU SO B03b-1-CTCK-334-2016-TT-BTC.json -> 2 chunks.
+[2026-05-21 21:52:03] [800/6791] Đã phân đoạn: data/cleaned\maubaocao\PHU LUC 04-TT_7_2021_BNV.json -> 9 chunks.
+[2026-05-21 21:52:03] [900/6791] Đã phân đoạn: data/cleaned\maubaocao\PHU LUC SO 05-TT-07-2021-BKHCN.json -> 2 chunks.
+[2026-05-21 21:52:03] [1000/6791] Đã phân đoạn: data/cleaned\Maudon\MAU 01-DON-21-2015-TTLT-BTTTT-BTC.json -> 3 chunks.
+[2026-05-21 21:52:03] [1100/6791] Đã phân đoạn: data/cleaned\Maudon\MAU 07_07-2011-TT-BVHTTDL.json -> 2 chunks.
+[2026-05-21 21:52:03] [1200/6791] Đã phân đoạn: data/cleaned\Maudon\MAU DON DE NGHI XEM XET MIEN LAI CHAM NOP_148_2021_ND-CP.json -> 3 chunks.
+[2026-05-21 21:52:03] [1300/6791] Đã phân đoạn: data/cleaned\Maudon\MAU SO 01-CHUONG VI-PHU LUC II-TT-09-2021-TT-BKHDT.json -> 4 chunks.
+[2026-05-21 21:52:03] [1400/6791] Đã phân đoạn: data/cleaned\Maudon\MAU SO 02-ND-81_2016-CP.json -> 4 chunks.
+[2026-05-21 21:52:04] [1500/6791] Đã phân đoạn: data/cleaned\Maudon\MAU SO 04-PHU LUC II-151-2025-ND-CP.json -> 12 chunks.
+[2026-05-21 21:52:04] [1600/6791] Đã phân đoạn: data/cleaned\Maudon\MAU SO 08-PHU LUC X-QD-793-QD-TTg.json -> 3 chunks.
+[2026-05-21 21:52:04] [1700/6791] Đã phân đoạn: data/cleaned\Maudon\Mau so 17_08_2021_ND-CP.json -> 2 chunks.
+[2026-05-21 21:52:04] [1800/6791] Đã phân đoạn: data/cleaned\Maudon\MAU SO 57-PHU LUC I-308-2025-ND-CP.json -> 3 chunks.
+[2026-05-21 21:52:04] [1900/6791] Đã phân đoạn: data/cleaned\Maudon\PHU LUC 03_43-2023-TT-BCT.json -> 5 chunks.
+[2026-05-21 21:52:04] [2000/6791] Đã phân đoạn: data/cleaned\Maudon\PHU LUC I-53-2026-ND-CP.json -> 5 chunks.
+[2026-05-21 21:52:04] [2100/6791] Đã phân đoạn: data/cleaned\Maudon\PHU LUC SO 02-101-2017-TT-BTC.json -> 4 chunks.
+[2026-05-21 21:52:04] [2200/6791] Đã phân đoạn: data/cleaned\Maudon\PL1_mau so 3.json -> 6 chunks.
+[2026-05-21 21:52:05] [2300/6791] Đã phân đoạn: data/cleaned\mauphieu\MAU 01C_TT_PHU LUC 03_199-2014-TT-BTC.json -> 1 chunks.
+[2026-05-21 21:52:05] [2400/6791] Đã phân đoạn: data/cleaned\mauphieu\MAU 04_PHU LUC 04_24-2023-TT-BYT.json -> 4 chunks.
+[2026-05-21 21:52:05] [2500/6791] Đã phân đoạn: data/cleaned\mauphieu\MAU 12-BV-02_PHU LUC XXIX_32-2023-TT-BYT.json -> 3 chunks.
+[2026-05-21 21:52:05] [2600/6791] Đã phân đoạn: data/cleaned\mauphieu\MAU 3-31-2023-UBTVQH15.json -> 1 chunks.
+[2026-05-21 21:52:05] [2700/6791] Đã phân đoạn: data/cleaned\mauphieu\MAU 9.4-PHU LUC IX-898-QD-CHK.json -> 2 chunks.
+[2026-05-21 21:52:05] [2800/6791] Đã phân đoạn: data/cleaned\mauphieu\MAU BM01-QT01.01-HCLS_119-2023-TT-BQP.json -> 3 chunks.
+[2026-05-21 21:52:05] [2900/6791] Đã phân đoạn: data/cleaned\mauphieu\MAU IV.08-DGDA-PHU LUC IV-09-2024-TT-BKHCN.json -> 3 chunks.
+[2026-05-21 21:52:06] [3000/6791] Đã phân đoạn: data/cleaned\mauphieu\MAU PHU LUC 6D_16-2015-TT-BVHTTDL.json -> 5 chunks.
+[2026-05-21 21:52:06] [3100/6791] Đã phân đoạn: data/cleaned\mauphieu\MAU SO 01-QD-489-QD-TTCP.json -> 3 chunks.
+[2026-05-21 21:52:07] [3200/6791] Đã phân đoạn: data/cleaned\mauphieu\MAU SO 02-QD-402-QD-BKHCN.json -> 3 chunks.
+[2026-05-21 21:52:07] [3300/6791] Đã phân đoạn: data/cleaned\mauphieu\MAU SO 03a-PHU LUC I-352-2025-ND-CP.json -> 4 chunks.
+[2026-05-21 21:52:08] [3400/6791] Đã phân đoạn: data/cleaned\mauphieu\MAU SO 05-PYCPT-XDTMS-2018-1921-QD-TCHQ.json -> 2 chunks.
+[2026-05-21 21:52:08] [3500/6791] Đã phân đoạn: data/cleaned\mauphieu\MAU SO 08-TT-45-2020-TT-BGDDT.json -> 3 chunks.
+[2026-05-21 21:52:09] [3600/6791] Đã phân đoạn: data/cleaned\mauphieu\MAU SO 15-52-2025-TT-BNNMT.json -> 2 chunks.
+[2026-05-21 21:52:10] [3700/6791] Đã phân đoạn: data/cleaned\mauphieu\MAU SO 3-1164-QD-BTTTT.json -> 2 chunks.
+[2026-05-21 21:52:10] [3800/6791] Đã phân đoạn: data/cleaned\mauphieu\MAU SO C6-06-NS-77-2017-TT-BTC.json -> 1 chunks.
+[2026-05-21 21:52:11] [3900/6791] Đã phân đoạn: data/cleaned\mauphieu\PHIEU SO 4A-333-QD-BHXH.json -> 5 chunks.
+[2026-05-21 21:52:11] [4000/6791] Đã phân đoạn: data/cleaned\mauphieu\PHU LUC 11-2246-QD-BYT.json -> 3 chunks.
+[2026-05-21 21:52:11] [4100/6791] Đã phân đoạn: data/cleaned\mauphieu\PHU LUC II-3199-QD-BTNMT.json -> 3 chunks.
+[2026-05-21 21:52:11] [4200/6791] Đã phân đoạn: data/cleaned\mauphieu\PHU LUC SO 03-QD-1788-QD-BLDTBXH.json -> 2 chunks.
+[2026-05-21 21:52:11] [4300/6791] Đã phân đoạn: data/cleaned\mauphieu\PHU LUC-QD-896-QD-BGDDT.json -> 3 chunks.
+[2026-05-21 21:52:11] [4400/6791] Đã phân đoạn: data/cleaned\thongbao\MAU 01_PHU LUC 3_13-2023-TT-BVHTTDL.json -> 1 chunks.
+[2026-05-21 21:52:11] [4500/6791] Đã phân đoạn: data/cleaned\thongbao\MAU 08-CVTL_6199-HD-NHCS-2021.json -> 2 chunks.
+[2026-05-21 21:52:11] [4600/6791] Đã phân đoạn: data/cleaned\thongbao\MAU 21-PL-TTBT-QD-109-QD-VSD.json -> 2 chunks.
+[2026-05-21 21:52:12] [4700/6791] Đã phân đoạn: data/cleaned\thongbao\MAU PHU LUC B-22-2024-TT-BTNMT.json -> 3 chunks.
+[2026-05-21 21:52:12] [4800/6791] Đã phân đoạn: data/cleaned\thongbao\MAU SO 02-BM-PQUD-PHU LUC I-QD-1650-QD-TCT.json -> 6 chunks.
+[2026-05-21 21:52:12] [4900/6791] Đã phân đoạn: data/cleaned\thongbao\MAU SO 03-TT-05-2020-TT-BGTVT.json -> 2 chunks.
+[2026-05-21 21:52:12] [5000/6791] Đã phân đoạn: data/cleaned\thongbao\MAU SO 06-01-2012-TTLT-TANDTC-VKSNDTC-BTP.json -> 5 chunks.
+[2026-05-21 21:52:12] [5100/6791] Đã phân đoạn: data/cleaned\thongbao\MAU SO 10-PHU LUC II-68-2025-TT-BTC.json -> 2 chunks.
+[2026-05-21 21:52:12] [5200/6791] Đã phân đoạn: data/cleaned\thongbao\MAU SO 15-PHU LUC 4-119-2021-ND-CP.json -> 1 chunks.
+[2026-05-21 21:52:12] [5300/6791] Đã phân đoạn: data/cleaned\thongbao\MAU SO 24-PHU LUC I-112-2025-TT-BQP.json -> 3 chunks.
+[2026-05-21 21:52:13] [5400/6791] Đã phân đoạn: data/cleaned\thongbao\MAU SO 3A_09-2005-TT-BCA.json -> 2 chunks.
+[2026-05-21 21:52:13] [5500/6791] Đã phân đoạn: data/cleaned\thongbao\MAU SO II.34a-PHU LUC I-04-2026-TT-BNNMT.json -> 2 chunks.
+[2026-05-21 21:52:13] [5600/6791] Đã phân đoạn: data/cleaned\thongbao\PHU LUC 3-04-QD-MT.json -> 3 chunks.
+[2026-05-21 21:52:13] [5700/6791] Đã phân đoạn: data/cleaned\thongbao\PHU LUC III-TT-06-2022-TT-BTTTT.json -> 2 chunks.
+[2026-05-21 21:52:13] [5800/6791] Đã phân đoạn: data/cleaned\thongbao\PHU LUC XIV-96-2020-TT-BTC.json -> 10 chunks.
+[2026-05-21 21:52:13] [5900/6791] Đã phân đoạn: data/cleaned\tokhai\MAU 08-TKCHC-PHU LUC IV-121-2025-TT-BTC.json -> 3 chunks.
+[2026-05-21 21:52:13] [6000/6791] Đã phân đoạn: data/cleaned\tokhai\MAU NA8-04-2015-TT-BCA.json -> 6 chunks.
+[2026-05-21 21:52:14] [6100/6791] Đã phân đoạn: data/cleaned\tokhai\MAU SO 02-QD-1762-QD-BTNMT.json -> 2 chunks.
+[2026-05-21 21:52:14] [6200/6791] Đã phân đoạn: data/cleaned\tokhai\MAU SO 07-PHU LUC IV-10-2025-TT-BTP.json -> 2 chunks.
+[2026-05-21 21:52:14] [6300/6791] Đã phân đoạn: data/cleaned\tokhai\MAU SO 5-PHU LUC II-ND-65-2023-CP.json -> 3 chunks.
+[2026-05-21 21:52:14] [6400/6791] Đã phân đoạn: data/cleaned\tokhai\PHU LUC III-03-2021-TT-BNNPTNT.json -> 2 chunks.
+[2026-05-21 21:52:14] [6500/6791] Đã phân đoạn: data/cleaned\totrinh\MAU 7-1106-QD-LDTBXH.json -> 1 chunks.
+[2026-05-21 21:52:14] [6600/6791] Đã phân đoạn: data/cleaned\totrinh\MAU SO 04-08-2018-TT-BNNPTNT.json -> 3 chunks.
+[2026-05-21 21:52:14] [6700/6791] Đã phân đoạn: data/cleaned\totrinh\MAU SO 4.3 - PHU LUC IV - 2699-QD-BTC.json -> 2 chunks.
+[2026-05-21 21:52:14] [6791/6791] Đã phân đoạn: data/cleaned\totrinh\TO TRINH VE VIEC XIN PHE DUYET THANH LAP KHU LAO DONG HUONG NGHIEP DAY NGHE CHO PHAM NHAN NGOAI TRAI GIAM_09_2023_ND-CP.json -> 5 chunks.
+[2026-05-21 21:52:14] === TỔNG KẾT QUY TRÌNH PHÂN ĐOẠN (CHUNKING COMPLETE) ===
+[2026-05-21 21:52:14] Thành công: 6791 file JSON
+[2026-05-21 21:52:14] Thất bại: 0 file (Chi tiết lỗi tại logs/chunk_failed_files.json)
+[2026-05-21 21:52:14] Tổng số chunks đã được sinh ra: 21919 chunks
+[2026-05-21 21:52:14] Thời gian thực hiện: 12.75 giây (~0.21 phút)

@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_01-TB-XNKTC-GSQL-PHU_LUC_V-39-2018-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_01-TB-XNKTC-GSQL-PHU_LUC_V-39-2018-TT-BTC",
+        "text": "Mẫu số 01/TB-XNKTC/GSQL\n\n| TÊN CƠ QUAN CHỦ QUẢN<br>TÊN CƠ QUAN BAN HÀNH VB<br><br>Số:.../TB-tên viết tắt của cơ quan ban hành | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT <br>Độc lập - Tự do - Hạnh phúc<br><br>\t ..., ngày... tháng... năm... |\n| --- | --- |\n\nTHÔNG BÁO\n\nVề việc làm thủ tục xuất khẩu, nhập khẩu tại chỗ\n\nHải quan... thuộc Chi cục Hải quan khu vực tỉnh, thành phố... xin thông báo tình hình làm thủ tục nhập khẩu tại chỗ của các doanh nghiệp đã làm thủ tục hải quan (từ ngày.../.../... Đến ngày.../.../...:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_01-TB-XNKTC-GSQL-PHU_LUC_V-39-2018-TT-BTC_chunk_0002",
+            "char_count": 508,
+            "source_file": "thongbao/MAU SO 01-TB-XNKTC-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+            "file_name": "MAU SO 01-TB-XNKTC-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:33:24",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-TB-XNKTC-GSQL-PHU_LUC_V-39-2018-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_01-TB-XNKTC-GSQL-PHU_LUC_V-39-2018-TT-BTC",
+        "text": "quan... thuộc Chi cục Hải quan khu vực tỉnh, thành phố... xin thông báo tình hình làm thủ tục nhập khẩu tại chỗ của các doanh nghiệp đã làm thủ tục hải quan (từ ngày.../.../... Đến ngày.../.../...:\n\n| Số tt | Tên, địa chỉ DN | Tờ khai nhập khẩu tại chỗ | Tờ khai xuất khẩu tại chỗ | Trị giá (vnđ) | Thuế nhập khẩu (vnđ) | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- |\n| 1 | Doanh nghiệp A | Tờ khai ... ngày... tháng... năm | Tờ khai ... ngày... tháng ... năm |  |  |  |\n| 1 | Doanh nghiệp A | Tờ khai ... ngày... tháng... năm | Tờ khai ... ngày... tháng ... năm |  |  |  |\n| 2 | Doanh nghiệp B | Tờ khai ... ngày... tháng ... năm | Tờ khai ... ngày... tháng ... năm |  |  |  |\n| 2 | Doanh nghiệp B | Tờ khai ... ngày... tháng ... năm | Tờ khai ... ngày... tháng ... năm |  |  |  |\n| ... | ... |  |  | ... | ... |  |\n| Tổng cộng: | Tổng cộng: |  |  | ... | ... |  |\n\nHải quan... xin thông báo để Quý Cục biết, theo dõi./.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "thongbao_MAU_SO_01-TB-XNKTC-GSQL-PHU_LUC_V-39-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": "thongbao_MAU_SO_01-TB-XNKTC-GSQL-PHU_LUC_V-39-2018-TT-BTC_chunk_0003",
+            "char_count": 929,
+            "source_file": "thongbao/MAU SO 01-TB-XNKTC-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+            "file_name": "MAU SO 01-TB-XNKTC-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:33:24",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-TB-XNKTC-GSQL-PHU_LUC_V-39-2018-TT-BTC_chunk_0003",
+        "doc_id": "thongbao_MAU_SO_01-TB-XNKTC-GSQL-PHU_LUC_V-39-2018-TT-BTC",
+        "text": "... năm | Tờ khai ... ngày... tháng ... năm |  |  |  |\n| ... | ... |  |  | ... | ... |  |\n| Tổng cộng: | Tổng cộng: |  |  | ... | ... |  |\n\nHải quan... xin thông báo để Quý Cục biết, theo dõi./.\n\n| Nơi nhận:<br>- Cục Thuế...<br>- Tổng cục Thuế;<br>- Lưu: VT, tên viết tắt đơn vị soạn thảo thông báo. | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký, ghi rõ họ tên, đóng dấu Chi cục) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "thongbao_MAU_SO_01-TB-XNKTC-GSQL-PHU_LUC_V-39-2018-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 376,
+            "source_file": "thongbao/MAU SO 01-TB-XNKTC-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+            "file_name": "MAU SO 01-TB-XNKTC-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:33:24",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

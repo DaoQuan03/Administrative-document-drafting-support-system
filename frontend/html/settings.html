@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cài đặt — VănBảnAI</title>
+  <link rel="stylesheet" href="../css/global.css"/>
+  <link rel="stylesheet" href="../css/shell.css"/>
+  <link rel="stylesheet" href="../css/settings.css"/>
+</head>
+<body>
+<h2 class="sr-only">Trang cài đặt hệ thống VănBảnAI</h2>
+
+<div class="app-shell">
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-workspace">
+      <button class="workspace-btn" onclick="nav('dashboard.html')">
+        <div class="workspace-logo"><svg viewBox="0 0 24 24"><path d="M12 2L20 7V17L12 22L4 17V7L12 2Z"/></svg></div>
+        <span class="workspace-name">UBND Quận 1</span><span class="workspace-arrow">⌄</span>
+      </button>
+    </div>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <button class="sidebar-item" onclick="nav('dashboard.html')"><span class="si-icon">⊞</span><span class="si-label">Tổng quan</span></button>
+        <button class="sidebar-item" onclick="nav('editor.html')"><span class="si-icon">✏️</span><span class="si-label">Soạn thảo mới</span></button>
+        <button class="sidebar-item" onclick="nav('knowledge-base.html')"><span class="si-icon">📚</span><span class="si-label">Kho tri thức</span></button>
+        <button class="sidebar-item" onclick="nav('search.html')"><span class="si-icon">🔍</span><span class="si-label">Tìm kiếm AI</span></button>
+        <button class="sidebar-item active"><span class="si-icon">⚙️</span><span class="si-label">Cài đặt</span></button>
+      </div>
+    </nav>
+    <div class="sidebar-footer">
+      <div class="user-card">
+        <div class="avatar avatar-blue">NT</div>
+        <div class="user-info"><div class="user-name">Nguyễn Trung</div><div class="user-role">Cán bộ · Editor</div></div>
+      </div>
+    </div>
+  </aside>
+
+  <div class="app-body">
+    <header class="topbar">
+      <button class="topbar-toggle" onclick="toggleSidebar()">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+      <div class="breadcrumb">
+        <span onclick="nav('dashboard.html')" style="cursor:pointer">UBND Quận 1</span>
+        <span class="bc-sep">/</span>
+        <span class="bc-current">Cài đặt</span>
+      </div>
+      <div class="topbar-right">
+        <button class="btn btn-primary btn-sm" onclick="saveSettings()">Lưu thay đổi</button>
+        <div class="avatar avatar-blue">NT</div>
+      </div>
+    </header>
+
+    <main class="page-content">
+      <div class="settings-layout fade-in">
+
+        <!-- Settings nav -->
+        <nav class="settings-nav">
+          <div class="settings-nav-section">
+            <div class="settings-nav-label">Tài khoản</div>
+            <button class="settings-nav-item active" onclick="switchSection(this,'profile')">
+              <span>👤</span> Hồ sơ cá nhân
+            </button>
+            <button class="settings-nav-item" onclick="switchSection(this,'security')">
+              <span>🔐</span> Bảo mật
+            </button>
+            <button class="settings-nav-item" onclick="switchSection(this,'notifications')">
+              <span>🔔</span> Thông báo
+            </button>
+          </div>
+          <div class="settings-nav-section">
+            <div class="settings-nav-label">Hệ thống AI</div>
+            <button class="settings-nav-item" onclick="switchSection(this,'ai')">
+              <span>🤖</span> Mô hình AI
+            </button>
+            <button class="settings-nav-item" onclick="switchSection(this,'rag')">
+              <span>📚</span> Cấu hình RAG
+            </button>
+            <button class="settings-nav-item" onclick="switchSection(this,'editor-prefs')">
+              <span>✏️</span> Soạn thảo
+            </button>
+          </div>
+          <div class="settings-nav-section">
+            <div class="settings-nav-label">Tổ chức</div>
+            <button class="settings-nav-item" onclick="switchSection(this,'workspace')">
+              <span>🏢</span> Không gian làm việc
+            </button>
+            <button class="settings-nav-item" onclick="switchSection(this,'members')">
+              <span>👥</span> Thành viên
+            </button>
+            <button class="settings-nav-item" onclick="switchSection(this,'billing')">
+              <span>💳</span> Thanh toán & gói dịch vụ
+            </button>
+          </div>
+        </nav>
+
+        <!-- Settings content -->
+        <div class="settings-content">
+
+          <!-- Profile -->
+          <section class="settings-section" id="sec-profile">
+            <div class="settings-section-header">
+              <h2>Hồ sơ cá nhân</h2>
+              <p>Cập nhật thông tin cá nhân và hình đại diện</p>
+            </div>
+            <div class="settings-card">
+              <div class="profile-avatar-row">
+                <div class="avatar avatar-blue" style="width:64px;height:64px;font-size:24px">NT</div>
+                <div>
+                  <button class="btn btn-secondary btn-sm">Thay đổi ảnh</button>
+                  <p style="font-size:11px;color:var(--text-tertiary);margin-top:4px">PNG, JPG tối đa 2MB</p>
+                </div>
+              </div>
+              <div class="settings-row-2">
+                <div class="field-group">
+                  <label class="field-label">Họ và tên</label>
+                  <input type="text" class="input" value="Nguyễn Trung"/>
+                </div>
+                <div class="field-group">
+                  <label class="field-label">Chức danh</label>
+                  <input type="text" class="input" value="Cán bộ hành chính"/>
+                </div>
+              </div>
+              <div class="field-group">
+                <label class="field-label">Email công vụ</label>
+                <input type="email" class="input" value="nguyen.trung@ubnd-quan1.gov.vn"/>
+              </div>
+              <div class="settings-row-2">
+                <div class="field-group">
+                  <label class="field-label">Phòng ban</label>
+                  <select class="input">
+                    <option selected>Văn phòng UBND</option>
+                    <option>Phòng Kinh tế</option>
+                    <option>Phòng Nội vụ</option>
+                    <option>Phòng Tư pháp</option>
+                  </select>
+                </div>
+                <div class="field-group">
+                  <label class="field-label">Số điện thoại</label>
+                  <input type="tel" class="input" value="028 3829 xxxx"/>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <!-- Security (hidden) -->
+          <section class="settings-section" id="sec-security" style="display:none">
+            <div class="settings-section-header">
+              <h2>Bảo mật</h2>
+              <p>Quản lý mật khẩu và xác thực 2 yếu tố</p>
+            </div>
+            <div class="settings-card">
+              <h3 class="settings-sub-title">Đổi mật khẩu</h3>
+              <div class="field-group"><label class="field-label">Mật khẩu hiện tại</label><input type="password" class="input" placeholder="••••••••"/></div>
+              <div class="settings-row-2">
+                <div class="field-group"><label class="field-label">Mật khẩu mới</label><input type="password" class="input" placeholder="••••••••"/></div>
+                <div class="field-group"><label class="field-label">Xác nhận mật khẩu</label><input type="password" class="input" placeholder="••••••••"/></div>
+              </div>
+              <button class="btn btn-primary btn-sm" style="margin-top:4px">Cập nhật mật khẩu</button>
+            </div>
+            <div class="settings-card" style="margin-top:16px">
+              <div class="settings-toggle-row">
+                <div>
+                  <h3 class="settings-sub-title">Xác thực 2 yếu tố (2FA)</h3>
+                  <p class="settings-sub-desc">Tăng cường bảo mật bằng mã OTP khi đăng nhập</p>
+                </div>
+                <label class="big-toggle">
+                  <input type="checkbox" id="2fa-toggle" onchange="toggle2FA(this)"/>
+                  <span class="big-toggle-switch"></span>
+                </label>
+              </div>
+            </div>
+            <div class="settings-card" style="margin-top:16px">
+              <h3 class="settings-sub-title">Phiên đăng nhập</h3>
+              <div class="session-list">
+                <div class="session-item active-session">
+                  <div class="session-icon">💻</div>
+                  <div class="session-info">
+                    <div class="session-device">Chrome · Windows 11 · Hà Nội</div>
+                    <div class="session-time">Phiên hiện tại · 15:42 hôm nay</div>
+                  </div>
+                  <span class="badge badge-green">Hiện tại</span>
+                </div>
+                <div class="session-item">
+                  <div class="session-icon">📱</div>
+                  <div class="session-info">
+                    <div class="session-device">Safari · iPhone · TP.HCM</div>
+                    <div class="session-time">Đăng nhập lần cuối: 3 ngày trước</div>
+                  </div>
+                  <button class="btn btn-danger btn-sm" onclick="revokeSession(this)">Thu hồi</button>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <!-- Notifications -->
+          <section class="settings-section" id="sec-notifications" style="display:none">
+            <div class="settings-section-header">
+              <h2>Thông báo</h2>
+              <p>Tùy chỉnh cách nhận thông báo từ hệ thống</p>
+            </div>
+            <div class="settings-card">
+              <h3 class="settings-sub-title">Email thông báo</h3>
+              <div class="notif-list">
+                <label class="notif-row"><div class="notif-info"><div class="notif-name">Tài liệu được chia sẻ với tôi</div><div class="notif-desc">Nhận email khi có người chia sẻ tài liệu</div></div><label class="big-toggle"><input type="checkbox" checked/><span class="big-toggle-switch"></span></label></label>
+                <label class="notif-row"><div class="notif-info"><div class="notif-name">Bình luận mới</div><div class="notif-desc">Khi có người bình luận trên tài liệu của bạn</div></div><label class="big-toggle"><input type="checkbox" checked/><span class="big-toggle-switch"></span></label></label>
+                <label class="notif-row"><div class="notif-info"><div class="notif-name">Tài liệu chờ phê duyệt</div><div class="notif-desc">Nhắc nhở khi có văn bản đang chờ bạn ký duyệt</div></div><label class="big-toggle"><input type="checkbox" checked/><span class="big-toggle-switch"></span></label></label>
+                <label class="notif-row"><div class="notif-info"><div class="notif-name">Cập nhật hệ thống</div><div class="notif-desc">Thông báo về tính năng mới và bảo trì</div></div><label class="big-toggle"><input type="checkbox"/><span class="big-toggle-switch"></span></label></label>
+              </div>
+            </div>
+          </section>
+
+          <!-- AI Settings -->
+          <section class="settings-section" id="sec-ai" style="display:none">
+            <div class="settings-section-header">
+              <h2>Mô hình AI</h2>
+              <p>Chọn và cấu hình mô hình ngôn ngữ sử dụng trong hệ thống</p>
+            </div>
+            <div class="settings-card">
+              <h3 class="settings-sub-title">Mô hình mặc định</h3>
+              <div class="model-cards">
+                <div class="model-card selected" onclick="selectModel(this)">
+                  <div class="model-logo">🤖</div>
+                  <div class="model-info">
+                    <div class="model-name">GPT-4o</div>
+                    <div class="model-desc">Hiệu năng cao, phù hợp văn bản phức tạp</div>
+                  </div>
+                  <div class="model-badge badge badge-blue">Đang dùng</div>
+                </div>
+                <div class="model-card" onclick="selectModel(this)">
+                  <div class="model-logo">⚡</div>
+                  <div class="model-info">
+                    <div class="model-name">GPT-4o-mini</div>
+                    <div class="model-desc">Nhanh hơn, tiết kiệm token hơn</div>
+                  </div>
+                  <div class="model-badge badge badge-gray">Tiết kiệm</div>
+                </div>
+                <div class="model-card" onclick="selectModel(this)">
+                  <div class="model-logo">🌟</div>
+                  <div class="model-info">
+                    <div class="model-name">Claude 3.5 Sonnet</div>
+                    <div class="model-desc">Tốt cho phân tích và tóm tắt văn bản</div>
+                  </div>
+                  <div class="model-badge badge badge-amber">Beta</div>
+                </div>
+              </div>
+            </div>
+            <div class="settings-card" style="margin-top:16px">
+              <h3 class="settings-sub-title">API Key (tùy chọn)</h3>
+              <p class="settings-sub-desc">Sử dụng API key riêng để có giới hạn cao hơn</p>
+              <div class="field-group" style="margin-top:10px">
+                <input type="password" class="input" placeholder="sk-..." value="sk-••••••••••••••••••••"/>
+              </div>
+            </div>
+          </section>
+
+          <!-- RAG config -->
+          <section class="settings-section" id="sec-rag" style="display:none">
+            <div class="settings-section-header">
+              <h2>Cấu hình RAG</h2>
+              <p>Điều chỉnh cách hệ thống truy xuất và sử dụng tài liệu tham chiếu</p>
+            </div>
+            <div class="settings-card">
+              <div class="rag-param-list">
+                <div class="rag-param">
+                  <div class="rag-param-info">
+                    <div class="rag-param-name">Top-K chunks</div>
+                    <div class="rag-param-desc">Số đoạn văn tham chiếu tối đa mỗi lần truy vấn</div>
+                  </div>
+                  <div class="rag-param-control">
+                    <input type="range" min="1" max="15" value="5" oninput="this.nextElementSibling.textContent=this.value"/>
+                    <span class="param-val">5</span>
+                  </div>
+                </div>
+                <div class="rag-param">
+                  <div class="rag-param-info">
+                    <div class="rag-param-name">Ngưỡng similarity</div>
+                    <div class="rag-param-desc">Chỉ dùng đoạn văn có độ tương đồng ≥ ngưỡng này</div>
+                  </div>
+                  <div class="rag-param-control">
+                    <input type="range" min="50" max="95" value="70" oninput="this.nextElementSibling.textContent=this.value+'%'"/>
+                    <span class="param-val">70%</span>
+                  </div>
+                </div>
+                <div class="rag-param">
+                  <div class="rag-param-info">
+                    <div class="rag-param-name">Temperature</div>
+                    <div class="rag-param-desc">Độ ngẫu nhiên của câu trả lời (0=chính xác, 1=sáng tạo)</div>
+                  </div>
+                  <div class="rag-param-control">
+                    <input type="range" min="0" max="10" value="3" oninput="this.nextElementSibling.textContent=(this.value/10).toFixed(1)"/>
+                    <span class="param-val">0.3</span>
+                  </div>
+                </div>
+                <div class="rag-param">
+                  <div class="rag-param-info">
+                    <div class="rag-param-name">Chunk size (token)</div>
+                    <div class="rag-param-desc">Kích thước mỗi đoạn khi chia nhỏ tài liệu</div>
+                  </div>
+                  <div class="rag-param-control">
+                    <input type="range" min="128" max="1024" value="512" step="128" oninput="this.nextElementSibling.textContent=this.value"/>
+                    <span class="param-val">512</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="settings-card" style="margin-top:16px">
+              <h3 class="settings-sub-title">Mô hình embedding</h3>
+              <select class="input">
+                <option selected>text-embedding-3-large (OpenAI)</option>
+                <option>text-embedding-3-small (OpenAI)</option>
+                <option>BGE-M3 (Local)</option>
+              </select>
+            </div>
+          </section>
+
+          <!-- Editor prefs -->
+          <section class="settings-section" id="sec-editor-prefs" style="display:none">
+            <div class="settings-section-header">
+              <h2>Tùy chỉnh soạn thảo</h2>
+              <p>Cài đặt giao diện và hành vi của trình soạn thảo</p>
+            </div>
+            <div class="settings-card">
+              <div class="notif-list">
+                <label class="notif-row"><div class="notif-info"><div class="notif-name">Tự động lưu</div><div class="notif-desc">Lưu tài liệu mỗi 30 giây</div></div><label class="big-toggle"><input type="checkbox" checked/><span class="big-toggle-switch"></span></label></label>
+                <label class="notif-row"><div class="notif-info"><div class="notif-name">Gợi ý AI tự động</div><div class="notif-desc">Hiển thị gợi ý inline khi dừng gõ 2 giây</div></div><label class="big-toggle"><input type="checkbox" checked/><span class="big-toggle-switch"></span></label></label>
+                <label class="notif-row"><div class="notif-info"><div class="notif-name">Hiển thị nguồn RAG</div><div class="notif-desc">Luôn hiển thị panel tài liệu tham chiếu bên phải</div></div><label class="big-toggle"><input type="checkbox" checked/><span class="big-toggle-switch"></span></label></label>
+                <label class="notif-row"><div class="notif-info"><div class="notif-name">Kiểm tra chính tả tiếng Việt</div><div class="notif-desc">Gạch chân từ viết sai chính tả</div></div><label class="big-toggle"><input type="checkbox"/><span class="big-toggle-switch"></span></label></label>
+              </div>
+              <div class="field-group" style="margin-top:16px">
+                <label class="field-label">Cỡ chữ mặc định</label>
+                <select class="input">
+                  <option>13px</option>
+                  <option selected>15px</option>
+                  <option>16px</option>
+                  <option>18px</option>
+                </select>
+              </div>
+            </div>
+          </section>
+
+          <!-- Workspace -->
+          <section class="settings-section" id="sec-workspace" style="display:none">
+            <div class="settings-section-header">
+              <h2>Không gian làm việc</h2>
+              <p>Thông tin và cài đặt tổ chức</p>
+            </div>
+            <div class="settings-card">
+              <div class="field-group"><label class="field-label">Tên tổ chức</label><input type="text" class="input" value="UBND Quận 1, TP. Hồ Chí Minh"/></div>
+              <div class="settings-row-2">
+                <div class="field-group"><label class="field-label">Tên viết tắt</label><input type="text" class="input" value="UBND Q1"/></div>
+                <div class="field-group"><label class="field-label">Múi giờ</label><select class="input"><option selected>UTC+7 (Hà Nội / TP.HCM)</option></select></div>
+              </div>
+              <div class="field-group"><label class="field-label">Địa chỉ</label><input type="text" class="input" value="Số 10, Phạm Văn Đồng, Quận 1, TP. HCM"/></div>
+            </div>
+          </section>
+
+          <!-- Members -->
+          <section class="settings-section" id="sec-members" style="display:none">
+            <div class="settings-section-header">
+              <h2>Thành viên</h2>
+              <p>Quản lý quyền truy cập và vai trò thành viên</p>
+            </div>
+            <div class="settings-card">
+              <div class="members-toolbar">
+                <input type="text" class="input" placeholder="Tìm thành viên..." style="width:220px"/>
+                <button class="btn btn-primary btn-sm">+ Mời thành viên</button>
+              </div>
+              <div class="members-list">
+                <div class="member-row">
+                  <div class="avatar avatar-blue">NT</div>
+                  <div class="member-info"><div class="member-name">Nguyễn Trung <span class="badge badge-blue">Bạn</span></div><div class="member-email">nguyen.trung@ubnd-quan1.gov.vn</div></div>
+                  <select class="input" style="width:130px"><option selected>Quản trị viên</option><option>Biên tập viên</option><option>Xem</option></select>
+                  <button class="btn btn-ghost btn-sm" disabled>···</button>
+                </div>
+                <div class="member-row">
+                  <div class="avatar avatar-green">TH</div>
+                  <div class="member-info"><div class="member-name">Trần Hoa</div><div class="member-email">tran.hoa@ubnd-quan1.gov.vn</div></div>
+                  <select class="input" style="width:130px"><option>Quản trị viên</option><option selected>Biên tập viên</option><option>Xem</option></select>
+                  <button class="btn btn-ghost btn-sm" onclick="removeMember(this)">✕</button>
+                </div>
+                <div class="member-row">
+                  <div class="avatar" style="background:var(--amber-50);color:var(--amber-500)">LM</div>
+                  <div class="member-info"><div class="member-name">Lê Minh</div><div class="member-email">le.minh@ubnd-quan1.gov.vn</div></div>
+                  <select class="input" style="width:130px"><option>Quản trị viên</option><option selected>Biên tập viên</option><option>Xem</option></select>
+                  <button class="btn btn-ghost btn-sm" onclick="removeMember(this)">✕</button>
+                </div>
+                <div class="member-row pending">
+                  <div class="avatar" style="background:var(--gray-100);color:var(--gray-400)">?</div>
+                  <div class="member-info"><div class="member-name">pham.dung@ubnd-quan1.gov.vn <span class="badge badge-amber">Chờ xác nhận</span></div><div class="member-email">Lời mời gửi hôm qua</div></div>
+                  <select class="input" style="width:130px" disabled><option selected>Biên tập viên</option></select>
+                  <button class="btn btn-ghost btn-sm" onclick="removeMember(this)">✕</button>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <!-- Billing -->
+          <section class="settings-section" id="sec-billing" style="display:none">
+            <div class="settings-section-header">
+              <h2>Thanh toán & Gói dịch vụ</h2>
+              <p>Quản lý gói đăng ký và hóa đơn</p>
+            </div>
+            <div class="billing-plan-card">
+              <div class="plan-header">
+                <div>
+                  <div class="plan-name">Gói Pro <span class="badge badge-blue">Hiện tại</span></div>
+                  <div class="plan-price">2.900.000 đ / tháng</div>
+                </div>
+                <button class="btn btn-secondary">Nâng cấp Enterprise</button>
+              </div>
+              <div class="plan-features">
+                <div class="plan-feature">✅ 100K token AI / tháng</div>
+                <div class="plan-feature">✅ 10 GB lưu trữ kho tri thức</div>
+                <div class="plan-feature">✅ 150 tài liệu</div>
+                <div class="plan-feature">✅ Tối đa 10 thành viên</div>
+                <div class="plan-feature">✅ Xuất PDF / Word không giới hạn</div>
+                <div class="plan-feature">⬜ Triển khai on-premise (Enterprise)</div>
+              </div>
+            </div>
+            <div class="settings-card" style="margin-top:16px">
+              <h3 class="settings-sub-title">Hóa đơn gần đây</h3>
+              <div class="invoice-list">
+                <div class="invoice-row"><span>Tháng 7/2025</span><span>2.900.000 đ</span><span class="badge badge-green">Đã thanh toán</span><button class="btn btn-ghost btn-sm">↓ PDF</button></div>
+                <div class="invoice-row"><span>Tháng 6/2025</span><span>2.900.000 đ</span><span class="badge badge-green">Đã thanh toán</span><button class="btn btn-ghost btn-sm">↓ PDF</button></div>
+                <div class="invoice-row"><span>Tháng 5/2025</span><span>2.900.000 đ</span><span class="badge badge-green">Đã thanh toán</span><button class="btn btn-ghost btn-sm">↓ PDF</button></div>
+              </div>
+            </div>
+          </section>
+
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+
+<script src="../js/shell.js"></script>
+<script src="../js/settings.js"></script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_B02-Q-109-2018-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_B02-Q-109-2018-TT-BTC",
+        "text": "| BỘ TÀI CHÍNH<br>QUỸ TÍCH LŨY TRẢ NỢ | Mẫu B02-Q<br>(Ban hành theo Thông tư số 109/2018/TT-BTC<br>ngày 15/11/2018 của Bộ Tài chính) |\n| --- | --- |\n\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG\n\nQuý...Năm...\n\nĐơn vị tính:...\n\n| Số TT | CHỈ TIÊU | Mã số | Phát sinh Trong kỳ | Lũy kế từ đầu năm |\n| --- | --- | --- | --- | --- |\n| A | B | C | 1 | 2 |\n| I | Hoạt động Quỹ |  |  |  |\n| 1 | Thu hoạt động Quỹ | 01 |  |  |\n| 2 | Chi hoạt động Quỹ | 10 |  |  |\n| 3 | Thặng dư/thâm hụt hoạt động Quỹ (16=01-10) | 16 |  |  |\n| II | Quản lý Quỹ |  |  |  |\n| 1 | Thu quản lý Quỹ | 17 |  |  |\n| 2 | Chi quản lý Quỹ | 20 |  |  |\n| 3 | Thặng dư/thâm hụt quản lý Quỹ (21=17-20) | 21 |  |  |\n| III | Thặng dư/thâm hụt trong kỳ (22 = 16 + 21) | 22 |  |  |\n|  |  |  |  |  |\n\n* Nếu chi lớn hơn thu thì ghi số âm dưới hình thức ghi trong ngoặc đơn (...)\n\n|  |  | Ngày ... tháng ... năm... |\n| --- | --- | --- |\n| NGƯỜI LẬP BIỂU <br>(Ký, họ tên) | KẾ TOÁN TRƯỞNG<br>(Ký, họ tên) | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký, họ tên, đóng dấu) |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_B02-Q-109-2018-TT-BTC_chunk_0002",
+            "char_count": 988,
+            "source_file": "maubaocao/MAU B02-Q-109-2018-TT-BTC.doc",
+            "file_name": "MAU B02-Q-109-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:13:43",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_B02-Q-109-2018-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_B02-Q-109-2018-TT-BTC",
+        "text": "ghi trong ngoặc đơn (...)\n\n|  |  | Ngày ... tháng ... năm... |\n| --- | --- | --- |\n| NGƯỜI LẬP BIỂU <br>(Ký, họ tên) | KẾ TOÁN TRƯỞNG<br>(Ký, họ tên) | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký, họ tên, đóng dấu) |\n\nNguồn: Thông tư 109/2018/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_B02-Q-109-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 230,
+            "source_file": "maubaocao/MAU B02-Q-109-2018-TT-BTC.doc",
+            "file_name": "MAU B02-Q-109-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:13:43",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

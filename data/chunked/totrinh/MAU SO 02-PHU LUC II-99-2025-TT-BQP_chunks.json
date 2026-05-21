@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_SO_02-PHU_LUC_II-99-2025-TT-BQP_chunk_0001",
+        "doc_id": "totrinh_MAU_SO_02-PHU_LUC_II-99-2025-TT-BQP",
+        "text": "Mẫu số 02. Tờ trình về việc phê duyệt phương án sử dụng đất quốc phòng kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế phải nộp tiền sử dụng đất hằng năm\n\n| TÊN CƠ QUAN CHỦ QUẢN<br>TÊN ĐƠN VỊ, DOANH NGHIỆP<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: …../TTr-……. | ……., ngày … tháng … năm …… |\n\nTỜ TRÌNH\n\nVề việc ………………………….\n\nCăn cứ Luật Đất đai ngày 18 tháng 01 năm 2024; Luật sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15 ngày 29 tháng 6 năm 2024;\n\nCăn cứ Nghị định số 102/2024/NĐ-CP ngày 30 tháng 7 năm 2024 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đất đai;\n\nCăn cứ Thông tư số 99/2025/TT-BQP ngày 03 tháng 9 năm 2025 của Bộ trưởng Bộ Quốc phòng quy định về quản lý, sử dụng đất quốc phòng kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_SO_02-PHU_LUC_II-99-2025-TT-BQP_chunk_0002",
+            "char_count": 992,
+            "source_file": "totrinh/MAU SO 02-PHU LUC II-99-2025-TT-BQP.doc",
+            "file_name": "MAU SO 02-PHU LUC II-99-2025-TT-BQP.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:18:49",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_SO_02-PHU_LUC_II-99-2025-TT-BQP_chunk_0002",
+        "doc_id": "totrinh_MAU_SO_02-PHU_LUC_II-99-2025-TT-BQP",
+        "text": "Đất đai;\n\nCăn cứ Thông tư số 99/2025/TT-BQP ngày 03 tháng 9 năm 2025 của Bộ trưởng Bộ Quốc phòng quy định về quản lý, sử dụng đất quốc phòng kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế.\n\nTên đơn vị, doanh nghiệp trình phê duyệt …… với các nội dung chính như sau:\n\n…………………………………………….1………………………………………………\n\n……………………………………….…….………………………………………………\n\n……………………………………….…….………………………………………………\n\n| Nơi nhận:<br>- ………;<br>-……….;<br>- Lưu: VT, …… | QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ<br>(Chữ ký, đóng dấu/chữ ký số)<br>Cấp bậc, họ và tên |\n| --- | --- |\n\n___\n\n1 Các nội dung quy định tại Phần III, IV Mẫu số 01.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_SO_02-PHU_LUC_II-99-2025-TT-BQP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 605,
+            "source_file": "totrinh/MAU SO 02-PHU LUC II-99-2025-TT-BQP.doc",
+            "file_name": "MAU SO 02-PHU LUC II-99-2025-TT-BQP.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:18:49",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

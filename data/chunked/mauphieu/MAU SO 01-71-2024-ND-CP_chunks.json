@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-71-2024-ND-CP_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_01-71-2024-ND-CP",
+        "text": "| Phiếu số... | Mẫu số 01 |\n| --- | --- |\n\nPHIẾU THU THẬP THÔNG TIN VỀ CÁC YẾU TỐ TỰ NHIÊN, KINH TẾ - XÃ HỘI, QUẢN LÝ VÀ SỬ DỤNG ĐẤT ĐAI ẢNH HƯỞNG ĐẾN GIÁ ĐẤT TẠI XÃ, PHƯỜNG, THỊ TRẤN\n\nTên xã (phường, thị trấn):\n\n……………………………………………………………………………………………….\n\n1. Thuộc vùng: đồng bằng □ \t\ttrung du □ \t\tmiền núi □\n\n2. Các thông tin về kinh tế - xã hội\n\n- Giá trị tổng sản phẩm bình quân: …………. đồng/ha, so với mức bình quân chung của tỉnh: cao □, trung bình □, thấp □.\n\n- Thu nhập bình quân năm: ………… đồng/người, so với mức bình quân chung của tỉnh: cao □, trung bình □, thấp □.\n\n- Dân số: ……….. người, mật độ dân số: ………… người/km2, so với mật độ dân số của tỉnh: cao □, trung bình □, thấp □.\n\n3. Các thông tin về kết cấu hạ tầng (so với điều kiện chung của tỉnh)\n\n- Giao thông: Tốt □, trung bình □, kém □;\n\n- Cấp, thoát nước: Tốt □, trung bình □, kém □;\n\n- Thủy lợi: Tốt □, trung bình □, kém □;\n\n- Điện: Tốt □, trung bình □, kém □;\n\n- Cơ sở giáo dục: Tốt □, trung bình □, kém □;",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_01-71-2024-ND-CP_chunk_0002",
+            "char_count": 971,
+            "source_file": "mauphieu/MAU SO 01-71-2024-ND-CP.doc",
+            "file_name": "MAU SO 01-71-2024-ND-CP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:33:06",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-71-2024-ND-CP_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_01-71-2024-ND-CP",
+        "text": "□, trung bình □, kém □;\n\n- Cấp, thoát nước: Tốt □, trung bình □, kém □;\n\n- Thủy lợi: Tốt □, trung bình □, kém □;\n\n- Điện: Tốt □, trung bình □, kém □;\n\n- Cơ sở giáo dục: Tốt □, trung bình □, kém □;\n\n- Cơ sở y tế: Tốt □, trung bình □, kém □.\n\n4. Các thông tin về cung cấp dịch vụ (so với điều kiện chung của tỉnh)\n\n- Dịch vụ vật tư, kỹ thuật nông nghiệp: Thuận lợi □, trung bình □, kém □.\n\n- Dịch vụ tài chính, tín dụng: Thuận lợi □, trung bình □, kém □.\n\n- Dịch vụ thông tin liên lạc: Tốt □, trung bình □, kém □.\n\n- Thương mại: Thuận lợi □, trung bình □, kém □.\n\n5. Các thông tin khác\n\n- Quy hoạch xây dựng chi tiết: đã được phê duyệt □, chưa được phê duyệt □.\n\n- Số thửa đất đã được xác định lại giá đất, đã trúng đấu giá trong năm điều tra: ………. thửa.\n\n|  | Ngày …. tháng …. năm ….<br>Người điều tra<br>(Ký và ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-71-2024-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 841,
+            "source_file": "mauphieu/MAU SO 01-71-2024-ND-CP.doc",
+            "file_name": "MAU SO 01-71-2024-ND-CP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:33:06",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

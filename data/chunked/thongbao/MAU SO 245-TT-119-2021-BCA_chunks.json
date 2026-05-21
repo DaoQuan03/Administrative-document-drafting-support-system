@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_245-TT-119-2021-BCA_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_245-TT-119-2021-BCA",
+        "text": "| ...<br>... |  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- | --- | --- |\n| Số: ... /TB- ………..…….. |  | ..., ngày ... tháng ... năm... |\n\nTHÔNG BÁO\n\nTỪ CHỐI VIỆC ĐĂNG KÝ ……………………………..……………..…… (1)\n\nKính gửi: Ông/bà\n\nCăn cứ vào các điều 36, 72, 75, 78, 83, 84 Bộ luật Tố tụng hình sự;\n\nSau khi cơ quan có thẩm quyền tiến hành tố tụng kiểm tra giấy tờ và xét thấy:\n\nÔng/bà:...Sinh năm:\n\nNghề nghiệp:\n\nThẻ luật sư/Thẻ trợ giúp viên pháp lý/CMND/Thẻ CCCD số:\n\ncấp ngày...tháng...năm... Nơi cấp:\n\nkhông đủ điều kiện đăng ký (1) ……………………………………………………………………………..……………………. cho (2):\n\nThuộc vụ án/vụ việc:\n\nLý do từ chối (1):………………………………………\n\nCơ quan\n\nthông báo cho ông/bà biết.\n\n| Nơi nhận:<br>- Như trên;<br>- Trại tạm giam/Nhà tạm giữ...; <br>- Hồ sơ 02 bản. | ... |\n| --- | --- |\n\n(1) Bào chữa; bảo vệ quyền và lợi ích hợp pháp cho bị hại, đương sự, người bị tố giác, người bị kiến nghị khởi tố;",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_245-TT-119-2021-BCA_chunk_0002",
+            "char_count": 919,
+            "source_file": "thongbao/MAU SO 245-TT-119-2021-BCA.doc",
+            "file_name": "MAU SO 245-TT-119-2021-BCA.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:06:49",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_245-TT-119-2021-BCA_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_245-TT-119-2021-BCA",
+        "text": "trên;<br>- Trại tạm giam/Nhà tạm giữ...; <br>- Hồ sơ 02 bản. | ... |\n| --- | --- |\n\n(1) Bào chữa; bảo vệ quyền và lợi ích hợp pháp cho bị hại, đương sự, người bị tố giác, người bị kiến nghị khởi tố;\n\n(2) Ghi rõ họ tên người bị buộc tội/người được bảo vệ quyền và lợi ích hợp pháp.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_245-TT-119-2021-BCA_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 280,
+            "source_file": "thongbao/MAU SO 245-TT-119-2021-BCA.doc",
+            "file_name": "MAU SO 245-TT-119-2021-BCA.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:06:49",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

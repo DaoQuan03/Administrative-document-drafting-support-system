@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_NONG_NGHIEP_VA_PHAT_TRIEN_NONG_THON_06_2022_ND-CP_chunk_0001",
+        "doc_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_NONG_NGHIEP_VA_PHAT_TRIEN_NONG_THON_06_2022_ND-CP",
+        "text": "Mẫu số 03\n\n| BỘ NÔNG NGHIỆP VÀ<br>PHÁT TRIỂN NÔNG THÔN<br>------------ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>---------------- |\n| --- | --- |\n\nBÁO CÁO\n\nPhục vụ kiểm kê khí nhà kính cấp quốc gia của Bộ Nông nghiệp và Phát triển nông thôn năm ...\n\nI. Mô tả chung\n\n1. Tổ chức thực hiện kiểm kê khí nhà kính\n\n2. Phương pháp luận kiểm kê khí nhà kính\n\n3. Số liệu hoạt động và hệ số phát thải\n\n4. Kết quả đánh giá độ không chắc chắn\n\n5. Kiểm soát chất lượng và đảm bảo chất lượng (QA/QC)\n\nII. Hoạt động kiểm kê khí nhà kính năm ...\n\n(Trình bày chi tiết về phương pháp luận, số liệu hoạt động, hệ số phát thải và kết quả tính toán phát thải đối với từng hoạt động trong các lĩnh vực)\n\n1. Phát thải khí nhà kính từ các hoạt động chăn nuôi\n\n2. Phát thải khí nhà kính từ sử dụng đất\n\n3. Phát thải khí nhà kính từ các nguồn phát thải khác và phát thải ngoài CO2\n\n4. Các hoạt động tiêu thụ năng lượng trong nông nghiệp, lâm nghiệp và thủy sản",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_NONG_NGHIEP_VA_PHAT_TRIEN_NONG_THON_06_2022_ND-CP_chunk_0002",
+            "char_count": 963,
+            "source_file": "maubaocao/MAU BAO CAO PHUC VU KIEM KE KHI NHA KINH CAP QUOC GIA CUA BO NONG NGHIEP VA PHAT TRIEN NONG THON_06_2022_ND-CP.doc",
+            "file_name": "MAU BAO CAO PHUC VU KIEM KE KHI NHA KINH CAP QUOC GIA CUA BO NONG NGHIEP VA PHAT TRIEN NONG THON_06_2022_ND-CP.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:17:28",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_NONG_NGHIEP_VA_PHAT_TRIEN_NONG_THON_06_2022_ND-CP_chunk_0002",
+        "doc_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_NONG_NGHIEP_VA_PHAT_TRIEN_NONG_THON_06_2022_ND-CP",
+        "text": "Phát thải khí nhà kính từ sử dụng đất\n\n3. Phát thải khí nhà kính từ các nguồn phát thải khác và phát thải ngoài CO2\n\n4. Các hoạt động tiêu thụ năng lượng trong nông nghiệp, lâm nghiệp và thủy sản\n\nIII. Tổng hợp kết quả kiểm kê khí nhà kính",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_NONG_NGHIEP_VA_PHAT_TRIEN_NONG_THON_06_2022_ND-CP_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_NONG_NGHIEP_VA_PHAT_TRIEN_NONG_THON_06_2022_ND-CP_chunk_0003",
+            "char_count": 239,
+            "source_file": "maubaocao/MAU BAO CAO PHUC VU KIEM KE KHI NHA KINH CAP QUOC GIA CUA BO NONG NGHIEP VA PHAT TRIEN NONG THON_06_2022_ND-CP.doc",
+            "file_name": "MAU BAO CAO PHUC VU KIEM KE KHI NHA KINH CAP QUOC GIA CUA BO NONG NGHIEP VA PHAT TRIEN NONG THON_06_2022_ND-CP.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:17:28",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_NONG_NGHIEP_VA_PHAT_TRIEN_NONG_THON_06_2022_ND-CP_chunk_0003",
+        "doc_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_NONG_NGHIEP_VA_PHAT_TRIEN_NONG_THON_06_2022_ND-CP",
+        "text": "Phát thải khí nhà kính từ các nguồn phát thải khác và phát thải ngoài CO2\n\n4. Các hoạt động tiêu thụ năng lượng trong nông nghiệp, lâm nghiệp và thủy sản\n\nIII. Tổng hợp kết quả kiểm kê khí nhà kính\n\n| STT | Nguồn phát thải/ hấp thụ | CO2 | CH4 | N2O | Tổng |\n| --- | --- | --- | --- | --- | --- |\n| I | AFOLU |  |  |  |  |\n| I.1 | Chăn nuôi |  |  |  |  |\n| 1 | Tiêu hóa thức ăn |  |  |  |  |\n| 2 | Quản lý chất thải vật nuôi |  |  |  |  |\n| I.2 | Đất |  |  |  |  |\n| 1 | Đất rừng |  |  |  |  |\n| 2 | Đất trồng trọt |  |  |  |  |\n| 3 | Đất cỏ |  |  |  |  |\n| 4 | Đất ngập nước |  |  |  |  |\n| 5 | Đất ở |  |  |  |  |\n| 6 | Đất khác |  |  |  |  |\n| I.3 | Các nguồn phát thải khác và phát thải ngoài CO2 |  |  |  |  |\n| 1 | Đốt sinh khối |  |  |  |  |\n| 2 | Sử dụng vôi trong canh tác |  |  |  |  |\n| 3 | Bón phân Ure |  |  |  |  |\n| 4 | Phát thải N2O trực tiếp của đất |  |  |  |  |\n| 5 | Phát thải N2O gián tiếp của đất |  |  |  |  |\n| 6 | Phát thải N2O gián tiếp của quản lý chất thải vật nuôi |  |  |  |  |\n| 7 | Canh tác lúa |  |  |  |  |\n| II | Tiêu thụ năng lượng trong nông nghiệp, lâm nghiệp và thủy sản |  |  |  |  |\n| 1 | Tiêu thụ năng lượng trong nông nghiệp |  |  |  |  |\n| 2 | Tiêu thụ năng lượng trong lâm nghiệp |  |  |  |  |\n| 3 | Tiêu thụ năng lượng trong thủy sản |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_NONG_NGHIEP_VA_PHAT_TRIEN_NONG_THON_06_2022_ND-CP_chunk_0002",
+            "next_chunk_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_NONG_NGHIEP_VA_PHAT_TRIEN_NONG_THON_06_2022_ND-CP_chunk_0004",
+            "char_count": 1293,
+            "source_file": "maubaocao/MAU BAO CAO PHUC VU KIEM KE KHI NHA KINH CAP QUOC GIA CUA BO NONG NGHIEP VA PHAT TRIEN NONG THON_06_2022_ND-CP.doc",
+            "file_name": "MAU BAO CAO PHUC VU KIEM KE KHI NHA KINH CAP QUOC GIA CUA BO NONG NGHIEP VA PHAT TRIEN NONG THON_06_2022_ND-CP.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:17:28",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_NONG_NGHIEP_VA_PHAT_TRIEN_NONG_THON_06_2022_ND-CP_chunk_0004",
+        "doc_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_NONG_NGHIEP_VA_PHAT_TRIEN_NONG_THON_06_2022_ND-CP",
+        "text": "và thủy sản |  |  |  |  |\n| 1 | Tiêu thụ năng lượng trong nông nghiệp |  |  |  |  |\n| 2 | Tiêu thụ năng lượng trong lâm nghiệp |  |  |  |  |\n| 3 | Tiêu thụ năng lượng trong thủy sản |  |  |  |  |\n\nĐơn vị: nghìn tấn CO2tđ\n\nIV. Các cải thiện được thực hiện đối với quá trình kiểm kê khí nhà kính năm ...\n\nTrình bày những cải thiện đã được thực hiện trong quá trình kiểm kê khí nhà kính năm ... so với các năm trước đây (về phương pháp luận, thu thập số liệu hoạt động, hệ số phát thải)\n\nV. Kết luận và kiến nghị\n\n|  | THỦ TRƯỞNG CƠ QUAN |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_NONG_NGHIEP_VA_PHAT_TRIEN_NONG_THON_06_2022_ND-CP_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 550,
+            "source_file": "maubaocao/MAU BAO CAO PHUC VU KIEM KE KHI NHA KINH CAP QUOC GIA CUA BO NONG NGHIEP VA PHAT TRIEN NONG THON_06_2022_ND-CP.doc",
+            "file_name": "MAU BAO CAO PHUC VU KIEM KE KHI NHA KINH CAP QUOC GIA CUA BO NONG NGHIEP VA PHAT TRIEN NONG THON_06_2022_ND-CP.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:17:28",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_02-PHU_LUC_X-ND-67-2023-CP_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_02-PHU_LUC_X-ND-67-2023-CP",
+        "text": "Mẫu số 2\n\nBÁO CÁO DOANH THU, BỒI THƯỜNG\nBẢO HIỂM CHÁY, NỔ BẮT BUỘC\n\nTên doanh nghiệp bảo hiểm: ...\n\nKỳ báo cáo: Năm ...\n\n| STT | Danh mục cơ sở (*) | Số lượng cơ sở | Phí bảo hiểm<br>(triệu đồng) | Phí bảo hiểm<br>(triệu đồng) | Bồi thường bảo hiểm<br>(triệu đồng) | Bồi thường bảo hiểm<br>(triệu đồng) | Số vụ tổn thất | Tổng số tiền bảo hiểm<br>(triệu đồng) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Danh mục cơ sở (*) | Số lượng cơ sở | Phí bảo hiểm gốc | Phí bảo hiểm giữ lại | Bồi thường bảo hiểm gốc | Bồi thường bảo hiểm thuộc trách nhiệm giữ lại |  |  |\n| 1 |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |  |\n| 4 |  |  |  |  |  |  |  |  |\n| 5 |  |  |  |  |  |  |  |  |\n| 6 |  |  |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_02-PHU_LUC_X-ND-67-2023-CP_chunk_0002",
+            "char_count": 824,
+            "source_file": "maubaocao/MAU SO 02-PHU LUC X-ND-67-2023-CP.doc",
+            "file_name": "MAU SO 02-PHU LUC X-ND-67-2023-CP.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:26:46",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_02-PHU_LUC_X-ND-67-2023-CP_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_02-PHU_LUC_X-ND-67-2023-CP",
+        "text": "|  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |  |\n| 4 |  |  |  |  |  |  |  |  |\n| 5 |  |  |  |  |  |  |  |  |\n| 6 |  |  |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n\n(*) Doanh nghiệp bảo hiểm báo cáo theo danh mục cơ sở nêu tại khoản 1 Mục I Phụ lục II ban hành kèm theo Nghị định số .../2023/NĐ-CP ngày .../.../2023 của Chính phủ quy định về bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới, bảo hiểm cháy, nổ bắt buộc, bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng.\n\nChúng tôi xin đảm bảo những thông tin trên là đúng sự thực.\n\n| Người lập biểu<br>(Ký và ghi rõ họ tên) | ..., ngày ... tháng ... năm ...<br>Người đại diện theo pháp luật<br>(Ký và đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_SO_02-PHU_LUC_X-ND-67-2023-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 719,
+            "source_file": "maubaocao/MAU SO 02-PHU LUC X-ND-67-2023-CP.doc",
+            "file_name": "MAU SO 02-PHU LUC X-ND-67-2023-CP.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:26:46",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

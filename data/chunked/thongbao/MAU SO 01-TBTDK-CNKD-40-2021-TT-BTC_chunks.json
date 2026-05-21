@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_01-TBTDK-CNKD-40-2021-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_01-TBTDK-CNKD-40-2021-TT-BTC",
+        "text": "|  | Mẫu số: 01/TBTDK-CNKD<br>(Ban hành kèm theo Thông tư số 40/2021/TT-BTC ngày 01 tháng 6 năm 2021 của Bộ trưởng Bộ Tài chính) |\n| --- | --- |\n\n| TÊN CƠ QUAN THUẾ CẤP TRÊN<br>TÊN CƠ QUAN THUẾ<br>BAN HÀNH THÔNG BÁO<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: .../TB-CCT | ………., ngày ... tháng ... năm ... |\n\nTHÔNG BÁO\n\nVề việc dự kiến doanh thu, mức thuế khoán\n\n(Áp dụng cho hộ kinh doanh, cá nhân kinh doanh nộp thuế theo phương pháp khoán)\n\nCăn cứ Luật Quản lý thuế và các văn bản hướng dẫn thi hành;\n\nCăn cứ Luật Thuế thu nhập cá nhân và các văn bản hướng dẫn thi hành;\n\nCăn cứ hồ sơ khai thuế của người nộp thuế, cơ sở dữ liệu quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh.\n\n...<Tên cơ quan thuế>... dự kiến mức doanh thu khoán và thông báo mức thuế khoán dự kiến phải nộp như sau:\n\nI. THÔNG TIN VỀ NGƯỜI NỘP THUẾ:\n\n1. Tên người nộp thuế: …………………………………………………………………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_01-TBTDK-CNKD-40-2021-TT-BTC_chunk_0002",
+            "char_count": 960,
+            "source_file": "thongbao/MAU SO 01-TBTDK-CNKD-40-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-TBTDK-CNKD-40-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:33:47",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-TBTDK-CNKD-40-2021-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_01-TBTDK-CNKD-40-2021-TT-BTC",
+        "text": "cơ quan thuế>... dự kiến mức doanh thu khoán và thông báo mức thuế khoán dự kiến phải nộp như sau:\n\nI. THÔNG TIN VỀ NGƯỜI NỘP THUẾ:\n\n1. Tên người nộp thuế: …………………………………………………………………………………\n\n2. Mã số thuế: …………………………………………………………………………………………...\n\n3. Địa chỉ: …………………………………………………………………………………………………\n\n4. Điện thoại: ……………………………………; Email: ……………………………………...\n\nII. THÔNG TIN DOANH THU VÀ MỨC THUẾ DỰ KIẾN PHẢI NỘP\n\n1. Doanh thu khoán tháng dự kiến: ... đồng\n\n2. Số thuế giá trị gia tăng tháng dự kiến phải nộp: ... đồng\n\n3. Số thuế thu nhập cá nhân tháng dự kiến phải nộp: ... đồng\n\n4. Số thuế tiêu thụ đặc biệt tháng dự kiến phải nộp: ... đồng\n\n5. Số thuế tài nguyên tháng dự kiến phải nộp: ... đồng\n\n6. Số thuế bảo vệ môi trường tháng dự kiến phải nộp: ... đồng\n\n7. Số tiền phí bảo vệ môi trường đối với khai thác khoáng sản tháng dự kiến phải nộp: ... đồng\n\n8. Số tiền lệ phí môn bài năm dự kiến phải nộp: ... đồng",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "thongbao_MAU_SO_01-TBTDK-CNKD-40-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": "thongbao_MAU_SO_01-TBTDK-CNKD-40-2021-TT-BTC_chunk_0003",
+            "char_count": 907,
+            "source_file": "thongbao/MAU SO 01-TBTDK-CNKD-40-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-TBTDK-CNKD-40-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:33:47",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-TBTDK-CNKD-40-2021-TT-BTC_chunk_0003",
+        "doc_id": "thongbao_MAU_SO_01-TBTDK-CNKD-40-2021-TT-BTC",
+        "text": "môi trường tháng dự kiến phải nộp: ... đồng\n\n7. Số tiền phí bảo vệ môi trường đối với khai thác khoáng sản tháng dự kiến phải nộp: ... đồng\n\n8. Số tiền lệ phí môn bài năm dự kiến phải nộp: ... đồng\n\n...<Tên cơ quan thuế>... công khai thông tin của các hộ kinh doanh, cá nhân kinh doanh nộp thuế theo phương pháp khoán (biểu kèm theo).\n\nCơ quan thuế thực hiện niêm yết công khai toàn bộ thông tin về cá nhân kinh doanh nộp thuế theo phương pháp khoán cùng địa bàn tại ... (địa điểm niêm yết công khai) ... từ ngày 20 tháng 12 đến hết ngày 31 tháng 12.\n\nNếu có ý kiến phản hồi, đề nghị Ông/Bà liên hệ với cơ quan thuế chậm nhất trước ngày 31 tháng 12 để được giải đáp và hướng dẫn cụ thể theo số điện thoại: ...; hoặc fax: ...; hoặc hòm thư điện tử: ...; hoặc bộ phận một cửa Chi cục Thuế ... (tên cơ quan thuế) ... - địa chỉ: ...\n\nChi cục Thuế ... (tên cơ quan thuế)... thông báo để Ông/Bà được biết/.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "thongbao_MAU_SO_01-TBTDK-CNKD-40-2021-TT-BTC_chunk_0002",
+            "next_chunk_id": "thongbao_MAU_SO_01-TBTDK-CNKD-40-2021-TT-BTC_chunk_0004",
+            "char_count": 900,
+            "source_file": "thongbao/MAU SO 01-TBTDK-CNKD-40-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-TBTDK-CNKD-40-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:33:47",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-TBTDK-CNKD-40-2021-TT-BTC_chunk_0004",
+        "doc_id": "thongbao_MAU_SO_01-TBTDK-CNKD-40-2021-TT-BTC",
+        "text": "hoặc fax: ...; hoặc hòm thư điện tử: ...; hoặc bộ phận một cửa Chi cục Thuế ... (tên cơ quan thuế) ... - địa chỉ: ...\n\nChi cục Thuế ... (tên cơ quan thuế)... thông báo để Ông/Bà được biết/.\n\n| NGƯỜI NHẬN THÔNG BÁO THUẾ<br>(Chữ ký, ghi rõ họ tên) | ..., ngày... tháng ... năm ...<br>THỦ TRƯỞNG CƠ QUAN THUẾ<br>(Chữ ký, ghi rõ họ tên; chức vụ và đóng dấu<br>(nếu có)/ Ký điện tử) |\n| --- | --- |\n\nNguồn: Thông tư 40/2021/TT-BTC",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "thongbao_MAU_SO_01-TBTDK-CNKD-40-2021-TT-BTC_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 425,
+            "source_file": "thongbao/MAU SO 01-TBTDK-CNKD-40-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-TBTDK-CNKD-40-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:33:47",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_02-13-2018-NDCP_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_02-13-2018-NDCP",
+        "text": "Mẫu số 02\n\n| TÊN CƠ QUAN<br>ĐƠN VỊ ĐẦU MỐI1<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số:……../……… | …………, ngày………… tháng…….. năm……… |\n\nPHIẾU TIẾP NHẬN YÊU CẦU CUNG CẤP THÔNG TIN 2\n\nTên cơ quan/đơn vị đầu mối cung cấp thông tin:………………………………………………\n\nTiếp nhận Phiếu yêu cầu cung cấp thông tin của Ông/Bà3: ………………………………….\n\nSố CMTND/Thẻ căn cước công dân/Hộ chiếu …………………………………………………\n\ncấp ngày……… /………. / tại …………………………………………………………………….\n\nNơi cư trú:…………………………………………………………………………………………..\n\nSố điện thoại: …………………..Fax: …………………Email: ………………………………….\n\nYêu cầu cung cấp văn bản/hồ sơ/tài liệu: ……………………………………………………….\n\nHình thức cung cấp thông tin: ……………………………………………………………………\n\nVăn bản kèm theo Phiếu yêu cầu cung cấp thông tin gồm4:\n\n1 ………………………………………………………………………………………………………\n\n2 ………………………………………………………………………………………………………\n\n3 ………………………………………………………………………………………………………\n\nVào Sổ theo dõi cung cấp thông tin theo yêu cầu, Quyển số:.../năm………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_02-13-2018-NDCP_chunk_0002",
+            "char_count": 992,
+            "source_file": "mauphieu/MAU SO 02-13-2018-NDCP.doc",
+            "file_name": "MAU SO 02-13-2018-NDCP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:40:22",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_02-13-2018-NDCP_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_02-13-2018-NDCP",
+        "text": "Sổ theo dõi cung cấp thông tin theo yêu cầu, Quyển số:.../năm………\n\nSố thứ tự…………\n\n|  | NGƯỜI TIẾP NHẬN PHIẾU<br>(Ký và ghi rõ họ tên) |\n| --- | --- |\n\n___\n\n1 Trường hợp cơ quan cung cấp thông tin phân công đơn vị đầu mối\n\n2 Phiếu tiếp nhận yêu cầu cung cấp thông tin được lập thành 2 bản; một bản lưu tại cơ quan/đơn vị đầu mối cung cấp thông tin, một bản giao cho cá nhân, tổ chức yêu cầu cung cấp thông tin.\n\n3 Tên của người đại diện trong trường hợp cung cấp thông tin cho công dân thông qua tổ chức, đoàn thể, doanh nghiệp.\n\n4 Là những văn bản kèm theo trong trường hợp cung cấp thông tin có điều kiện.\n\nNguồn: Nghị định 13/2018/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_02-13-2018-NDCP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 637,
+            "source_file": "mauphieu/MAU SO 02-13-2018-NDCP.doc",
+            "file_name": "MAU SO 02-13-2018-NDCP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:40:22",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

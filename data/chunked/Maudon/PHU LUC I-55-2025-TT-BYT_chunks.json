@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "Maudon_PHU_LUC_I-55-2025-TT-BYT_chunk_0001",
+        "doc_id": "Maudon_PHU_LUC_I-55-2025-TT-BYT",
+        "text": "PHỤ LỤC I\n\nMẪU ĐƠN THUỐC THANG\n(Ban hành kèm theo Thông tư số 55 /2025/TT-BYT ngày 31 / 12 / 2025 của Bộ trưởng Bộ Y tế)\n\n| Mã đơn thuốc1 |  |\n| --- | --- |\n\nTên đơn vị: ……………………\n\nĐịa chỉ: …………………………\n\nĐiện thoại2:……………………\n\nĐƠN THUỐC\n\n(Dành cho kê đơn thuốc thang)\n\nHọ tên: ...\n\nSố định danh cá nhân/số căn cước công dân/số căn cước/số hộ chiếu của người bệnh (nếu có)3:...\n\nNgày sinh4:.../.../... Cân nặng5:...Giới tính:  Nam   Nữ\n\nMã số bảo hiểm y tế (nếu có)6: ...\n\nNơi thường trú/nơi tạm trú/nơi ở hiện tại:...\n\nSố điện thoại liên hệ7:...\n\nChẩn đoán: ...\n\nThuốc sử dụng từ ngày ….. tháng …năm... đến ngày ….. tháng ……….năm ...\n\n| TT | Tên vị thuốc cổ truyền | Khối lượng | Đơn vị tính | Ghi chú |\n| --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |\n| 2 |  |  |  |  |\n| …. |  |  |  |  |\n|  |  |  |  |  |\n|  | Số thang |  |  |  |\n\nHướng dẫn sử dụng:\n\nCách sắc thuốc …………………………………………………………………………\n\nCách uống: …………………………………………………………………………….\n\nNhững điều cần lưu ý: ……………………………………………….…………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_PHU_LUC_I-55-2025-TT-BYT_chunk_0002",
+            "char_count": 986,
+            "source_file": "Maudon/PHU LUC I-55-2025-TT-BYT.doc",
+            "file_name": "PHU LUC I-55-2025-TT-BYT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:58:00",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_PHU_LUC_I-55-2025-TT-BYT_chunk_0002",
+        "doc_id": "Maudon_PHU_LUC_I-55-2025-TT-BYT",
+        "text": "|  |  |  |  |\n|  | Số thang |  |  |  |\n\nHướng dẫn sử dụng:\n\nCách sắc thuốc …………………………………………………………………………\n\nCách uống: …………………………………………………………………………….\n\nNhững điều cần lưu ý: ……………………………………………….…………………\n\n………………………………………………………………………………………………\n\n………………………………………………………………………………………………\n\nLời dặn8:…………………………………………………………………………………..\n\nHẹn ngày khám lại (nếu cần thiết) …………………………………………………….….\n\n| Người bệnh<br>(ký và ghi rõ họ tên) | Người cấp phát<br>(ký và ghi rõ họ tên) | ……..., ngày …. tháng …. năm 20…..<br>Người kê đơn<br>(ký và ghi rõ họ tên) |\n| --- | --- | --- |\n\n- Khám bệnh lại xin mang theo đơn này.\n\n- Họ và tên người đưa trẻ đến khám bệnh, chữa bệnh9:...\n\n___",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "Maudon_PHU_LUC_I-55-2025-TT-BYT_chunk_0001",
+            "next_chunk_id": "Maudon_PHU_LUC_I-55-2025-TT-BYT_chunk_0003",
+            "char_count": 657,
+            "source_file": "Maudon/PHU LUC I-55-2025-TT-BYT.doc",
+            "file_name": "PHU LUC I-55-2025-TT-BYT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:58:00",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_PHU_LUC_I-55-2025-TT-BYT_chunk_0003",
+        "doc_id": "Maudon_PHU_LUC_I-55-2025-TT-BYT",
+        "text": "……..., ngày …. tháng …. năm 20…..<br>Người kê đơn<br>(ký và ghi rõ họ tên) |\n| --- | --- | --- |\n\n- Khám bệnh lại xin mang theo đơn này.\n\n- Họ và tên người đưa trẻ đến khám bệnh, chữa bệnh9:...\n\n___\n\n1 Mã đơn thuốc: có chiều dài 14 ký tự (bao gồm chữ số và chữ cái) được tạo ra tự động theo cấu trúc quy định như sau: Mã đơn thuốc điện tử có định dạng: xxxxxyyyyyyy-z. Năm (5) ký tự x đầu tiên là mã cơ sở khám bệnh, chữa bệnh; Bảy (7) ký tự y tiếp theo là mã đơn thuốc, mỗi ký tự có giá trị ngẫu nhiên là số từ 0-9 hoặc chữ cái từ a-z, bảo đảm tính duy nhất của đơn thuốc tại một cơ sở khám bệnh, chữa bệnh; Ký tự z cuối cùng có giá trị đại diện cho loại đơn thuốc (T: Đơn thuốc thang); ký tự gạch ngang (-) giữa 12 ký tự đầu và ký tự z cuối cùng để phân cách mã đơn thuốc và loại đơn thuốc.\n\n2 Điện thoại: ghi điện thoại của cơ sở khám bệnh, chữa bệnh hoặc của khoa hoặc của bác sỹ/y sỹ kê đơn thuốc.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "Maudon_PHU_LUC_I-55-2025-TT-BYT_chunk_0002",
+            "next_chunk_id": "Maudon_PHU_LUC_I-55-2025-TT-BYT_chunk_0004",
+            "char_count": 902,
+            "source_file": "Maudon/PHU LUC I-55-2025-TT-BYT.doc",
+            "file_name": "PHU LUC I-55-2025-TT-BYT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:58:00",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_PHU_LUC_I-55-2025-TT-BYT_chunk_0004",
+        "doc_id": "Maudon_PHU_LUC_I-55-2025-TT-BYT",
+        "text": "(-) giữa 12 ký tự đầu và ký tự z cuối cùng để phân cách mã đơn thuốc và loại đơn thuốc.\n\n2 Điện thoại: ghi điện thoại của cơ sở khám bệnh, chữa bệnh hoặc của khoa hoặc của bác sỹ/y sỹ kê đơn thuốc.\n\n3 Công dân Việt Nam cung cấp số định danh cá nhân không cần kê khai các thông tin về giới tính, ngày sinh, địa chỉ thường trú.\n\n4 Ngày sinh: ghi ngày, tháng, năm sinh của người bệnh.\n\n5 Cân nặng (phải ghi đối với trẻ dưới 72 tháng tuổi): có thể cân trẻ hoặc hỏi người đưa trẻ đến khám bệnh, chữa bệnh.\n\n6 Ghi mã số bảo hiểm y tế của người bệnh.\n\n7 Số điện thoại liên hệ: là số điện thoại của người bệnh, người đưa trẻ đến khám hoặc người đại diện của người bệnh.\n\n8 Lời dặn: chế độ dinh dưỡng và chế độ sinh hoạt làm việc, lịch hẹn tái khám (nếu cần), thời hạn tốt nhất của việc mua thuốc trong đơn (nếu có).\n\n9 Họ và tên người đưa trẻ đến khám, chữa bệnh (chỉ ghi đối với trẻ dưới 72 tháng tuổi): hỏi người đưa trẻ đến khám.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "Maudon_PHU_LUC_I-55-2025-TT-BYT_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 924,
+            "source_file": "Maudon/PHU LUC I-55-2025-TT-BYT.doc",
+            "file_name": "PHU LUC I-55-2025-TT-BYT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:58:00",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

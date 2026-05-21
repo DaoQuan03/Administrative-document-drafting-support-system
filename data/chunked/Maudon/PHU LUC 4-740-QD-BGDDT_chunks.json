@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_PHU_LUC_4-740-QD-BGDDT_chunk_0001",
+        "doc_id": "Maudon_PHU_LUC_4-740-QD-BGDDT",
+        "text": "PHỤ LỤC 4\n\nMẪU ĐƠN XIN GIA HẠN THỜI GIAN HỌC TẬP TẠI NƯỚC NGOÀI\n (Ban hành kèm theo Quyết định số 740/QĐ-BGDĐT ngày 21/02/2012 của Bộ trưởng Bộ Giáo dục và Đào tạo)\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN XIN GIA HẠN THỜI GIAN HỌC TẬP TẠI NƯỚC NGOÀI\n\nKính gửi: Bộ Giáo dục và Đào tạo\n\nTên tôi là: ...\n\nCơ quan công tác: ...\n\nĐược cử đi học tại nước ngoài theo Quyết định số ... ngày ... của Bộ GD&ĐT.\n\nTên trường đến học: ………………………………….., khoa: ……………………….\n\nTrình độ đào tạo: ……………………………, chuyên ngành: ……………………….\n\nTổng thời gian đào tạo theo Quyết định cử đi học: ……………………….., ngày nhập học:\n\nLý do xin gia hạn: ...\n\n...\n\n...\n\n...\n\nThời gian xin gia hạn (Ghi rõ: từ tháng .../năm 20.. đến tháng .../năm 20...):\n\n...\n\nKinh phí trong thời gian gia hạn (Ghi rõ: do lưu học sinh tự thu xếp hoặc cơ sở đào tạo nước ngoài đài thọ ...)\n\nTrân trọng đề nghị Bộ Giáo dục và Đào tạo xem xét, cho tôi được gia hạn thời gian học tập.\n\nĐịa chỉ liên lạc của tôi:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_PHU_LUC_4-740-QD-BGDDT_chunk_0002",
+            "char_count": 992,
+            "source_file": "Maudon/PHU LUC 4-740-QD-BGDDT.doc",
+            "file_name": "PHU LUC 4-740-QD-BGDDT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:54:56",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_PHU_LUC_4-740-QD-BGDDT_chunk_0002",
+        "doc_id": "Maudon_PHU_LUC_4-740-QD-BGDDT",
+        "text": "(Ghi rõ: do lưu học sinh tự thu xếp hoặc cơ sở đào tạo nước ngoài đài thọ ...)\n\nTrân trọng đề nghị Bộ Giáo dục và Đào tạo xem xét, cho tôi được gia hạn thời gian học tập.\n\nĐịa chỉ liên lạc của tôi:\n\nĐịa chỉ thư tín (ghi rõ ràng, đầy đủ, chi tiết): ……………………………..\n\n…………………………………………………………………………………\n\nEmail: …………………………………………………………………………..\n\nĐiện thoại: …………………………………………………………………….\n\n|  | ……….., ngày …… tháng ……. năm ………<br>Người làm đơn ký và ghi rõ họ tên |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_PHU_LUC_4-740-QD-BGDDT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 466,
+            "source_file": "Maudon/PHU LUC 4-740-QD-BGDDT.doc",
+            "file_name": "PHU LUC 4-740-QD-BGDDT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:54:56",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

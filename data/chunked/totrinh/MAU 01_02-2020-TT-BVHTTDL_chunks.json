@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_01_02-2020-TT-BVHTTDL_chunk_0001",
+        "doc_id": "totrinh_MAU_01_02-2020-TT-BVHTTDL",
+        "text": "Mẫu số 01. Tờ trình đề nghị phê duyệt Đề án thanh lọc tài nguyên thông tin\n\n| ……….(1)...<br>THƯ VIỆN ...(2)...<br>-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>-------------------- |\n| --- | --- |\n| Số: /TTr-… | … , ngày … tháng … năm 20… |\n\nTỜ TRÌNH\n\nĐề nghị phê duyệt Đề án thanh lọc tài nguyên thông tin\n\nKính gửi: ...(1)...\n\nCăn cứ Thông tư số /2020/TT-BVHTTDL ngày tháng 5 năm 2020 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định về bảo quản, thanh lọc tài nguyên thông tin và tài nguyên thông tin hạn chế sử dụng trong thư viện;\n\nCăn cứ Quyết định số /QĐ- ngày…tháng…năm của …..(3)…. về việc phê duyệt kế hoạch công tác năm… của thư viện …. (2);\n\nCăn cứ……….;\n\nThư viện…(2)…. đã triển khai xây dựng Đề án thanh lọc tài nguyên thông tin định kỳ/đột xuất (trường hợp đột xuất nêu rõ lý do….\n\nTrân trọng đề nghị …...(3) phê duyệt Đề án thanh lọc tài nguyên thông tin của Thư viện … (2)… .\n\n(Gửi kèm theo Đề án)",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_01_02-2020-TT-BVHTTDL_chunk_0002",
+            "char_count": 953,
+            "source_file": "totrinh/MAU 01_02-2020-TT-BVHTTDL.doc",
+            "file_name": "MAU 01_02-2020-TT-BVHTTDL.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:04:20",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_01_02-2020-TT-BVHTTDL_chunk_0002",
+        "doc_id": "totrinh_MAU_01_02-2020-TT-BVHTTDL",
+        "text": "lọc tài nguyên thông tin định kỳ/đột xuất (trường hợp đột xuất nêu rõ lý do….\n\nTrân trọng đề nghị …...(3) phê duyệt Đề án thanh lọc tài nguyên thông tin của Thư viện … (2)… .\n\n(Gửi kèm theo Đề án)\n\n| Nơi nhận: <br>- Như trên;<br>- Lưu: VT; ….. | QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ<br>(Chữ ký; dấu-đối với thư viện có tư cách pháp nhân)<br>Họ và tên |\n| --- | --- |\n\n___\n\n(1) Tên cơ quan, tổ chức trực tiếp quản lý thư viện.\n\n(2) Tên thư viện.\n\n(3) Người đứng đầu cơ quan, tổ chức trực tiếp quản lý thư viện.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_01_02-2020-TT-BVHTTDL_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 504,
+            "source_file": "totrinh/MAU 01_02-2020-TT-BVHTTDL.doc",
+            "file_name": "MAU 01_02-2020-TT-BVHTTDL.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:04:20",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

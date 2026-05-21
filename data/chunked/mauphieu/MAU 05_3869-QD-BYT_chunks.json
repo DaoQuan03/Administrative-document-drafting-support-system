@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_05_3869-QD-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_05_3869-QD-BYT",
+        "text": "| BỘ Y TẾ<br>MẪU SỐ 5 |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\nPHIẾU KHẢO SÁT THỰC HIỆN NUÔI CON BẰNG SỮA MẸ\n\nNhằm mục tiêu nâng cao công tác dinh dưỡng và thực hành nuôi con bằng sữa mẹ, Bộ Y tế khảo sát việc thực hiện nuôi con bằng sữa mẹ tại bệnh viện và sau khi ra viện. Các ý kiến sẽ giúp ngành y tế từng bước cải tiến chất lượng, góp phần nâng cao chất lượng dân số. Bộ Y tế và bệnh viện bảo đảm giữ bí mật thông tin cá nhân. Xin trân trọng cảm ơn!\n\n1. Tên bệnh viện: ………………………………………………….. 2. Ngày điền phiếu ……………….\n\n3. Tên khoa đã nằm điều trị …………………………………… 4. Mã khoa (do BV ghi) …………….\n\n5. Mã người bệnh (do bệnh viện quy định) …………………………………………..\n\nTHÔNG TIN NGƯỜI BỆNH\n\n| A1. Tuổi | A2. Số di động: |\n| --- | --- |\n| A3. Chị vào viện này lần thứ mấy: | A4. Chị vào viện được mấy ngày ….. |\n| A5 Chị sinh lần này là lần thứ mấy? | A6. Chị đẻ thường hay mổ đẻ... |\n| A7 Cháu sinh ngày  /  / |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_05_3869-QD-BYT_chunk_0002",
+            "char_count": 973,
+            "source_file": "mauphieu/MAU 05_3869-QD-BYT.doc",
+            "file_name": "MAU 05_3869-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:51:25",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_05_3869-QD-BYT_chunk_0002",
+        "doc_id": "mauphieu_MAU_05_3869-QD-BYT",
+        "text": "|\n| --- | --- |\n| A3. Chị vào viện này lần thứ mấy: | A4. Chị vào viện được mấy ngày ….. |\n| A5 Chị sinh lần này là lần thứ mấy? | A6. Chị đẻ thường hay mổ đẻ... |\n| A7 Cháu sinh ngày  /  / |  |\n\nTHỰC HIỆN NUÔI CON BẰNG SỮA MẸ",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_05_3869-QD-BYT_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_05_3869-QD-BYT_chunk_0003",
+            "char_count": 226,
+            "source_file": "mauphieu/MAU 05_3869-QD-BYT.doc",
+            "file_name": "MAU 05_3869-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:51:25",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_05_3869-QD-BYT_chunk_0003",
+        "doc_id": "mauphieu_MAU_05_3869-QD-BYT",
+        "text": "viện này lần thứ mấy: | A4. Chị vào viện được mấy ngày ….. |\n| A5 Chị sinh lần này là lần thứ mấy? | A6. Chị đẻ thường hay mổ đẻ... |\n| A7 Cháu sinh ngày  /  / |  |\n\nTHỰC HIỆN NUÔI CON BẰNG SỮA MẸ\n\n| B1 | Chị có nhìn thấy \"Quy định thực 1 hiện nuôi con bằng sữa mẹ” tại bệnh viện không? Nếu có thì ở đâu?<br>(có thể đánh dấu vào nhiều số nếu phù hợp) | 1. Khoa khám<br>2. Phòng chờ sinh<br>3. Phòng/khoa sau sinh<br>4. Phòng tư vấn<br>5. Nơi khác, ghi rõ ……………<br>6. Không nhìn thấy |\n| --- | --- | --- |\n| B2 | Chị có nhìn thấy tranh ảnh, tờ rơi tuyên truyền về nuôi con bằng sữa mẹ tại bệnh viện không? Nếu có thì ở đâu?<br>(có thể đánh dấu vào nhiều số nếu phù hợp) | 1. Khoa khám<br>2. Phòng chờ sinh<br>3. Phòng/khoa sau sinh<br>4. Buồng bệnh<br>5. Phòng tư vấn<br>6. Nơi khác, ghi rõ …………………… <br>7. Không nhìn thấy |\n| B3 | Chị có được bệnh viện tư vấn nuôi con bằng sữa mẹ không? Nếu có thì khi nào?<br>(có thể đánh dấu vào nhiều số nếu phù hợp) | 1. Bệnh viện không tư vấn<br>2. Tư vấn khi khám thai tại bệnh viện<br>3. Tư vấn trước sinh<br>4. Tư vấn sau sinh<br>5. Thời điểm khác, ghi rõ ……………. |\n| B4 | Lý do chị không được bệnh viện tư vấn? | 1. Do không khám thai tại bệnh viện<br>2. Do sinh cấp cứu<br>3. Do nhân viên y tế bỏ qua không tư vấn<br>4. Lý do khác, ghi rõ ………………...<br>5. Có được bệnh viện tư vấn |\n| B5 | Nếu đã được tư vấn, Chị có hiểu nội dung nuôi con bằng sữa mẹ do bệnh viện tư vấn không? Mức độ hiểu như thế nào? | 1. Bệnh viện không tư vấn<br>2. Có được tư vấn nhưng không hiểu<br>3. Có hiểu nhưng không nhớ phải làm gì<br>4. Có hiểu và có nhớ cần làm gì<br>5. Có hiểu và rất tâm đắc với ý nghĩa NCBSM<br>6. Khác, ghi rõ …………………………………………<br>………………………………………………………….. |\n| B6 | Khi sinh con, ước tính sau bao nhiêu phút thì 2 Mẹ Con được “cắt dây rốn”? | 1. Cắt dây rốn ngay sau khi sinh<br>2. Cắt dây rốn chậm: ước tính số phút ……<br>3. Không nhớ, không biết số phút<br>4. Khác, ghi rõ ………………………………………..<br>…………………………………………………………. |\n| B7 | Sau khi sinh, Chị và Con có được nhân viên y tế cho thực hiện “da kề da” không? Nếu có trong khoảng thời gian bao lâu? | 1a. Có được thực hiện “da kề da”<br>1b. Ước tính “da kề da” trong bao nhiêu phút...<br>2a. Không được thực hiện “da kề da”<br>2b. Lý do không thực hiện ………….<br>………………………………………………………….. |\n| B8 | Con của chị được bú mẹ lần đầu sau bao nhiêu phút kể từ khi sinh ra (ước tính số phút nếu chị nhớ) | Ghi rõ ước tính số phút nếu nhớ: …… phút<br>1. Bú ngay lập tức sau khi sinh<br>2. Trong khoảng 30 phút<br>3. Trong vòng khoảng 1 giờ<br>4. Trong vòng khoảng 2 giờ<br>5. Từ 2 giờ đến 24 giờ<br>6. Sau 1 ngày<br>7. Mẹ không có sữa nên phải bú sữa ngoài<br>8. Lý do khác, ghi rõ ……………………………….. |\n| B9 | Chị có được hỗ trợ thực hành cho con bú mẹ không? Nếu có đó là ai? (có thể đánh dấu vào nhiều số nếu phù hợp) | 1. Hộ sinh, điều dưỡng<br>2. Bác sỹ<br>3. Người nhà<br>4. Người khác, ghi rõ …………………………………<br>5. Không có ai hỗ trợ |\n| B10 | Nếu có, Chị được hỗ trợ thực hành cho con bú bằng hình thức nào? (có thể đánh dấu vào nhiều số nếu phù hợp) | 1. Trực tiếp hướng dẫn bà mẹ cho trẻ bú đúng cách<br>2. Mát-xa vú<br>3. Thực hành vắt sữa (bằng tay hoặc máy)<br>4. Thông tắc tia sữa<br>5. Khác, ghi rõ ………………………………………. |\n| B11 | Trong thời gian ở bệnh viện, Chị có cho Con ăn thức ăn gì khác không? Nếu có, đó là gì (ví dụ như mật ong, chanh, muối, bột, thuốc ...)? | 1. Chỉ cho bú sữa mẹ hoàn toàn (100%)<br>2. Cho uống thêm nước<br>3. Xin/mua sữa của các bà mẹ khác<br>4. Cho uống thêm sữa công thức<br>5. Cho ăn thêm các thức ăn khác<br>6. Cho uống thuốc bổ, thực phẩm chức năng<br>7. Cho uống thuốc điều trị bệnh |\n| B12 | Nhân viên y tế có gợi ý mua sữa bột cho Con không? | 1. Có<br>2. Không |\n| B13 | Theo Chị, lợi ích của việc nuôi con bằng sữa mẹ là gì? | Ghi rõ các lợi ích:<br>……………………………………………………………<br>…………………………………………………………… |\n| B14 | Theo Chị, trẻ cần được bú sữa mẹ hoàn toàn trong ít nhất mấy tháng và kéo dài bao lâu? | 1. Ít nhất ……… tháng<br>2. Kéo dài trong …….. tháng |\n| B15 | Chị có kiến nghị gì với bệnh viện và nhân viên y tế để việc nuôi con bằng sữa mẹ được thực hiện tốt hơn? | Ghi rõ các kiến nghị ……………………………..<br>…………………………………………………...<br>……………………………………………………… |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_05_3869-QD-BYT_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_05_3869-QD-BYT_chunk_0004",
+            "char_count": 4181,
+            "source_file": "mauphieu/MAU 05_3869-QD-BYT.doc",
+            "file_name": "MAU 05_3869-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:51:25",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_05_3869-QD-BYT_chunk_0004",
+        "doc_id": "mauphieu_MAU_05_3869-QD-BYT",
+        "text": "| Chị có kiến nghị gì với bệnh viện và nhân viên y tế để việc nuôi con bằng sữa mẹ được thực hiện tốt hơn? | Ghi rõ các kiến nghị ……………………………..<br>…………………………………………………...<br>……………………………………………………… |\n\nXIN TRÂN TRỌNG CẢM ƠN VÀ CHÚC MẸ KHỎE BÉ NGOAN! KẾT THÚC PHỎNG VẤN.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_05_3869-QD-BYT_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 265,
+            "source_file": "mauphieu/MAU 05_3869-QD-BYT.doc",
+            "file_name": "MAU 05_3869-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:51:25",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

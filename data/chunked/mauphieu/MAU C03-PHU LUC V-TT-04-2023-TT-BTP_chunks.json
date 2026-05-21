@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_C03-PHU_LUC_V-TT-04-2023-TT-BTP_chunk_0001",
+        "doc_id": "mauphieu_MAU_C03-PHU_LUC_V-TT-04-2023-TT-BTP",
+        "text": "| Đơn vị:... | Mẫu số: C03-THADS |\n| --- | --- |\n|  | (Ban hành kèm theo Thông tư số 04/2023/TT-BTP <br>ngày 14/8/2023 của Bộ Tư pháp) |\n\nPHIẾU CHI\n\nSố:...\n\nNgày... tháng... năm 20...               \t                Nợ:...\n\nCó...\n\nHọ và tên người nhận tiền:...\n\nCMND/CCCD số... ngày cấp... nơi cấp...\n\nĐịa chỉ:...\n\nLý do chi:...\n\n...\n\nSố tiền:...\n\nViết bằng chữ:...\n\n...\n\nKèm theo:... Chứng từ gốc.\n\nThủ trưởng đơn vị                       Kế toán trưởng     \t            Người lập\n\n(Ký, họ tên, đóng dấu)          \t  (Ký, họ tên)                    (Ký, họ tên)\n\nĐã nhận đủ số tiền (Viết bằng chữ):...\n\nNgày... tháng... năm 20...\n\nNgười nhận tiền            \t\t\t  \t           Thủ quỹ\n\n(Ký, họ tên)         \t           (Ký, họ tên)\n\n+ Tỷ giá ngoại tệ (vàng bạc, đá quý):...\n\n+ Số tiền quy đổi:...\n\n(Nếu gửi ra ngoài phải đóng dấu)",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 828,
+            "source_file": "mauphieu/MAU C03-PHU LUC V-TT-04-2023-TT-BTP.doc",
+            "file_name": "MAU C03-PHU LUC V-TT-04-2023-TT-BTP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:17:08",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_SO_01-TTVDT-12688-QD-KBNN_chunk_0001",
+        "doc_id": "totrinh_MAU_SO_01-TTVDT-12688-QD-KBNN",
+        "text": "Mẫu số: 01/TTVĐT\n\n| KHO BẠC NHÀ NƯỚC ...<br>PHÒNG ...<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n\nTỜ TRÌNH THANH TOÁN VỐN ĐẦU TƯ\n\nNăm ngân sách:\n\n1. Tên dự án: ... ; Mã dự án: ...\n\n2. Chủ Đầu tư/Ban QLDA: ...\n\n3. Tổng mức đầu tư được duyệt: ...\n\n4. Kế hoạch đầu tư công hàng năm được cấp có thẩm quyền giao: ...\n\n5. Mã số hồ sơ: ...; ngày nhận hồ sơ: ...\n\n6. Tên và mã số Hạng mục, tiết mục, đề nghị thanh toán: ...\n\n- Tên hạng mục: ... Mã số hạng mục: ...\n\n- Tên tiết mục: ... Mã số tiết mục: ...\n\n7. Tình hình giải ngân của Hạng mục, tiết mục đến cuối kỳ trước:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_SO_01-TTVDT-12688-QD-KBNN_chunk_0002",
+            "char_count": 635,
+            "source_file": "totrinh/MAU SO 01-TTVDT-12688-QD-KBNN.doc",
+            "file_name": "MAU SO 01-TTVDT-12688-QD-KBNN.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:17:49",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_SO_01-TTVDT-12688-QD-KBNN_chunk_0002",
+        "doc_id": "totrinh_MAU_SO_01-TTVDT-12688-QD-KBNN",
+        "text": "mã số Hạng mục, tiết mục, đề nghị thanh toán: ...\n\n- Tên hạng mục: ... Mã số hạng mục: ...\n\n- Tên tiết mục: ... Mã số tiết mục: ...\n\n7. Tình hình giải ngân của Hạng mục, tiết mục đến cuối kỳ trước:\n\n| Loại Nguyên tệ | Giá trị HĐ/Dự toán | Lũy kế giải ngân đến cuối kỳ trước | Trong đó | Trong đó |\n| --- | --- | --- | --- | --- |\n| Loại Nguyên tệ | Giá trị HĐ/Dự toán | Lũy kế giải ngân đến cuối kỳ trước | Dư tạm ứng năm trước mang sang | Dư tạm ứng phát sinh trong năm |\n| (1) | (2) | (3) | (4) | (5) |\n| USD |  |  |  |  |\n| EUR |  |  |  |  |\n| VND |  |  |  |  |\n|  |  |  |  |  |\n\n8. Tình hình giải ngân kế hoạch vốn của dự án đến thời điểm lập Tờ trình:\n\n| Chỉ tiêu | Mã nguồn | Mã Chương | Loại kế hoạch | KH năm/KH kéo dài | Số tiền KH (TABMIS) | Lũy kế Giải ngân | Số KHV còn được sử dụng |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Tên DA |  |  |  |  |  |  |  |\n| Trong đó: Nội dung HM, TM |  |  |  |  |  |  |  |\n\n9. Đề nghị thanh toán/tạm ứng kỳ này:\n\nĐồng tiền:",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "totrinh_MAU_SO_01-TTVDT-12688-QD-KBNN_chunk_0001",
+            "next_chunk_id": "totrinh_MAU_SO_01-TTVDT-12688-QD-KBNN_chunk_0003",
+            "char_count": 980,
+            "source_file": "totrinh/MAU SO 01-TTVDT-12688-QD-KBNN.doc",
+            "file_name": "MAU SO 01-TTVDT-12688-QD-KBNN.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:17:49",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_SO_01-TTVDT-12688-QD-KBNN_chunk_0003",
+        "doc_id": "totrinh_MAU_SO_01-TTVDT-12688-QD-KBNN",
+        "text": "được sử dụng |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Tên DA |  |  |  |  |  |  |  |\n| Trong đó: Nội dung HM, TM |  |  |  |  |  |  |  |\n\n9. Đề nghị thanh toán/tạm ứng kỳ này:\n\nĐồng tiền:\n\n| Nội dung thanh toán/tạm ứng | Giá trị bảng tính KLHT | Giá trị KBNN kiểm tra chấp nhận | Giá trị chủ đầu tư đề nghị thanh toán/ tạm ứng kỳ này | Sổ chấp nhận thanh toán/ tạm ứng kỳ này | Quy ra VNĐ |\n| --- | --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) | (6) |\n| Thanh toán/ Tạm ứng HM, TM |  |  |  |  |  |\n| Tổng cộng |  |  |  |  |  |\n\nTrong đó chi tiết như sau:\n\n| Chỉ tiêu | Mã nguồn | Mã Chương | Năm Kế hoạch | Số tiền | Quy ra VNĐ |\n| --- | --- | --- | --- | --- | --- |\n| Thu hồi tạm ứng |  |  |  |  |  |\n| Thuế giá trị gia tăng |  |  |  |  |  |\n| Bảo hành công trình |  |  |  |  |  |\n| Khác (Tạm giữ chờ quyết toán,...) |  |  |  |  |  |\n| Chuyển đơn vị |  |  |  |  |  |\n\nTên đơn vị hưởng... Số Tài khoản: ...\n\nTại KB/NH: ...\n\nGhi chú: ...",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "totrinh_MAU_SO_01-TTVDT-12688-QD-KBNN_chunk_0002",
+            "next_chunk_id": "totrinh_MAU_SO_01-TTVDT-12688-QD-KBNN_chunk_0004",
+            "char_count": 963,
+            "source_file": "totrinh/MAU SO 01-TTVDT-12688-QD-KBNN.doc",
+            "file_name": "MAU SO 01-TTVDT-12688-QD-KBNN.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:17:49",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_SO_01-TTVDT-12688-QD-KBNN_chunk_0004",
+        "doc_id": "totrinh_MAU_SO_01-TTVDT-12688-QD-KBNN",
+        "text": "|  |\n| Bảo hành công trình |  |  |  |  |  |\n| Khác (Tạm giữ chờ quyết toán,...) |  |  |  |  |  |\n| Chuyển đơn vị |  |  |  |  |  |\n\nTên đơn vị hưởng... Số Tài khoản: ...\n\nTại KB/NH: ...\n\nGhi chú: ...\n\n| GIAO DỊCH VIÊN | TRƯỞNG PHÒNG | GIÁM ĐỐC |\n| --- | --- | --- |\n\n(Lưu ý: GDV lập tờ trình thủ công theo dõi chi tiết theo Bảng Tổng hợp thông tin hợp đồng đối với trường hợp không theo dõi hạng mục, tiết mục trên chương trình ĐTKB-GD)",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "totrinh_MAU_SO_01-TTVDT-12688-QD-KBNN_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 435,
+            "source_file": "totrinh/MAU SO 01-TTVDT-12688-QD-KBNN.doc",
+            "file_name": "MAU SO 01-TTVDT-12688-QD-KBNN.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:17:49",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

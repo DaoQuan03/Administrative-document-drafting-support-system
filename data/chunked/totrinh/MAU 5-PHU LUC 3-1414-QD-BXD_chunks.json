@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_5-PHU_LUC_3-1414-QD-BXD_chunk_0001",
+        "doc_id": "totrinh_MAU_5-PHU_LUC_3-1414-QD-BXD",
+        "text": "|  |  | Mẫu 5 |\n| --- | --- | --- |\n| CƠ QUAN CHỦ QUẢN<br>ĐƠN VỊ ...1<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| Số: .../TTr-... | ..., ngày ... tháng ... năm ... | ..., ngày ... tháng ... năm ... |\n|  |  |  |\n\nTỜ TRÌNH\n\nĐề nghị bổ nhiệm ...2\n\nKính gửi: …………………3\n\nI. Nêu nhu cầu bổ nhiệm; căn cứ vào quy hoạch, tiêu chuẩn chức danh lãnh đạo để đề xuất bổ nhiệm cán bộ.\n\n- Lãnh đạo đơn vị hiện có …… người.\n\n- Tình hình và phân công nhiệm vụ.\n\n- Nhu cầu sắp tới (lý do cần bổ nhiệm cán bộ).\n\n- Văn bản cho chủ trương bổ sung của cấp có thẩm quyền.\n\nII. Tóm tắt kết quả thực hiện quy trình giới thiệu nhân sự (nguồn tại chỗ, nguồn từ nơi khác)\n\nIII. Tóm tắt trích ngang nhân sự dự kiến đề nghị bổ nhiệm\n\n- Tóm tắt trích ngang (chức vụ, đơn vị, quê quán, dân tộc, trình độ học vấn, lý luận chính trị, ngoại ngữ...).\n\n- Tóm tắt quá trình công tác.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_5-PHU_LUC_3-1414-QD-BXD_chunk_0002",
+            "char_count": 991,
+            "source_file": "totrinh/MAU 5-PHU LUC 3-1414-QD-BXD.doc",
+            "file_name": "MAU 5-PHU LUC 3-1414-QD-BXD.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:13:47",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_5-PHU_LUC_3-1414-QD-BXD_chunk_0002",
+        "doc_id": "totrinh_MAU_5-PHU_LUC_3-1414-QD-BXD",
+        "text": "Tóm tắt trích ngang nhân sự dự kiến đề nghị bổ nhiệm\n\n- Tóm tắt trích ngang (chức vụ, đơn vị, quê quán, dân tộc, trình độ học vấn, lý luận chính trị, ngoại ngữ...).\n\n- Tóm tắt quá trình công tác.\n\n- Tóm tắt nhận xét, ưu khuyết điểm, mặt mạnh, mặt yếu.\n\n- Kết quả lấy phiếu tín nhiệm ở các bước.\n\n- Ý kiến của cấp ủy Đảng đơn vị.\n\n- Tập thể lãnh đạo đã biểu quyết để đề nghị bổ nhiệm ………/……… = …………%.\n\n- Dự kiến phân công phụ trách lĩnh vực công tác………… của đơn vị (đối với trường hợp bổ nhiệm cấp phó).\n\nIV. Đề xuất, kiến nghị cấp có thẩm quyền bổ nhiệm.\n\n(Có hồ sơ kèm theo)\n\nKính đề nghị cấp có thẩm quyền xem xét quyết định./.\n\n| Nơi nhận:<br>………… | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký tên, đóng dấu) |\n| --- | --- |\n\n___\n\n1 Tên đơn vị đề nghị bổ nhiệm\n\n2 Chức danh đề nghị bổ nhiệm\n\n3 Cấp có thẩm quyền bổ nhiệm",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_5-PHU_LUC_3-1414-QD-BXD_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 804,
+            "source_file": "totrinh/MAU 5-PHU LUC 3-1414-QD-BXD.doc",
+            "file_name": "MAU 5-PHU LUC 3-1414-QD-BXD.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:13:47",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

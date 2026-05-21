@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_11-MP-06-2011-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_11-MP-06-2011-TT-BYT",
+        "text": "Phụ lục số 11-MP\n\n| UBND TỈNH/ TP<br>Cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh...<br><br>      Số: ... | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- | --- |\n\nPHIẾU TIẾP NHẬN HỒ SƠ ĐĂNG KÝ QUẢNG CÁO MỸ PHẨM,\n\nTỔ CHỨC HỘI THẢO, SỰ KIỆN GIỚI THIỆU MỸ PHẨM\n\nCơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh đã tiếp nhận hồ sơ đăng ký quảng cáo mỹ phẩm, tổ chức hội thảo, sự kiện giới thiệu mỹ phẩm số: (ghi số phiếu đăng ký hồ sơ quảng cáo mỹ phẩm, tổ chức hội thảo, sự kiện giới thiệu mỹ phẩm của đơn vị)\n\nCủa đơn vị: (ghi tên đơn vị nộp hồ sơ)\n\nĐịa chỉ: (ghi địa chỉ của đơn vị nộp hồ sơ)\n\nĐiện thoại: (ghi số điện thoại của đơn vị nộp hồ sơ)\n\nTên sản phẩm mỹ phẩm đăng ký quảng cáo, tổ chức hội thảo, sự kiện giới thiệu mỹ phẩm:\n\nHình thức quảng cáo: (đối với hồ sơ đăng ký quảng cáo)\n\nNgày nhận đủ hồ sơ hợp lệ: (Ngày/ tháng/ năm)\n\nSố Phiếu tiếp nhận (*):\n\n… , ngày ... tháng ... năm ...\n\nThủ trưởng cơ quan\n\n(Ký tên, đóng dấu)",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_11-MP-06-2011-TT-BYT_chunk_0002",
+            "char_count": 982,
+            "source_file": "mauphieu/PHU LUC 11-MP-06-2011-TT-BYT.doc",
+            "file_name": "PHU LUC 11-MP-06-2011-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:35:23",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_11-MP-06-2011-TT-BYT_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_11-MP-06-2011-TT-BYT",
+        "text": "thức quảng cáo: (đối với hồ sơ đăng ký quảng cáo)\n\nNgày nhận đủ hồ sơ hợp lệ: (Ngày/ tháng/ năm)\n\nSố Phiếu tiếp nhận (*):\n\n… , ngày ... tháng ... năm ...\n\nThủ trưởng cơ quan\n\n(Ký tên, đóng dấu)\n\n(Ghi rõ họ và tên người ký)\n\n(*) Ghi chú: Cách ghi số Phiếu tiếp nhận là a/XX/QCMP-A, trong đó:\n\n- a là Số Phiếu tiếp nhận;\n\n- XX là hai chữ số cuối của năm cấp;\n\n- QCMP là các ký tự viết tắt của cụm từ \"quảng cáo mỹ phẩm\";\n\n- A là ký hiệu viết tắt tên tỉnh, thành phố được quy định tại Phụ lục số 04-MP.\n\nVí dụ: 268/11/QCMP-HN có nghĩa là số Phiếu tiếp nhận hồ sơ quảng cáo mỹ phẩm là 268 do cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân thành phố Hà Nội cấp năm 2011.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_11-MP-06-2011-TT-BYT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 667,
+            "source_file": "mauphieu/PHU LUC 11-MP-06-2011-TT-BYT.doc",
+            "file_name": "PHU LUC 11-MP-06-2011-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:35:23",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

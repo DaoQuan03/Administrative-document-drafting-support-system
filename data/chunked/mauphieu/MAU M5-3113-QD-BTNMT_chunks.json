@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_M5-3113-QD-BTNMT_chunk_0001",
+        "doc_id": "mauphieu_MAU_M5-3113-QD-BTNMT",
+        "text": "Mẫu M5\n\n| ĐẢNG BỘ…………….<br>ĐẢNG ỦY (CHI ỦY)………….. | ĐẢNG CỘNG SẢN VIỆT NAM |\n| --- | --- |\n\nNHẬN XÉT CỦA……..(cấp ủy đảng cùng cấp)\n(đối với công chức, viên chức lãnh đạo, quản lý)\n\nKính gửi:……………………………………………………..\n\nThực hiện Quy chế đánh giá và phân loại công chức, viên chức của Bộ Tài nguyên và Môi trường.\n\nTập thể đảng ủy (chi ủy)……………………………………………………………………………...thống nhất nhận xét đồng chí………………………………………………………………………………………\n\nChức vụ, đơn vị công tác:... , như sau:\n\nI. ƯU, KHUYẾT ĐIỂM; MẶT MẠNH, MẶT YẾU\n\n1- Chấp hành chế độ chính sách của Đảng, pháp luật của Nhà nước:\n\nGương mẫu chấp hành □; Chấp hành đầy đủ □; Có vi phạm □\n\n2- Lãnh đạo, chỉ đạo thực hiện nhiệm vụ chính trị của đơn vị, tổ chức:\n\nHoàn thành xuất sắc □; Hoàn thành tốt □; Hoàn thành □; Chưa hoàn thành □\n\n3- Tham gia các phong trào, chấp hành các quy định của đơn vị, tổ chức:\n\nGương mẫu □; Tham gia đầy đủ □; Tham gia chưa đầy đủ □\n\n4- Đạo đức, lối sống, quan hệ với đồng nghiệp, nhân dân:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_M5-3113-QD-BTNMT_chunk_0002",
+            "char_count": 962,
+            "source_file": "mauphieu/MAU M5-3113-QD-BTNMT.doc",
+            "file_name": "MAU M5-3113-QD-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:33",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_M5-3113-QD-BTNMT_chunk_0002",
+        "doc_id": "mauphieu_MAU_M5-3113-QD-BTNMT",
+        "text": "hoàn thành □\n\n3- Tham gia các phong trào, chấp hành các quy định của đơn vị, tổ chức:\n\nGương mẫu □; Tham gia đầy đủ □; Tham gia chưa đầy đủ □\n\n4- Đạo đức, lối sống, quan hệ với đồng nghiệp, nhân dân:\n\nQuan hệ tốt □; Bình thường □; Quan hệ chưa tốt □\n\n5- Diễn giải thêm:\n\n...\n\nII. KẾT LUẬN CHUNG\n\n1. Về đảm bảo tiêu chuẩn cán bộ:\n\n2. Năng lực lãnh đạo, quản lý; khả năng hoàn thành nhiệm vụ:\n\n3. Triển vọng và chiều hướng phát triển:\n\n|  | T/M ĐẢNG ỦY (CHI ỦY)<br>(ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_M5-3113-QD-BTNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 498,
+            "source_file": "mauphieu/MAU M5-3113-QD-BTNMT.doc",
+            "file_name": "MAU M5-3113-QD-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:33",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_13B_PL3_13-2021-TT-BTP_chunk_0001",
+        "doc_id": "thongbao_MAU_13B_PL3_13-2021-TT-BTP",
+        "text": "Mẫu số: 13b - TCTHADS\n\n(Ban hành kèm theo TT số 13/2021/TT-BTP\n\nNgày 30/12/2021 của Bộ trưởng Bộ Tư pháp)\n\n| BỘ TƯ PHÁP<br>TỔNG CỤC THI HÀNH ÁN DÂN SỰ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập – Tự do – Hạnh phúc |\n| --- | --- |\n| Số: .../TB-TCTHADS | Hà Nội, ngày … tháng…năm … |\n\nTHÔNG BÁO\n\nVề việc kết luận nội dung tố cáo\n\nTổng cục Thi hành án dân sự đã có Kết luận nội dung tố cáo số …/KL-TCTHADS ngày…/…/… về nội dung ông (bà) …… (người tố cáo) ………, địa chỉ ………… , tố cáo ……….. (họ tên, chức vụ, chức danh người bị tố cáo) ….. về việc: ..…………………………………………………………..…………………\n\nTheo quy định tại khoản 3 Điều 35 Luật Tố cáo năm 2018 và Điều 24 Thông tư số 13/2021/TT-BTP ngày 30/12/2021 của Bộ trưởng Bộ Tư pháp quy định quy trình xử lý, giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh trong thi hành án dân sự, Tổng cục THADS thông báo kết quả giải quyết tố cáo như sau:\n\n…………………………………………... (ghi tóm tắt kết quả giải quyết các nội dung tố cáo) ……………………………..…………………………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_13B_PL3_13-2021-TT-BTP_chunk_0002",
+            "char_count": 991,
+            "source_file": "thongbao/MAU 13B_PL3_13-2021-TT-BTP.doc",
+            "file_name": "MAU 13B_PL3_13-2021-TT-BTP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:22:52",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_13B_PL3_13-2021-TT-BTP_chunk_0002",
+        "doc_id": "thongbao_MAU_13B_PL3_13-2021-TT-BTP",
+        "text": "phản ánh trong thi hành án dân sự, Tổng cục THADS thông báo kết quả giải quyết tố cáo như sau:\n\n…………………………………………... (ghi tóm tắt kết quả giải quyết các nội dung tố cáo) ……………………………..…………………………………………\n\nTổng cục THADS thông báo để ông (bà) … (người tố cáo)….. biết (đề nghị ông (bà) … (người tố cáo) …. chấm dứt việc tố cáo  - trong trường hợp tố cáo sai sự thật)./.\n\n| Nơi nhận:<br>- Người tố cáo;<br>- Thứ trưởng phụ trách (để b/c);<br>- Các Phó TCT (để biết);<br>- Lưu: VT, GQKNTC, HS. | TỔNG CỤC TRƯỞNG<br>(Ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_13B_PL3_13-2021-TT-BTP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 542,
+            "source_file": "thongbao/MAU 13B_PL3_13-2021-TT-BTP.doc",
+            "file_name": "MAU 13B_PL3_13-2021-TT-BTP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:22:52",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

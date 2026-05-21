@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_CV03-QD-09-2023-QD-TTg_chunk_0001",
+        "doc_id": "mauphieu_MAU_CV03-QD-09-2023-QD-TTg",
+        "text": "Mẫu CV03\n\n| ………….(1)…………….<br>----------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số:      / | …...(2)……..., ngày……tháng…..năm….. |\n\nPHIẾU YÊU CẦU BỔ SUNG, HOÀN THIỆN HỒ SƠ\n\nHồ sơ của:…………………………………………………………………………………………\n\nNội dung yêu cầu giải quyết: ……………………………………………………………………\n\nĐịa chỉ: …………………………………………………………………………………………….\n\nSố điện thoại……………………………Email: …………………………………………………\n\nYêu cầu hoàn thiện hồ sơ gồm những nội dung sau:\n\n1…………………………………………………………………………………………………….\n\n2………………………………………………………………………………….…………………\n\n3………………………………………………………………………………….…………………\n\n4………………………………………………………………………………….…………………\n\n5………………………………………………………………………………….…………………\n\nLý do ……………………………………………………………………………………………….\n\n………………………………………………………………………………….……………………\n\nTrong quá trình hoàn thiện hồ sơ nếu có vướng mắc, Ông/Bà liên hệ với ………………… số điện thoại ……………………… để được hướng dẫn.\n\n|  | NGƯỜI HƯỚNG DẪN<br>(Ký và ghi rõ họ tên) |\n| --- | --- |\n\nGhi chú:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_CV03-QD-09-2023-QD-TTg_chunk_0002",
+            "char_count": 981,
+            "source_file": "mauphieu/MAU CV03-QD-09-2023-QD-TTg.doc",
+            "file_name": "MAU CV03-QD-09-2023-QD-TTg.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:19:54",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_CV03-QD-09-2023-QD-TTg_chunk_0002",
+        "doc_id": "mauphieu_MAU_CV03-QD-09-2023-QD-TTg",
+        "text": "quá trình hoàn thiện hồ sơ nếu có vướng mắc, Ông/Bà liên hệ với ………………… số điện thoại ……………………… để được hướng dẫn.\n\n|  | NGƯỜI HƯỚNG DẪN<br>(Ký và ghi rõ họ tên) |\n| --- | --- |\n\nGhi chú:\n\n(1) Cơ quan, tổ chức có trách nhiệm tiếp nhận hồ sơ.\n\n(2) Địa danh nơi làm công văn.\n\nNguồn: Quyết định 09/2023/QĐ-TTg",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_CV03-QD-09-2023-QD-TTg_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 307,
+            "source_file": "mauphieu/MAU CV03-QD-09-2023-QD-TTg.doc",
+            "file_name": "MAU CV03-QD-09-2023-QD-TTg.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:19:54",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

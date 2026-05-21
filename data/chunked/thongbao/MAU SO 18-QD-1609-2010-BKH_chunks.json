@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_18-QD-1609-2010-BKH_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_18-QD-1609-2010-BKH",
+        "text": "Mẫu số 18: Thông báo kết thúc thanh tra/kiểm tra\n\n| ...()<br>ĐOÀN THANH TRA/KIỂM TRA<br>Quyết định thanh tra/kiểm tra số .../QĐ-... ngày ...<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do- Hạnh phúc<br>--------- |\n| --- | --- |\n|  | ..., ngày       tháng      năm ... |\n\nTHÔNG BÁO\n\nV/v kết thúc thanh tra/kiểm tra trực tiếp tại ... ()\n\nKính gửi: ... ()\n\nThực hiện Quyết định số ... ngày ... của ... về việc ... Đoàn thanh tra/kiểm tra đã tiến hành thanh tra/kiểm tra từ ngày .../.../... tại: ... (2) Đoàn thanh tra/kiểm tra kết thúc việc thanh tra/kiểm tra trực tiếp tại đơn vị từ ngày ... tháng ... năm ...\n\nTrong quá trình xây dựng Báo cáo và Dự thảo Kết luận thanh tra/kiểm tra, nếu cần xác minh hoặc cung cấp thêm thông tin, tài liệu để làm rõ nội dung trước Kết luận thanh tra/kiểm tra, yêu cầu ... (3) đáp ứng đầy đủ, kịp thời.\n\nĐoàn thanh tra/kiểm tra thông báo để ... (3) biết./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_18-QD-1609-2010-BKH_chunk_0002",
+            "char_count": 907,
+            "source_file": "thongbao/MAU SO 18-QD-1609-2010-BKH.doc",
+            "file_name": "MAU SO 18-QD-1609-2010-BKH.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:02:20",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_18-QD-1609-2010-BKH_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_18-QD-1609-2010-BKH",
+        "text": "xác minh hoặc cung cấp thêm thông tin, tài liệu để làm rõ nội dung trước Kết luận thanh tra/kiểm tra, yêu cầu ... (3) đáp ứng đầy đủ, kịp thời.\n\nĐoàn thanh tra/kiểm tra thông báo để ... (3) biết./.\n\n| Nơi nhận:<br> - Như trên;<br> - Lưu: Hồ sơ thanh tra/kiểm tra. | TRƯỞNG ĐOÀN <br>(Ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_18-QD-1609-2010-BKH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 317,
+            "source_file": "thongbao/MAU SO 18-QD-1609-2010-BKH.doc",
+            "file_name": "MAU SO 18-QD-1609-2010-BKH.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:02:20",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

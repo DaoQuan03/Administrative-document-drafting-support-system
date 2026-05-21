@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_PHU_LUC_SO_03-QD-40-QD-VSD_chunk_0001",
+        "doc_id": "Maudon_PHU_LUC_SO_03-QD-40-QD-VSD",
+        "text": "PHỤ LỤC 03:\n\nMẪU ĐƠN XIN THAY ĐỔI ĐỊA ĐIỂM KẾT NỐI CỔNG GIAO TIẾP TRỰC TUYẾN\n(Ban hành kèm theo Quyết định số: 40/QĐ-VSD ngày 04 tháng 4 năm 2022 của Tổng Giám đốc Trung tâm Lưu ký Chứng khoán Việt Nam)\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN XIN THAY ĐỔI\n\nĐỊA ĐIỂM KẾT NỐI CỔNG GIAO TIẾP TRỰC TUYẾN\n\nKính gửi: Trung tâm Lưu ký Chứng khoán Việt Nam\n\nTên Tổ chức: ………………………………………………………………………………………..\n\nTên giao dịch: ……………………………………………………………………………………….\n\nTrụ sở chính: ………………………………………………………………………………………..\n\nĐiện thoại: …………………………………………………………………………………………...\n\nFax ……………………………………………………………………………………………………\n\nXét thấy Công ty/Ngân hàng………. đã đáp ứng đầy đủ các điều kiện để kết nối Cổng giao tiếp trực tuyến tại địa điểm kết nối mới, chúng tôi xin được thay đổi điểm kết nối như sau:\n\nI. Địa điểm kết nối cũ:\n\nII. Địa điểm đăng ký kết nối mới:\n\nIII. Lý do thay đổi:\n\nChúng tôi xin chịu trách nhiệm với các nội dung trên.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_PHU_LUC_SO_03-QD-40-QD-VSD_chunk_0002",
+            "char_count": 954,
+            "source_file": "Maudon/PHU LUC SO 03-QD-40-QD-VSD.doc",
+            "file_name": "PHU LUC SO 03-QD-40-QD-VSD.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T05:04:01",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_PHU_LUC_SO_03-QD-40-QD-VSD_chunk_0002",
+        "doc_id": "Maudon_PHU_LUC_SO_03-QD-40-QD-VSD",
+        "text": "kết nối mới, chúng tôi xin được thay đổi điểm kết nối như sau:\n\nI. Địa điểm kết nối cũ:\n\nII. Địa điểm đăng ký kết nối mới:\n\nIII. Lý do thay đổi:\n\nChúng tôi xin chịu trách nhiệm với các nội dung trên.\n\n|  | …………., ngày…..tháng……năm……<br>TỔNG GIÁM ĐỐC/GIÁM ĐỐC<br>(Chữ ký, họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_PHU_LUC_SO_03-QD-40-QD-VSD_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 304,
+            "source_file": "Maudon/PHU LUC SO 03-QD-40-QD-VSD.doc",
+            "file_name": "PHU LUC SO 03-QD-40-QD-VSD.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T05:04:01",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

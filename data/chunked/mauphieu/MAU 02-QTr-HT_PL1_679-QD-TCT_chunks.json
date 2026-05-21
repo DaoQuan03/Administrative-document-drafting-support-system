@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_02-QTr-HT_PL1_679-QD-TCT_chunk_0001",
+        "doc_id": "mauphieu_MAU_02-QTr-HT_PL1_679-QD-TCT",
+        "text": "|  | Mẫu số: 02/QTr-HT<br>(Kèm theo Quyết định số 679/QĐ-TCT ngày 31/05/2023 của Tổng cục Thuế) |\n| --- | --- |\n\n| CỤC THUẾ (CHI CỤC THUẾ) ….<br>PHÒNG (ĐỘI) …<br>----------- |  |\n| --- | --- |\n\nPHIẾU PHÂN LOẠI HỒ SƠ HOÀN THUẾ\n\nI. THÔNG TIN CHUNG\n\n- Mã hồ sơ: ...\n\n- Giấy đề nghị hoàn trả khoản thu NSNN số ... ngày ... tháng ... năm ...\n\n- Tên NNT: ...\n\n- Mã số thuế: ...\n\n- Địa chỉ trụ sở NNT: ...\n\n- Loại hình doanh nghiệp: ...\n\n- Ngành nghề/lĩnh vực hoạt động, kinh doanh chính: ...\n\n- Lý do hoàn thuế:\n\nII. KẾT QUẢ PHÂN LOẠI HỒ SƠ\n\n1. Hoàn thuế trước: □\n\n2. Kiểm tra trước hoàn thuế: □\n\nLý do:\n\n2.1 Theo Luật định\n\n□ Hồ sơ của người nộp thuế đề nghị hoàn thuế lần đầu của từng trường hợp hoàn thuế theo quy định của pháp luật về thuế.\n\n□ Hồ sơ của người nộp thuế đề nghị hoàn thuế trong thời hạn 02 năm kể từ thời điểm bị xử lý về hành vi trốn thuế.\n\n□ Hồ sơ của tổ chức giải thể, phá sản, chấm dứt hoạt động, bán, giao và chuyển giao doanh nghiệp nhà nước.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_02-QTr-HT_PL1_679-QD-TCT_chunk_0002",
+            "char_count": 961,
+            "source_file": "mauphieu/MAU 02-QTr-HT_PL1_679-QD-TCT.doc",
+            "file_name": "MAU 02-QTr-HT_PL1_679-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:46:30",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02-QTr-HT_PL1_679-QD-TCT_chunk_0002",
+        "doc_id": "mauphieu_MAU_02-QTr-HT_PL1_679-QD-TCT",
+        "text": "thuế đề nghị hoàn thuế trong thời hạn 02 năm kể từ thời điểm bị xử lý về hành vi trốn thuế.\n\n□ Hồ sơ của tổ chức giải thể, phá sản, chấm dứt hoạt động, bán, giao và chuyển giao doanh nghiệp nhà nước.\n\n□ Hồ sơ hoàn thuế thuộc trường hợp hoàn thuế trước nhưng hết thời hạn theo thông báo bằng văn bản của cơ quan quản lý thuế mà người nộp thuế không giải trình, bổ sung hồ sơ hoàn thuế hoặc có giải trình, bổ sung hồ sơ hoàn thuế nhưng không chứng minh được số tiền thuế đã khai là đúng.\n\n□ Trường hợp khác.\n\n2.2 Theo phân loại rủi ro\n\n□ Hồ sơ hoàn thuế thuộc loại rủi ro về thuế cao theo phân loại quản lý rủi ro trong quản lý thuế.\n\n- Ngày giờ in kết quả phân loại:\n\n- Người in kết quả phân loại:",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_02-QTr-HT_PL1_679-QD-TCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 696,
+            "source_file": "mauphieu/MAU 02-QTr-HT_PL1_679-QD-TCT.doc",
+            "file_name": "MAU 02-QTr-HT_PL1_679-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:46:30",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

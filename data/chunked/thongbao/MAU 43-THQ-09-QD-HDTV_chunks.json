@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_43-THQ-09-QD-HDTV_chunk_0001",
+        "doc_id": "thongbao_MAU_43-THQ-09-QD-HDTV",
+        "text": "(Ban hành kèm theo Quy chế thực hiện quyền cho người sở hữu chứng khoán)\n\nMẫu 43/THQ\n\n| TÊN TCPH | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM |\n| --- | --- |\n| Số: | Độc lập - Tự do - Hạnh phúc |\n|  |  |\n|  | ..., ngày... tháng... năm... |\n\nTHÔNG BÁO XÁC NHẬN\n\n(Danh sách tổng hợp người sở hữu hoán đổi cổ phiếu)\n\nKính gửi: Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam\n\nCăn cứ vào Danh sách tổng hợp người sở hữu hoán đổi cổ phiếu số …..ngày….do VSDC lập cho chứng khoán sau:\n\n| Tên chứng khoán: |  |\n| --- | --- |\n| Mã chứng khoán: |  |\n| Loại chứng khoán: |  |\n| Mệnh giá: |  |\n| Ngày đăng ký cuối cùng: |  |\n| Mục đích: |  |\n| Tỷ lệ thực hiện:<br>Giá quy đổi chứng khoán lẻ: |  |\n\nCông ty xác nhận\n\n- Tổng số lượng chứng khoán trong Danh sách đúng bằng số lượng chứng khoán Công ty đã đăng ký với VSDC.\n\n- Tổng số lượng cổ phiếu sau khi hoán đổi phân bổ cho người sở hữu chứng khoán phù hợp với tỷ lệ đã công bố.\n\nCông ty cam kết",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_43-THQ-09-QD-HDTV_chunk_0002",
+            "char_count": 930,
+            "source_file": "thongbao/MAU 43-THQ-09-QD-HDTV.doc",
+            "file_name": "MAU 43-THQ-09-QD-HDTV.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:26:33",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_43-THQ-09-QD-HDTV_chunk_0002",
+        "doc_id": "thongbao_MAU_43-THQ-09-QD-HDTV",
+        "text": "Danh sách đúng bằng số lượng chứng khoán Công ty đã đăng ký với VSDC.\n\n- Tổng số lượng cổ phiếu sau khi hoán đổi phân bổ cho người sở hữu chứng khoán phù hợp với tỷ lệ đã công bố.\n\nCông ty cam kết\n\n- Thanh toán tiền giá dịch vụ thực hiện quyền cho VSDC theo đúng quy định.\n\n|  | Tổ chức phát hành<br>Chủ tịch HĐQT/Người đại diện pháp luật<br> (Chữ ký, họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_43-THQ-09-QD-HDTV_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 385,
+            "source_file": "thongbao/MAU 43-THQ-09-QD-HDTV.doc",
+            "file_name": "MAU 43-THQ-09-QD-HDTV.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:26:33",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

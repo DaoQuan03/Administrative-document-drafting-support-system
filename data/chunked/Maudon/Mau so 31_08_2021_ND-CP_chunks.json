@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_Mau_so_31_08_2021_ND-CP_chunk_0001",
+        "doc_id": "Maudon_Mau_so_31_08_2021_ND-CP",
+        "text": "Mẫu số 31\n\n| TÊN DOANH NGHIỆP CẢNG<br><br><br>Số.../... | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br><br>…, ngày…tháng…năm… |\n| --- | --- |\n\nĐƠN ĐỀ NGHỊ\n\nPhê duyệt kế hoạch an ninh và cấp giấy chứng nhận phù hợp an ninh\n\ncảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài\n\n___\n\nKính gửi: Cục Đường thủy nội địa Việt Nam.\n\nTên doanh nghiệp:\n\nĐịa chỉ:\n\nSố điện thoại:... Số fax:\n\nTên cảng:\n\nVị trí:\n\nCăn cứ Nghị định số…/2021/NĐ-CP ngày... tháng... năm 2021 của Chính phủ quy định về quản lý hoạt động đường thủy nội địa.\n\nDoanh nghiệp cảng chúng tôi đã hoàn thành việc đánh giá an ninh cảng thủy nội địa và đã được Cảng vụ Đường thủy nội địa thẩm định, phê duyệt. Trên cơ sở bản đánh giá an ninh, chúng tôi đã xây dựng hoàn thiện kế hoạch an ninh cảng thủy nội địa theo quy định. Kế hoạch an ninh cảng thủy nội địa gồm... trang, kể cả các Phụ lục.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_Mau_so_31_08_2021_ND-CP_chunk_0002",
+            "char_count": 878,
+            "source_file": "Maudon/Mau so 31_08_2021_ND-CP.doc",
+            "file_name": "Mau so 31_08_2021_ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:44:11",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_Mau_so_31_08_2021_ND-CP_chunk_0002",
+        "doc_id": "Maudon_Mau_so_31_08_2021_ND-CP",
+        "text": "phê duyệt. Trên cơ sở bản đánh giá an ninh, chúng tôi đã xây dựng hoàn thiện kế hoạch an ninh cảng thủy nội địa theo quy định. Kế hoạch an ninh cảng thủy nội địa gồm... trang, kể cả các Phụ lục.\n\nĐề nghị Cục Đường thủy nội địa Việt Nam cấp Giấy chứng nhận phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài./.\n\n| CÁN BỘ AN NINH CẢNG<br>(Ký ghi rõ họ tên) | LÃNH ĐẠO DOANH NGHIỆP<br>(Ký tên và đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_Mau_so_31_08_2021_ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 439,
+            "source_file": "Maudon/Mau so 31_08_2021_ND-CP.doc",
+            "file_name": "Mau so 31_08_2021_ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:44:11",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

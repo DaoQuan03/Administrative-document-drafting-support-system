@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_B02-BHTG-177-2015-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_B02-BHTG-177-2015-TT-BTC",
+        "text": "| BHTG Việt Nam<br>Địa chỉ: …………………… | Mẫu số B02 - BHTG<br>(Ban hành theo Thông tư số 177/2015/TT-BTC ngày 12/11/2015 của Bộ Tài chính) |\n| --- | --- |\n\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG\n\nNăm ………..\n\nĐơn vị tính: …………..\n\n| CHỈ TIÊU | Mã số | Thuyết minh | Năm nay | Năm trước |\n| --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 |\n| 1. Thu hoạt động BHTG | 10 |  |  |  |\n| 2. Chi hoạt động BHTG | 11 |  |  |  |\n| 3. Lợi nhuận gộp từ hoạt động BHTG<br>(20 = 10 - 11) | 20 |  |  |  |\n| 4. Doanh thu hoạt động tài chính | 21 |  |  |  |\n| 5. Chi phí tài chính | 22 |  |  |  |\n| - Trong đó: Chi phí lãi vay | 23 |  |  |  |\n| 6. Chi phí quản lý doanh nghiệp | 25 |  |  |  |\n| 7. Lợi nhuận thuần từ hoạt động BHTG<br>{30 = 20 + (21 - 22) - 25} | 30 |  |  |  |\n| 8. Thu nhập khác | 31 |  |  |  |\n| 9. Chi phí khác | 32 |  |  |  |\n| 10. Lợi nhuận khác (40 = 31 - 32) | 40 |  |  |  |\n| 11. Tổng lợi nhuận (50 = 30 + 40) | 50 |  |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_B02-BHTG-177-2015-TT-BTC_chunk_0002",
+            "char_count": 918,
+            "source_file": "maubaocao/MAU SO B02-BHTG-177-2015-TT-BTC.doc",
+            "file_name": "MAU SO B02-BHTG-177-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:38:11",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_B02-BHTG-177-2015-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_B02-BHTG-177-2015-TT-BTC",
+        "text": "22) - 25} | 30 |  |  |  |\n| 8. Thu nhập khác | 31 |  |  |  |\n| 9. Chi phí khác | 32 |  |  |  |\n| 10. Lợi nhuận khác (40 = 31 - 32) | 40 |  |  |  |\n| 11. Tổng lợi nhuận (50 = 30 + 40) | 50 |  |  |  |\n\n| Người lập biểu<br>(Ký, họ tên) | Kế toán trưởng<br>(Ký, họ tên) | Lập, ngày …. tháng … năm …<br>Tổng Giám đốc (*)<br>(Ký, họ tên, đóng dấu) |\n| --- | --- | --- |\n\nGhi chú:\n\n(*) Nếu là báo cáo tài chính của Chi nhánh thì được sửa thành Giám đốc\n\nNguồn: Thông tư 177/2015/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_SO_B02-BHTG-177-2015-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 478,
+            "source_file": "maubaocao/MAU SO B02-BHTG-177-2015-TT-BTC.doc",
+            "file_name": "MAU SO B02-BHTG-177-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:38:11",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

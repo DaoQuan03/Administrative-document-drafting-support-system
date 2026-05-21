@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_2-244-QD-CNTT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_03-PHU_LUC_2-244-QD-CNTT",
+        "text": "Mẫu số 03\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------------------------\n\nPHIẾU GHI Ý KIẾN KIỂM TRA SẢN PHẨM PHẦN MỀM\n\nHạng mục, sản phẩm kiểm tra: (tên hạng mục, sản phẩm hoặc công việc)\n\nDự án hoặc Thiết kế kỹ thuật - dự toán: (tên dự án)\n\nBên kiểm tra (một người hoặc nhóm kiểm tra):\n\nHọ và tên:                                  Chức vụ:\n\nBên được kiểm tra (một người, nhóm thi công hoặc đơn vị thi công):\n\nHọ và tên :                                 Chức vụ:\n\nĐơn vị thi công:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_2-244-QD-CNTT_chunk_0002",
+            "char_count": 515,
+            "source_file": "mauphieu/MAU SO 03-PHU LUC 2-244-QD-CNTT.doc",
+            "file_name": "MAU SO 03-PHU LUC 2-244-QD-CNTT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:51:08",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_2-244-QD-CNTT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_03-PHU_LUC_2-244-QD-CNTT",
+        "text": "tra):\n\nHọ và tên:                                  Chức vụ:\n\nBên được kiểm tra (một người, nhóm thi công hoặc đơn vị thi công):\n\nHọ và tên :                                 Chức vụ:\n\nĐơn vị thi công:\n\n| TT | Nội dung kiểm tra | Nội dung ý kiến | Phương án xử lý | Ghi chú |\n| --- | --- | --- | --- | --- |\n| 1. | Về chức năng |  |  |  |\n|  | + Tính phù hợp: chức năng phù hợp với yêu cầu về nội dung, quy trình.. |  |  |  |\n|  | + Tính chính xác: đưa ra các kết quả đúng đắn, chính xác |  |  |  |\n|  | + Tính an toàn: bảo vệ thông tin và dữ liệu |  |  |  |\n| 2. | Tính tin cậy |  |  |  |\n|  | + Tính hoàn thiện: khả năng tránh các kết quả sai |  |  |  |\n|  | + Chịu lỗi: khả năng hoạt động ổn định trong cả trường hợp có lỗi xảy ra ở phần mềm, dữ liệu hoặc quá trình sử dụng. |  |  |  |\n|  | + Phục hồi: có thể khôi phục hoạt động và dữ liệu có liên quan đến lỗi. |  |  |  |\n| 3. | Tính dễ sử dụng |  |  |  |\n|  | + Có thể sử dụng: người dùng có thể hiểu được và học cách sử dụng. |  |  |  |\n|  | + Tính hấp dẫn: tiện lợi, thu hút người sử dụng. |  |  |  |\n| 4. | Tính hiệu quả: hoạt động hợp lý, tương ứng với tài nguyên sử dụng |  |  |  |\n|  | + Đáp ứng thời gian: đưa ra kết quả trong một thời gian và tốc độ xử lý hợp lý |  |  |  |\n|  | + Sử dụng tài nguyên: sử dụng tài nguyên hệ thống hợp lý để thực hiện công việc |  |  |  |\n| 5. | Khả năng bảo hành, bảo trì (có thể chỉnh sửa, nâng cấp..) |  |  |  |\n|  | + Có thể thay đổi: có thể tìm những thiếu sót hay lỗi và chỉnh sửa, nâng cấp trong quá trình triển khai. |  |  |  |\n|  | + Tính ổn định: vận hành ổn định khi chỉnh sửa, nâng cấp |  |  |  |\n| 6. | Tính khả chuyển |  |  |  |\n|  | +Thích nghi: có thể thích nghi với nhiều môi trường khác nhau |  |  |  |\n|  | + Cài đặt được: có thể cài đặt được trên những điều kiện, môi trường khác nhau |  |  |  |\n|  | + Khả năng cùng tồn tại: tồn tại với những phần mềm độc lập khác ( môi trường chung, cùng chia sẻ những tài nguyên chung) |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_2-244-QD-CNTT_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_2-244-QD-CNTT_chunk_0003",
+            "char_count": 1946,
+            "source_file": "mauphieu/MAU SO 03-PHU LUC 2-244-QD-CNTT.doc",
+            "file_name": "MAU SO 03-PHU LUC 2-244-QD-CNTT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:51:08",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_2-244-QD-CNTT_chunk_0003",
+        "doc_id": "mauphieu_MAU_SO_03-PHU_LUC_2-244-QD-CNTT",
+        "text": "được trên những điều kiện, môi trường khác nhau |  |  |  |\n|  | + Khả năng cùng tồn tại: tồn tại với những phần mềm độc lập khác ( môi trường chung, cùng chia sẻ những tài nguyên chung) |  |  |  |\n\n|  | (Địa danh), ngày tháng    năm 201..<br>NGƯỜI KIỂM TRA<br>(Ký và ghi rõ họ, tên) |\n| --- | --- |\n\nGhi chú:\n\n- Người kiểm tra ký: có thể người đại diện hoặc cả nhóm kiểm tra ký.\n\n- Đối với đơn vị thi công có thể lập phiếu YKKT theo từng công việc cụ thể trong quy trình thi công, sản xuất.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_SO_03-PHU_LUC_2-244-QD-CNTT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 490,
+            "source_file": "mauphieu/MAU SO 03-PHU LUC 2-244-QD-CNTT.doc",
+            "file_name": "MAU SO 03-PHU LUC 2-244-QD-CNTT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:51:08",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

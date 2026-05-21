@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_1-PHU_LUC_III-01-2025-TT-BXD_chunk_0001",
+        "doc_id": "mauphieu_MAU_1-PHU_LUC_III-01-2025-TT-BXD",
+        "text": "PHIẾU KHẢO SÁT VẬT LIỆU TẠI CÔNG TRÌNH\n\nCông tác: ……………………………………………………………………………………………\n\nTên định mức: ………………………………………………………………………………………\n\nGói thầu/Công trình:………………… Khối lượng thi công: ……………………………………\n\nVị trí khảo sát:……………………….. Khí hậu/thời tiết: …………………………………………\n\nThời gian khảo sát:…………………. Điều kiện khác: …………………………………………..\n\nVật liệu: ………………………………\n\n| Stt | Loại vật liệu | Đơn vị | Khối lượng theo thiết kế | Khối lượng thực tế thi công | Ghi chú |\n| --- | --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) | (6) |\n| 1 | Vật liệu thứ 1 |  |  |  |  |\n| 2 | Vật liệu thứ 2 |  |  |  |  |\n| 3 | Vật liệu thứ 3 |  |  |  |  |\n| ... | Vật liệu thứ... |  |  |  |  |\n\nGhi chú: Vật liệu cần ghi đầy đủ các thông tin chủng, loại.\n\n| Đại diện chủ đầu tư <br>(ký, ghi rõ họ tên) | Đơn vị tư vấn giám sát (nếu có) <br>(ký, ghi rõ họ tên) | Nhà thầu thi công xây dựng <br>(ký, ghi rõ họ tên) | Đơn vị thực hiện khảo sát<br>(ký, ghi rõ họ tên) |\n| --- | --- | --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 970,
+            "source_file": "mauphieu/MAU 1-PHU LUC III-01-2025-TT-BXD.doc",
+            "file_name": "MAU 1-PHU LUC III-01-2025-TT-BXD.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:55:20",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

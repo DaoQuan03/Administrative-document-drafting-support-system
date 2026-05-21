@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "thongbao_PL3_mau_so_1_chunk_0001",
+        "doc_id": "thongbao_PL3_mau_so_1",
+        "text": "PHỤ LỤC III\n\nBIỂU MẪU BÁO CÁO KẾT QUẢ TRÚNG THẦU DƯỢC LIỆU TRÊN ĐỊA BÀN TỈNH/THÀNH PHỐ\n(Ban hành kèm theo Thông tư số      /2022/TT-BYT ngày      tháng      năm      của Bộ trưởng Bộ Y tế)\n\nI. Thông tin chung:\n\nTên đơn vị báo cáo: ……………………………………………………\n\nHọ tên người báo cáo: ………………………… /Điện thoại CQ: …………………………/Điện thoại di động: …………… Email ……………\n\nII. Thông tin chi tiết gói thầu:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_PL3_mau_so_1_chunk_0002",
+            "char_count": 384,
+            "source_file": "thongbao/PL3_mau so 1.doc",
+            "file_name": "PL3_mau so 1.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:38:13",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_PL3_mau_so_1_chunk_0002",
+        "doc_id": "thongbao_PL3_mau_so_1",
+        "text": "tế)\n\nI. Thông tin chung:\n\nTên đơn vị báo cáo: ……………………………………………………\n\nHọ tên người báo cáo: ………………………… /Điện thoại CQ: …………………………/Điện thoại di động: …………… Email ……………\n\nII. Thông tin chi tiết gói thầu:\n\n| STT | Thông tin chung | Thông tin chung | Thông tin chung | Thông tin chung | Thông tin chung |  | Thông tin trúng thầu | Thông tin trúng thầu | Thông tin trúng thầu | Thông tin trúng thầu | Thông tin trúng thầu | Thông tin trúng thầu | Thông tin trúng thầu | Thông tin trúng thầu | Số liệu sử dụng thực tế | Số liệu sử dụng thực tế | Số liệu sử dụng thực tế | Số liệu sử dụng thực tế |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Tên dược liệu | Nhóm TCKT | Bộ phận dùng | Tên khoa học | Nguồn gốc | Dạng sơ chế | Tiêu chuẩn chất lượng/ Số công bố TCCL | Đơn vị tính | Số lượng trúng thầu | Tổng kinh phí trúng thầu<br>(Đơn vị 1000đ) | Tổng kinh phí trúng thầu<br>(Đơn vị 1000đ) | Thời gian thực hiện gói thầu | Thời gian thực hiện gói thầu | Tên đơn vị trúng thầu | Số QĐ trúng thầu | Số lượng | Thời gian | Thời gian |\n| STT | Tên dược liệu | Nhóm TCKT | Bộ phận dùng | Tên khoa học | Nguồn gốc | Dạng sơ chế | Tiêu chuẩn chất lượng/ Số công bố TCCL | Đơn vị tính | Số lượng trúng thầu | Đơn giá (Có VAT) | Thành tiền | Bắt đầu | Kết thúc |  |  | Số lượng | Từ | Đến |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "thongbao_PL3_mau_so_1_chunk_0001",
+            "next_chunk_id": "thongbao_PL3_mau_so_1_chunk_0003",
+            "char_count": 1413,
+            "source_file": "thongbao/PL3_mau so 1.doc",
+            "file_name": "PL3_mau so 1.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:38:13",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_PL3_mau_so_1_chunk_0003",
+        "doc_id": "thongbao_PL3_mau_so_1",
+        "text": "| Đơn vị tính | Số lượng trúng thầu | Đơn giá (Có VAT) | Thành tiền | Bắt đầu | Kết thúc |  |  | Số lượng | Từ | Đến |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\nNguồn: Thông tư 09/2022/TT-BYT",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "thongbao_PL3_mau_so_1_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 209,
+            "source_file": "thongbao/PL3_mau so 1.doc",
+            "file_name": "PL3_mau so 1.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:38:13",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

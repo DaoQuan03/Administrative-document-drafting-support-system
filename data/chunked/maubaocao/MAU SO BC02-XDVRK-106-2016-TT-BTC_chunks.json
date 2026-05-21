@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_BC02-XDVRK-106-2016-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_BC02-XDVRK-106-2016-TT-BTC",
+        "text": "Mẫu số BC02-XDVRK\n\n| KHO NGOẠI QUAN<br>XĂNG DẦU ...<br>(đóng dấu treo của kho) | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n\nKính gửi: Chi cục Hải quan...\n\nBÁO CÁO LƯỢNG XĂNG DẦU ĐƯA VÀO, ĐƯA RA KHO\nNGOẠI QUAN XĂNG DẦU (Theo tháng)\n\nSố liệu tính từ ngày...đến...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_BC02-XDVRK-106-2016-TT-BTC_chunk_0002",
+            "char_count": 320,
+            "source_file": "maubaocao/MAU SO BC02-XDVRK-106-2016-TT-BTC.doc",
+            "file_name": "MAU SO BC02-XDVRK-106-2016-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:42:27",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_BC02-XDVRK-106-2016-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_BC02-XDVRK-106-2016-TT-BTC",
+        "text": "lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n\nKính gửi: Chi cục Hải quan...\n\nBÁO CÁO LƯỢNG XĂNG DẦU ĐƯA VÀO, ĐƯA RA KHO\nNGOẠI QUAN XĂNG DẦU (Theo tháng)\n\nSố liệu tính từ ngày...đến...\n\n| STT<br>(1) | Loại hình<br>(2) | Trọng lượng (Tấn)<br>(3) | Mặt hàng chủ yếu | Mặt hàng chủ yếu | Mặt hàng chủ yếu | Mặt hàng chủ yếu | Mặt hàng chủ yếu | Mặt hàng chủ yếu | Mặt hàng chủ yếu | Mặt hàng chủ yếu | Mặt hàng chủ yếu | Mặt hàng chủ yếu | Mặt hàng chủ yếu | Mặt hàng chủ yếu | Mặt hàng chủ yếu | Mặt hàng chủ yếu |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT<br>(1) | Loại hình<br>(2) | Trọng lượng (Tấn)<br>(3) | Dầu Diesel (Thống kê theo từng loại)<br>(4) | Dầu Diesel (Thống kê theo từng loại)<br>(4) | Dầu Diesel (Thống kê theo từng loại)<br>(4) | Xăng (Thống kê theo từng loại)<br>(5) | Xăng (Thống kê theo từng loại)<br>(5) | Xăng (Thống kê theo từng loại)<br>(5) | Xăng (Thống kê theo từng loại)<br>(5) | Xăng (Thống kê theo từng loại)<br>(5) | Xăng (Thống kê theo từng loại)<br>(5) | Xăng (Thống kê theo từng loại)<br>(5) | Xăng (Thống kê theo từng loại)<br>(5) | Xăng (Thống kê theo từng loại)<br>(5) | Xăng (Thống kê theo từng loại)<br>(5) | Xăng (Thống kê theo từng loại)<br>(5) |\n| I | Nhập kho |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1 | Hàng tồn kho đầu kỳ (Tính từ ngày cuối cùng của Tháng trước) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 | Từ nước ngoài đưa vào kho |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3 | Từ nội địa đưa vào kho |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| II | Pha chế |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1 | Nguyên liệu đưa vào pha chế |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 | Sản phẩm sau pha chế |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| III | Chuyển loại |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1 | Tên xăng dầu trước khi chuyển loại |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 | Tên xăng dầu sau chuyển loại |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| IV | Xuất kho |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1 | Từ kho đưa ra nước ngoài |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 | Từ kho đưa vào nội địa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3 | Từ kho này chuyển sang kho khác |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| V | Tồn kho |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Hàng còn tồn trong kho (tính đến ngày cuối cùng của Tháng) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_BC02-XDVRK-106-2016-TT-BTC_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_SO_BC02-XDVRK-106-2016-TT-BTC_chunk_0003",
+            "char_count": 2527,
+            "source_file": "maubaocao/MAU SO BC02-XDVRK-106-2016-TT-BTC.doc",
+            "file_name": "MAU SO BC02-XDVRK-106-2016-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:42:27",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_BC02-XDVRK-106-2016-TT-BTC_chunk_0003",
+        "doc_id": "maubaocao_MAU_SO_BC02-XDVRK-106-2016-TT-BTC",
+        "text": "|  |  |  |  |  |  |  |  |\n| V | Tồn kho |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Hàng còn tồn trong kho (tính đến ngày cuối cùng của Tháng) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\nNguồn: Thông tư 106/2016/TT-BTC",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_BC02-XDVRK-106-2016-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 230,
+            "source_file": "maubaocao/MAU SO BC02-XDVRK-106-2016-TT-BTC.doc",
+            "file_name": "MAU SO BC02-XDVRK-106-2016-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:42:27",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

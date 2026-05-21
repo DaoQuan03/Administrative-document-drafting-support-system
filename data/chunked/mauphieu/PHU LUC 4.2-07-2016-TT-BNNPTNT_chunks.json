@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_4_2-07-2016-TT-BNNPTNT_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_4_2-07-2016-TT-BNNPTNT",
+        "text": "2. Mẫu Phiếu trả lời kết quả xét nghiệm\n\n| TÊN CƠ QUAN CẤP TRÊN<br>TÊN PHÒNG THỬ NGHIỆM<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: ………/……... | Địa danh, ngày ... tháng ... năm 20... |\n\n| Bệnh phẩm số: | PHIẾU TRẢ LỜI KẾT QUẢ XÉT NGHIỆM<br>(Kết quả chỉ có giá trị với mẫu xét nghiệm) | Mã số phòng thử nghiệm |\n| --- | --- | --- |\n\nKính gửi: ……..……………………………………………………………….\n\nI. Thông tin chung:\n\n- Loài vật được lấy mẫu: ……………………………………………………………………….\n\n- Số lượng mẫu: …………………………………….. mẫu\n\n- Loại bệnh phẩm: …………………………………………………………………………………\n\n- Vắc-xin (chủng/loại vắc-xin): ………………….    - Ngày tiêm: ………………………………\n\n- Ngày lấy mẫu: ……………………………………………………………………………………..\n\n- Ngày nhận mẫu: …………………………………………………………………………………..\n\n- Nơi gửi mẫu: ………………………………………………………………………………………\n\n- Nơi lấy mẫu: ………………………………………………………………………………………..\n\n- Tình trạng mẫu bệnh phẩm: ……………………………………………………………………………\n\nII. Chỉ tiêu và phương pháp xét nghiệm:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_4_2-07-2016-TT-BNNPTNT_chunk_0002",
+            "char_count": 990,
+            "source_file": "mauphieu/PHU LUC 4.2-07-2016-TT-BNNPTNT.doc",
+            "file_name": "PHU LUC 4.2-07-2016-TT-BNNPTNT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:38:12",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_4_2-07-2016-TT-BNNPTNT_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_4_2-07-2016-TT-BNNPTNT",
+        "text": "Nơi gửi mẫu: ………………………………………………………………………………………\n\n- Nơi lấy mẫu: ………………………………………………………………………………………..\n\n- Tình trạng mẫu bệnh phẩm: ……………………………………………………………………………\n\nII. Chỉ tiêu và phương pháp xét nghiệm:\n\n- Chỉ tiêu xét nghiệm: ……………………………………………………………………………….\n\n- Phương pháp xét nghiệm: …………………………………………………………………………\n\n- Ngày xét nghiệm: ………………………………………………………………………………….\n\nKẾT QUẢ\n\nGhi rõ kết quả của từng phép thử\n\n“*”: Các phép thử được công nhận phù hợp ISO/IEC 17025:2005\n\nIII. Kết luận: ……………………………………………………………………………………………….\n\n……………………………………………………………………………………………………………….\n\n……………………………………………………………………………………………………………….\n\n| Nơi nhận:<br>- Như trên;<br>- Cục Chăn nuôi và Thú y (để b/c);<br>- Cơ quan quản lý chuyên ngành thú y địa phương;<br>- Lưu TH. | GIÁM ĐỐC |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_4_2-07-2016-TT-BNNPTNT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 769,
+            "source_file": "mauphieu/PHU LUC 4.2-07-2016-TT-BNNPTNT.doc",
+            "file_name": "PHU LUC 4.2-07-2016-TT-BNNPTNT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:38:12",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

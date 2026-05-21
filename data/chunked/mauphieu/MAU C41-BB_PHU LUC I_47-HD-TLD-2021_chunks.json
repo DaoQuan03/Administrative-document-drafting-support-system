@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_C41-BB_PHU_LUC_I_47-HD-TLD-2021_chunk_0001",
+        "doc_id": "mauphieu_MAU_C41-BB_PHU_LUC_I_47-HD-TLD-2021",
+        "text": "| Đơn vị: ...<br>Mã QHNS: ………………. | Mẫu số: C41-BB <br>(Ban hành kèm theo Thông tư số 107/2017/TT-BTC ngày 10/10/2017 của Bộ Tài chính) |\n| --- | --- |\n\nPHIẾU CHI\n\n|  | Ngày ….. tháng ….. năm …<br>Số: …….. | Quyển số: ……<br> <br>Nợ: ……..<br>Có:……… |\n| --- | --- | --- |\n\nHọ và tên người nhận tiền: ………………………………………………………………………\n\nĐịa chỉ: ……………………………………………………………………………………………\n\nNội dung: …………………………………………………………………………………………\n\nSố tiền: ………………………………………………………………………………...(loại tiền)\n\n(viết bằng chữ): ………………………………………………………………………………….\n\nKèm theo: …………………………………………………………………………………………\n\n| THỦ TRƯỞNG ĐƠN VỊ <br>(Ký, họ tên, đóng dấu) | KẾ TOÁN TRƯỞNG <br>(Ký, họ tên) | NGƯỜI LẬP <br>(Ký, họ tên) |\n| --- | --- | --- |\n\nĐã nhận đủ số tiền: - Bằng số: ……………………………………………………………………\n\n- Bằng chữ: ………………………………………………………………………………………….\n\n| THỦ QUỸ <br>(Ký, họ tên) | Ngày ….. tháng ….. năm …..<br>NGƯỜI NHẬN TIỀN <br>(Ký, họ tên) |\n| --- | --- |\n\n+ Tỷ giá ngoại tệ: ………………………………………………………………………………..",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_C41-BB_PHU_LUC_I_47-HD-TLD-2021_chunk_0002",
+            "char_count": 972,
+            "source_file": "mauphieu/MAU C41-BB_PHU LUC I_47-HD-TLD-2021.doc",
+            "file_name": "MAU C41-BB_PHU LUC I_47-HD-TLD-2021.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:18:52",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_C41-BB_PHU_LUC_I_47-HD-TLD-2021_chunk_0002",
+        "doc_id": "mauphieu_MAU_C41-BB_PHU_LUC_I_47-HD-TLD-2021",
+        "text": "………………………………………………………………………………………….\n\n| THỦ QUỸ <br>(Ký, họ tên) | Ngày ….. tháng ….. năm …..<br>NGƯỜI NHẬN TIỀN <br>(Ký, họ tên) |\n| --- | --- |\n\n+ Tỷ giá ngoại tệ: ………………………………………………………………………………..\n\n+ Số tiền quy đổi: ………………………………………………………………………………..\n\nPHIẾU CHI\n\n(Mẫu số C41-BB)\n\n1- Mục đích\n\nPhiếu chi nhằm xác định các khoản tiền mặt, ngoại tệ thực tế xuất quỹ làm căn cứ để thủ quỹ xuất quỹ, ghi sổ quỹ và kế toán ghi sổ kế toán.\n\n2- Phương pháp lập và trách nhiệm ghi\n\nPhiếu chi phải đóng thành quyển; Số Phiếu chi phải đánh liên tục trong 1 kỳ kế toán.\n\nGóc trên, bên trái của Phiếu chi ghi rõ tên đơn vị, mã đơn vị sử dụng ngân sách.\n\nGhi rõ ngày, tháng, năm lập Phiếu; ngày, tháng, năm chi tiền.\n\n- Ghi rõ họ tên, địa chỉ người nhận tiền.\n\n- Dòng “Nội dung” ghi rõ nội dung chi tiền.\n\n- Dòng “Số tiền”: Ghi số tiền xuất quỹ bằng số hoặc bằng chữ, ghi rõ đơn vị tính là đồng Việt Nam, hay đơn vị tiền tệ khác.\n\n- Dòng tiếp theo ghi số hoặc loại chứng từ kế toán khác kèm theo Phiếu chi.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_C41-BB_PHU_LUC_I_47-HD-TLD-2021_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_C41-BB_PHU_LUC_I_47-HD-TLD-2021_chunk_0003",
+            "char_count": 992,
+            "source_file": "mauphieu/MAU C41-BB_PHU LUC I_47-HD-TLD-2021.doc",
+            "file_name": "MAU C41-BB_PHU LUC I_47-HD-TLD-2021.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:18:52",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_C41-BB_PHU_LUC_I_47-HD-TLD-2021_chunk_0003",
+        "doc_id": "mauphieu_MAU_C41-BB_PHU_LUC_I_47-HD-TLD-2021",
+        "text": "Dòng “Số tiền”: Ghi số tiền xuất quỹ bằng số hoặc bằng chữ, ghi rõ đơn vị tính là đồng Việt Nam, hay đơn vị tiền tệ khác.\n\n- Dòng tiếp theo ghi số hoặc loại chứng từ kế toán khác kèm theo Phiếu chi.\n\nKế toán lập Phiếu chi ghi đầy đủ các nội dung và ký vào từng liên, chuyển cho kế toán trưởng soát xét và thủ trưởng đơn vị ký duyệt, sau đó chuyển cho thủ quỹ để xuất quỹ. Sau khi nhận đủ số tiền, người nhận tiền phải ghi số tiền đã nhận bằng số và bằng chữ, ký, ghi rõ họ tên vào Phiếu chi.\n\nPhiếu chi được lập thành 3 liên:\n\nLiên 1 lưu ở nơi lập phiếu.\n\nLiên 2 thủ quỹ dùng để ghi sổ quỹ và chuyển cho kế toán cùng với chứng từ kế toán khác để ghi sổ kế toán.\n\nLiên 3 giao cho người nhận tiền.\n\nĐối với liên dùng để giao dịch thanh toán với bên ngoài thì phải đóng dấu của đơn vị.\n\nChú ý: Nếu là chi ngoại tệ phải ghi rõ tỷ giá ngoại tệ tại thời điểm xuất quỹ để tính ra tổng số tiền theo đơn vị đồng Việt Nam ghi sổ.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_C41-BB_PHU_LUC_I_47-HD-TLD-2021_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_C41-BB_PHU_LUC_I_47-HD-TLD-2021_chunk_0004",
+            "char_count": 919,
+            "source_file": "mauphieu/MAU C41-BB_PHU LUC I_47-HD-TLD-2021.doc",
+            "file_name": "MAU C41-BB_PHU LUC I_47-HD-TLD-2021.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:18:52",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_C41-BB_PHU_LUC_I_47-HD-TLD-2021_chunk_0004",
+        "doc_id": "mauphieu_MAU_C41-BB_PHU_LUC_I_47-HD-TLD-2021",
+        "text": "dịch thanh toán với bên ngoài thì phải đóng dấu của đơn vị.\n\nChú ý: Nếu là chi ngoại tệ phải ghi rõ tỷ giá ngoại tệ tại thời điểm xuất quỹ để tính ra tổng số tiền theo đơn vị đồng Việt Nam ghi sổ.\n\nNếu các đơn vị công đoàn cơ sở không bố trí đủ nhân lực kế toán thì kế toán sẽ thực hiện ký cả người lập phiếu và kế toán.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_C41-BB_PHU_LUC_I_47-HD-TLD-2021_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 320,
+            "source_file": "mauphieu/MAU C41-BB_PHU LUC I_47-HD-TLD-2021.doc",
+            "file_name": "MAU C41-BB_PHU LUC I_47-HD-TLD-2021.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:18:52",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_10-11400-QD-KBNN_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_10-11400-QD-KBNN",
+        "text": "Mẫu số 10\n\n| (1) ...<br>(2) ...<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | ..., ngày... tháng ... năm ... |\n\nPHIẾU GIAO NHẬN\n\nHồ sơ xử lý sau kiểm tra\n\nBên giao: Đoàn kiểm tra theo Quyết định số ... ngày .../.../... của... (3) về việc kiểm tra ... (4)\n\nÔng/Bà:... (nêu rõ họ tên, chức vụ).\n\nBên nhận:\n\nÔng/Bà:... (nêu rõ họ tên, chức vụ).\n\nThống nhất bàn giao hồ sơ kiểm tra như sau:\n\n| Stt | Tài liệu (ghi đầy đủ số ngày tháng năm, nội dung tài liệu) | Số bản | Ghi chú |\n| --- | --- | --- | --- |\n| 1 | ... | ... | ... |\n| 2 | ... | ... | ... |\n| 3 | ... | ... | ... |\n| 4 | ... | ... | ... |\n\nHồ sơ còn thiếu: ... (5)\n\nPhiếu giao nhận được lập thành 02 bản: Bên giao giữ 01 bản, bên nhận giữ 01 bản./.\n\n| BÊN GIAO<br>(ký, ghi rõ họ tên) | BÊN NHẬN<br>(ký, ghi rõ họ tên) |\n| --- | --- |\n\n___\n\n(1) Cơ quan quản lý cấp trên trực tiếp\n\n(2) Tên đơn vị tiến hành kiểm tra\n\n(3) Tên đơn vị ban hành quyết định kiểm tra",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_10-11400-QD-KBNN_chunk_0002",
+            "char_count": 991,
+            "source_file": "mauphieu/MAU SO 10-11400-QD-KBNN.doc",
+            "file_name": "MAU SO 10-11400-QD-KBNN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:07:03",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_10-11400-QD-KBNN_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_10-11400-QD-KBNN",
+        "text": "ghi rõ họ tên) | BÊN NHẬN<br>(ký, ghi rõ họ tên) |\n| --- | --- |\n\n___\n\n(1) Cơ quan quản lý cấp trên trực tiếp\n\n(2) Tên đơn vị tiến hành kiểm tra\n\n(3) Tên đơn vị ban hành quyết định kiểm tra\n\n(4) Tên đơn vị được kiểm tra\n\n(5) Ghi rõ những tài liệu còn thiếu hoặc ghi không",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_10-11400-QD-KBNN_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 271,
+            "source_file": "mauphieu/MAU SO 10-11400-QD-KBNN.doc",
+            "file_name": "MAU SO 10-11400-QD-KBNN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:07:03",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    }
+]

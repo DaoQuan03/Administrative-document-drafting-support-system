@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_18-37-2024-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_18-37-2024-ND-CP",
+        "text": "Mẫu số 18\n\n| TÊN CƠ QUAN, TỔ CHỨC CẤP TRÊN<br>TÊN CƠ QUAN, TỔ CHỨC<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: .../... | …., ngày ... tháng ... năm ... |\n\nTHÔNG BÁO(*)\n\nVề việc chuyển hạn ngạch giấy phép khai thác thủy sản vùng khơi\n\nKính gửi: ………..(*)………..\n\nCăn cứ Luật Thủy sản và Nghị định số …/.../NĐ-CP ngày…. của Chính phủ……\n\nCăn cứ hạn ngạch giấy phép khai thác thủy sản và tiêu chí phát triển nghề cá của tỉnh/thành phố:…………………….\n\nXét đề nghị của ông/bà………………….………………….\n\n…………………. (tên cơ quan/đơn vị) ………………….thông báo chuyển hạn ngạch Giấy phép khai thác thủy sản vùng khơi:\n\nSố giấy phép: ………………….cấp ngày … tháng … năm …; nghề chính…………………\n\nTheo tàu cá, số đăng ký: …………………. của ông/bà……………………………………….\n\nSố CCCD/CMND………………….Địa chỉ thường trú………………………………………….\n\nĐến tỉnh/thành phố………………….…………………………………………………………….\n\nĐể thực hiện việc chuyển quyền sở hữu tàu cá cho:\n\nÔng/bà………………….………………….………………………………………………………..",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_18-37-2024-ND-CP_chunk_0002",
+            "char_count": 995,
+            "source_file": "thongbao/MAU SO 18-37-2024-ND-CP.doc",
+            "file_name": "MAU SO 18-37-2024-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:01:58",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_18-37-2024-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_18-37-2024-ND-CP",
+        "text": "chỉ thường trú………………………………………….\n\nĐến tỉnh/thành phố………………….…………………………………………………………….\n\nĐể thực hiện việc chuyển quyền sở hữu tàu cá cho:\n\nÔng/bà………………….………………….………………………………………………………..\n\nĐịa chỉ thường trú………………….………………………………………………………………\n\nTàu cá có các thông số chính như sau:\n\n- Kích thước chính Lmax x Bmax x D, (m):……….; chiều chìm d,(m):………….\n\n- Vật liệu vỏ: ………………….Công suất máy chính (kW): ………………….\n\n- Nghề khai thác thủy sản: ………………….…………………………………..\n\n| Nơi nhận:<br>- ….<br>- Cục Thủy sản (để b/c);<br>- Lưu: VT. | NGƯỜI CÓ THẨM QUYỀN<br>(Ký và đóng dấu) |\n| --- | --- |\n\nGhi chú:\n\n(*) Cơ quan quản lý nhà nước về thủy sản tại địa phương có tổ chức, cá nhân nhận chuyển quyền sở hữu tàu cá.\n\n(**) Không áp dụng đối với trường hợp mua, bán tàu cá trong tỉnh, thành phố trực thuộc trung ương.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_18-37-2024-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 794,
+            "source_file": "thongbao/MAU SO 18-37-2024-ND-CP.doc",
+            "file_name": "MAU SO 18-37-2024-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:01:58",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

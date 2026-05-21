@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_01-PHU_LUC_III-33-2026-ND-CP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_01-PHU_LUC_III-33-2026-ND-CP",
+        "text": "Mẫu số 01\n\n| TÊN TỔ CHỨC, CÁ NHÂN <br>ĐỀ NGHỊ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: …. | ……., ngày … tháng … năm …… |\n\nĐƠN ĐỀ NGHỊ CẤP/CẤP LẠI GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN\nSẢN XUẤT THUỐC BẢO VỆ THỰC VẬT\n\nKính gửi: …………… (Tên cơ quan có thẩm quyền)\n\n1. Đơn vị chủ quản: ……………………………………………………………………….\n\nĐịa chỉ: ……………………………………………………………………………………..\n\nĐiện thoại: …………………………………….. E-mail: …………………………………\n\n2. Tên cơ sở: ………………………………………………………………………………\n\nĐịa chỉ: ……………………………………………………………………………………..\n\nĐiện thoại: …………………………………….. E-mail: …………………………………\n\nĐịa điểm nơi sản xuất thuốc bảo vệ thực vật: …………………………………………….\n\n3. Giấy chứng nhận đăng ký doanh nghiệp số ………… ngày ………. Nơi cấp …………\n\nĐề nghị Quý cơ quan cấp Giấy chứng nhận đủ điều kiện sản xuất thuốc bảo vệ thực vật\n\nLoại hình sản xuất:\n\n□ Sản xuất hoạt chất\n\n□ Sản xuất thuốc kỹ thuật\n\n□ Sản xuất thành phẩm từ thuốc kỹ thuật\n\n□ Đóng gói\n\nHình thức:\n\n□ Cấp mới\n\n□ Cấp lại",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_01-PHU_LUC_III-33-2026-ND-CP_chunk_0002",
+            "char_count": 999,
+            "source_file": "Maudon/MAU SO 01-PHU LUC III-33-2026-ND-CP.doc",
+            "file_name": "MAU SO 01-PHU LUC III-33-2026-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:17:50",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_01-PHU_LUC_III-33-2026-ND-CP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_01-PHU_LUC_III-33-2026-ND-CP",
+        "text": "điều kiện sản xuất thuốc bảo vệ thực vật\n\nLoại hình sản xuất:\n\n□ Sản xuất hoạt chất\n\n□ Sản xuất thuốc kỹ thuật\n\n□ Sản xuất thành phẩm từ thuốc kỹ thuật\n\n□ Đóng gói\n\nHình thức:\n\n□ Cấp mới\n\n□ Cấp lại\n\nLý do cấp lại: ………………………………………………………………………….\n\nHồ sơ gửi kèm: …………………………………………………………………………….\n\nChúng tôi xin cam đoan thông tin trong đơn, tài liệu kèm theo là đúng sự thật và tuân thủ các quy định của pháp luật về thuốc bảo vệ thực vật.\n\n|  | TỔ CHỨC/CÁ NHÂN ĐỀ NGHỊ <br>(Ký tên, đóng dấu/chữ ký số) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_01-PHU_LUC_III-33-2026-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 513,
+            "source_file": "Maudon/MAU SO 01-PHU LUC III-33-2026-ND-CP.doc",
+            "file_name": "MAU SO 01-PHU LUC III-33-2026-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:17:50",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

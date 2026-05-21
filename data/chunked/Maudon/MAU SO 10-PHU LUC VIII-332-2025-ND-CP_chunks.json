@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_10-PHU_LUC_VIII-332-2025-ND-CP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_10-PHU_LUC_VIII-332-2025-ND-CP",
+        "text": "Mẫu số 10. Đơn đề nghị sửa đổi Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử\n\n| TÊN TỔ CHỨC ĐỀ NGHỊ<br>SỬA ĐỔI GIẤY ĐĂNG KÝ<br>-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>----------------- |\n| --- | --- |\n|  | ..., ngày ... tháng ... năm ... |\n\nĐƠN ĐỀ NGHỊ SỬA ĐỔI GIẤY ĐĂNG KÝ HOẠT ĐỘNG DỊCH VỤ ỨNG DỤNG NĂNG LƯỢNG NGUYÊN TỬ\n\nKính gửi: Cục An toàn bức xạ và hạt nhân.\n\n1. Tên tổ chức:\n\n2. Địa chỉ:\n\n- Địa chỉ đăng ký kinh doanh;\n\n- Địa chỉ liên lạc (nếu khác với địa chỉ đăng ký kinh doanh)\n\n3. Số điện thoại: \t\t\t\t4. Fax:\n\n5. Email:\n\n6. Mã số doanh nghiệp/mã số thuế:\n\n7. Người đứng đầu tổ chức:\n\n- Họ và tên:\n\n- Chức vụ:\n\n- Số CC/CCCD/Hộ chiếu: \t\tNgày cấp: \t\tCơ quan cấp:\n\n- Số điện thoại:\n\n8. Đề nghị sửa đổi Giấy đăng ký số: \t\tNgày cấp:\n\n9. Nội dung đề nghị sửa đổi:\n\n□ Tên của tổ chức được cấp giấy đăng ký\n\n- Tên cũ của tổ chức:\n\n- Tên mới của tổ chức:\n\n□ Địa chỉ của tổ chức được cấp giấy đăng ký\n\n- Địa chỉ cũ:\n\n- Địa chỉ mới:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_10-PHU_LUC_VIII-332-2025-ND-CP_chunk_0002",
+            "char_count": 992,
+            "source_file": "Maudon/MAU SO 10-PHU LUC VIII-332-2025-ND-CP.doc",
+            "file_name": "MAU SO 10-PHU LUC VIII-332-2025-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:35:51",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_10-PHU_LUC_VIII-332-2025-ND-CP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_10-PHU_LUC_VIII-332-2025-ND-CP",
+        "text": "cấp:\n\n9. Nội dung đề nghị sửa đổi:\n\n□ Tên của tổ chức được cấp giấy đăng ký\n\n- Tên cũ của tổ chức:\n\n- Tên mới của tổ chức:\n\n□ Địa chỉ của tổ chức được cấp giấy đăng ký\n\n- Địa chỉ cũ:\n\n- Địa chỉ mới:\n\n□ Trang thiết bị:\n\n10. Tài liệu kèm theo:\n\n(1)...\n\n(2)...\n\n|  | NGƯỜI ĐỨNG ĐẦU TỔ CHỨC<br>(Ghi rõ họ tên, ký và đóng dấu hoặc ký số điện tử) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_10-PHU_LUC_VIII-332-2025-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 356,
+            "source_file": "Maudon/MAU SO 10-PHU LUC VIII-332-2025-ND-CP.doc",
+            "file_name": "MAU SO 10-PHU LUC VIII-332-2025-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:35:51",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

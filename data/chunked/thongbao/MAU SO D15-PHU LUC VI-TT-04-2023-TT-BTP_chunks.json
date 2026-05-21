@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_D15-PHU_LUC_VI-TT-04-2023-TT-BTP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_D15-PHU_LUC_VI-TT-04-2023-TT-BTP",
+        "text": "|  | Mẫu số: D15-THADS<br>(Ban hành kèm theo Thông tư số 04/2023/TT-BTP <br>ngày 14/8/2023 của Bộ Tư pháp) |\n| --- | --- |\n\n| TỔNG CỤC (CỤC) THADS... | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |\n| --- | --- |\n| CỤC (CHI CỤC) THADS <br>tỉnh (huyện)... | Độc lập - Tự do - Hạnh phúc |\n|  |  |\n| Số:.../TB-THADS | ..., ngày... tháng... năm 20... |\n\nTHÔNG BÁO\n\nVề việc từ chối yêu cầu thi hành án\n\nKính gửi:...\n\nCăn cứ điểm... khoản 5 Điều 31 Luật Thi hành án dân sự (được sửa đổi, bổ sung năm 2014);\n\nCăn cứ Bản án, Quyết định số... ngày... tháng... năm... của...;\n\nCăn cứ yêu cầu thi hành án ngày... tháng... năm... của... địa chỉ:...\n\nSau khi xem xét nội dung yêu cầu và các tài liệu gửi kèm, Cục (Chi cục) Thi hành án dân sự... nhận thấy:\n\n... ... (nêu lý do từ chối yêu cầu thi hành án)...\n\n...\n\nDo đó, Cục (Chi cục) Thi hành án dân sự... từ chối yêu cầu thi hành án của... và thông báo để... biết./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_D15-PHU_LUC_VI-TT-04-2023-TT-BTP_chunk_0002",
+            "char_count": 895,
+            "source_file": "thongbao/MAU SO D15-PHU LUC VI-TT-04-2023-TT-BTP.doc",
+            "file_name": "MAU SO D15-PHU LUC VI-TT-04-2023-TT-BTP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:16:56",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_D15-PHU_LUC_VI-TT-04-2023-TT-BTP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_D15-PHU_LUC_VI-TT-04-2023-TT-BTP",
+        "text": "Thi hành án dân sự... nhận thấy:\n\n... ... (nêu lý do từ chối yêu cầu thi hành án)...\n\n...\n\nDo đó, Cục (Chi cục) Thi hành án dân sự... từ chối yêu cầu thi hành án của... và thông báo để... biết./.\n\n| Nơi nhận:<br>- Như trên;<br>- Viện kiểm sát nhân dân...;<br>- ...;<br>- Lưu: VT. | CỤC (CHI CỤC) TRƯỞNG |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_D15-PHU_LUC_VI-TT-04-2023-TT-BTP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 318,
+            "source_file": "thongbao/MAU SO D15-PHU LUC VI-TT-04-2023-TT-BTP.doc",
+            "file_name": "MAU SO D15-PHU LUC VI-TT-04-2023-TT-BTP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:16:56",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

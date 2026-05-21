@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_4-2448-QD-TCHQ_chunk_0001",
+        "doc_id": "totrinh_MAU_4-2448-QD-TCHQ",
+        "text": "Mẫu 4\n\n| ĐƠN VỊ CẤP TRÊN<br>ĐƠN VỊ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số:      /TTr-HQ…… | ……., ngày    tháng    năm 20….. |\n\nTỜ TRÌNH\n\nĐề nghị xét công nhận sáng kiến cấp …….. năm 20...\n\nKính gửi: Hội đồng sáng kiến …………….\n\n- Căn cứ Luật Thi đua, Khen thưởng ngày 26/11/2003; Luật sửa đổi, bổ sung một số điều của Luật Thi đua, Khen thưởng ngày 14/6/2005 và Luật sửa đổi, bổ sung một số điều của Luật Thi đua, Khen thưởng ngày 16/11/2013;\n\n- Quyết định số ………../QĐ-TCHQ ……… về quy chế xét, công nhận sáng kiến ……….\n\n- Căn cứ kết quả cuộc họp Hội đồng Sáng kiến của ……….. ngày …….../.../20...;\n\nXét tính hiệu quả áp dụng sáng kiến, đề tài của cá nhân, Cục Hải quan ……………. đề nghị Hội đồng sáng kiến ……………… xét công nhận:\n\nI. Sáng kiến cấp ngành: ………. sáng kiến, ……… đề tài (có danh sách, bảng tóm tắt kèm theo)\n\nII. Sáng kiến cấp Toàn quốc: ……… sáng kiến (có danh sách, bảng tóm tắt kèm theo)",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_4-2448-QD-TCHQ_chunk_0002",
+            "char_count": 974,
+            "source_file": "totrinh/MAU 4-2448-QD-TCHQ.doc",
+            "file_name": "MAU 4-2448-QD-TCHQ.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:13:24",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_4-2448-QD-TCHQ_chunk_0002",
+        "doc_id": "totrinh_MAU_4-2448-QD-TCHQ",
+        "text": "kiến ……………… xét công nhận:\n\nI. Sáng kiến cấp ngành: ………. sáng kiến, ……… đề tài (có danh sách, bảng tóm tắt kèm theo)\n\nII. Sáng kiến cấp Toàn quốc: ……… sáng kiến (có danh sách, bảng tóm tắt kèm theo)\n\n……………………… kính trình Hội đồng sáng kiến ……………….. xem xét, quyết định./.\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: VT, ………..(bản). | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký ghi rõ họ tên và đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_4-2448-QD-TCHQ_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 395,
+            "source_file": "totrinh/MAU 4-2448-QD-TCHQ.doc",
+            "file_name": "MAU 4-2448-QD-TCHQ.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:13:24",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_11-37-2026-ND-CP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_11-37-2026-ND-CP",
+        "text": "Mẫu số 11\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\n……., ngày … tháng … năm ……\n\nĐƠN ĐĂNG KÝ THAY ĐỔI/BỔ SUNG\nPHẠM VI/LĨNH VỰC ĐƯỢC CHỈ ĐỊNH\n\nKính gửi: ……(tên cơ quan đầu mối do bộ quản lý ngành, lĩnh vực/\nỦy ban nhân dân tỉnh, thành phố giao nhiệm vụ)\n\n1. Tên tổ chức: ……………………………………………………………………………\n\n2. Địa chỉ liên lạc: …………………………………………………………………………\n\nĐiện thoại: ………………………. Fax: ……………………… E-mail: ………………..\n\n3. Đã được chỉ định thực hiện việc thử nghiệm/giám định/chứng nhận/kiểm tra xác nhận/xác nhận giá trị sử dụng theo Quyết định số: …….. ngày .../.../.20.. của ...(tên cơ quan đầu mối do bộ quản lý ngành, lĩnh vực/Ủy ban nhân dân tỉnh, thành phố giao nhiệm vụ).\n\n4. Hoạt động chỉ định thử nghiệm/giám định/chứng nhận/kiểm tra xác nhận/xác nhận giá trị sử dụng đề nghị thay đổi/bổ sung (nêu cụ thể tên sản phẩm, hàng hóa, quá trình, môi trường, quy chuẩn kỹ thuật tương ứng).\n\n5. Hồ sơ kèm theo:\n\n- ……\n\n- ……",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_11-37-2026-ND-CP_chunk_0002",
+            "char_count": 950,
+            "source_file": "Maudon/MAU SO 11-37-2026-ND-CP.doc",
+            "file_name": "MAU SO 11-37-2026-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:36:08",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_11-37-2026-ND-CP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_11-37-2026-ND-CP",
+        "text": "nhận/kiểm tra xác nhận/xác nhận giá trị sử dụng đề nghị thay đổi/bổ sung (nêu cụ thể tên sản phẩm, hàng hóa, quá trình, môi trường, quy chuẩn kỹ thuật tương ứng).\n\n5. Hồ sơ kèm theo:\n\n- ……\n\n- ……\n\nĐề nghị (tên cơ quan đầu mối do bộ quản lý ngành, lĩnh vực/Ủy ban nhân dân tỉnh, thành phố giao nhiệm vụ) xem xét để chỉ định (tên tổ chức) được thay đổi/bổ sung hoạt động thử nghiệm/giám định/chứng nhận/kiểm tra xác nhận/xác nhận giá trị sử dụng đối với các lĩnh vực, đối tượng tương ứng.\n\nChúng tôi cam kết sẽ thực hiện đầy đủ các quy định của pháp luật trong lĩnh vực đánh giá sự phù hợp được chỉ định và chịu trách nhiệm về các khai báo nói trên.\n\n|  | LÃNH ĐẠO TỔ CHỨC |\n| --- | --- |\n\nGhi chú: Đăng ký chỉ định thay đổi/bổ sung lĩnh vực hoạt động nào thì ghi tên lĩnh vực hoạt động đó.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_11-37-2026-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 787,
+            "source_file": "Maudon/MAU SO 11-37-2026-ND-CP.doc",
+            "file_name": "MAU SO 11-37-2026-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:36:08",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

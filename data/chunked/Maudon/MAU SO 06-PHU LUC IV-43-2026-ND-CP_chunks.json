@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_06-PHU_LUC_IV-43-2026-ND-CP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_06-PHU_LUC_IV-43-2026-ND-CP",
+        "text": "Mẫu số 06\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n___\n\nĐƠN ĐĂNG KÝ CẤP LẠI GIẤY PHÉP TIẾP CẬN NGUỒN GEN\n\nKính gửi: Chủ tịch Ủy ban nhân dân tỉnh…..\n\n1. Thông tin chung:\n\n- Đối với tổ chức: Tên đầy đủ của tổ chức; số, ký hiệu của giấy phép đăng ký kinh doanh, hoạt động hoặc quyết định thành lập, ngày cấp, nơi cấp; tên người đại diện của tổ chức; chức vụ; tên người đại diện liên lạc của tổ chức; địa chỉ liên hệ; điện thoại; fax; địa chỉ thư điện tử.\n\n- Đối với cá nhân: Họ và tên; số định danh cá nhân/Hộ chiếu; địa chỉ liên hệ; điện thoại; fax; địa chỉ thư điện tử; Thông tin về mà cá nhân là thành viên (tổ chức khoa học và công nghệ: số, ký hiệu của giấy chứng nhận đăng ký hoạt động khoa học và công nghệ, ngày cấp, nơi cấp; Công ty: số, ký hiệu của giấy phép đăng ký kinh doanh, hoạt động hoặc quyết định thành lập, ngày cấp, nơi cấp): tên đầy đủ của tổ chức, tên người đại diện của tổ chức; chức vụ; địa chỉ liên hệ; điện thoại; fax.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_06-PHU_LUC_IV-43-2026-ND-CP_chunk_0002",
+            "char_count": 965,
+            "source_file": "Maudon/MAU SO 06-PHU LUC IV-43-2026-ND-CP.doc",
+            "file_name": "MAU SO 06-PHU LUC IV-43-2026-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:31:53",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_06-PHU_LUC_IV-43-2026-ND-CP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_06-PHU_LUC_IV-43-2026-ND-CP",
+        "text": "ký hiệu của giấy phép đăng ký kinh doanh, hoạt động hoặc quyết định thành lập, ngày cấp, nơi cấp): tên đầy đủ của tổ chức, tên người đại diện của tổ chức; chức vụ; địa chỉ liên hệ; điện thoại; fax.\n\n2. Lý do đề nghị cấp lại: Thay đổi thông tin đã được cấp phép\n\n3. Hồ sơ đăng ký cấp lại: Tài liệu chứng minh thay đổi thông tin về tổ chức đã được cấp Giấy phép tiếp cận nguồn gen.\n\nChúng tôi xin cam đoan những thông tin trên đây là đúng và hoàn toàn chịu trách nhiệm trước pháp luật về tính trung thực của các thông tin được cung cấp trong hồ sơ kèm theo.\n\n|  | …., ngày... tháng... năm ...<br>TỔ CHỨC ĐĂNG KÝ<br>(Ký, ghi họ tên, chức danh, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_06-PHU_LUC_IV-43-2026-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 666,
+            "source_file": "Maudon/MAU SO 06-PHU LUC IV-43-2026-ND-CP.doc",
+            "file_name": "MAU SO 06-PHU LUC IV-43-2026-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:31:53",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

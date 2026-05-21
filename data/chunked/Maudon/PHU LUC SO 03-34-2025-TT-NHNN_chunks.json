@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_PHU_LUC_SO_03-34-2025-TT-NHNN_chunk_0001",
+        "doc_id": "Maudon_PHU_LUC_SO_03-34-2025-TT-NHNN",
+        "text": "PHỤ LỤC SỐ 03\n\n| DOANH NGHIỆP/<br>NGÂN HÀNG THƯƠNG MẠI | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: … | …. , ngày … tháng … năm … |\n\nĐƠN ĐỀ NGHỊ CẤP/ SỬA ĐỔI, BỔ SUNG GIẤY PHÉP SẢN XUẤT VÀNG MIẾNG\n\nKính gửi: Ngân hàng Nhà nước Việt Nam (Cục Quản lý ngoại hối)\n\n1. Tên doanh nghiệp/ngân hàng thương mại: …\n\n2. Tên giao dịch đối ngoại (nếu có): …\n\n3. Họ và tên Người đại diện theo pháp luật: …\n\n3. Giấy đăng ký doanh nghiệp/Giấy phép thành lập và hoạt động ngân hàng thương mại số: …\n\n4. Trụ sở chính: …\n\n5. Vốn điều lệ: …\n\n6. Giấy phép kinh doanh mua, bán vàng miếng số: …\n\nCăn cứ điều kiện quy định tại Nghị định 24/2012/NĐ-CP ngày 03/4/2012 của Chính phủ về quản lý hoạt động kinh doanh vàng được sửa đổi, bổ sung bởi Nghị định 232/2025/NĐ-CP và hướng dẫn tại Thông tư số … /2025/TT-NHNN ngày... của Thống đốc Ngân hàng Nhà nước.\n\nĐề nghị Ngân hàng Nhà nước Việt Nam xem xét cấp/sửa đổi, bổ sung Giấy phép sản xuất vàng miếng.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_PHU_LUC_SO_03-34-2025-TT-NHNN_chunk_0002",
+            "char_count": 991,
+            "source_file": "Maudon/PHU LUC SO 03-34-2025-TT-NHNN.doc",
+            "file_name": "PHU LUC SO 03-34-2025-TT-NHNN.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T05:04:00",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_PHU_LUC_SO_03-34-2025-TT-NHNN_chunk_0002",
+        "doc_id": "Maudon_PHU_LUC_SO_03-34-2025-TT-NHNN",
+        "text": "232/2025/NĐ-CP và hướng dẫn tại Thông tư số … /2025/TT-NHNN ngày... của Thống đốc Ngân hàng Nhà nước.\n\nĐề nghị Ngân hàng Nhà nước Việt Nam xem xét cấp/sửa đổi, bổ sung Giấy phép sản xuất vàng miếng.\n\nNêu rõ lý do đối với trường hợp đề nghị sửa đổi, bổ sung Giấy phép sản xuất vàng miếng:…\n\nChúng tôi xin cam đoan:\n\n- Chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của các tài liệu, hồ sơ gửi Ngân hàng Nhà nước Việt Nam;\n\n- Tuân thủ các quy định về quản lý hoạt động kinh doanh vàng, các quy định về quản lý ngoại hối và các quy định pháp luật có liên quan.\n\n|  | Người đại diện hợp pháp của<br>doanh nghiệp/ ngân hàng thương mại<br>(Ký, họ tên, đóng dấu) |\n| --- | --- |\n\nHồ sơ gửi kèm: (Doanh nghiệp/Ngân hàng thương mại liệt kê các tài liệu gửi kèm)",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_PHU_LUC_SO_03-34-2025-TT-NHNN_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 768,
+            "source_file": "Maudon/PHU LUC SO 03-34-2025-TT-NHNN.doc",
+            "file_name": "PHU LUC SO 03-34-2025-TT-NHNN.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T05:04:00",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

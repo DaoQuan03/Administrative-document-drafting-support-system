@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_02_HNTY-PHU_LUC_IB-32-2026-ND-CP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_02_HNTY-PHU_LUC_IB-32-2026-ND-CP",
+        "text": "Mẫu số 02.HNTY\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n----------------\n\nĐƠN ĐĂNG KÝ\nGIA HẠN CẤP CHỨNG CHỈ HÀNH NGHỀ THÚ Y\n\nKính gửi: ……………\n\nTên tôi là: ………………………………………………………………………………..\n\nNgày tháng năm sinh: ………………………………………………………………….\n\nCăn cước công dân số/số định danh cá nhân: …………….. ngày cấp ………………\n\nĐối với người nước ngoài: giấy phép lao động hoặc Giấy xác nhận không thuộc diện cấp giấy phép lao động số: ………….., ngày cấp …………., nơi cấp …………..\n\nNơi cư trú: …………………………………………………………\n\nBằng cấp chuyên môn: ...\n\nSố điện thoại: …………………………………………………….\n\nĐã được ………………………….. cấp Chứng chỉ hành nghề thú y:\n\n□ Tiêm phòng, chữa bệnh, tiểu phẫu (thiến, cắt đuôi) động vật, tư vấn các hoạt động liên quan đến lĩnh vực thú y.\n\n□ Khám bệnh, chẩn đoán bệnh, phẫu thuật động vật, xét nghiệm bệnh động vật.\n\n□ Buôn bán thuốc thú y dùng trong thú y cho động vật trên cạn.\n\n□ Buôn bán thuốc thú y dùng trong thú y cho động vật thủy sản.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_02_HNTY-PHU_LUC_IB-32-2026-ND-CP_chunk_0002",
+            "char_count": 947,
+            "source_file": "Maudon/MAU SO 02.HNTY-PHU LUC IB-32-2026-ND-CP.doc",
+            "file_name": "MAU SO 02.HNTY-PHU LUC IB-32-2026-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:23:29",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_02_HNTY-PHU_LUC_IB-32-2026-ND-CP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_02_HNTY-PHU_LUC_IB-32-2026-ND-CP",
+        "text": "bệnh, chẩn đoán bệnh, phẫu thuật động vật, xét nghiệm bệnh động vật.\n\n□ Buôn bán thuốc thú y dùng trong thú y cho động vật trên cạn.\n\n□ Buôn bán thuốc thú y dùng trong thú y cho động vật thủy sản.\n\n□ Sản xuất thuốc thú y dùng trong thú y cho động vật trên cạn.\n\n□ Sản xuất thuốc thú y dùng trong thú y cho động vật thủy sản.\n\n□ Xuất khẩu, nhập khẩu thuốc thú y dùng trong thú y cho động vật trên cạn.\n\n□ Xuất khẩu, nhập khẩu thuốc thú y dùng trong thú y cho động vật thủy sản.\n\n□ Khảo nghiệm thuốc thú y dùng trong thú y cho động vật trên cạn.\n\n□ Khảo nghiệm thuốc thú y dùng trong thú y cho động vật thủy sản.\n\n□ Kiểm nghiệm thuốc thú y dùng trong thú y cho động vật trên cạn.\n\n□ Kiểm nghiệm thuốc thú y dùng trong thú y cho động vật thủy sản.\n\nSố đăng ký: ……../……-CCHNTY. Chứng chỉ có giá trị đến ……………\n\nNay đề nghị quý cơ quan cấp gia hạn Chứng chỉ hành nghề trên.\n\nGửi kèm bản chính giấy khám sức khỏe.\n\n|  | ..., ngày...tháng...năm...<br>Người làm đơn<br>(Ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_02_HNTY-PHU_LUC_IB-32-2026-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 995,
+            "source_file": "Maudon/MAU SO 02.HNTY-PHU LUC IB-32-2026-ND-CP.doc",
+            "file_name": "MAU SO 02.HNTY-PHU LUC IB-32-2026-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:23:29",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

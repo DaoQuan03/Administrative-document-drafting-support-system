@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_04-TBHTK-GSQL-1966-QD-TCHQ_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_04-TBHTK-GSQL-1966-QD-TCHQ",
+        "text": "4. Mẫu số 04/TBHTK/GSQL\n\n| CỤC HẢI QUAN…………..<br>Chi cục Hải quan……………<br>-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | ………, ngày…. tháng…. năm 20….. |\n\nTHÔNG BÁO\n\nV/v hủy tờ khai hải quan\n\nThực hiện quy định điểm b.1.5 khoản 2 Điều 22 Thông tư số 38/2015/TT-BTC về việc hủy tờ khai hải quan, Chi cục Hải quan ...(nơi đăng ký tờ khai) đề nghị Cục Thuế…… (hoặc Chi cục Hải quan ...) không xử lý hoàn thuế, không thu thuế đối với những tờ khai xuất khẩu đã hủy sau đây:\n\n| STT | Số tờ khai xuất khẩu | Ngày tờ khai | Tên doanh nghiệp xuất khẩu | Mã số thuế của doanh nghiệp |\n| --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |\n| 2 |  |  |  |  |\n| … |  |  |  |  |\n\nChi cục Hải quan……………………… xin thông báo để Chi cục Hải quan... (nơi đăng ký tờ khai) đề nghị Cục Thuế... (hoặc Chi cục Hải quan…….) theo dõi và thực hiện.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_04-TBHTK-GSQL-1966-QD-TCHQ_chunk_0002",
+            "char_count": 887,
+            "source_file": "thongbao/MAU SO 04-TBHTK-GSQL-1966-QD-TCHQ.doc",
+            "file_name": "MAU SO 04-TBHTK-GSQL-1966-QD-TCHQ.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:44:58",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_04-TBHTK-GSQL-1966-QD-TCHQ_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_04-TBHTK-GSQL-1966-QD-TCHQ",
+        "text": "|  |  |\n| 2 |  |  |  |  |\n| … |  |  |  |  |\n\nChi cục Hải quan……………………… xin thông báo để Chi cục Hải quan... (nơi đăng ký tờ khai) đề nghị Cục Thuế... (hoặc Chi cục Hải quan…….) theo dõi và thực hiện.\n\n| Nơi nhận:<br>- ... Cục Thuế ... (hoặc Chi cục Hải quan);<br>- Lưu: VT, đơn vị soạn thảo viết tắt (3b). | CHI CỤC TRƯỞNG<br>(Ký tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_04-TBHTK-GSQL-1966-QD-TCHQ_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 360,
+            "source_file": "thongbao/MAU SO 04-TBHTK-GSQL-1966-QD-TCHQ.doc",
+            "file_name": "MAU SO 04-TBHTK-GSQL-1966-QD-TCHQ.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:44:58",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

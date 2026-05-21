@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_PHU_LUC_IVB-32-2025-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_PHU_LUC_IVB-32-2025-TT-BTC",
+        "text": "PHỤ LỤC IV.B\n\n| TÊN CƠ QUAN THUẾ CẤP TRÊN <br>TÊN CƠ QUAN BAN HÀNH <br>VĂN BẢN<br>-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: …./TB - ………. | ……., ngày…….. tháng…… năm….. |\n\nTHÔNG BÁO\n\nVề việc sử dụng hóa đơn điện tử có mã của cơ quan thuế theo từng lần phát sinh\n\nKính gửi: Tên người nộp thuế:...\n\nMã số thuế:...\n\nĐịa chỉ liên hệ:...\n\nĐịa chỉ thư điện tử:...\n\nCăn cứ Luật Quản lý thuế số 38/2019/QH14 ngày 13 tháng 6 năm 2019.\n\nCăn cứ Khoản 10, Điều 1, Nghị định số 70/2025/NĐ-CP ngày 20/03/2025 của Chính Phủ sửa đổi, bổ sung khoản 2 Điều 13 Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định về hóa đơn, chứng từ.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_PHU_LUC_IVB-32-2025-TT-BTC_chunk_0002",
+            "char_count": 727,
+            "source_file": "thongbao/PHU LUC IVB-32-2025-TT-BTC.doc",
+            "file_name": "PHU LUC IVB-32-2025-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:31:10",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_PHU_LUC_IVB-32-2025-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_PHU_LUC_IVB-32-2025-TT-BTC",
+        "text": "1, Nghị định số 70/2025/NĐ-CP ngày 20/03/2025 của Chính Phủ sửa đổi, bổ sung khoản 2 Điều 13 Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định về hóa đơn, chứng từ.\n\nTrong thời gian giải trình hoặc bổ sung thông tin, tài liệu quy định tại khoản 12 Điều 1 Nghị định số 70/2025/NĐ-CP ngày 20/03/2025 của Chính Phủ, <Tên người nộp thuế> chuyển sang hình thức sử dụng hóa đơn điện tử có mã của cơ quan thuế theo từng lần phát sinh.\n\nCơ quan thuế thông báo để <Tên người nộp thuế> biết và thực hiện./.\n\n|  | THỦ TRƯỞNG CƠ QUAN THUẾ RA THÔNG BÁO<br>(Chữ ký số của Thủ trưởng cơ quan thuế) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_PHU_LUC_IVB-32-2025-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 653,
+            "source_file": "thongbao/PHU LUC IVB-32-2025-TT-BTC.doc",
+            "file_name": "PHU LUC IVB-32-2025-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:31:10",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

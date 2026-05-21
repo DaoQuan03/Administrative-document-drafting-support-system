@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_2-PHU_LUC_III-01-2025-TT-BXD_chunk_0001",
+        "doc_id": "mauphieu_MAU_2-PHU_LUC_III-01-2025-TT-BXD",
+        "text": "PHIẾU KHẢO SÁT SỐ LIỆU NHÂN CÔNG TẠI CÔNG TRÌNH\n\nCông tác: …………………………………………………………………..\n\nTên định mức: ………………………………………………………………\n\nGói thầu/Công trình:……………………….. Khối lượng thi công:……………………………….\n\nVị trí khảo sát:………………………………. Khí hậu/thời tiết:……………….…………………..\n\nThời gian khảo sát:………………………… Điều kiện khác:……………………………………..\n\nTổ đội nhân công: …………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_2-PHU_LUC_III-01-2025-TT-BXD_chunk_0002",
+            "char_count": 352,
+            "source_file": "mauphieu/MAU 2-PHU LUC III-01-2025-TT-BXD.doc",
+            "file_name": "MAU 2-PHU LUC III-01-2025-TT-BXD.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:59:35",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_2-PHU_LUC_III-01-2025-TT-BXD_chunk_0002",
+        "doc_id": "mauphieu_MAU_2-PHU_LUC_III-01-2025-TT-BXD",
+        "text": "Khối lượng thi công:……………………………….\n\nVị trí khảo sát:………………………………. Khí hậu/thời tiết:……………….…………………..\n\nThời gian khảo sát:………………………… Điều kiện khác:……………………………………..\n\nTổ đội nhân công: …………………………\n\n| Stt | Nội dung công việc thực hiện | Thời gian | Thời gian | Thời gian | Thành phần nhân công | Thành phần nhân công | Thành phần nhân công | Thành phần nhân công | Thành phần nhân công | Thành phần nhân công | Thành phần nhân công | Thành phần nhân công | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Stt | Nội dung công việc thực hiện | Thời gian | Thời gian | Thời gian | Nhân công thứ 1 (số lượng...) | Nhân công thứ 1 (số lượng...) | Nhân công thứ 2 (số lượng...) | Nhân công thứ 2 (số lượng...) | Nhân công thứ 3 (số lượng...) | Nhân công thứ 3 (số lượng...) | Nhân công thứ ... (số lượng...) | Nhân công thứ ... (số lượng...) | Ghi chú |\n| Stt | Nội dung công việc thực hiện | b.đầu | k.thúc | (∆t) | b.đầu | k.thúc | b.đầu | k.thúc | b.đầu | k.thúc | b.đầu | k.thúc | Ghi chú |\n| Stt | Nội dung công việc thực hiện | (h:ph) | (h:ph) | (h:ph) | (h:ph) | (h:ph) | (h:ph) | (h:ph) | (h:ph) | (h:ph) | (h:ph) | (h:ph) | Ghi chú |\n| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) | (11) | (...) | (...) | (...) |\n| 1 | Công đoạn/bước công việc thứ 1 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 | Công đoạn/bước công việc thứ 2 |  |  |  |  |  |  |  |  |  |  |  |  |\n| … | Công đoạn/bước công việc thứ ... |  |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_2-PHU_LUC_III-01-2025-TT-BXD_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_2-PHU_LUC_III-01-2025-TT-BXD_chunk_0003",
+            "char_count": 1503,
+            "source_file": "mauphieu/MAU 2-PHU LUC III-01-2025-TT-BXD.doc",
+            "file_name": "MAU 2-PHU LUC III-01-2025-TT-BXD.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:59:35",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_2-PHU_LUC_III-01-2025-TT-BXD_chunk_0003",
+        "doc_id": "mauphieu_MAU_2-PHU_LUC_III-01-2025-TT-BXD",
+        "text": "thứ 1 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 | Công đoạn/bước công việc thứ 2 |  |  |  |  |  |  |  |  |  |  |  |  |\n| … | Công đoạn/bước công việc thứ ... |  |  |  |  |  |  |  |  |  |  |  |  |\n\nGhi chú:\n\n- Cột (3), (4) thời gian bắt đầu và kết thúc cho từng công đoạn/bước công việc của công tác xây dựng. Trường hợp xuất hiện thời gian ngừng thi công thì được ghi chép đầy đủ thời gian bắt đầu, kết thúc khi ngừng thi công, lý do ngừng thi công được ghi vào cột ghi chú.\n\n- Nhân công thứ 1, nhân công thứ 2, nhân công thứ 3, nhân công thứ...tương ứng với công đoạn/bước công việc thứ 1, công đoạn/bước công việc thứ 2, công đoạn/bước công việc thứ 3, công đoạn/bước công việc thứ... . Điền cấp bậc nhân công (nếu có).\n\n- Đính kèm danh sách thông tin của nhân công do chủ đầu tư, nhà thầu cung cấp.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_2-PHU_LUC_III-01-2025-TT-BXD_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_2-PHU_LUC_III-01-2025-TT-BXD_chunk_0004",
+            "char_count": 801,
+            "source_file": "mauphieu/MAU 2-PHU LUC III-01-2025-TT-BXD.doc",
+            "file_name": "MAU 2-PHU LUC III-01-2025-TT-BXD.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:59:35",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_2-PHU_LUC_III-01-2025-TT-BXD_chunk_0004",
+        "doc_id": "mauphieu_MAU_2-PHU_LUC_III-01-2025-TT-BXD",
+        "text": "công việc thứ 2, công đoạn/bước công việc thứ 3, công đoạn/bước công việc thứ... . Điền cấp bậc nhân công (nếu có).\n\n- Đính kèm danh sách thông tin của nhân công do chủ đầu tư, nhà thầu cung cấp.\n\n| Đại diện chủ đầu tư <br>(ký, ghi rõ họ tên) | Đơn vị tư vấn giám sát (nếu có) <br>(ký, ghi rõ họ tên) | Nhà thầu thi công xây dựng <br>(ký, ghi rõ họ tên) | Đơn vị thực hiện khảo sát <br>(ký, ghi rõ họ tên) |\n| --- | --- | --- | --- |",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_2-PHU_LUC_III-01-2025-TT-BXD_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 433,
+            "source_file": "mauphieu/MAU 2-PHU LUC III-01-2025-TT-BXD.doc",
+            "file_name": "MAU 2-PHU LUC III-01-2025-TT-BXD.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:59:35",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

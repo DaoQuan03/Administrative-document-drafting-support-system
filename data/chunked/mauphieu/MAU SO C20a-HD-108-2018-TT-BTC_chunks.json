@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_C20a-HD-108-2018-TT-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_C20a-HD-108-2018-TT-BTC",
+        "text": "| ĐƠN VỊ:... | Mẫu số C20a-HD |\n| --- | --- |\n| Mã QHNS:... | (Ban hành kèm theo Thông tư số 108/2018/TT-BTC |\n|  | ngày 15/11/2018 của Bộ Tài chính) |\n\n|  | PHIẾU NHẬP KHO <br>\t(Dùng cho nhập kho hàng dự trữ quốc gia) |  |\n| --- | --- | --- |\n|  | Ngày... tháng... năm... | Nợ... |\n|  | Số:... | Có... |\n\n- Họ tên người giao hàng:... Địa chỉ (Đơn vị.)...\n\n- Theo... số... ngày... tháng... năm... của...\n\n- Thời gian giao, nhận hàng:...\n\n- Nhập tại kho:... địa điểm...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_C20a-HD-108-2018-TT-BTC_chunk_0002",
+            "char_count": 468,
+            "source_file": "mauphieu/MAU SO C20a-HD-108-2018-TT-BTC.doc",
+            "file_name": "MAU SO C20a-HD-108-2018-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:22:37",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_C20a-HD-108-2018-TT-BTC_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_C20a-HD-108-2018-TT-BTC",
+        "text": "| Nợ... |\n|  | Số:... | Có... |\n\n- Họ tên người giao hàng:... Địa chỉ (Đơn vị.)...\n\n- Theo... số... ngày... tháng... năm... của...\n\n- Thời gian giao, nhận hàng:...\n\n- Nhập tại kho:... địa điểm...\n\n| STT | Tên, nhãn hiệu, quy cách, phẩm chất vật tư, dụng cụ, sản phẩm, hàng hóa | Mã<br>số | Đơn<br>vị<br>tính | Số lượng | Số lượng | Đơn<br>giá | Thành<br>tiền |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Tên, nhãn hiệu, quy cách, phẩm chất vật tư, dụng cụ, sản phẩm, hàng hóa | Mã<br>số | Đơn<br>vị<br>tính | Theo<br>chứng từ | Thực<br>nhập | Đơn<br>giá | Thành<br>tiền |\n| A | B | C | D | 1 | 2 | 3 | 4 |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  | Cộng | x | x |  |  | x |  |\n\nTổng số lượng (viết bằng chữ):...\n\nTổng số tiền (viết bằng chữ):...\n\nChứng từ kèm theo:...",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_SO_C20a-HD-108-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_SO_C20a-HD-108-2018-TT-BTC_chunk_0003",
+            "char_count": 901,
+            "source_file": "mauphieu/MAU SO C20a-HD-108-2018-TT-BTC.doc",
+            "file_name": "MAU SO C20a-HD-108-2018-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:22:37",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_C20a-HD-108-2018-TT-BTC_chunk_0003",
+        "doc_id": "mauphieu_MAU_SO_C20a-HD-108-2018-TT-BTC",
+        "text": "|  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  | Cộng | x | x |  |  | x |  |\n\nTổng số lượng (viết bằng chữ):...\n\nTổng số tiền (viết bằng chữ):...\n\nChứng từ kèm theo:...\n\nPhiếu nhập kho được lập thành 03 bản: 01 bản Thủ kho; 01 bản kế toán; 01 bản gửi cho người giao hàng để thanh toán.\n\n|  |  |  | Ngày... tháng... năm... | Ngày... tháng... năm... |\n| --- | --- | --- | --- | --- |\n| NGƯỜI LẬP<br>(Ký, ghi rõ họ tên) | NGƯỜI GIAO HÀNG<br>(Ký, ghi rõ họ tên) | THỦ KHO<br> (Ký, ghi rõ họ tên) | KẾ TOÁN TRƯỞNG<br>(Ký, ghi rõ họ tên) | THỦ TRƯỞNG <br>ĐƠN VỊ<br>(Ký, ghi rõ họ tên, <br>đóng dấu) |\n\nNguồn: Thông tư 108/2018/TT-BTC",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_SO_C20a-HD-108-2018-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 658,
+            "source_file": "mauphieu/MAU SO C20a-HD-108-2018-TT-BTC.doc",
+            "file_name": "MAU SO C20a-HD-108-2018-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:22:37",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

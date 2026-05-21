@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_IV-A-2674-QD-BYT_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_IV-A-2674-QD-BYT",
+        "text": "PHỤ LỤC IV-A\n\nÁP DỤNG CHO CƠ SỞ THỰC HIỆN XÉT NGHIỆM SÀNG LỌC HIV\n\nMẫu số 1A\n\nBỘ (SỞ) Y TẾ…………..\n\nTên đơn vị……………….\n\nKính gửi: ………………………….\n\nPHIẾU GỬI MẪU XÉT NGHIỆM HIV\n\n(Dùng cho đơn vị gửi mẫu xét nghiệm)\n\n| STT | HỌ TÊN | NĂM SINH | NĂM SINH | ĐỊA CHỈ | ĐỐI TƯỢNG | NGÀY LẤY MẪU | KẾT QUẢ XÉT NGHIỆM | CHẤT LƯỢNG MẪU | MÃ SỐ PXN | GHI CHÚ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | HỌ TÊN | Nam | Nữ | ĐỊA CHỈ | ĐỐI TƯỢNG | NGÀY LẤY MẪU | SP<br>(ghi rõ tên sp) | CHẤT LƯỢNG MẪU | MÃ SỐ PXN | GHI CHÚ |\n| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) | (11) |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n\nGhi chú: Phiếu này lập thành 02 bản, mỗi bên giữ 01 bản.\n\n| Ngày …….. tháng …….. năm...<br>NGƯỜI GIAO MẪU<br>(Ký, ghi rõ họ tên) | Ngày ………. tháng... năm...<br>NGƯỜI NHẬN MẪU XÉT NGHIỆM<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\nLưu ý:\n\n(2) Họ tên: Ghi rõ họ và tên",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_IV-A-2674-QD-BYT_chunk_0002",
+            "char_count": 943,
+            "source_file": "mauphieu/PHU LUC IV-A-2674-QD-BYT.doc",
+            "file_name": "PHU LUC IV-A-2674-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:43:52",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_IV-A-2674-QD-BYT_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_IV-A-2674-QD-BYT",
+        "text": "…….. tháng …….. năm...<br>NGƯỜI GIAO MẪU<br>(Ký, ghi rõ họ tên) | Ngày ………. tháng... năm...<br>NGƯỜI NHẬN MẪU XÉT NGHIỆM<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\nLưu ý:\n\n(2) Họ tên: Ghi rõ họ và tên\n\n(6) Đối tượng: Ghi rõ: Nghiện chích ma túy, mại dâm, nam quan hệ tình dục đồng giới, phụ nữ mang thai, đang điều trị ARV, hoặc khác nếu không thuộc các đối tượng đã liệt kê\n\n(8) Kết quả xét nghiệm: ghi rõ (Dương tính) hoặc (âm tính).\n\n(9) Chất lượng mẫu: Đạt, không đạt (ghi rõ: tán huyết, đóng cục, không đủ thể tích,...).",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_IV-A-2674-QD-BYT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 522,
+            "source_file": "mauphieu/PHU LUC IV-A-2674-QD-BYT.doc",
+            "file_name": "PHU LUC IV-A-2674-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:43:52",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

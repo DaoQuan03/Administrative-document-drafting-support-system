@@ -1,0 +1,92 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT",
+        "text": "Phụ lục 2a\n\nPHIẾU ĐIỀU TRA TRƯỜNG HỢP BỆNH DO VI RÚT ZIKA\n(Trích từ Hướng dẫn Giám sát và phòng, chống bệnh do vi rút Zika, ban hành kèm theo Quyết định số 3792/QĐ-BYTngày 25/7/2016)\n\n1. Người báo cáo\n\na. Tên người báo cáo: ___b. Ngày báo cáo:___/___/201___\n\nc. Tên đơn vị: ___\n\nd. Điện thoại: ___ e. Email: ___\n\n2. Thông tin trường hợp bệnh\n\na. Họ và tên bệnh nhân: ___\n\nb. Ngày tháng năm sinh: ___/___/___Tuổi (năm): ___\n\nc. Giới.                                                1.Nam                           2. Nữ\n\ne. Nghề nghiệp:___\n\ng. Đang có thai:                                  1. Có, tuần thứ: ___ 2. Không\n\nh. Số CMND/bảo hiểm y tế:___ ___\n\n3. Địa chỉ nơi sinh sống\n\nSố nhà: ___ Đường phố/Thôn ấp: ___\n\nPhường/Xã:___ Quận/huyện: ___\n\nTỉnh/Thành phố: ___ Số điện thoại liên hệ: ___\n\n4. Địa chỉ nơi bệnh khởi phát:        1. Như trên                   2. Khác, ghi rõ:\n\n5. Ngày khởi phát: ___/___/201___\n\n6. Ngày được khám bệnh đầu tiên: ___/___/201___\n\n7. Nơi đang điều trị:___",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 5,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT_chunk_0002",
+            "char_count": 989,
+            "source_file": "mauphieu/MAU 2a-PHU LUC 1-1425-QD-BYT.doc",
+            "file_name": "MAU 2a-PHU LUC 1-1425-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:02:20",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT_chunk_0002",
+        "doc_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT",
+        "text": "___\n\n4. Địa chỉ nơi bệnh khởi phát:        1. Như trên                   2. Khác, ghi rõ:\n\n5. Ngày khởi phát: ___/___/201___\n\n6. Ngày được khám bệnh đầu tiên: ___/___/201___\n\n7. Nơi đang điều trị:___\n\n8. Diễn biến bệnh (mô tả ngắn gọn):\n\n___\n\n___\n\n9. Các biểu hiện lâm sàng:\n\n| a. Phát ban | □ Có | □ Không | □ Không nhớ |\n| --- | --- | --- | --- |\n| b. Sốt | □ Có | □ Không | □ Không nhớ |\n| c. Viêm kết mạc mắt | □ Có | □ Không | □ Không nhớ |\n| (xung huyết, không mủ) |  |  |  |\n| d. Đau khớp, phù quanh khớp | □ Có | □ Không | □ Không nhớ |\n| e. Đau cơ | □ Có | □ Không | □ Không nhớ |\n| f. Các triệu chứng khác | □ Có | □ Không | □ Không nhớ |\n\nCụ thể:\n\n___\n\n___\n\n10. Tiền sử mắc các bệnh mạn tính và các bệnh khác có liên quan:\n\n___\n\n11. Tiền sử dịch tễ: Trong vòng 2 tuần trước khi khởi phát, người bệnh có:\n\na. Đến/ở/về từ khu vực có sự lây truyền vi rút Zika tại chỗ hoặc khu vực có sự hiện diện của vi rút Zika và véc tơ truyền bệnh không?",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT_chunk_0003",
+            "char_count": 949,
+            "source_file": "mauphieu/MAU 2a-PHU LUC 1-1425-QD-BYT.doc",
+            "file_name": "MAU 2a-PHU LUC 1-1425-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:02:20",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT_chunk_0003",
+        "doc_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT",
+        "text": "dịch tễ: Trong vòng 2 tuần trước khi khởi phát, người bệnh có:\n\na. Đến/ở/về từ khu vực có sự lây truyền vi rút Zika tại chỗ hoặc khu vực có sự hiện diện của vi rút Zika và véc tơ truyền bệnh không?\n\n□ Có                     □ Không                       □ Không biết\n\nNếu có ghi rõ địa chỉ: ___\n\nb. Có quan hệ tình dục mà không sử dụng bao cao su với người đã đến/ở/về trong vòng 8 tuần từ khu vực có sự lây truyền vi rút Zika tại chỗ hoặc khu vực có sự hiện diện của vi rút Zika và véc tơ truyền bệnh không?\n\n□ Có                     □ Không                       □ Không biết\n\n12. Thông tin điều trị\n\na. Có điều trị tại cơ sở y tế  □ Có                     □ Không                       □ Không biết\n\nb. Tên cơ sở y tế điều trị: …………………………………………………………………………\n\nc. Ngày nhập viện:___/___/___\n\nd. Ngày ra viện: ___/___/___\n\ne. Các biến chứng trong quá trình bệnh    □ Có                 □ Không                 □ Không biết\n\nNếu có, ghi cụ thể:___\n\nf. Các ghi chú hoặc quan sát khác:\n\n___\n\n___",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT_chunk_0004",
+            "char_count": 991,
+            "source_file": "mauphieu/MAU 2a-PHU LUC 1-1425-QD-BYT.doc",
+            "file_name": "MAU 2a-PHU LUC 1-1425-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:02:20",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT_chunk_0004",
+        "doc_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT",
+        "text": "Ngày ra viện: ___/___/___\n\ne. Các biến chứng trong quá trình bệnh    □ Có                 □ Không                 □ Không biết\n\nNếu có, ghi cụ thể:___\n\nf. Các ghi chú hoặc quan sát khác:\n\n___\n\n___\n\n13. Thông tin xét nghiệm:\n\na. Công thức máu (theo kết quả xét nghiệm đầu tiên sau khi nhập viện)\n\nBạch cầu: ………../mm3      Hồng cầu: ………../mm3      Tiểu cầu: ………../mm3\n\nHematocrite: …………….%\n\nb. Xét nghiệm vi sinh\n\nHuyết thanh/máu toàn phần\n\n□ Giai đoạn cấp                Ngày lấy:___/___ /201___          Kết quả: ___\n\n□ Giai đoạn hồi phục        Ngày lấy:___/___ /201___          Kết quả: ___\n\nBệnh phẩm khác\n\n□ Cụ thể ___    Ngày lấy:___/___ /201___          Kết quả: ___\n\nc. Siêu âm thai (nếu là phụ nữ mang thai):\n\n□ Nghi ngờ có đầu nhỏ           □ Không có đầu nhỏ       Ngày siêu âm: ___/___/201___\n\n14. Kết quả điều trị:\n\n□ Tình trạng của thai nhi (nếu có)\n\n□ Thai vẫn phát triển tiếp tục         □ Sẩy thai           □ Thai chết lưu\n\n□ Đang điều trị\n\n(Ghi rõ tình trạng hiện tại___)\n\n□ Khỏi",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT_chunk_0003",
+            "next_chunk_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT_chunk_0005",
+            "char_count": 997,
+            "source_file": "mauphieu/MAU 2a-PHU LUC 1-1425-QD-BYT.doc",
+            "file_name": "MAU 2a-PHU LUC 1-1425-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:02:20",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT_chunk_0005",
+        "doc_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT",
+        "text": "Kết quả điều trị:\n\n□ Tình trạng của thai nhi (nếu có)\n\n□ Thai vẫn phát triển tiếp tục         □ Sẩy thai           □ Thai chết lưu\n\n□ Đang điều trị\n\n(Ghi rõ tình trạng hiện tại___)\n\n□ Khỏi\n\n□ Di chứng (ghi rõ):___\n\n□ Không theo dõi được\n\n□ Khác (nặng xin về, chuyển viện,... ghi rõ):___\n\n□ Tử vong (Ngày tử vong:___/___/___: Lý do tử vong: ___)\n\n15. Chẩn đoán cuối cùng\n\n| □ Trường hợp bệnh lâm sàng | □ Trường hợp bệnh có thể |\n| --- | --- |\n| □ Trường hợp bệnh xác định | □ Không phải vi rút Zika |\n| □ Khác, ghi rõ ___ | □ Khác, ghi rõ ___ |\n\n| Điều tra viên<br>(Ký, ghi rõ họ tên) | Ngày ... tháng ... năm 201 ...<br>Lãnh đạo đơn vị<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_2a-PHU_LUC_1-1425-QD-BYT_chunk_0004",
+            "next_chunk_id": null,
+            "char_count": 685,
+            "source_file": "mauphieu/MAU 2a-PHU LUC 1-1425-QD-BYT.doc",
+            "file_name": "MAU 2a-PHU LUC 1-1425-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:02:20",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

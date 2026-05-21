@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_04-04-HD-TW_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_04-04-HD-TW",
+        "text": "(Mẫu số 4)\n\n| ĐẠI HỘI (Hội nghị): ...<br>...<br>(Đóng dấu cấp ủy) | ĐẢNG CỘNG SẢN VIỆT NAM<br>--------------- |\n| --- | --- |\n|  | ..., ngày ... tháng ... năm 20 ... |\n\nPHIẾU XIN Ý KIẾN\n\nvề những người ứng cử, được đề cử tại đại hội (hội nghị) để bầu vào ...\n\n| STT | Họ và tên | Đồng ý để trong danh sách bầu cử | Không đồng ý để trong danh sách bầu cử | Ghi chú |\n| --- | --- | --- | --- | --- |\n| 1 | Nguyễn Văn A |  |  |  |\n| 2 |  |  |  |  |\n| 3 |  |  |  |  |\n| 4 |  |  |  |  |\n| 5 |  |  |  |  |\n\nLưu ý:\n\n- Những người ứng cử, được đề cử thuộc phạm vi điều chỉnh của Điều 11 Quy chế bầu cử trong Đảng thì ghi rõ vào phần Ghi chú.\n\n- Đối với mỗi người trong danh sách lấy ý kiến giới thiệu, đại biểu đại hội (hội nghị) chỉ đánh dấu X vào ô đồng ý hoặc không đồng ý.\n\n- Không ký tên hoặc ghi thêm những nội dung khác.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 819,
+            "source_file": "mauphieu/MAU SO 04-04-HD-TW.doc",
+            "file_name": "MAU SO 04-04-HD-TW.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:54:26",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

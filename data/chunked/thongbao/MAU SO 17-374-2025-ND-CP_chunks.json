@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_17-374-2025-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_17-374-2025-ND-CP",
+        "text": "Mẫu số 17\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nTHÔNG BÁO\n\nVề việc chấm dứt hưởng trợ cấp thất nghiệp\n\nKính gửi: Tổ chức Dịch vụ việc làm công ……….\n\nTên tôi là: ……………………………….………………………….. Sinh ngày: ... /.../ ...\n\nSố định danh cá nhân: …………………………………………… Ngày cấp: ... /... /...\n\nHiện nay, tôi đang hưởng trợ cấp thất nghiệp theo Quyết định số ……………. ngày.../.../... của Giám đốc Sở Nội vụ tỉnh/thành phố..\n\nTổng số tháng tôi đã hưởng trợ cấp thất nghiệp: ... tháng\n\nNhưng vì lý do ……………………………………………………………………………..\n\n………………………………………………………………………………………………\n\nnên tôi gửi thông báo này (kèm theo bản sao giấy tờ có liên quan).\n\nĐề nghị quý đơn vị xem xét, thực hiện các thủ tục về chấm dứt hưởng trợ cấp thất nghiệp để bảo lưu thời gian đóng bảo hiểm thất nghiệp tương ứng với số tháng hưởng trợ cấp thất nghiệp mà tôi chưa nhận tiền do cơ quan bảo hiểm xã hội chi trả.\n\n|  | ..., ngày ... tháng ... năm ...<br>Người thông báo<br>(Ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_17-374-2025-ND-CP_chunk_0002",
+            "char_count": 999,
+            "source_file": "thongbao/MAU SO 17-374-2025-ND-CP.doc",
+            "file_name": "MAU SO 17-374-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:01:29",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_17-374-2025-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_17-374-2025-ND-CP",
+        "text": "ứng với số tháng hưởng trợ cấp thất nghiệp mà tôi chưa nhận tiền do cơ quan bảo hiểm xã hội chi trả.\n\n|  | ..., ngày ... tháng ... năm ...<br>Người thông báo<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\nGhi chú: Ghi cụ thể tên của Tổ chức Dịch vụ việc làm công.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_17-374-2025-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 256,
+            "source_file": "thongbao/MAU SO 17-374-2025-ND-CP.doc",
+            "file_name": "MAU SO 17-374-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:01:29",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

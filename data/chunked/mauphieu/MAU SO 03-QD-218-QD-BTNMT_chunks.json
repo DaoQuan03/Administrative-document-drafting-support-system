@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-QD-218-QD-BTNMT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_03-QD-218-QD-BTNMT",
+        "text": "Mẫu số 03:\n\n| BỘ TÀI NGUYÊN VÀ<br>MÔI TRƯỜNG<br>HỘI ĐỒNG SÁNG KIẾN<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n\nPHIẾU CHẤM ĐIỂM\n\n(Dành cho các thành viên Hội đồng sáng kiến)\n\nCăn cứ theo quy định tại Điều 6 Quy chế. Tiêu chí chấm điểm:\n\n1. Tính mới: (mức điểm tối đa: 50 điểm, chỉ chọn 01 (một) trong 05 (năm) mức bên dưới để đánh giá chấm điểm)\n\n1.1. Hoàn toàn mới, lần đầu tiên được áp dụng: tối đa 50 điểm.\n\n1.2. Có cải tiến so với giải pháp trước đây ở mức độ khá: tối đa 30 điểm.\n\n1.3. Có cải tiến so với giải pháp trước đây ở mức độ trung bình: tối đa 20 điểm.\n\n1.4. Có cải tiến so với giải pháp trước đây ở mức độ ít hơn trung bình: 10 điểm\n\n1.5. Không có yếu tố mới hoặc sao chép từ các giải pháp đã có trước đây: 0 điểm.\n\n2. Có khả năng mang lại lợi ích thiết thực:(điểm tối đa: 50 điểm, chỉ chọn 01 (một) trong 04 (bốn) mức bên dưới để đánh giá chấm điểm)\n\n2.1. Đã áp dụng, mang lại lợi ích thiết thực: tối đa 50 điểm.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_03-QD-218-QD-BTNMT_chunk_0002",
+            "char_count": 998,
+            "source_file": "mauphieu/MAU SO 03-QD-218-QD-BTNMT.doc",
+            "file_name": "MAU SO 03-QD-218-QD-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:52:21",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-QD-218-QD-BTNMT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_03-QD-218-QD-BTNMT",
+        "text": "Có khả năng mang lại lợi ích thiết thực:(điểm tối đa: 50 điểm, chỉ chọn 01 (một) trong 04 (bốn) mức bên dưới để đánh giá chấm điểm)\n\n2.1. Đã áp dụng, mang lại lợi ích thiết thực: tối đa 50 điểm.\n\n2.2. Đã áp dụng thử, mang lại lợi ích thiết thực: tối đa 30 điểm.\n\n2.3. Có khả năng áp dụng và mang lại lợi ích thiết thực: 20 điểm.\n\n2.4. Không có khả năng áp dụng và mang lại lợi ích: 0 điểm.\n\n| TT | Tác giả và tên sáng kiến | Mô tả sáng kiến | Ý kiến thẩm định của Cơ quan Thường trực giúp việc Hội đồng sáng kiến | Điểm đánh giá | Điểm đánh giá | Điểm đánh giá | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | Tác giả và tên sáng kiến | Mô tả sáng kiến | Ý kiến thẩm định của Cơ quan Thường trực giúp việc Hội đồng sáng kiến | Tính mới | Khả năng mang lại lợi ích thiết thực | Tổng điểm | Ghi chú |\n| 1 |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n\n|  | THÀNH VIÊN HỘI ĐỒNG<br>(Ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_03-QD-218-QD-BTNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 963,
+            "source_file": "mauphieu/MAU SO 03-QD-218-QD-BTNMT.doc",
+            "file_name": "MAU SO 03-QD-218-QD-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:52:21",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

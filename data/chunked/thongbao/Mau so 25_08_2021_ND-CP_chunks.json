@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_Mau_so_25_08_2021_ND-CP_chunk_0001",
+        "doc_id": "thongbao_Mau_so_25_08_2021_ND-CP",
+        "text": "|  | Mẫu số 25 |\n| --- | --- |\n| TÊN TỔ CHỨC, CÁ NHÂN <br><br><br>Số:.../... | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br><br>..., ngày... tháng... năm... |\n\nTHÔNG BÁO\n\nĐưa công trình (không thuộc kết cấu hạ tầng đường thủy nội địa)... (1)\n\nvào sử dụng\n\n___\n\nKính gửi:... (2)\n\nCăn cứ Nghị định số.../2021/NĐ-CP ngày... tháng... năm 2021 của Chính phủ quy định về quản lý hoạt động đường thủy nội địa;\n\nTên tổ chức, cá nhân:...\n\nNgười đại diện theo pháp luật:...\n\nĐăng ký doanh nghiệp (hộ gia đình): số... ngày... tháng... năm... tại...\n\nĐịa chỉ:... số điện thoại liên hệ:...\n\nThông báo đưa công trình... (1)... vào sử dụng với một số nội dung có liên quan như sau:\n\n1. Tên công trình:...\n\n2. Vị trí công trình:...\n\nTừ km thứ... đến km thứ...\n\nTrên bờ (phải hay trái)... sông, kênh)...\n\nThuộc địa phận: xã (phường)..., huyện (quận)...\n\nTỉnh (thành phố)...\n\n3. Đặc điểm công trình:...\n\n4. Thời gian bắt đầu hoạt động của công trình, thời gian kết thúc (nếu có):",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_Mau_so_25_08_2021_ND-CP_chunk_0002",
+            "char_count": 985,
+            "source_file": "thongbao/Mau so 25_08_2021_ND-CP.doc",
+            "file_name": "Mau so 25_08_2021_ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:07:16",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_Mau_so_25_08_2021_ND-CP_chunk_0002",
+        "doc_id": "thongbao_Mau_so_25_08_2021_ND-CP",
+        "text": "trái)... sông, kênh)...\n\nThuộc địa phận: xã (phường)..., huyện (quận)...\n\nTỉnh (thành phố)...\n\n3. Đặc điểm công trình:...\n\n4. Thời gian bắt đầu hoạt động của công trình, thời gian kết thúc (nếu có):\n\n5. Giới hạn vùng nước của công trình:...\n\n6. Các thông số kỹ thuật của công trình có liên quan:...\n\n7. Hồ sơ gửi kèm gồm:...\n\nChúng tôi hoàn toàn chịu trách nhiệm về những nội dung trên đây và cam kết thực hiện đầy đủ các quy định của pháp luật về giao thông vận tải đường thủy nội địa và pháp luật có liên quan./.\n\n| Nơi nhận:<br>- Như trên;<br>- ...;<br>- Lưu: VT, ... | TỔ CHỨC (CÁ NHÂN) <br>(Ký tên và đóng dấu) |\n| --- | --- |\n\nGhi chú:\n\n(1) Tên công trình.\n\n(2) Chi cục Đường thủy nội địa khu vực hoặc Sở Giao thông vận tải.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_Mau_so_25_08_2021_ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 730,
+            "source_file": "thongbao/Mau so 25_08_2021_ND-CP.doc",
+            "file_name": "Mau so 25_08_2021_ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:07:16",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

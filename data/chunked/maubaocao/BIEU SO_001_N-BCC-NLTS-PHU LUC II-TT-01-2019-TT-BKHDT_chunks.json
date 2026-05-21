@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_SO_001_N-BCC-NLTS-PHU_LUC_II-TT-01-2019-TT-BKHDT_chunk_0001",
+        "doc_id": "maubaocao_BIEU_SO_001_N-BCC-NLTS-PHU_LUC_II-TT-01-2019-TT-BKHDT",
+        "text": "| Biểu số: 001.N/BCC-NLTS<br>Ban hành theo Thông tư số …. của Bộ trưởng Bộ Kế hoạch và Đầu tư <br>Ngày nhận báo cáo: Ngày 31/3 năm sau | BÁO CÁO CHÍNH THỨC SỐ LƯỢNG TRANG TRẠI<br>Năm ……. | - Đơn vị báo cáo: Cục Thống kê ……<br>- Đơn vị nhận báo cáo: Tổng cục Thống kê |\n| --- | --- | --- |\n\nĐơn vị tính: Trang trại\n\n|  | Mã số | Năm trước năm báo cáo | Năm báo cáo | Năm báo cáo so năm trước<br>(%) |\n| --- | --- | --- | --- | --- |\n| A | B | 1 | 2 | 3 = 2/1*100 |\n| Tổng số trang trại | 01 |  |  |  |\n| Chia ra: |  |  |  |  |\n| Trang trại trồng trọt | 02 |  |  |  |\n| Trang trại chăn nuôi | 03 |  |  |  |\n| Trang trại lâm nghiệp | 04 |  |  |  |\n| Trang trại nuôi trồng thủy sản | 05 |  |  |  |\n| Trang trại tổng hợp | 06 |  |  |  |\n\n| Người lập biểu<br>(Ký, họ tên) | Người kiểm tra biểu<br>(Ký, họ tên) | ….., ngày...tháng ... năm ...<br>Cục trưởng<br>(Ký, đóng dấu, họ tên) |\n| --- | --- | --- |\n\nNguồn: Thông tư 01/2019/TT-BKHĐT",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 931,
+            "source_file": "maubaocao/BIEU SO_001_N-BCC-NLTS-PHU LUC II-TT-01-2019-TT-BKHDT.doc",
+            "file_name": "BIEU SO_001_N-BCC-NLTS-PHU LUC II-TT-01-2019-TT-BKHDT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:04:07",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_03-137-2017-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_BIEU_SO_03-137-2017-TT-BTC",
+        "text": "Mẫu biểu số 03\n\nMã chương:...\n\nĐơn vị báo cáo: ….\n\nBÁO CÁO\n\nTHUYẾT MINH QUYẾT TOÁN NĂM SO VỚI DỰ TOÁN\n\nNăm...\n(Áp dụng cho đơn vị dự toán cấp trên và đơn vị dự toán cấp I)\n\nI- Số liệu tổng hợp:\n\nĐơn vị: Đồng",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_BIEU_SO_03-137-2017-TT-BTC_chunk_0002",
+            "char_count": 207,
+            "source_file": "maubaocao/MAU BIEU SO 03-137-2017-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 03-137-2017-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:19:07",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_03-137-2017-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_BIEU_SO_03-137-2017-TT-BTC",
+        "text": "số 03\n\nMã chương:...\n\nĐơn vị báo cáo: ….\n\nBÁO CÁO\n\nTHUYẾT MINH QUYẾT TOÁN NĂM SO VỚI DỰ TOÁN\n\nNăm...\n(Áp dụng cho đơn vị dự toán cấp trên và đơn vị dự toán cấp I)\n\nI- Số liệu tổng hợp:\n\nĐơn vị: Đồng\n\n| Số TT | Chỉ tiêu | Dự toán năm trước chuyển sang (1) | Dự toán được giao trong năm (2) | Dự toán được sử dụng trong năm | Quyết toán năm | So sánh QT/DT được giao | So sánh QT/DT được giao | So sánh QT/DT được sử dụng | So sánh QT/DT được sử dụng |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Số TT | Chỉ tiêu | Dự toán năm trước chuyển sang (1) | Dự toán được giao trong năm (2) | Dự toán được sử dụng trong năm | Quyết toán năm | Tuyệt đối | Tương đối (%) | Tuyệt đối | Tương đối (%) |\n| A | B | 1 | 2 | 3=2+1 | 4 | 5 = 4-2 | 6 = 4/2 | 7 = 4-3 | 8=4/3 |\n|  | Tổng số: |  |  |  |  |  |  |  |  |\n| A | Chi thường xuyên |  |  |  |  |  |  |  |  |\n| 1 | Chi quốc phòng |  |  |  |  |  |  |  |  |\n| 2 | Chi an ninh và trật tự an toàn XH |  |  |  |  |  |  |  |  |\n| 3 | Chi Giáo dục - đào tạo và dạy nghề |  |  |  |  |  |  |  |  |\n| 4 | Chi Khoa học và công nghệ |  |  |  |  |  |  |  |  |\n| 5 | Chi Y tế, dân số và gia đình |  |  |  |  |  |  |  |  |\n| 6 | Chi Văn hóa thông tin |  |  |  |  |  |  |  |  |\n| 7 | Chi Phát thanh, truyền hình, thông tấn |  |  |  |  |  |  |  |  |\n| 8 | Chi Thể dục thể thao |  |  |  |  |  |  |  |  |\n| 9 | Chi Bảo vệ môi trường |  |  |  |  |  |  |  |  |\n| 10 | Chi các hoạt động kinh tế |  |  |  |  |  |  |  |  |\n| 11 | Chi hoạt động của các cơ quan quản lý nhà nước, đảng, đoàn thể |  |  |  |  |  |  |  |  |\n| 12 | Chi bảo đảm xã hội |  |  |  |  |  |  |  |  |\n| 13 | Chi khác |  |  |  |  |  |  |  |  |\n| B | Chi chương trình mục tiêu quốc gia, chương trình mục tiêu, chương trình, dự án quốc gia |  |  |  |  |  |  |  |  |\n|  | (Chi tiết từng chương trình, dự án quốc gia) |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_BIEU_SO_03-137-2017-TT-BTC_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_BIEU_SO_03-137-2017-TT-BTC_chunk_0003",
+            "char_count": 1842,
+            "source_file": "maubaocao/MAU BIEU SO 03-137-2017-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 03-137-2017-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:19:07",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_03-137-2017-TT-BTC_chunk_0003",
+        "doc_id": "maubaocao_MAU_BIEU_SO_03-137-2017-TT-BTC",
+        "text": "|\n| B | Chi chương trình mục tiêu quốc gia, chương trình mục tiêu, chương trình, dự án quốc gia |  |  |  |  |  |  |  |  |\n|  | (Chi tiết từng chương trình, dự án quốc gia) |  |  |  |  |  |  |  |  |\n\nII- Thuyết minh:\n\n1. Nguyên nhân của các biến động quyết toán tăng, giảm so với dự toán được giao (khách quan, chủ quan, chính sách thay đổi, công việc phát sinh đột xuất...)\n\n2. Đánh giá kết quả, hiệu quả chi ngân sách gắn với kết quả thực hiện nhiệm vụ của đơn vị, lĩnh vực, chương trình, mục tiêu được giao phụ trách.\n\n| NGƯỜI LẬP BIỂU<br>(Ký, họ và tên) | PHỤ TRÁCH KẾ TOÁN<br>(Ký, họ và tên) | Ngày  tháng  năm<br>THỦ TRƯỞNG ĐƠN VỊ<br>(Ký, họ tên, đóng dấu) |\n| --- | --- | --- |\n\nGhi chú: (1) Dự toán năm trước chuyển sang bao gồm: số dư dự toán và số dư tạm ứng năm trước được chuyển sang năm sau.\n\n(2) Dự toán được giao trong năm bao gồm: dự toán giao đầu năm, dự toán bổ sung, điều chỉnh tăng, giảm trong năm.\n\nNguồn: Thông tư 137/2017/TT-BTC",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_BIEU_SO_03-137-2017-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 950,
+            "source_file": "maubaocao/MAU BIEU SO 03-137-2017-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 03-137-2017-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:19:07",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

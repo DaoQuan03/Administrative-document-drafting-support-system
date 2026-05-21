@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_4-30-2014-TT-BYT1_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_4-30-2014-TT-BYT1",
+        "text": "PHỤ LỤC 4\n\nPHIẾU TIẾP NHẬN HỒ SƠ ĐỀ NGHỊ ĐỀ NGHỊ KHÁM BỆNH, CHỮA BỆNH NHÂN ĐẠO\n(Ban hành kèm theo Thông tư số 30/2014/TT-BYT Ngày 28 tháng 8 năm 2014 của Bộ trưởng Bộ Y tế)\n\n| ……1…..<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số:         /PTN-..2 …. | ……3……, ngày  tháng  năm 20….. |\n\nPHIẾU TIẾP NHẬN\n\nHồ sơ đề nghị khám bệnh, chữa bệnh nhân đạo\n\nHọ và tên:\n\nChức vụ:\n\nĐơn vị công tác:\n\nĐã tiếp nhận hồ sơ đề nghị khám bệnh, chữa bệnh nhân đạo của ….4. ……bao gồm:\n\n| 1. | ………………………………………5…………………………………………………….. |  |\n| --- | --- | --- |\n| 2. | …………………………………………………………………………………………….. |  |\n| 3. | …………………………………………………………………………………………….. |  |\n| 4. | …………………………………………………………………………………………….. |  |\n| 5. | …………………………………………………………………………………………….. |  |\n| ….. | …………………………………………………………………………………………….. |  |\n\nNgày hẹn trả kết quả:\n\n|  | NGƯỜI TIẾP NHẬN HỒ SƠ<br>(Ký, ghi rõ chức danh, họ và tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_4-30-2014-TT-BYT1_chunk_0002",
+            "char_count": 964,
+            "source_file": "mauphieu/PHU LUC 4-30-2014-TT-BYT1.doc",
+            "file_name": "PHU LUC 4-30-2014-TT-BYT1.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:37:52",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_4-30-2014-TT-BYT1_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_4-30-2014-TT-BYT1",
+        "text": "| …………………………………………………………………………………………….. |  |\n| ….. | …………………………………………………………………………………………….. |  |\n\nNgày hẹn trả kết quả:\n\n|  | NGƯỜI TIẾP NHẬN HỒ SƠ<br>(Ký, ghi rõ chức danh, họ và tên) |\n| --- | --- |\n\n| Tiếp nhận hồ sơ bổ sung lần: | ngày | tháng | năm | Ký nhận |\n| --- | --- | --- | --- | --- |\n| Tiếp nhận hồ sơ bổ sung lần: | ngày | tháng | năm | Ký nhận |\n| Tiếp nhận hồ sơ bổ sung lần: | ngày | tháng | năm | Ký nhận |\n\n1 Tên cơ quan tiếp nhận hồ sơ đề nghị khám bệnh, chữa bệnh nhân đạo\n\n2 Chữ viết tắt tên cơ quan tiếp nhận hồ sơ đề nghị khám bệnh, chữa bệnh nhân đạo\n\n3 Địa danh\n\n4 Tên cá nhân, tổ chức đề nghị khám bệnh, chữa bệnh nhân đạo\n\n5 Liệt kê đầy đủ các giấy tờ có trong hồ sơ.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_4-30-2014-TT-BYT1_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 695,
+            "source_file": "mauphieu/PHU LUC 4-30-2014-TT-BYT1.doc",
+            "file_name": "PHU LUC 4-30-2014-TT-BYT1.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:37:52",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

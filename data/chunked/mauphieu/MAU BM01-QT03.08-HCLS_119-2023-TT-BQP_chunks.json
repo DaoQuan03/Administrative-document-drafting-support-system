@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_BM01-QT03_08-HCLS_119-2023-TT-BQP_chunk_0001",
+        "doc_id": "mauphieu_MAU_BM01-QT03_08-HCLS_119-2023-TT-BQP",
+        "text": "Biểu mẫu BM01-QT03.08/HCLS: Phiếu phân tích và nhận định kết quả\n\nPHIẾU PHÂN TÍCH VÀ NHẬN ĐỊNH KẾT QUẢ\n\nKý hiệu mẫu:\n\nThời gian thực hiện:\n\nNgười thực hiện:\n\n1. Phần mềm\n\n- Phần mềm phân tích trình tự (Sequencing Analysis 6) \t\tLicense:\n\n- Phần mềm trình tự (Sequencher v5.1) \t\t\t\tLicense:\n\n2. Kết quả phân tích bằng phần mềm phân tích trình tự (Sequencing Analysis 6)\n\n3. Kết quả phân tích bằng phần mềm trình tự (Sequencher v5.1)\n\n4. Nhận định kết quả./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 454,
+            "source_file": "mauphieu/MAU BM01-QT03.08-HCLS_119-2023-TT-BQP.doc",
+            "file_name": "MAU BM01-QT03.08-HCLS_119-2023-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:16:14",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_03-PLPS-TTBT-QD-61-QD-VSD_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_03-PLPS-TTBT-QD-61-QD-VSD",
+        "text": "Mẫu 03/PLPS-TTBT\n\n| TRUNG TÂM<br>LƯU KÝ CHỨNG KHOÁN VIỆT NAM<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n\nTHÔNG BÁO TỔNG HỢP KẾT QUẢ GIAO DỊCH HỢP ĐỒNG TƯƠNG LAI\n\nTại ngày:\n\nTVBT:\n\n| Tài khoản giao dịch | Ngày giao dịch | Ngày thanh toán | Số xác nhận | Mã hợp đồng | Tên hợp đồng | Số lượng hợp đồng | Giá khớp<br> (VNĐ) | Giá trị khớp<br>(VNĐ) | Tài khoản đối ứng |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_03-PLPS-TTBT-QD-61-QD-VSD_chunk_0002",
+            "char_count": 883,
+            "source_file": "thongbao/MAU SO 03-PLPS-TTBT-QD-61-QD-VSD.doc",
+            "file_name": "MAU SO 03-PLPS-TTBT-QD-61-QD-VSD.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:41:33",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_03-PLPS-TTBT-QD-61-QD-VSD_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_03-PLPS-TTBT-QD-61-QD-VSD",
+        "text": "|  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n\n| NGƯỜI LẬP<br>(Ký, ghi rõ họ tên) | ……, Ngày ….. tháng …. năm …..<br>TUQ. TỔNG GIÁM ĐỐC<br>TRƯỞNG PHÒNG TTBT<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_03-PLPS-TTBT-QD-61-QD-VSD_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 359,
+            "source_file": "thongbao/MAU SO 03-PLPS-TTBT-QD-61-QD-VSD.doc",
+            "file_name": "MAU SO 03-PLPS-TTBT-QD-61-QD-VSD.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:41:33",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

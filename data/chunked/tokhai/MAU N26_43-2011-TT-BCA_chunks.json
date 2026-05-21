@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_N26_43-2011-TT-BCA_chunk_0001",
+        "doc_id": "tokhai_MAU_N26_43-2011-TT-BCA",
+        "text": "Mẫu (Form) N26\n\nTỜ KHAI ĐỀ NGHỊ CẤP GIẤY PHÉP THAM QUAN DU LỊCH\nApplication for a sight seeing permit\n\n1. Họ tên (chữ in hoa):\nFull name (in capital letters)\n\nTên khác (nếu có):\nOther name (if any)\n\n2. Sinh ngày … tháng … năm ………………….   Giới tính: Nam □        Nữ □\nDate of birth (day, month, year)                              Sex       Male         Female\n\n3. Quốc tịch gốc: ………………………. Quốc tịch hiện nay:\nNationality at birth                                  Nationality at present\n\n4. Nghề nghiệp: ………………………… Nơi làm việc:\nOccupation                                             Business/work address\n\n5. Hộ chiếu số/ giấy tờ có giá trị thay hộ chiếu số:\nPassport number or Document in lieu of a passport (type and number)\n\n6. Đến từ nước/lãnh thổ ……………………..     Trên máy bay/tàu biển số\nArriving from country/ territory                          Arrival Plane/ Vessel No:\n\n7. Quá cảnh cửa khẩu ……………………………….\nTransit Entry and Exit Port in Viet Nam",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_N26_43-2011-TT-BCA_chunk_0002",
+            "char_count": 950,
+            "source_file": "tokhai/MAU N26_43-2011-TT-BCA.doc",
+            "file_name": "MAU N26_43-2011-TT-BCA.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:44:16",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_N26_43-2011-TT-BCA_chunk_0002",
+        "doc_id": "tokhai_MAU_N26_43-2011-TT-BCA",
+        "text": "……………………..     Trên máy bay/tàu biển số\nArriving from country/ territory                          Arrival Plane/ Vessel No:\n\n7. Quá cảnh cửa khẩu ……………………………….\nTransit Entry and Exit Port in Viet Nam\n\nTừ (form) ………. giờ (hour) …………. ngày (day, month, year) ……../……/…………..\nTime and date of Plane/ Vessel arrival\n\nĐến (until) ……….. giờ (hour) …………. ngày (day, month, year) ……../……./…………..\nTime and date of Plane/ Vessel departure\n\n8. Sẽ đi đến nước/lãnh thổ ………………..  Trên máy bay/tàu biển số\nNext destination Country/Territory                Departure Plane/ Vessel No:\n\n9. Đề nghị được tham quan du lịch Việt Nam từ ngày …../…../….. đến ngày …../…../…..\nI request for a sight seeing permit in Viet Nam from the date until the date (day, month, year)\n\ntheo chương trình du lịch của Công ty du lịch:\nThis is a tour organized by the host travel agency (state full name)",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "tokhai_MAU_N26_43-2011-TT-BCA_chunk_0001",
+            "next_chunk_id": "tokhai_MAU_N26_43-2011-TT-BCA_chunk_0003",
+            "char_count": 866,
+            "source_file": "tokhai/MAU N26_43-2011-TT-BCA.doc",
+            "file_name": "MAU N26_43-2011-TT-BCA.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:44:16",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_N26_43-2011-TT-BCA_chunk_0003",
+        "doc_id": "tokhai_MAU_N26_43-2011-TT-BCA",
+        "text": "a sight seeing permit in Viet Nam from the date until the date (day, month, year)\n\ntheo chương trình du lịch của Công ty du lịch:\nThis is a tour organized by the host travel agency (state full name)\n\nTôi xin cam đoan thực hiện đúng quy định của pháp luật Việt Nam.\nI swear I will comply with the current Regulations and laws of Viet Nam.\n\n|  | Làm tại: ……………. ngày … tháng … năm ………..<br>Place and date of the application (day, month, year)<br>Người đề nghị (ký, ghi rõ họ tên)<br>Signature and full name of applicant |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "tokhai_MAU_N26_43-2011-TT-BCA_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 533,
+            "source_file": "tokhai/MAU N26_43-2011-TT-BCA.doc",
+            "file_name": "MAU N26_43-2011-TT-BCA.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:44:16",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

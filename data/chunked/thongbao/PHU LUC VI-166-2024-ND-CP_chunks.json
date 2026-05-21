@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_PHU_LUC_VI-166-2024-ND-CP_chunk_0001",
+        "doc_id": "thongbao_PHU_LUC_VI-166-2024-ND-CP",
+        "text": "PHỤ LỤC VI\n\nMẪU THÔNG BÁO CẤP PHÔI GIẤY CHỨNG NHẬN KIỂM ĐỊNH, TEM KIỂM ĐỊNH\n(Kèm theo Nghị định số 166/2024/NĐ-CP ngày 26 tháng 12 năm 2024 của Chính phủ)\n\n| BỘ GIAO THÔNG VẬN TẢI<br>CỤC ĐĂNG KIỂM VIỆT NAM<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: ... | ..., ngày ... tháng ... năm ... |\n\nTHÔNG BÁO CẤP CẤP PHÔI\nGIẤY CHỨNG NHẬN KIỂM ĐỊNH, TEM KIỂM ĐỊNH\n\nKính gửi: Cơ sở đăng kiểm ...\n\nCăn cứ Nghị định số ... ngày ... tháng ... năm 2024 của Chính phủ quy định về điều kiện kinh doanh dịch vụ kiểm định xe cơ giới; tổ chức, hoạt động của cơ sở đăng kiểm; niên hạn sử dụng của xe cơ giới;\n\nCăn cứ theo số lượng phôi phôi giấy chứng nhận kiểm định, tem kiểm định tồn của cơ sở đăng kiểm.\n\nCục Đăng kiểm Việt Nam thông báo đến Cơ sở đăng kiểm ... về việc cấp phôi giấy chứng nhận kiểm định, tem kiểm định như sau:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_PHU_LUC_VI-166-2024-ND-CP_chunk_0002",
+            "char_count": 888,
+            "source_file": "thongbao/PHU LUC VI-166-2024-ND-CP.doc",
+            "file_name": "PHU LUC VI-166-2024-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:35:03",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_PHU_LUC_VI-166-2024-ND-CP_chunk_0002",
+        "doc_id": "thongbao_PHU_LUC_VI-166-2024-ND-CP",
+        "text": "phôi giấy chứng nhận kiểm định, tem kiểm định tồn của cơ sở đăng kiểm.\n\nCục Đăng kiểm Việt Nam thông báo đến Cơ sở đăng kiểm ... về việc cấp phôi giấy chứng nhận kiểm định, tem kiểm định như sau:\n\n| TT | Loại giấy chứng nhận kiểm định, tem kiểm định | Số lượng | Ghi chú |\n| --- | --- | --- | --- |\n| 1. |  |  |  |\n| 2. |  |  |  |\n| 3. |  |  |  |\n| ... |  |  |  |\n\nCục Đăng kiểm Việt Nam đề nghị Cơ sở đăng kiểm ... thanh toán theo Phiếu tính tiền phôi giấy chứng nhận kiểm định, tem kiểm định (gửi kèm theo thông báo này).\n\nTrân trọng./.\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: VT. | ...1...<br>(Ký và đóng dấu) |\n| --- | --- |\n\n___\n\nHướng dẫn ghi:\n\nLãnh đạo Cục Đăng kiểm Việt Nam",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_PHU_LUC_VI-166-2024-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 680,
+            "source_file": "thongbao/PHU LUC VI-166-2024-ND-CP.doc",
+            "file_name": "PHU LUC VI-166-2024-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:35:03",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

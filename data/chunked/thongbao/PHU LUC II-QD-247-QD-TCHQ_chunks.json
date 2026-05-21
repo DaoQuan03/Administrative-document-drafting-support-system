@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_PHU_LUC_II-QD-247-QD-TCHQ_chunk_0001",
+        "doc_id": "thongbao_PHU_LUC_II-QD-247-QD-TCHQ",
+        "text": "PHỤ LỤC II\n\nMẪU THÔNG BÁO SỰ CỐ\n(Kèm theo Quyết định số 247/QĐ-TCHQ ngày 02 tháng 03 năm 2022 của Tổng cục trưởng Tổng cục Hải quan)\n\n| TÊN DOANH NGHIỆP...<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ... |  |\n\nTHÔNG BÁO\n\nVề sự cố hệ thống ca-mê-ra giám sát của doanh nghiệp chế xuất\n\nCăn cứ quy định tại Quyết định số .../QĐ-TCHQ ngày .../.../2022 của Tổng cục Hải quan, Công ty ... thông báo sự cố hệ thống ca-mê-ra giám sát tại DNCX đối với hàng hóa chịu sự giám sát của cơ quan Hải quan như sau:\n\n1. Tên, địa chỉ, mã số thuế của Doanh nghiệp chịu sự giám sát của cơ quan Hải quan:\n\n...\n\n2. Mô tả hiện trạng, nguyên nhân sự cố kỹ thuật (vị trí, số lượng theo sơ đồ đã cung cấp cho cơ quan hải quan):\n\n...\n\n3. Ảnh hưởng của sự cố liên quan đến công tác giám sát của cơ quan Hải quan:\n\n...\n\n4. Thời gian dự kiến để khắc phục xong sự cố:\n\n...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_PHU_LUC_II-QD-247-QD-TCHQ_chunk_0002",
+            "char_count": 917,
+            "source_file": "thongbao/PHU LUC II-QD-247-QD-TCHQ.doc",
+            "file_name": "PHU LUC II-QD-247-QD-TCHQ.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:28:11",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_PHU_LUC_II-QD-247-QD-TCHQ_chunk_0002",
+        "doc_id": "thongbao_PHU_LUC_II-QD-247-QD-TCHQ",
+        "text": "trí, số lượng theo sơ đồ đã cung cấp cho cơ quan hải quan):\n\n...\n\n3. Ảnh hưởng của sự cố liên quan đến công tác giám sát của cơ quan Hải quan:\n\n...\n\n4. Thời gian dự kiến để khắc phục xong sự cố:\n\n...\n\n5. Đầu mối kỹ thuật của nhân viên kỹ thuật của doanh nghiệp trong trường hợp cần liên hệ:\n\n...\n\nCông ty ... thông báo để quý Chi cục Hải quan ... được biết./.\n\n| Nơi nhận:<br>- Chi cục Hải quan...<br>- Lưu: VT... | ..., ngày...tháng...năm...<br>ĐẠI DIỆN THEO PHÁP LUẬT<br>CỦA DOANH NGHIỆP<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_PHU_LUC_II-QD-247-QD-TCHQ_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 538,
+            "source_file": "thongbao/PHU LUC II-QD-247-QD-TCHQ.doc",
+            "file_name": "PHU LUC II-QD-247-QD-TCHQ.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:28:11",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

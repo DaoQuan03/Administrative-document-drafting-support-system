@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_TK8_43-2011-TT-BCA_chunk_0001",
+        "doc_id": "tokhai_MAU_TK8_43-2011-TT-BCA",
+        "text": "Mẫu TK8\n\n| CÔNG AN TỈNH (TP)…….<br>PHÒNG QUẢN LÝ XNC<br>Số hồ sơ: | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n\n| TỜ KHAI<br>ĐỀ NGHỊ CẤP GIẤY THÔNG HÀNH NHẬP XUẤT CẢNH | Ảnh 4x6 cm mới chụp mặt nhìn thẳng đầu để trần <br>(1) |\n| --- | --- |\n\n1- Họ và tên (chữ in hoa):... 2- Nam □        Nữ □\n\n3- Sinh ngày ... tháng ... năm ... Nơi sinh (tỉnh, TP)...\n\n| 4- Giấy CMND số: |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\nNgày cấp: ... /... /... Nơi cấp (tỉnh, TP)...\n\n5- Dân tộc... 6- Tôn giáo... 7- Số điện thoại:...\n\n8- Địa chỉ thường trú  □  tạm trú  □  Số nhà ... đường phố (thôn)...\n\nphường (xã)... quận (huyện)... thành phố (tỉnh)...\n\n9- Nghề nghiệp:... 10- Tên, địa chỉ cơ quan hoặc nơi làm việc...\n\n...\n\n11- Mục đích xuất cảnh:...\n\n12- Những điều muốn ghi thêm (nếu có):...\n\n...\n\nTôi xin chịu trách nhiệm trước pháp luật về những lời khai trên./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_TK8_43-2011-TT-BCA_chunk_0002",
+            "char_count": 956,
+            "source_file": "tokhai/MAU TK8_43-2011-TT-BCA.doc",
+            "file_name": "MAU TK8_43-2011-TT-BCA.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:05:25",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_TK8_43-2011-TT-BCA_chunk_0002",
+        "doc_id": "tokhai_MAU_TK8_43-2011-TT-BCA",
+        "text": "10- Tên, địa chỉ cơ quan hoặc nơi làm việc...\n\n...\n\n11- Mục đích xuất cảnh:...\n\n12- Những điều muốn ghi thêm (nếu có):...\n\n...\n\nTôi xin chịu trách nhiệm trước pháp luật về những lời khai trên./.\n\n| Xác nhận của Công an xã, phường, thị trấn nơi trú (3)<br>(Ký và ghi rõ họ tên, chức vụ, đóng dấu) | Làm tại …… ngày … tháng … năm ……<br>Người đề nghị (2)<br>(Ký và ghi rõ họ tên) |\n| --- | --- |\n\nGhi chú:\n\n(1) Dán vào khung 1 ảnh, kèm theo 01 ảnh để cấp giấy thông hành.\n\n(2) Trẻ em dưới 14 tuổi phải do cha, mẹ hoặc người đỡ đầu khai và ký thay.\n\n(3) Xác nhận của Công an xã, phường, thị trấn nơi cư trú trong trường hợp người xin cấp Giấy thông hành nhập xuất cảnh là trẻ em dưới 14 tuổi.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "tokhai_MAU_TK8_43-2011-TT-BCA_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 688,
+            "source_file": "tokhai/MAU TK8_43-2011-TT-BCA.doc",
+            "file_name": "MAU TK8_43-2011-TT-BCA.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:05:25",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

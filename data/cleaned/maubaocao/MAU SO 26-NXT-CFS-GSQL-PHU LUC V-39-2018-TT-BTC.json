@@ -1,0 +1,10 @@
+{
+    "content": "Mẫu số 26/NXT-CFS/GSQL\n\nTÊN KHO CFS\n\nBÁO CÁO HÀNG HÓA NHẬP, XUẤT, TỒN KHO CFS\n\n| TT | Tên hàng | Nhập kho | Nhập kho | Nhập kho | Xuất kho | Xuất kho | Xuất kho | Tồn kho | Tồn kho |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | Tên hàng | Số lượng | Số, ngày tờ khai xuất khẩu hoặc vận đơn hàng nhập | Hải quan đăng ký tờ khai hoặc hãng tàu | Ngày xuất kho | Tên phương tiện XC | Cửa khẩu xuất | Số lượng | Số ngày tồn |\n| 1 |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |  |  |\n| 4 |  |  |  |  |  |  |  |  |  |\n| 5 |  |  |  |  |  |  |  |  |  |\n| 6 |  |  |  |  |  |  |  |  |  |\n| 7 |  |  |  |  |  |  |  |  |  |\n| 8 |  |  |  |  |  |  |  |  |  |\n| 9 |  |  |  |  |  |  |  |  |  |\n| 10 |  |  |  |  |  |  |  |  |  |\n\nDOANH NGHIỆP KINH DOANH\n\nDỊCH VỤ KHO CFS\n\n(Ký tên, đóng dấu)",
+    "metadata": {
+        "source_file": "maubaocao/MAU SO 26-NXT-CFS-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+        "file_name": "MAU SO 26-NXT-CFS-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+        "folder": "maubaocao",
+        "original_extension": ".doc",
+        "cleaned_at": "2026-05-21T03:35:43"
+    }
+}

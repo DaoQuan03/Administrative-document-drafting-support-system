@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_Mau_so_03E_chunk_0001",
+        "doc_id": "maubaocao_Mau_so_03E",
+        "text": "| UBND TỈNH, THÀNH PHỐ...<br>ĐỐI TƯỢNG BÁO CÁO ... | Mẫu số 03E |\n| --- | --- |\n\nBÁO CÁO TỔNG HỢP TÌNH HÌNH QUẢN LÝ, SỬ DỤNG SỐ TIỀN THU TỪ XỬ LÝ TÀI SẢN KẾT CẤU HẠ TẦNG CẤP NƯỚC SẠCH\n\nKỳ báo cáo …………….\n\n| STT | Đơn vị được giao quản lý, sử dụng | Tổng số công trình được giao quản lý | Số lượng công trình xử lý | Số lượng công trình xử lý | Số lượng công trình xử lý | Số tiền thu được (đồng) | Chi phí có liên quan (đồng) | Số tiền nộp NSNN (đồng) | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Đơn vị được giao quản lý, sử dụng | Tổng số công trình được giao quản lý | Tổng số | Thanh lý | Khác | Số tiền thu được (đồng) | Chi phí có liên quan (đồng) | Số tiền nộp NSNN (đồng) | Ghi chú |\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 (7-8) | 10 |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  | Tổng cộng |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_Mau_so_03E_chunk_0002",
+            "char_count": 977,
+            "source_file": "maubaocao/Mau so 03E.doc",
+            "file_name": "Mau so 03E.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:28:08",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_Mau_so_03E_chunk_0002",
+        "doc_id": "maubaocao_Mau_so_03E",
+        "text": "|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  | Tổng cộng |  |  |  |  |  |  |  |  |\n\n| ..., ngày ... tháng ... năm ...<br>XÁC NHẬN CỦA CƠ QUAN QUẢN LÝ CẤP TRÊN (nếu có)<br>(Ký, ghi rõ họ tên và đóng dấu) | ..., ngày... tháng... năm ...<br>THỦ TRƯỞNG ĐƠN VỊ BÁO CÁO<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\nNguồn: Nghị định 43/2022/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_Mau_so_03E_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 461,
+            "source_file": "maubaocao/Mau so 03E.doc",
+            "file_name": "Mau so 03E.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:28:08",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

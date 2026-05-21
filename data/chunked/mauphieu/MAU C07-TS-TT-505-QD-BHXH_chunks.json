@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_C07-TS-TT-505-QD-BHXH_chunk_0001",
+        "doc_id": "mauphieu_MAU_C07-TS-TT-505-QD-BHXH",
+        "text": "### Bảng tính: Sheet1\n\n| BHXH ……….. |  |  |  |\n| --- | --- | --- | --- |\n| BHXH ……….. |  |  |  |\n| PHIẾU SỬ DỤNG PHÔI THẺ BHYT |  |  |  |\n| Số:..., ngày:... |  |  |  |\n| Họ tên cán bộ phát hành: |  |  |  |\n| Phôi thẻ BHYT có trước khi in: |  | …….. |  |\n| Phôi thẻ BHYT còn sau khi in: |  | …….. |  |\n| Tên các đơn vị cấp thẻ BHYT |  |  |  |\n| Mã các đơn vị |  |  |  |\n| Nội dung: |  |  |  |\n| STT | Diễn giải | Số lượng |  |\n| 1 | 2 | 3 |  |\n| 1 | Số phôi sử dụng |  |  |\n| 2 | Tăng mới |  |  |\n| 3 | Cấp lại |  |  |\n| 4 | Cấp đổi do hỏng |  |  |\n| 5 | Cấp đổi do điều chỉnh thông tin |  |  |\n| 6 | Cấp đổi nơi KCB BĐ |  |  |\n| 7 | Cấp đổi quyền lợi |  |  |\n| 8 | Cấp đổi do nguyên nhân khác |  |  |\n| 9 | Hỏng do nhà in |  |  |\n| 10 | Hỏng do in |  |  |\n| 11 | Mất do bảo quản |  |  |\n| 12 | Hỏng do bảo quản |  |  |\n| 13 | Giảm khác |  |  |\n|  | Nguồn: Quyết định 505/QĐ-BHXH |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 886,
+            "source_file": "mauphieu/MAU C07-TS-TT-505-QD-BHXH.xls",
+            "file_name": "MAU C07-TS-TT-505-QD-BHXH.xls",
+            "folder": "mauphieu",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-21T01:17:29",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

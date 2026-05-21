@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_01-PHU_LUC_VI-54-2017-NDCP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_01-PHU_LUC_VI-54-2017-NDCP",
+        "text": "Mẫu số 01\n\n| TÊN CƠ SỞ ĐỀ NGHỊ<br>Số: ……….……..<br>--------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n\nĐƠN ĐỀ NGHỊ\nXÁC NHẬN NỘI DUNG THÔNG TIN THUỐC(1)/QUẢNG CÁO THUỐC\n\nKính gửi:…………………………………\n\n1.Tên cơ sở đề nghị xác nhận nội dung thông tin thuốc(1)/quảng cáo thuốc(2):\n\n2. Địa chỉ:\n\n3. Số điện thoại, Fax, E-mail:\n\n4. Họ, tên, số điện thoại của người liên hệ khi cần:\n\n5. Danh mục thuốc đề nghị xác nhận nội dung thông tin thuốc(1)/quảng cáo thuốc(2):\n\n| Số TT | Tên thuốc | Số giấy đăng ký lưu hành thuốc |\n| --- | --- | --- |\n| 1 |  |  |\n| 2 |  |  |\n| 3 |  |  |\n\n6. Tài liệu kèm theo:\n\n…………………………………………………………………………………………………………….\n\n…………………………………………………………………………………………………………….\n\n…………………………………………………………………………………………………………….\n\n7. Cam kết của cơ sở:\n\nCơ sở đã nghiên cứu và cam kết tuân thủ đầy đủ các quy định của có liên quan trong lĩnh vực dược./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_01-PHU_LUC_VI-54-2017-NDCP_chunk_0002",
+            "char_count": 905,
+            "source_file": "Maudon/MAU SO 01-PHU LUC VI-54-2017-NDCP.doc",
+            "file_name": "MAU SO 01-PHU LUC VI-54-2017-NDCP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:18:40",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_01-PHU_LUC_VI-54-2017-NDCP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_01-PHU_LUC_VI-54-2017-NDCP",
+        "text": "Cam kết của cơ sở:\n\nCơ sở đã nghiên cứu và cam kết tuân thủ đầy đủ các quy định của có liên quan trong lĩnh vực dược./.\n\n|  | Tên tỉnh/thành phố, ngày ... tháng... năm...<br>Giám đốc cơ sở hoặc người được ủy quyền<br>(Ký và ghi rõ họ, tên; đóng dấu) |\n| --- | --- |\n\nGhi chú:\n\n(1) Áp dụng đối với Đề nghị xác nhận nội dung thông tin thuốc;\n\n(2) Áp dụng đối với Đề nghị xác nhận nội dung quảng cáo thuốc.\n\nNguồn: Nghị định 54/2017/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_01-PHU_LUC_VI-54-2017-NDCP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 435,
+            "source_file": "Maudon/MAU SO 01-PHU LUC VI-54-2017-NDCP.doc",
+            "file_name": "MAU SO 01-PHU LUC VI-54-2017-NDCP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:18:40",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

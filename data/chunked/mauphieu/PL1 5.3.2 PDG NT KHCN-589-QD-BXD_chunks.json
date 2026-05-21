@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PL1_5_3_2_PDG_NT_KHCN-589-QD-BXD_chunk_0001",
+        "doc_id": "mauphieu_PL1_5_3_2_PDG_NT_KHCN-589-QD-BXD",
+        "text": "PL1 5.3.2 PĐG NT KHCN\n\nPHIẾU CHO ĐIỂM ĐÁNH GIÁ\nCỦA HỘI ĐỒNG TƯ VẤN ĐÁNH GIÁ NGHIỆM THU KẾT QUẢ THỰC HIỆN NHIỆM VỤ KH&CN CẤP BỘ\n\n1. Thông tin chu:\n\nTên nhiệm vụ: …\n\nMã số: …\n\nTổ chức chủ trì: …\n\nChủ nhiệm nhiệm vụ: …\n\n2. Quyết định thành lập Hội đồng số: …/QĐ-BXD ngày …/…/… của Bộ trưởng Bộ Xây dựng.\n\n3. Điểm đánh giá:\n\n| - Trình độ Khoa học: | 1 2 3 4 5 6 7 8 9 10 điểm |\n| --- | --- |\n| - Tính thực tiễn: | 1 2 3 4 5 6 7 8 9 10 điểm |\n| - Tính hiệu quả (kinh tế, kỹ thuật, xã hội): | 1 2 3 4 5 6 7 8 9 10 điểm |\n| - Mức độ hoàn thành mục tiêu nhiệm vụ: | 1 2 3 4 5 6 7 8 9 10 điểm |\n\n4. Kiến nghị:\n\n- Không cần họp lại Hội đồng:\n\n- Cần họp lại Hội đồng để xét thêm:\n\n| Người đánh giá<br>(ký và ghi rõ họ, tên) | Hà Nội, ngày … tháng … năm 20...<br>Thư ký Hội đồng<br>(ký và ghi rõ họ, tên) |\n| --- | --- |\n\nGhi chú:\n\nDưới 20 điểm: Không đạt\n\nTừ 20,1 đến 26 điểm: Đạt – Xếp loại trung bình\n\nTừ 26,1 đến 34,9 điểm: Xếp loại khá",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PL1_5_3_2_PDG_NT_KHCN-589-QD-BXD_chunk_0002",
+            "char_count": 928,
+            "source_file": "mauphieu/PL1 5.3.2 PDG NT KHCN-589-QD-BXD.doc",
+            "file_name": "PL1 5.3.2 PDG NT KHCN-589-QD-BXD.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:54:18",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PL1_5_3_2_PDG_NT_KHCN-589-QD-BXD_chunk_0002",
+        "doc_id": "mauphieu_PL1_5_3_2_PDG_NT_KHCN-589-QD-BXD",
+        "text": "tháng … năm 20...<br>Thư ký Hội đồng<br>(ký và ghi rõ họ, tên) |\n| --- | --- |\n\nGhi chú:\n\nDưới 20 điểm: Không đạt\n\nTừ 20,1 đến 26 điểm: Đạt – Xếp loại trung bình\n\nTừ 26,1 đến 34,9 điểm: Xếp loại khá\n\nTừ 35 đến 40 điểm: Xếp loại xuất sắc – Khi đơn vị nộp đúng hạn hồ sơ nghiệm thu.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PL1_5_3_2_PDG_NT_KHCN-589-QD-BXD_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 280,
+            "source_file": "mauphieu/PL1 5.3.2 PDG NT KHCN-589-QD-BXD.doc",
+            "file_name": "PL1 5.3.2 PDG NT KHCN-589-QD-BXD.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:54:18",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

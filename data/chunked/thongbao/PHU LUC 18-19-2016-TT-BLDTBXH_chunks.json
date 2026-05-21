@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_PHU_LUC_18-19-2016-TT-BLDTBXH_chunk_0001",
+        "doc_id": "thongbao_PHU_LUC_18-19-2016-TT-BLDTBXH",
+        "text": "PHỤ LỤC 18\n\nMẪU THÔNG BÁO KẾT QUẢ KIỂM TRA KIẾN THỨC, KIỂM TRA THỰC HÀNH CỦA NGƯỜI THAM DỰ TRONG KỲ ĐÁNH GIÁ KỸ NĂNG NGHỀ QUỐC GIA\n(Ban hành kèm theo Thông tư số 19/2016/TT-BLĐTBXH ngày 28 tháng 6 năm 2016 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội)\n\n| …..(1)……<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n\nTHÔNG BÁO KẾT QUẢ\n\nKIỂM TRA KIẾN THỨC, KIỂM TRA THỰC HÀNH CỦA NGƯỜI THAM DỰ TRONG KỲ ĐÁNH GIÁ KỸ NĂNG NGHỀ QUỐC GIA\nKỳ đánh giá kỹ năng nghề quốc gia …(2)… năm ...\nTừ ngày ... tháng ... đến ngày ... tháng ...\n\nI. Nghề ………………………(3) ………………………\n\n1. Bậc trình độ kỹ năng nghề ...(4)...\n\n| Số TT | Số hiệu kiểm tra | Kết quả kiểm tra kiến thức(5) | Kết quả kiểm tra thực hành(5) | Ghi chú |\n| --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |\n| 2 |  |  |  |  |\n| … |  |  |  |  |\n\n2. …(6)…\n\n…(7)…\n\nII. Nghề …(3)…\n\n…(8)…\n\nIII. …(9)…\n\n|  | …..(10)……, ngày … tháng ... năm 20 …..<br>(11)<br>(12)<br>(13) |\n| --- | --- |\n\n___",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_PHU_LUC_18-19-2016-TT-BLDTBXH_chunk_0002",
+            "char_count": 996,
+            "source_file": "thongbao/PHU LUC 18-19-2016-TT-BLDTBXH.doc",
+            "file_name": "PHU LUC 18-19-2016-TT-BLDTBXH.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:24:03",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_PHU_LUC_18-19-2016-TT-BLDTBXH_chunk_0002",
+        "doc_id": "thongbao_PHU_LUC_18-19-2016-TT-BLDTBXH",
+        "text": "|\n| 1 |  |  |  |  |\n| 2 |  |  |  |  |\n| … |  |  |  |  |\n\n2. …(6)…\n\n…(7)…\n\nII. Nghề …(3)…\n\n…(8)…\n\nIII. …(9)…\n\n|  | …..(10)……, ngày … tháng ... năm 20 …..<br>(11)<br>(12)<br>(13) |\n| --- | --- |\n\n___\n\n(1) Tên tổ chức đánh giá kỹ năng nghề;\n\n(2) Ghi theo số của kỳ đánh giá kỹ năng nghề quốc gia đó;\n\n(3) Ghi tên nghề thực hiện đánh giá kỹ năng nghề;\n\n(4) Ghi bậc trình độ kỹ năng nghề thực hiện đánh giá của nghề này;\n\n(5) Ghi rõ “đạt” hay “không đạt” hoặc “bị đình chỉ” hay “không chấm điểm” hoặc” được miễn kiểm tra”;\n\n(6) Tiếp tục với các bậc trình độ khác của nghề này (nếu có);\n\n(7) Các nội dung của bậc trình độ kỹ năng nghề này tương tự như với bậc trình độ kỹ năng nghề trước đó;\n\n(8) Các nội dung của nghề này tương tự như nghề trước đó;\n\n(9) Tiếp tục với các nghề khác (nếu có);\n\n(10) Địa danh tỉnh, thành phố trực thuộc Trung ương;\n\n(11) Chức danh người đứng đầu tổ chức đánh giá kỹ năng nghề;\n\n(12) Chữ ký và dấu của tổ chức đánh giá kỹ năng nghề;\n\n(13) Họ tên đầy đủ của người ký.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_PHU_LUC_18-19-2016-TT-BLDTBXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 991,
+            "source_file": "thongbao/PHU LUC 18-19-2016-TT-BLDTBXH.doc",
+            "file_name": "PHU LUC 18-19-2016-TT-BLDTBXH.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:24:03",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

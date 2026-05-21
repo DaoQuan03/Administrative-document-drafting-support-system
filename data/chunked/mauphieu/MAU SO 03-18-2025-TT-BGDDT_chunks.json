@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-18-2025-TT-BGDDT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_03-18-2025-TT-BGDDT",
+        "text": "Mẫu số 03\n\nMã Hồ sơ:...\n\n| CƠ QUAN/ĐƠN VỊ...<br>TÊN CƠ SỞ GIÁO DỤC<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số.../... | …..., ngày ... tháng ... năm 20... |\n\nPHIẾU CHUYỂN DỊCH VỤ TƯ VẤN HỌC ĐƯỜNG VÀ CÔNG TÁC XÃ HỘI CHO NGƯỜI HỌC\n\nKính chuyển Trung tâm/Đơn vị/Chuyên gia: ………………………………………….\n\nĐịa chỉ: ……………………………………………………………………………………\n\nHọ tên người học được chuyển: ………………………………………………………..\n\nGiới tính: …………………………………………………………………………………\n\nTuổi: ………………………………………………………………………………………\n\nLớp: ………………………………………………………………………………………\n\nThông tin liên lạc với cơ sở giáo dục: ……………………………………………………\n\nThông tin liên lạc với gia đình: ………………………………………………………….",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_03-18-2025-TT-BGDDT_chunk_0002",
+            "char_count": 705,
+            "source_file": "mauphieu/MAU SO 03-18-2025-TT-BGDDT.doc",
+            "file_name": "MAU SO 03-18-2025-TT-BGDDT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:49:36",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-18-2025-TT-BGDDT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_03-18-2025-TT-BGDDT",
+        "text": "………………………………………………………………………………………\n\nLớp: ………………………………………………………………………………………\n\nThông tin liên lạc với cơ sở giáo dục: ……………………………………………………\n\nThông tin liên lạc với gia đình: ………………………………………………………….\n\n| Đánh giá sơ bộ khó khăn, nhu cầu của người học: |\n| --- |\n| Tóm tắt hoạt động tư vấn học đường và công tác xã hội tại cơ sở giáo dục:<br>Thời gian bắt đầu, kết thúc<br>Số lần tư vấn học đường và công tác xã hội cá nhân đã thực hiện<br>Các phương thức tư vấn học đường và công tác xã hội đã thực hiện<br>Các kết quả đã đạt được<br>Các tồn tại cần tư vấn học đường và công tác xã hội thêm |\n| Lý do chuyển: |\n\n| NGƯỜI GIỚI THIỆU CHUYỂN<br>(Ký, ghi rõ họ và tên) | ĐẠI DIỆN CƠ SỞ GIÁO DỤC<br>(Ký, ghi rõ họ và tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_03-18-2025-TT-BGDDT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 733,
+            "source_file": "mauphieu/MAU SO 03-18-2025-TT-BGDDT.doc",
+            "file_name": "MAU SO 03-18-2025-TT-BGDDT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:49:36",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

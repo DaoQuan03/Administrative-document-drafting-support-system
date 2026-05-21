@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_10-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0001",
+        "doc_id": "mauphieu_MAU_10-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT",
+        "text": "Mẫu số 10-ĐT/NM\n\n| ĐƠN VỊ CHỦ TRÌ<br>ĐƠN VỊ THỰC HIỆN<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | ……….., ngày….. tháng….. năm 20… |\n\nPHIẾU ĐIỀU TRA TÀI NGUYÊN NƯỚC MẶT\nHỒ TỰ NHIÊN\n\n(DỰ ÁN: ……………………………………………………………………………)\n\nSố hiệu:………………..\n\n1. Tên hồ:\n\n| - Tên hồ trên bản đồ: |  |\n| --- | --- |\n| - Tên hồ địa phương: |  |\n\n2. Vị trí địa lý:\n\n| Xã, huyện, tỉnh: |  |  |  |  |\n| --- | --- | --- | --- | --- |\n| 3. Tọa độ hồ: | X: |  | Y: |  |\n\n4. Kích thước:\n\n| Độ rộng lòng sông: |  | (m) |\n| --- | --- | --- |\n| Độ sâu mực nước: |  | (m) |\n| Diện tích mặt nước: |  | (m2) |\n\n5. Đặc điểm địa chất bờ và đáy hồ:……………………………………………….\n\n...\n\n...\n\n6. Đặc điểm nguồn nước hồ:\n\n| a. Độ sâu tại thời điểm điều tra: |  | (m) |\n| --- | --- | --- |\n| b. Độ sâu nhỏ nhất: |  | (m) |\n| c. Độ sâu lớn nhất: |  | (m) |\n| d. Dao động mực nước: |  | (m) |\n\n7. Diễn biến chất lượng nước:………………………………………………………..",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_10-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0002",
+            "char_count": 965,
+            "source_file": "mauphieu/MAU 10-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "file_name": "MAU 10-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:56:13",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_10-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0002",
+        "doc_id": "mauphieu_MAU_10-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT",
+        "text": "điều tra: |  | (m) |\n| --- | --- | --- |\n| b. Độ sâu nhỏ nhất: |  | (m) |\n| c. Độ sâu lớn nhất: |  | (m) |\n| d. Dao động mực nước: |  | (m) |\n\n7. Diễn biến chất lượng nước:………………………………………………………..\n\n…………………………………………………………………………………………...\n\n…………………………………………………………………………………………...\n\n…………………………………………………………………………………………...\n\n…………………………………………………………………………………………...\n\n8. Số hiệu mẫu nước: ...\n\nThời gian lấy mẫu: ...\n\n| Tọa độ lấy mẫu: | X: |  | Y: |  |\n| --- | --- | --- | --- | --- |\n\n9. Các thông tin về kết quả đo đạc, khảo sát chất lượng nước tại hiện trường:\n\n| Màu: |  |  | Mùi: | Mùi: |  | Vị: | Vị: |  | pH: |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| DO: |  |  | (mg/l) | (mg/l) | (mg/l) | Nhiệt độ nước: | Nhiệt độ nước: | Nhiệt độ nước: |  |  | (oC) |\n| Độ dẫn điện: | Độ dẫn điện: |  |  | (mS/cm) | (mS/cm) | (mS/cm) | Độ mặn: | Độ mặn: |  |  | (‰) |\n| Khác: | Khác: |  |  |  |  |  |  |  |  |  |  |\n\n10. Thông tin khác:\n\n…………………………………………………………………………………………...",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_10-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_10-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0003",
+            "char_count": 996,
+            "source_file": "mauphieu/MAU 10-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "file_name": "MAU 10-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:56:13",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_10-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0003",
+        "doc_id": "mauphieu_MAU_10-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT",
+        "text": "điện: | Độ dẫn điện: |  |  | (mS/cm) | (mS/cm) | (mS/cm) | Độ mặn: | Độ mặn: |  |  | (‰) |\n| Khác: | Khác: |  |  |  |  |  |  |  |  |  |  |\n\n10. Thông tin khác:\n\n…………………………………………………………………………………………...\n\n…………………………………………………………………………………………...\n\n…………………………………………………………………………………………...\n\n…………………………………………………………………………………………...\n\n11. Sơ họa vị trí hồ\n\n|  |\n| --- |\n\nCÁN BỘ ĐIỀU TRA",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_10-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 368,
+            "source_file": "mauphieu/MAU 10-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "file_name": "MAU 10-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:56:13",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

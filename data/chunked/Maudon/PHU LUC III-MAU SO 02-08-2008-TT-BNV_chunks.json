@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_PHU_LUC_III-MAU_SO_02-08-2008-TT-BNV_chunk_0001",
+        "doc_id": "Maudon_PHU_LUC_III-MAU_SO_02-08-2008-TT-BNV",
+        "text": "Mẫu 02. Phụ lục III. Đơn đề nghị cấp Giấy chứng nhận hợp quy sản phẩm mật mã dân sự\n\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN ĐỀ NGHỊ\n\nCẤP GIẤY CHỨNG NHẬN HỢP QUY SẢN PHẨM MẬT MÃ DÂN SỰ\n\nKính gửi: Cơ quan chứng nhận - Ban Cơ yếu Chính phủ\n\n1. Tên tổ chức, cá nhân đề nghị chứng nhận: ...\n\n...\n\n2. Địa chỉ: ...\n\nĐiện thoại:...Fax: ...\n\nEmail: ... Website: ...\n\n3. Sản phẩm đề nghị chứng nhận phù hợp Tiêu chuẩn:\n\na) Tên sản phẩm: ...\n\nb) Ký hiệu: ... Loại, phiên bản: ...\n\nc) Hãng sản xuất: ...\n\nd) Năm sản xuất: ...\n\ne) Nơi sản xuất: ...\n\nf) Các Tiêu chuẩn áp dụng (tên, số hiệu)...\n\n4. Tài liệu gửi kèm:\n\na) Bản sao giấy chứng minh thư nhân dân hoặc hộ chiếu (đối với cá nhân); bản sao hợp lệ Giấy chứng nhận đăng ký kinh doanh (đối với doanh nghiệp) hoặc quyết định thành lập (đối với tổ chức);\n\nb) Bản sao, bản dịch tiếng Việt hợp lệ tài liệu kỹ thuật của sản phẩm;\n\nc) Sản phẩm mẫu;\n\nd) Các tài liệu khác (nếu có).",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_PHU_LUC_III-MAU_SO_02-08-2008-TT-BNV_chunk_0002",
+            "char_count": 961,
+            "source_file": "Maudon/PHU LUC III-MAU SO 02-08-2008-TT-BNV.doc",
+            "file_name": "PHU LUC III-MAU SO 02-08-2008-TT-BNV.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T05:01:32",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_PHU_LUC_III-MAU_SO_02-08-2008-TT-BNV_chunk_0002",
+        "doc_id": "Maudon_PHU_LUC_III-MAU_SO_02-08-2008-TT-BNV",
+        "text": "doanh (đối với doanh nghiệp) hoặc quyết định thành lập (đối với tổ chức);\n\nb) Bản sao, bản dịch tiếng Việt hợp lệ tài liệu kỹ thuật của sản phẩm;\n\nc) Sản phẩm mẫu;\n\nd) Các tài liệu khác (nếu có).\n\nĐề nghị Cơ quan chứng nhận - Ban Cơ yếu Chính phủ xem xét cấp Giấy chứng nhận hợp quy sản phẩm mật mã dân sự cho sản phẩm.\n\nTôi/chúng tôi xin chịu trách nhiệm trước pháp luật về sự chính xác của các thông tin cung cấp nêu trên và cam kết thực hiện đúng các quy định tại Nghị định số 73/2007/NĐ-CP ngày 8 tháng 5 năm 2007 của Chính phủ về hoạt động nghiên cứu, sản xuất, kinh doanh và sử dụng mật mã để bảo vệ thông tin không thuộc phạm vi bí mật Nhà nước.\n\n|  | ..., ngày ... tháng ... năm ...<br>TỔ CHỨC, CÁ NHÂN ĐỀ NGHỊ CHỨNG NHẬN<br>(Ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_PHU_LUC_III-MAU_SO_02-08-2008-TT-BNV_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 768,
+            "source_file": "Maudon/PHU LUC III-MAU SO 02-08-2008-TT-BNV.doc",
+            "file_name": "PHU LUC III-MAU SO 02-08-2008-TT-BNV.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T05:01:32",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

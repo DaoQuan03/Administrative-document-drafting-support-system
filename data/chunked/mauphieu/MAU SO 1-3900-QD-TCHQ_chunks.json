@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_1-3900-QD-TCHQ_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_1-3900-QD-TCHQ",
+        "text": "Mẫu số 01/PĐX\n\n| ĐƠN VỊ CHỦ QUẢN<br>ĐƠN VỊ BAN HÀNH<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n\nPHIẾU ĐỀ XUẤT\n\n□ Nhập cảnh/ □ Xuất cảnh\n\nSố thông báo tiếp nhận hồ sơ: ...               Ngày ... tháng ... năm ...\n\n1. Thông tin tàu bay:\n\nKý hiệu tàu bay:                  Cảng đến/rời                  Thời gian đến/rời cảng\n\nSố chuyến bay:                   Cảng rời cuối cùng/cảng đích:\n\nQuốc tịch tàu:\n\nTên Cơ trưởng                        Tên và địa chỉ liên lạc của đại lý:\n\n2. Thông tin từ hệ thống:\n\n2.1. Thông tin cảnh báo (nếu có): ...\n\n2.2. Thông tin chỉ đạo của cấp trên (nếu có): ...\n\n3. Công chức đề xuất:\n\n... ...\n\n|  | Ký xác nhận |\n| --- | --- |\n\n4. Lãnh đạo Chi cục quyết định:\n\n... ...\n\n|  | Ký xác nhận |\n| --- | --- |\n\n5. Ý kiến chỉ đạo của Lãnh đạo Cục Hải quan tỉnh, thành phố:\n\n... ...\n\n6. Đánh giá kết quả kiểm tra, khám xét tàu bay:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_1-3900-QD-TCHQ_chunk_0002",
+            "char_count": 927,
+            "source_file": "mauphieu/MAU SO 1-3900-QD-TCHQ.doc",
+            "file_name": "MAU SO 1-3900-QD-TCHQ.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:06:36",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_1-3900-QD-TCHQ_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_1-3900-QD-TCHQ",
+        "text": "|\n\n4. Lãnh đạo Chi cục quyết định:\n\n... ...\n\n|  | Ký xác nhận |\n| --- | --- |\n\n5. Ý kiến chỉ đạo của Lãnh đạo Cục Hải quan tỉnh, thành phố:\n\n... ...\n\n6. Đánh giá kết quả kiểm tra, khám xét tàu bay:\n\n6.1. Hệ thống xác định:                                    Đúng □ ; Sai □\n\n6.2. Thay đổi hình thức giám sát, kiểm tra:     Đúng □ ; Sai □\n\n6.3. Nội dung tóm tắt về kết quả kiểm tra:\n\n+ Biên bản kiểm tra số: ... ngày ... tháng ... năm...\n\n+ Lỗi vi phạm: ...\n\n|  | Ký xác nhận |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_1-3900-QD-TCHQ_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 489,
+            "source_file": "mauphieu/MAU SO 1-3900-QD-TCHQ.doc",
+            "file_name": "MAU SO 1-3900-QD-TCHQ.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:06:36",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_1_1-PHU_LUC_1-1374-QD-NHNN_chunk_0001",
+        "doc_id": "totrinh_MAU_1_1-PHU_LUC_1-1374-QD-NHNN",
+        "text": "Mẫu số 1.1 Mẫu tờ trình đề nghị phê duyệt chủ trương đầu tư\n\n| NGÂN HÀNG NHÀ NƯỚC<br>VIỆT NAM<br>TÊN ĐƠN VỊ TRÌNH<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số:.../TTr-... | Hà Nội, ngày... tháng... năm... |\n\nTỜ TRÌNH\n\nVề việc phê duyệt chủ trương đầu tư\n(Tên dự án)\n\nCăn cứ Nghị định số 102/2009/NĐ-CP ngày 06/11/2009 của Chính phủ về quản lý dự án đầu tư CNTT;\n\nCăn cứ Quyết định số.../QĐ-NHNN ngày... của Thống đốc Ngân hàng Nhà nước về việc ban hành Quy định...;\n\nCăn cứ...,\n\n(Tên đơn vị trình) kính trình (Thống đốc NHNN) xem xét, phê duyệt chủ trương đầu tư... (tên dự án)..., theo những nội dung chủ yếu sau:\n\n1. Tên dự án:\n\n2. Địa điểm:\n\n3. Chủ đầu tư:\n\n4. Sự cần thiết phải đầu tư:\n\n5. Mục tiêu đầu tư:\n\n6. Quy mô đầu tư: (phân tích và nêu rõ quy mô đầu tư).\n\n7. Tổng mức đầu tư (ước tính):\n\n8. Nguồn vốn đầu tư:\n\n9. Thời gian thực hiện dự án: (Bắt đầu và kết thúc). Kính trình... xem xét, phê duyệt./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_1_1-PHU_LUC_1-1374-QD-NHNN_chunk_0002",
+            "char_count": 985,
+            "source_file": "totrinh/MAU 1.1-PHU LUC 1-1374-QD-NHNN.doc",
+            "file_name": "MAU 1.1-PHU LUC 1-1374-QD-NHNN.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:12:07",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_1_1-PHU_LUC_1-1374-QD-NHNN_chunk_0002",
+        "doc_id": "totrinh_MAU_1_1-PHU_LUC_1-1374-QD-NHNN",
+        "text": "Quy mô đầu tư: (phân tích và nêu rõ quy mô đầu tư).\n\n7. Tổng mức đầu tư (ước tính):\n\n8. Nguồn vốn đầu tư:\n\n9. Thời gian thực hiện dự án: (Bắt đầu và kết thúc). Kính trình... xem xét, phê duyệt./.\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu. | TÊN ĐƠN VỊ TRÌNH<br>(Ký tên, đóng dấu) |\n| --- | --- |\n\nThuyết minh kèm theo tờ trình phải nêu được các nội dung sau:\n\n- Sự cần thiết phải đầu tư dự án.\n\n- Cơ sở pháp lý cho việc thực hiện.\n\n- Tổng mức đầu tư (ước tính): Khái toán kinh phí thực hiện theo năm, dự kiến các nội dung thực hiện theo năm.\n\n- Nguồn vốn đầu tư.\n\n- Thuyết minh rõ có tách riêng bước chuẩn bị đầu tư ra thực hiện riêng không.\n\n- Nếu tách riêng bước chuẩn bị đầu tư ra thực hiện riêng cần nêu thêm:\n\n+ Thời gian chuẩn bị.\n\n+ Kinh phí chuẩn bị đầu tư.\n\n+ Đề cương và khái toán chi tiết (nếu trình phê duyệt chủ trương đầu tư và phê duyệt kinh phí chuẩn bị đầu tư trong một lần trình.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_1_1-PHU_LUC_1-1374-QD-NHNN_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 892,
+            "source_file": "totrinh/MAU 1.1-PHU LUC 1-1374-QD-NHNN.doc",
+            "file_name": "MAU 1.1-PHU LUC 1-1374-QD-NHNN.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:12:07",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

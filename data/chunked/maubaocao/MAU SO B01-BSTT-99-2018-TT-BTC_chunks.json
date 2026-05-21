@@ -1,0 +1,92 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC",
+        "text": "| ĐƠN VỊ DỰ TOÁN CẤP 1:…. | Mã chương: | Mẫu số B01/BSTT |\n| --- | --- | --- |\n| ĐƠN VỊ KT TRUNG GIAN 1:…. |  | (Ban hành kèm theo Thông tư số 99/2018/TT-BTC ngày 01/11/2018 của Bộ Tài chính) |\n| ĐƠN VỊ KT TRUNG GIAN 2:…. |  | (Ban hành kèm theo Thông tư số 99/2018/TT-BTC ngày 01/11/2018 của Bộ Tài chính) |\n| ĐƠN VỊ KẾ TOÁN CƠ SỞ:…. |  |  |\n\nBÁO CÁO BỔ SUNG THÔNG TIN TÀI CHÍNH\n\nI. Phân tích số liệu để loại trừ giao dịch nội bộ khi lập báo cáo tài chính tổng hợp",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 5,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC_chunk_0002",
+            "char_count": 465,
+            "source_file": "maubaocao/MAU SO B01-BSTT-99-2018-TT-BTC.doc",
+            "file_name": "MAU SO B01-BSTT-99-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:37:11",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC",
+        "text": "ngày 01/11/2018 của Bộ Tài chính) |\n| ĐƠN VỊ KẾ TOÁN CƠ SỞ:…. |  |  |\n\nBÁO CÁO BỔ SUNG THÔNG TIN TÀI CHÍNH\n\nI. Phân tích số liệu để loại trừ giao dịch nội bộ khi lập báo cáo tài chính tổng hợp\n\n| STT | Chỉ tiêu | Mã số | Tổng số | Quan hệ giao dịch | Quan hệ giao dịch | Quan hệ giao dịch | Quan hệ giao dịch | Quan hệ giao dịch |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Chỉ tiêu | Mã số | Tổng số | Trong đơn vị kế toán trung gian 2 | Trong đơn vị kế toán trung gian 1 | Trong đơn vị dự toán cấp 1 | Ngoài đơn vị dự toán cấp 1- trong cùng tỉnh | Ngoài đơn vị dự toán cấp 1 (khác tỉnh, khác Bộ, ngành) – trong lĩnh vực kế toán nhà nước | Ngoài khu vực nhà nước |\n| A | B | C | 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n| A | Phân tích số liệu để lập báo cáo tình hình tài chính tổng hợp |  |  |  |  |  |  |  |  |\n| I | Khoản đầu tư tài chính vào đơn vị khác | 01 |  |  |  |  |  |  |  |\n|  | Ngắn hạn | 02 |  |  |  |  |  |  |  |\n|  | Dài hạn | 03 |  |  |  |  |  |  |  |\n| II | Các khoản phải thu | 05 |  |  |  |  |  |  |  |\n| 1 | Phải thu khách hàng | 06 |  |  |  |  |  |  |  |\n| 2 | Trả trước cho người bán | 07 |  |  |  |  |  |  |  |\n| 3 | Các khoản phải thu khác | 08 |  |  |  |  |  |  |  |\n| III | Nợ phải trả | 10 |  |  |  |  |  |  |  |\n| 1 | Phải trả nhà cung cấp | 11 |  |  |  |  |  |  |  |\n| 2 | Các khoản nhận trước của khách hàng | 12 |  |  |  |  |  |  |  |\n| 3 | Nợ phải trả khác | 18 |  |  |  |  |  |  |  |\n| IV | Nguồn vốn nhận đầu tư từ đơn vị khác | 20 |  |  |  |  |  |  |  |\n|  | Ngắn hạn | 21 |  |  |  |  |  |  |  |\n|  | Dài hạn | 22 |  |  |  |  |  |  |  |\n| B | Phân tích số liệu để lập báo cáo kết quả hoạt động tổng hợp |  |  |  |  |  |  |  |  |\n| 1 | Doanh thu từ nguồn viện trợ, vay nợ nước ngoài | 50 |  |  |  |  |  |  |  |\n| 2 | Doanh thu từ nguồn phí được khấu trừ, để lại | 51 |  |  |  |  |  |  |  |\n| 3 | Doanh thu hoạt động sản xuất, kinh doanh dịch vụ | 52 |  |  |  |  |  |  |  |\n| 4 | Thu nhập khác | 53 |  |  |  |  |  |  |  |\n| 5 | Chi phí hoạt động | 60 |  |  |  |  |  |  |  |\n| 6 | Chi phí từ nguồn viện trợ, vay nợ nước ngoài | 61 |  |  |  |  |  |  |  |\n| 7 | Chi phí hoạt động thu phí | 62 |  |  |  |  |  |  |  |\n| 8 | Chi phí khác | 63 |  |  |  |  |  |  |  |\n| C | Phân tích số liệu để lập báo cáo lưu chuyển tiền tệ tổng hợp |  |  |  |  |  |  |  |  |\n| 1 | Khấu hao TSCĐ | 70 |  |  |  |  |  |  |  |\n| 2 | Tiền chi đầu tư góp vốn vào các đơn vị khác | 71 |  |  |  |  |  |  |  |\n| 3 | Tiền nhận vốn góp | 72 |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 5,
+            "prev_chunk_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC_chunk_0003",
+            "char_count": 2483,
+            "source_file": "maubaocao/MAU SO B01-BSTT-99-2018-TT-BTC.doc",
+            "file_name": "MAU SO B01-BSTT-99-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:37:11",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC_chunk_0003",
+        "doc_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC",
+        "text": "|  |  |  |  |  |  |\n| 1 | Khấu hao TSCĐ | 70 |  |  |  |  |  |  |  |\n| 2 | Tiền chi đầu tư góp vốn vào các đơn vị khác | 71 |  |  |  |  |  |  |  |\n| 3 | Tiền nhận vốn góp | 72 |  |  |  |  |  |  |  |\n\nLưu ý: Chỉ tiêu Khấu hao TSCĐ - mã số 70 chỉ lập báo cáo cho cột tổng số\n\nII. Bổ sung thông tin thuyết minh tài chính",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 5,
+            "prev_chunk_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC_chunk_0002",
+            "next_chunk_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC_chunk_0004",
+            "char_count": 316,
+            "source_file": "maubaocao/MAU SO B01-BSTT-99-2018-TT-BTC.doc",
+            "file_name": "MAU SO B01-BSTT-99-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:37:11",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC_chunk_0004",
+        "doc_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC",
+        "text": "| 71 |  |  |  |  |  |  |  |\n| 3 | Tiền nhận vốn góp | 72 |  |  |  |  |  |  |  |\n\nLưu ý: Chỉ tiêu Khấu hao TSCĐ - mã số 70 chỉ lập báo cáo cho cột tổng số\n\nII. Bổ sung thông tin thuyết minh tài chính\n\n| STT | Chỉ tiêu | Năm nay |\n| --- | --- | --- |\n| 1 | Thuyết minh tài sản khác |  |\n| 1.1 | Tài sản ngắn hạn khác |  |\n| 1.2 | Tài sản dài hạn khác |  |\n| 2 | Thuyết minh nợ phải trả khác |  |\n| 2.1 | Nợ phải trả ngắn hạn khác |  |\n| 2.2 | Nợ phải trả dài hạn khác |  |\n| 3 | Thuyết minh chi tiết chỉ tiêu chi phí hoạt động theo nguồn |  |\n| 3.1 | Chi phí từ nguồn NSNN |  |\n|  | - Chi phí tiền lương, tiền công và chi phí khác cho nhân viên |  |\n|  | - Chi phí vật tư, công cụ và dịch vụ đã sử dụng |  |\n|  | - Chi phí hao mòn TSCĐ |  |\n|  | - Chi phí hoạt động khác |  |\n| 3.2 | Chi phí từ nguồn hoạt động khác được để lại (không thuộc nguồn NSNN) |  |\n|  | - Chi phí tiền lương, tiền công và chi phí khác cho nhân viên |  |\n|  | - Chi phí vật tư, công cụ và dịch vụ đã sử dụng |  |\n|  | - Chi phí khấu hao/hao mòn TSCĐ |  |\n|  | - Chi phí hoạt động khác |  |\n| 4 | Thuyết minh chi tiết chỉ tiêu Chi phí từ nguồn viện trợ, vay nợ nước ngoài |  |\n| 4.1 | Chi từ nguồn viện trợ |  |\n|  | - Chi phí tiền lương, tiền công và chi phí khác cho nhân viên |  |\n|  | - Chi phí vật tư, công cụ và dịch vụ đã sử dụng |  |\n|  | - Chi phí hao mòn TSCĐ |  |\n|  | - Chi phí hoạt động khác |  |\n| 4.2 | Chi vay nợ nước ngoài |  |\n|  | - Chi phí tiền lương, tiền công và chi phí khác cho nhân viên |  |\n|  | - Chi phí vật tư, công cụ và dịch vụ đã sử dụng |  |\n|  | - Chi phí hao mòn TSCĐ |  |\n|  | - Chi phí hoạt động khác |  |\n| 5 | Thuyết minh chi tiết chỉ tiêu Chi phí hoạt động sản xuất kinh doanh, dịch vụ |  |\n|  | - Chi phí tiền lương, tiền công và chi phí khác cho nhân viên |  |\n|  | - Chi phí vật tư, công cụ và dịch vụ đã sử dụng |  |\n|  | - Chi phí khấu hao/hao mòn TSCĐ |  |\n|  | - Chi phí hoạt động khác |  |\n| 6 | Thuyết minh chi tiết chỉ tiêu Tiền thu từ các khoản đầu tư (Báo cáo LCTT) |  |\n|  | - Tiền thu gốc |  |\n|  | - Tiền thu lãi |  |",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 5,
+            "prev_chunk_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC_chunk_0003",
+            "next_chunk_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC_chunk_0005",
+            "char_count": 2044,
+            "source_file": "maubaocao/MAU SO B01-BSTT-99-2018-TT-BTC.doc",
+            "file_name": "MAU SO B01-BSTT-99-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:37:11",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC_chunk_0005",
+        "doc_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC",
+        "text": "khấu hao/hao mòn TSCĐ |  |\n|  | - Chi phí hoạt động khác |  |\n| 6 | Thuyết minh chi tiết chỉ tiêu Tiền thu từ các khoản đầu tư (Báo cáo LCTT) |  |\n|  | - Tiền thu gốc |  |\n|  | - Tiền thu lãi |  |\n\n|  |  | Lập, ngày ... tháng ... năm... |\n| --- | --- | --- |\n| NGƯỜI LẬP BIỂU | NGƯỜI KIỂM SOÁT | THỦ TRƯỞNG ĐƠN VỊ |\n| (Ký, họ tên) | (Ký, họ tên) | (Ký, họ tên, đóng dấu) |\n\nNguồn: Thông tư 99/2018/TT-BTC",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 5,
+            "prev_chunk_id": "maubaocao_MAU_SO_B01-BSTT-99-2018-TT-BTC_chunk_0004",
+            "next_chunk_id": null,
+            "char_count": 404,
+            "source_file": "maubaocao/MAU SO B01-BSTT-99-2018-TT-BTC.doc",
+            "file_name": "MAU SO B01-BSTT-99-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:37:11",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

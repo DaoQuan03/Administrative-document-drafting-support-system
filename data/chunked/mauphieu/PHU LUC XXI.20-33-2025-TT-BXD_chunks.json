@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_XXI_20-33-2025-TT-BXD_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_XXI_20-33-2025-TT-BXD",
+        "text": "XX. Mẫu 20 - Phiếu tổng hợp điểm bài thi lý thuyết\n\n| TÊN CƠ QUAN CẤP GIẤY PHÉP LÁI TÀU HỘI ĐỒNG SÁT HẠCH CẤP GIẤY PHÉP LÁI TÀU<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | …., ngày … tháng … năm … |\n\nPHIẾU TỔNG HỢP ĐIỂM BÀI THI TRẮC NGHIỆM LÝ THUYẾT\n\nHọ và tên cán bộ chấm thi: …\n\nSố phách bài thi: …\n\nKết quả chấm điểm:\n\n| Danh mục | Số lượng | Điểm đạt | Ghi chú |\n| --- | --- | --- | --- |\n| Câu trả lời đúng | …/60 |  |  |\n| Câu trả lời sai | …/60 |  |  |\n| Tổng điểm đạt | Tổng điểm đạt |  |  |\n\n|  | CÁN BỘ CHẤM THI<br>(Ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 636,
+            "source_file": "mauphieu/PHU LUC XXI.20-33-2025-TT-BXD.doc",
+            "file_name": "PHU LUC XXI.20-33-2025-TT-BXD.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:52:01",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

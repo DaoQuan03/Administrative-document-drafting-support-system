@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_VT-04_1-TT-04-2022-TT-BTTTT_chunk_0001",
+        "doc_id": "maubaocao_BIEU_VT-04_1-TT-04-2022-TT-BTTTT",
+        "text": "| Biểu VT-04.1 | TỔNG HỢP CẢ NƯỚC<br>DOANH THU DỊCH VỤ VIỄN THÔNG, SỐ TIỀN DOANH NGHIỆP VIỄN THÔNG NỘP NSNN | Đơn vị báo cáo: Cục VT |\n| --- | --- | --- |\n| Ban hành kèm theo TT số .../2022/TT-BTTTT | TỔNG HỢP CẢ NƯỚC<br>DOANH THU DỊCH VỤ VIỄN THÔNG, SỐ TIỀN DOANH NGHIỆP VIỄN THÔNG NỘP NSNN | Đơn vị báo cáo: Cục VT |\n| Quý: Trước ngày 15 tháng tiếp theo quý. Năm: Trước 15/3 năm tiếp theo |  | Đơn vị nhận báo cáo: <br> Vụ KHTC, VP Bộ |\n| Quý: Trước ngày 15 tháng tiếp theo quý. Năm: Trước 15/3 năm tiếp theo | Quý …/20… | Đơn vị nhận báo cáo: <br> Vụ KHTC, VP Bộ |\n| Quý: Trước ngày 15 tháng tiếp theo quý. Năm: Trước 15/3 năm tiếp theo | Năm 20... | Đơn vị nhận báo cáo: <br> Vụ KHTC, VP Bộ |\n\nĐơn vị tính: Tỷ đồng",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_BIEU_VT-04_1-TT-04-2022-TT-BTTTT_chunk_0002",
+            "char_count": 718,
+            "source_file": "maubaocao/BIEU VT-04.1-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU VT-04.1-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:09:12",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_VT-04_1-TT-04-2022-TT-BTTTT_chunk_0002",
+        "doc_id": "maubaocao_BIEU_VT-04_1-TT-04-2022-TT-BTTTT",
+        "text": "| Đơn vị nhận báo cáo: <br> Vụ KHTC, VP Bộ |\n| Quý: Trước ngày 15 tháng tiếp theo quý. Năm: Trước 15/3 năm tiếp theo | Năm 20... | Đơn vị nhận báo cáo: <br> Vụ KHTC, VP Bộ |\n\nĐơn vị tính: Tỷ đồng\n\n| TT | Tên chỉ tiêu | Thực hiện kỳ trước | Thực hiện kỳ báo cáo | Ghi chú |\n| --- | --- | --- | --- | --- |\n| A | B | 1 | 2 | 3 |\n| 1 | Tổng doanh thu của doanh nghiệp viễn thông - Doanh thu cộng ngang |  |  |  |\n| 2 | Tổng doanh thu của doanh nghiệp viễn thông - Doanh thu hợp nhất |  |  |  |\n|  | Tổng doanh thu của DNVT phân theo các nhóm lĩnh vực hoạt động (2=2.1+..+2.5); nếu DN có cung cấp dịch vụ tại nước ngoài thì tách riêng doanh thu trong nước và nước ngoài với các lĩnh vực hoạt động tương ứng | Tổng doanh thu của DNVT phân theo các nhóm lĩnh vực hoạt động (2=2.1+..+2.5); nếu DN có cung cấp dịch vụ tại nước ngoài thì tách riêng doanh thu trong nước và nước ngoài với các lĩnh vực hoạt động tương ứng | Tổng doanh thu của DNVT phân theo các nhóm lĩnh vực hoạt động (2=2.1+..+2.5); nếu DN có cung cấp dịch vụ tại nước ngoài thì tách riêng doanh thu trong nước và nước ngoài với các lĩnh vực hoạt động tương ứng | Tổng doanh thu của DNVT phân theo các nhóm lĩnh vực hoạt động (2=2.1+..+2.5); nếu DN có cung cấp dịch vụ tại nước ngoài thì tách riêng doanh thu trong nước và nước ngoài với các lĩnh vực hoạt động tương ứng |\n| 2.1 | Viễn thông |  |  |  |\n| 2.2 | Data center |  |  |  |\n| 2.3 | Điện toán đám mây (Cloud) |  |  |  |\n| 2.4 | Dịch vụ nội dung |  |  |  |\n| 2.5 | Doanh thu hoạt động khác |  |  |  |\n| 3 | Tổng doanh thu theo ngành viễn thông |  |  | Ngành có mã J61 trong bảng Danh mục ngành kinh tế Việt Nam |\n| 4 | Tổng doanh thu dịch vụ viễn thông |  |  | Theo TT 21/2019/TT-BTTTT, báo cáo số ước thực hiện trong tháng |\n|  | Tổng doanh thu dịch vụ viễn thông phân theo nhóm dịch vụ <br>(4= 4.1+4.2+4.3+4.4+4.5+4.6) | Tổng doanh thu dịch vụ viễn thông phân theo nhóm dịch vụ <br>(4= 4.1+4.2+4.3+4.4+4.5+4.6) | Tổng doanh thu dịch vụ viễn thông phân theo nhóm dịch vụ <br>(4= 4.1+4.2+4.3+4.4+4.5+4.6) | Tổng doanh thu dịch vụ viễn thông phân theo nhóm dịch vụ <br>(4= 4.1+4.2+4.3+4.4+4.5+4.6) |\n| 4.1 | Doanh thu dịch vụ viễn thông cố định mặt đất |  |  |  |\n|  | Doanh thu dịch vụ viễn thông cố định mặt đất phân theo nhóm dịch vụ <br>(4.1= 4.1.1+..+4.1.4) | Doanh thu dịch vụ viễn thông cố định mặt đất phân theo nhóm dịch vụ <br>(4.1= 4.1.1+..+4.1.4) | Doanh thu dịch vụ viễn thông cố định mặt đất phân theo nhóm dịch vụ <br>(4.1= 4.1.1+..+4.1.4) | Doanh thu dịch vụ viễn thông cố định mặt đất phân theo nhóm dịch vụ <br>(4.1= 4.1.1+..+4.1.4) |\n| 4.1.1 | Dịch vụ điện thoại cố định |  |  |  |\n| 4.1.2 | Dịch vụ kênh thuê riêng |  |  |  |\n| 4.1.3 | Dịch vụ truy nhập Internet |  |  |  |\n| 4.1.4 | Dịch vụ khác |  |  |  |\n| 4.2 | Doanh thu dịch vụ viễn thông cố định vệ tinh |  |  |  |\n| 4.3 | Doanh thu dịch vụ viễn thông di động mặt đất |  |  |  |\n|  | Doanh thu dịch vụ viễn thông di động mặt đất phân theo nhóm dịch vụ <br>(4.3 = 4.3.1+4.3.2+4.3.3+4.3.4+4.3.5) | Doanh thu dịch vụ viễn thông di động mặt đất phân theo nhóm dịch vụ <br>(4.3 = 4.3.1+4.3.2+4.3.3+4.3.4+4.3.5) | Doanh thu dịch vụ viễn thông di động mặt đất phân theo nhóm dịch vụ <br>(4.3 = 4.3.1+4.3.2+4.3.3+4.3.4+4.3.5) | Doanh thu dịch vụ viễn thông di động mặt đất phân theo nhóm dịch vụ <br>(4.3 = 4.3.1+4.3.2+4.3.3+4.3.4+4.3.5) |\n| 4.3.1 | Dịch vụ điện thoại (4.3.1= 4.3.1.1 +4.3.1.2) |  |  |  |\n| 4.3.1.1 | Trả trước |  |  |  |\n| 4.3.1.2 | Trả sau |  |  |  |\n| 4.3.2 | Dịch vụ tin nhắn (4.3.2= 4.3.2.1 + 4.3.2.2) |  |  |  |\n| 4.3.2.1 | Trả trước |  |  |  |\n| 4.3.2.2 | Trả sau |  |  |  |\n| 4.3.3 | Dịch vụ truy nhập Internet <br>(4.3.3 = 4.3.3.1+ 4.3.3.2) |  |  |  |\n| 4.3.3.1 | Trả trước |  |  |  |\n| 4.3.3.2 | Trả sau |  |  |  |\n| 4.3.4 | Dịch vụ cộng thêm |  |  |  |\n| 4.3.5 | Dịch vụ khác |  |  |  |\n| 4.4 | Doanh thu dịch vụ viễn thông di động vệ tinh |  |  |  |\n| 4.5 | Doanh thu dịch vụ viễn thông di động hàng hải |  |  |  |\n| 4.6 | Doanh thu dịch vụ viễn thông di động hàng không |  |  |  |\n| 5 | Trị giá dịch vụ viễn thông xuất khẩu |  |  |  |\n| 6 | Trị giá dịch vụ viễn thông nhập khẩu |  |  |  |\n| 7 | Tổng số tiền doanh nghiệp viễn thông nộp NSNN |  |  |  |\n|  | Tổng số tiền DNVT nộp NSNN phân theo khoản nộp (7=7.1+..+7.4) | Tổng số tiền DNVT nộp NSNN phân theo khoản nộp (7=7.1+..+7.4) | Tổng số tiền DNVT nộp NSNN phân theo khoản nộp (7=7.1+..+7.4) | Tổng số tiền DNVT nộp NSNN phân theo khoản nộp (7=7.1+..+7.4) |\n| 7.1 | Thuế VAT |  |  |  |\n| 7.2 | Thuế TNDN |  |  |  |\n| 7.3 | Phí, lệ phí |  |  |  |\n| 7.4 | Các khoản nộp khác |  |  |  |\n| 8 | Lợi nhuận sau thuế của doanh nghiệp viễn thông |  |  |  |\n| 9 | Tổng thu lệ phí cấp phép và phí sử dụng tài nguyên viễn thông, phí quyền hoạt động viễn thông |  |  |  |\n| 10 | Số tiền nộp NSNN từ lệ phí cấp phép và phí sử dụng tài nguyên viễn thông, phí quyền hoạt động viễn thông |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_BIEU_VT-04_1-TT-04-2022-TT-BTTTT_chunk_0001",
+            "next_chunk_id": "maubaocao_BIEU_VT-04_1-TT-04-2022-TT-BTTTT_chunk_0003",
+            "char_count": 4851,
+            "source_file": "maubaocao/BIEU VT-04.1-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU VT-04.1-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:09:12",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_VT-04_1-TT-04-2022-TT-BTTTT_chunk_0003",
+        "doc_id": "maubaocao_BIEU_VT-04_1-TT-04-2022-TT-BTTTT",
+        "text": "phí sử dụng tài nguyên viễn thông, phí quyền hoạt động viễn thông |  |  |  |\n| 10 | Số tiền nộp NSNN từ lệ phí cấp phép và phí sử dụng tài nguyên viễn thông, phí quyền hoạt động viễn thông |  |  |  |\n\n| TỔNG HỢP, LẬP BIỂU<br>(Thông tin người thực hiện) | KIỂM TRA BIỂU<br>(Thông tin người thực hiện) | Hà Nội, ngày ... tháng ... năm 20...<br>CỤC TRƯỞNG<br>(Ký điện tử) |\n| --- | --- | --- |\n\nCách ghi biểu, nguồn số liệu\n\nBiểu được tổng hợp tương ứng từ biểu VT-04 các DNVT đã gửi Cục VT. Chỉ tiêu 9 và 10 từ dữ liệu hành chính của Cục",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_BIEU_VT-04_1-TT-04-2022-TT-BTTTT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 535,
+            "source_file": "maubaocao/BIEU VT-04.1-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU VT-04.1-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:09:12",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

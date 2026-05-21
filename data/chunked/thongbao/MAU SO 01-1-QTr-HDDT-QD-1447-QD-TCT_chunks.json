@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-QTr-HDDT-QD-1447-QD-TCT_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_01-1-QTr-HDDT-QD-1447-QD-TCT",
+        "text": "| Mẫu số 01-1/QTr-HĐĐT<br>(Kèm theo Quyết định số 1447/QĐ-TCT ngày 05/10/2021 của Tổng cục Thuế) |\n| --- |\n\n| <TÊN CƠ QUAN CHỦ QUẢN TRỰC TIẾP><br><CQT CẤP DƯỚI><br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ……/TB- | ….., ngày…tháng…năm….. |\n\nTHÔNG BÁO\n\nPhản hồi về hồ sơ đề nghị cấp HĐĐT có mã của CQT theo từng lần phát sinh\n\n| Kính gửi: | <Tên NNT: ... ><br>< Mã số thuế của NNT:... > |\n| --- | --- |\n\nCăn cứ hồ sơ đề nghị cấp HĐĐT có mã của CQT theo từng lần phát sinh của NNT gửi tới CQT vào ngày... tháng...năm...CQT phản hồi kết quả như sau:\n\n<Trường hợp hồ sơ hợp lệ>\n\nKết quả rà soát hồ sơ đề nghị cấp HĐĐT có mã của CQT theo từng lần phát sinh của NNT là hợp lệ. Đề nghị NNT ….\n\n<Trường hợp hồ sơ không hợp lệ>\n\nKết quả rà soát hồ sơ đề nghị cấp HĐĐT có mã của CQT theo từng lần phát sinh của NNT là không hợp lệ.\n\nLý do:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_01-1-QTr-HDDT-QD-1447-QD-TCT_chunk_0002",
+            "char_count": 904,
+            "source_file": "thongbao/MAU SO 01-1-QTr-HDDT-QD-1447-QD-TCT.doc",
+            "file_name": "MAU SO 01-1-QTr-HDDT-QD-1447-QD-TCT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:36",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-QTr-HDDT-QD-1447-QD-TCT_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_01-1-QTr-HDDT-QD-1447-QD-TCT",
+        "text": "từng lần phát sinh của NNT là hợp lệ. Đề nghị NNT ….\n\n<Trường hợp hồ sơ không hợp lệ>\n\nKết quả rà soát hồ sơ đề nghị cấp HĐĐT có mã của CQT theo từng lần phát sinh của NNT là không hợp lệ.\n\nLý do:\n\n| STT | Nội dung | Hướng dẫn xử lý | Ghi chú |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n|  |  |  |  |\n\nTổ chức, cá nhân cần biết thêm chi tiết xin vui lòng liên hệ với CQT theo địa chỉ:….\n\nCQT thông báo để NNT biết và thực hiện./.\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu:... | THỦ TRƯỞNG CQT<br>(Ký ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\n| Ghi chú: | Chữ in nghiêng trong dấu <> chỉ là giải thích hoặc ví dụ<br>Chọn trường hợp thông báo theo tương ứng |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-QTr-HDDT-QD-1447-QD-TCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 678,
+            "source_file": "thongbao/MAU SO 01-1-QTr-HDDT-QD-1447-QD-TCT.doc",
+            "file_name": "MAU SO 01-1-QTr-HDDT-QD-1447-QD-TCT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:36",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_I-QD-804-QD-HDDG_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_I-QD-804-QD-HDDG",
+        "text": "PHỤ LỤC I\n\nPHIẾU BỎ GIÁ\n(kèm theo Quy chế đấu giá hạn ngạch thuế quan nhập khẩu ô tô đã qua sử dụng năm 2021 theo cam kết tại Hiệp định CPTPP)\n\n| TÊN THƯƠNG NHÂN<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | Hà Nội, ngày    tháng    năm 2021 |\n\nKính gửi: Hội đồng đấu giá hạn ngạch thuế quan nhập khẩu ô tô đã qua sử dụng năm 2021 theo cam kết tại Hiệp định CPTPP\n(Địa chỉ: Cục Xuất nhập khẩu - Bộ Công Thương, 54 Hai Bà Trưng, Hà Nội)\n\n1. Tên Thương nhân:\n\n2. Địa chỉ:\n\n3. Điện thoại:                                 Fax:                                 Email:\n\n4. Ngành nghề kinh doanh:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_I-QD-804-QD-HDDG_chunk_0002",
+            "char_count": 673,
+            "source_file": "mauphieu/PHU LUC I-QD-804-QD-HDDG.doc",
+            "file_name": "PHU LUC I-QD-804-QD-HDDG.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:40:38",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_I-QD-804-QD-HDDG_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_I-QD-804-QD-HDDG",
+        "text": "Bộ Công Thương, 54 Hai Bà Trưng, Hà Nội)\n\n1. Tên Thương nhân:\n\n2. Địa chỉ:\n\n3. Điện thoại:                                 Fax:                                 Email:\n\n4. Ngành nghề kinh doanh:\n\n| TT | Số lượng đăng ký đấu giá (chiếc) | Số lượng đăng ký đấu giá (chiếc) | Giá đăng ký (triệu VNĐ) | Trị giá của đơn đấu giá (triệu VNĐ) | Số tiền đặt trước (triệu VNĐ) |\n| --- | --- | --- | --- | --- | --- |\n| TT | Dung tích động cơ > 3.000cm3 | Dung tích động cơ ≤ 3.000 cm3 | Giá đăng ký (triệu VNĐ) | Trị giá của đơn đấu giá (triệu VNĐ) | Số tiền đặt trước (triệu VNĐ) |\n| Đơn giá 1 |  |  |  |  |  |\n| Đơn giá 2 |  |  |  |  |  |\n| Đơn giá 3 |  |  |  |  |  |\n| Đơn giá 4... |  |  |  |  |  |\n| Đơn giá 33 |  |  |  |  |  |\n| Tổng số |  |  |  | Tổng giá trị các đơn giá | 50 x số lượng đăng ký đấu giá |\n\nGhi chú: Tổng số lượng đăng ký không vượt quá 33 chiếc ô tô.\n\n|  | Người đại diện theo pháp luật của thương nhân<br>(ký, ghi rõ họ tên, chức danh, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_I-QD-804-QD-HDDG_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 998,
+            "source_file": "mauphieu/PHU LUC I-QD-804-QD-HDDG.doc",
+            "file_name": "PHU LUC I-QD-804-QD-HDDG.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:40:38",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

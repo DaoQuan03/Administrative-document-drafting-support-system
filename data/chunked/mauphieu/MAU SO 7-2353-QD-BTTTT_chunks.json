@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_7-2353-QD-BTTTT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_7-2353-QD-BTTTT",
+        "text": "Mẫu 07. Phiếu xin ý kiến Thứ trưởng\n\n| BỘ THÔNG TIN VÀ<br>TRUYỀN THÔNG<br>………….(1)………….<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | Hà Nội, ngày ….. tháng ….. năm 20…. |\n\nPHIẾU XIN Ý KIẾN CÁC THỨ TRƯỞNG\n\nVề dự thảo văn bản...(2)…….\n\n| Kính gửi: | - Thứ trưởng...(3) ……..<br>- Thứ trưởng...(3) ……..<br>- …………..(3)………….. |\n| --- | --- |\n\nDự thảo văn bản…….(2)…………. đã được các cơ quan liên quan cho ý kiến, Vụ Pháp chế đã có báo cáo thẩm định và ………..(1)…………… đã tiếp thu, hoàn chỉnh dự thảo văn bản.\n\n….(1) xin ý kiến các đồng chí Thứ trưởng về những vấn đề sau:\n\nI. MỘT SỐ NỘI DUNG CỤ THỂ CẦN XIN Ý KIẾN VỀ DỰ THẢO\n\n(Nếu đồng ý phương án nào, đánh dấu X vào ô bên cạnh)\n\n1. Vấn đề 1:\n\n| Phương án 1: | □ |\n| --- | --- |\n| Phương án 2: | □ |\n| Phương án...: | □ |\n\n2. Vấn đề ……….:\n\n| Phương án 1: | □ |\n| --- | --- |\n| Phương án 2: | □ |\n| Phương án...: | □ |\n\nII. Ý KIẾN (KHÁC) VỀ DỰ THẢO (nếu có)",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_7-2353-QD-BTTTT_chunk_0002",
+            "char_count": 973,
+            "source_file": "mauphieu/MAU SO 7-2353-QD-BTTTT.doc",
+            "file_name": "MAU SO 7-2353-QD-BTTTT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:21:17",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_7-2353-QD-BTTTT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_7-2353-QD-BTTTT",
+        "text": "| □ |\n| --- | --- |\n| Phương án 2: | □ |\n| Phương án...: | □ |\n\n2. Vấn đề ……….:\n\n| Phương án 1: | □ |\n| --- | --- |\n| Phương án 2: | □ |\n| Phương án...: | □ |\n\nII. Ý KIẾN (KHÁC) VỀ DỰ THẢO (nếu có)\n\nIII. BIỂU QUYẾT ĐỐI VỚI TOÀN BỘ NỘI DUNG DỰ THẢO (Đánh dấu X vào một trong hai ô ở bên cạnh)\n\n| 1. Thông qua (sau khi các ý kiến trên được tiếp thu) | □ |\n| --- | --- |\n| 2. Không thông qua (nêu rõ lý do)…………………….. | □ |\n\n|  | THỨ TRƯỞNG<br>(Ký tên, đóng dấu, họ và tên) |\n| --- | --- |\n\nGhi chú:\n\n(1) Tên cơ quan trình văn bản.\n\n(2) Tên dự thảo văn bản quy phạm pháp luật.\n\n(3) Tên các Thứ trưởng lấy ý kiến.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_7-2353-QD-BTTTT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 608,
+            "source_file": "mauphieu/MAU SO 7-2353-QD-BTTTT.doc",
+            "file_name": "MAU SO 7-2353-QD-BTTTT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:21:17",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

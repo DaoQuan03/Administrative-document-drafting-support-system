@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_C02-TS-TT-595-QD-BHXH_chunk_0001",
+        "doc_id": "mauphieu_MAU_C02-TS-TT-595-QD-BHXH",
+        "text": "| PHIẾU TRẢ HỒ SƠ<br>- Bộ phận đề nghị: ………………………………..…………………….<br>- Bộ phận điều chỉnh: ……………………………..…………………….<br>- Nội dung đề nghị điều chỉnh:<br>……………………………….…………………………………………….<br>……………………………….…………………………………………….<br>……………………………….…………………………………………….<br>……………………………….…………………………………………….<br>……………………………….…………………………………………….<br>- Hồ sơ gửi kèm: <br>……………………………….…………………………………………….<br>……………………………….…………………………………………….<br>……………………………….…………………………………………….<br>……………………………….……………………………………………. | PHIẾU TRẢ HỒ SƠ<br>- Bộ phận đề nghị: ………………………………..…………………….<br>- Bộ phận điều chỉnh: ……………………………..…………………….<br>- Nội dung đề nghị điều chỉnh:<br>……………………………….…………………………………………….<br>……………………………….…………………………………………….<br>……………………………….…………………………………………….<br>……………………………….…………………………………………….<br>……………………………….…………………………………………….<br>- Hồ sơ gửi kèm: <br>……………………………….…………………………………………….<br>……………………………….…………………………………………….<br>……………………………….…………………………………………….<br>……………………………….……………………………………………. |\n| --- | --- |\n\nHƯỚNG DẪN LẬP",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_C02-TS-TT-595-QD-BHXH_chunk_0002",
+            "char_count": 994,
+            "source_file": "mauphieu/MAU C02-TS-TT-595-QD-BHXH.doc",
+            "file_name": "MAU C02-TS-TT-595-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:16:59",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_C02-TS-TT-595-QD-BHXH_chunk_0002",
+        "doc_id": "mauphieu_MAU_C02-TS-TT-595-QD-BHXH",
+        "text": "Hồ sơ gửi kèm: <br>……………………………….…………………………………………….<br>……………………………….…………………………………………….<br>……………………………….…………………………………………….<br>……………………………….……………………………………………. |\n| --- | --- |\n\nHƯỚNG DẪN LẬP\n\nPhiếu trả hồ sơ (mẫu C02-TS)\n\na) Mục đích:\n\n- Để trả lại hồ sơ đối với các trường hợp không đầy đủ, không khớp đúng.\n\n- Trường hợp dữ liệu chương trình và hồ sơ không khớp đúng, chưa hợp lệ đề nghị hướng dẫn bổ sung hoặc điều chỉnh.\n\nb) Trách nhiệm lập: Phòng/ Tổ Quản lý thu; Phòng/Tổ Quản lý Thu - Sổ, Thẻ; Phòng/Tổ chế độ BHXH.\n\nc) Thời gian lập: khi có phát sinh.\n\nd) Căn cứ lập:\n\nCác phòng/tổ nhận hồ sơ chuyển đến, kiểm tra, đối chiếu hồ sơ với dữ liệu trong chương trình quản lý, nếu không khớp đúng, chưa hợp lệ thì lập Phiếu này kèm theo hồ sơ chuyển lại cho phòng/tổ chuyển đến.\n\nđ) Phương pháp lập: ghi nội dung đề nghị điều chỉnh và các hồ sơ gửi kèm để điều chỉnh gửi bộ phận điều chỉnh thực hiện điều chỉnh theo yêu cầu.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_C02-TS-TT-595-QD-BHXH_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_C02-TS-TT-595-QD-BHXH_chunk_0003",
+            "char_count": 922,
+            "source_file": "mauphieu/MAU C02-TS-TT-595-QD-BHXH.doc",
+            "file_name": "MAU C02-TS-TT-595-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:16:59",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_C02-TS-TT-595-QD-BHXH_chunk_0003",
+        "doc_id": "mauphieu_MAU_C02-TS-TT-595-QD-BHXH",
+        "text": "kèm theo hồ sơ chuyển lại cho phòng/tổ chuyển đến.\n\nđ) Phương pháp lập: ghi nội dung đề nghị điều chỉnh và các hồ sơ gửi kèm để điều chỉnh gửi bộ phận điều chỉnh thực hiện điều chỉnh theo yêu cầu.\n\nNguồn: Quyết định 595/QĐ-BHXH được sử đổi bởi Khoản 4 Điều 1 Quyết định 490/QĐ-BHXH (Nội dung mẫu đã bao gồm nội dung sử đổi)",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_C02-TS-TT-595-QD-BHXH_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 323,
+            "source_file": "mauphieu/MAU C02-TS-TT-595-QD-BHXH.doc",
+            "file_name": "MAU C02-TS-TT-595-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:16:59",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

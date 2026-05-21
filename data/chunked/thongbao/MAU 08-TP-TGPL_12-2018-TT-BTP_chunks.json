@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_08-TP-TGPL_12-2018-TT-BTP_chunk_0001",
+        "doc_id": "thongbao_MAU_08-TP-TGPL_12-2018-TT-BTP",
+        "text": "|  | Mẫu số 08-TP-TGPL<br>(Ban hành kèm theo Thông tư số 12/2018/TT-BTP) |\n| --- | --- |\n\n| ……….(1)………<br>…………..(2)…………<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: …./TB-….(3)……. | ……(4)……., ngày … tháng … năm 20…. |\n\nTHÔNG BÁO\n\nVề việc từ chối thụ lý yêu cầu trợ giúp pháp lý\n\nKính gửi: Ông/bà …………….(5)……………. hoặc…………. (6)…………………\n\nĐịa chỉ liên hệ: ……………………………………………...\n\n……..(2)……. nhận được đơn yêu cầu trợ giúp pháp lý của Ông/Bà …………..(5) ……………………. hoặc …………………… (6)..., địa chỉ liên hệ: ……………………… về việc ……………………………(7) ……………………………………………………………………..\n\nSau khi nghiên cứu đơn yêu cầu trợ giúp pháp lý và các tài liệu gửi kèm theo (nếu có) cho thấy vụ việc của Ông/Bà thuộc trường hợp từ chối thụ lý theo quy định tại khoản 3 Điều 30 của Luật Trợ giúp pháp lý.\n\nVậy ……….(2)…………. thông báo để Ông/Bà được biết. Nếu Ông/Bà có vướng mắc hoặc vấn đề gì chưa rõ, đề nghị Ông/Bà liên hệ với ………………(2)…………… để được giải quyết.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_08-TP-TGPL_12-2018-TT-BTP_chunk_0002",
+            "char_count": 997,
+            "source_file": "thongbao/MAU 08-TP-TGPL_12-2018-TT-BTP.doc",
+            "file_name": "MAU 08-TP-TGPL_12-2018-TT-BTP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:19:02",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_08-TP-TGPL_12-2018-TT-BTP_chunk_0002",
+        "doc_id": "thongbao_MAU_08-TP-TGPL_12-2018-TT-BTP",
+        "text": "3 Điều 30 của Luật Trợ giúp pháp lý.\n\nVậy ……….(2)…………. thông báo để Ông/Bà được biết. Nếu Ông/Bà có vướng mắc hoặc vấn đề gì chưa rõ, đề nghị Ông/Bà liên hệ với ………………(2)…………… để được giải quyết.\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: TT/CN/TC. | GIÁM ĐỐC/TRƯỞNG CHI NHÁNH/NGƯỜI ĐỨNG ĐẦU TỔ CHỨC THAM GIA TRỢ GIÚP PHÁP LÝ<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\nChú thích:\n\n(1): Tên cơ quan chủ quản của cơ quan ban hành văn bản;\n\n(2): Tên tổ chức thực hiện trợ giúp pháp lý;\n\n(3): Số, ký hiệu văn bản;\n\n(4): Địa danh;\n\n(5): Họ và tên người được trợ giúp pháp lý;\n\n(6): Họ và tên người có yêu cầu trợ giúp pháp lý;\n\n(7): Ghi tóm tắt yêu cầu trợ giúp pháp lý.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_08-TP-TGPL_12-2018-TT-BTP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 667,
+            "source_file": "thongbao/MAU 08-TP-TGPL_12-2018-TT-BTP.doc",
+            "file_name": "MAU 08-TP-TGPL_12-2018-TT-BTP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:19:02",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

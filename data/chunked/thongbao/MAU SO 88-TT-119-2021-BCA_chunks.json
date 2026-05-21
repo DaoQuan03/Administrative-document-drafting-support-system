@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_88-TT-119-2021-BCA_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_88-TT-119-2021-BCA",
+        "text": "| ... <br>... |  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- | --- | --- |\n| Số: ... /TB- ………..…….. |  | ..., ngày ... tháng ... năm... |\n\nTHÔNG BÁO\n\nVề việc áp dụng biện pháp cấm đi khỏi nơi cư trú\n\nKính gửi:   (*)...  \t\t                                         ...\n\nCơ quan.\n\nthông báo về việc áp dụng biện pháp cấm đi khỏi nơi cư trú đối với bị can:\n\nHọ tên: ... Giới tính:\n\nTên gọi khác:\n\nSinh ngày ... tháng ... năm ... tại:\n\nQuốc tịch: ...; Dân tộc: ...; Tôn giáo:\n\nNghề nghiệp:\n\nSố CMND/Thẻ CCCD/Hộ chiếu:\n\ncấp ngày... tháng ... năm ... Nơi cấp:\n\nNơi thường trú:\n\nNơi tạm trú:\n\nNơi ở hiện tại:\n\n/đơn vị Quân đội đang quản lý bị can:\n\nđã có hành vi: . .\n\n.\n\nphạm vào khoản ……….. Điều ... Bộ luật Hình sự, hiện đang bị áp dụng biện pháp cấm đi khỏi nơi cư trú, kể từ ngày …… tháng ..… năm…….. đến ngày …… tháng ..… năm……….…\n\nGiao bị can cho(*):.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_88-TT-119-2021-BCA_chunk_0002",
+            "char_count": 882,
+            "source_file": "thongbao/MAU SO 88-TT-119-2021-BCA.doc",
+            "file_name": "MAU SO 88-TT-119-2021-BCA.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:16:23",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_88-TT-119-2021-BCA_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_88-TT-119-2021-BCA",
+        "text": "vi: . .\n\n.\n\nphạm vào khoản ……….. Điều ... Bộ luật Hình sự, hiện đang bị áp dụng biện pháp cấm đi khỏi nơi cư trú, kể từ ngày …… tháng ..… năm…….. đến ngày …… tháng ..… năm……….…\n\nGiao bị can cho(*):.\n\nđể quản lý cư trú, theo dõi bị can. Nếu bị can vi phạm nghĩa vụ cam đoan, yêu cầu chính quyền xã, phường, thị trấn nơi bị can cư trú hoặc đơn vị Quân đội đang quản lý bị can phải báo ngay cho cơ quan đã ra lệnh cấm đi khỏi nơi cư trú biết để xử lý theo thẩm quyền, điện thoại liên hệ số: ……………………………………………………………... , gặp Điều tra viên thụ lý vụ án để giải quyết.\n\n| Nơi nhận:<br>- Như trên;<br>- Hồ sơ 02 bản. | ... |\n| --- | --- |\n\n(*) Chính quyền xã, phường, thị trấn nơi bị can cư trú hoặc đơn vị Quân đội đang quản lý bị can.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_88-TT-119-2021-BCA_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 729,
+            "source_file": "thongbao/MAU SO 88-TT-119-2021-BCA.doc",
+            "file_name": "MAU SO 88-TT-119-2021-BCA.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:16:23",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

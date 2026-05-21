@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_02-UN-BLG_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_02-UN-BLG",
+        "text": "Mẫu số: 02/UN-BLG\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTHÔNG BÁO\n\nVề việc ủy nhiệm/chấm dứt ủy nhiệm lập biên lai thu tiền phí, lệ phí\n\n| I. Tên đơn vị ủy nhiệm/chấm dứt ủy nhiệm biên lai: | I. Tên đơn vị ủy nhiệm/chấm dứt ủy nhiệm biên lai: |\n| --- | --- |\n| 1. Mã số thuế (nếu có): | 1. Mã số thuế (nếu có): |\n| 2. Địa chỉ trụ sở chính: | 2. Địa chỉ trụ sở chính: |\n| 3. Điện thoại: |  |\n| II. Tên đơn vị nhận ủy nhiệm/chấm dứt ủy nhiệm biên lai: | II. Tên đơn vị nhận ủy nhiệm/chấm dứt ủy nhiệm biên lai: |\n| 1. Mã số thuế (nếu có): | 1. Mã số thuế (nếu có): |\n| 2. Địa chỉ trụ sở chính: | 2. Địa chỉ trụ sở chính: |\n| 3. Điện thoại: | 3. Điện thoại: |\n| III. Nội dung ủy nhiệm/chấm dứt ủy nhiệm lập biên lai: (Ủy nhiệm/chấm dứt ủy nhiệm) | III. Nội dung ủy nhiệm/chấm dứt ủy nhiệm lập biên lai: (Ủy nhiệm/chấm dứt ủy nhiệm) |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_02-UN-BLG_chunk_0002",
+            "char_count": 858,
+            "source_file": "thongbao/MAU SO 02-UN-BLG.doc",
+            "file_name": "MAU SO 02-UN-BLG.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:38:46",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_02-UN-BLG_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_02-UN-BLG",
+        "text": "thoại: | 3. Điện thoại: |\n| III. Nội dung ủy nhiệm/chấm dứt ủy nhiệm lập biên lai: (Ủy nhiệm/chấm dứt ủy nhiệm) | III. Nội dung ủy nhiệm/chấm dứt ủy nhiệm lập biên lai: (Ủy nhiệm/chấm dứt ủy nhiệm) |\n\n| STT | Tên loại<br>biên lai | Ký hiệu mẫu biên lai | Ký hiệu biên <br>lai | Số lượng | Từ số | Đến số | Thời hạn | Mục đích | Phương thức giao nhận hoặc phương thức cài đặt (nếu là biên lai tự in hoặc điện tử) | Phương thức thanh toán biên lai ủy nhiệm |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |\n|  | Ví dụ: Biên lai thu tiền phí, lệ phí |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n\nIV. Tên cơ quan thuế tiếp nhận thông báo:\n\n...\n\n| ĐƠN VỊ NHẬN ỦY NHIỆM<br>(Ký, đóng dấu và ghi rõ họ tên) | ... Ngày... tháng... năm...<br>ĐƠN VỊ ỦY NHIỆM/CHẤM DỨT ỦY NHIỆM<br>(Ký, đóng dấu và ghi rõ họ tên) |\n| --- | --- |\n\nNguồn: Nghị định 123/2020/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_02-UN-BLG_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 936,
+            "source_file": "thongbao/MAU SO 02-UN-BLG.doc",
+            "file_name": "MAU SO 02-UN-BLG.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:38:46",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

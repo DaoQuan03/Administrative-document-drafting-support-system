@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_BAO_CAO-1-181-2015-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_BAO_CAO-1-181-2015-TT-BTC",
+        "text": "BÁO CÁO CỦA NGÂN HÀNG GIÁM SÁT\n\nChúng tôi là Ngân hàng giám sát Quỹ... cho năm tài chính kết thúc ngày... tháng... năm... ,với sự hiểu biết của chúng tôi thì trong năm tài chính (hoặc kỳ tài chính) Quỹ ...đã hoạt động và được quản lý với các nội dung dưới đây:\n\na) Công ty quản lý quỹ..., Ngân hàng giám sát ...đã tuân thủ các giới hạn về hạn mức đầu tư được quy định tại các văn bản pháp luật chứng khoán hiện hành về quỹ ETF, Bản cáo bạch của Quỹ và văn bản pháp luật liên quan.\n\nb) Việc định giá, đánh giá tài sản của Quỹ ... đã phù hợp với Điều lệ Quỹ, Bản cáo bạch của Quỹ và các văn bản pháp luật liên quan.\n\nc) Phát hành và hoán đổi Chứng chỉ quỹ đã phù hợp với Điều lệ Quỹ, Bản cáo bạch của Quỹ và các văn bản pháp luật liên quan.\n\nCác nội dung liên quan đến phân phối lợi nhuận của Quỹ ETF phát sinh trong kỳ báo cáo:...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_BAO_CAO-1-181-2015-TT-BTC_chunk_0002",
+            "char_count": 829,
+            "source_file": "maubaocao/MAU BAO CAO-1-181-2015-TT-BTC.doc",
+            "file_name": "MAU BAO CAO-1-181-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:18:30",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BAO_CAO-1-181-2015-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_BAO_CAO-1-181-2015-TT-BTC",
+        "text": "hoán đổi Chứng chỉ quỹ đã phù hợp với Điều lệ Quỹ, Bản cáo bạch của Quỹ và các văn bản pháp luật liên quan.\n\nCác nội dung liên quan đến phân phối lợi nhuận của Quỹ ETF phát sinh trong kỳ báo cáo:...\n\n| ..., ngày... tháng... năm...<br>ĐẠI DIỆN NGÂN HÀNG GIÁM SÁT<br>(Chức danh)<br>(Ký, ghi rõ họ tên và đóng dấu) | NHÂN VIÊN GIÁM SÁT<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\nNguồn: Thông tư 181/2015/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_BAO_CAO-1-181-2015-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 404,
+            "source_file": "maubaocao/MAU BAO CAO-1-181-2015-TT-BTC.doc",
+            "file_name": "MAU BAO CAO-1-181-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:18:30",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

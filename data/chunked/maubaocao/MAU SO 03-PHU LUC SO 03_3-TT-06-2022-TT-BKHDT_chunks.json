@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_03-PHU_LUC_SO_03_3-TT-06-2022-TT-BKHDT_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_03-PHU_LUC_SO_03_3-TT-06-2022-TT-BKHDT",
+        "text": "Mẫu 3\n\nBÁO CÁO ĐÁNH GIÁ KẾT THÚC KHÓA ĐÀO TẠO\n\n(Dành cho đơn vị đào tạo)\n\nĐƠN VỊ...\n\n1. Thông tin chung về khóa đào tạo\n\n- Tên khóa đào tạo/chuyên đề đào tạo:\n\n- Họ và tên giảng viên:... Trình độ: \t…...\n\n- Thời gian tổ chức:\n\n- Địa điểm tổ chức:\n\n- Thời lượng đào tạo:... ngày, trong đó: thời lượng hướng dẫn học viên thực hành là... ngày, tương ứng với... % thời lượng khóa đào tạo.\n\n- Tình hình học viên tham gia khóa học:\n\n+ Tổng số học viên (HV) tham gia khóa đào tạo:..., trong đó: Số HV hoàn thành khóa đào tạo:..., chiếm tỷ lệ:\n+ Số học viên từ địa bàn đặc biệt khó khăn:\n+ Số học viên từ DNNVV do phụ nữ làm chủ/DNNVV nhiều lao động nữ/DNNVV là doanh nghiệp xã hội:\n\n- Tổng số DNNVV cử cán bộ tham gia khóa đào tạo:………….doanh nghiệp.\n\n2. Tổng hợp đánh giá chất lượng khóa đào tạo",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_03-PHU_LUC_SO_03_3-TT-06-2022-TT-BKHDT_chunk_0002",
+            "char_count": 787,
+            "source_file": "maubaocao/MAU SO 03-PHU LUC SO 03_3-TT-06-2022-TT-BKHDT.doc",
+            "file_name": "MAU SO 03-PHU LUC SO 03_3-TT-06-2022-TT-BKHDT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:27:42",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_03-PHU_LUC_SO_03_3-TT-06-2022-TT-BKHDT_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_03-PHU_LUC_SO_03_3-TT-06-2022-TT-BKHDT",
+        "text": "viên từ DNNVV do phụ nữ làm chủ/DNNVV nhiều lao động nữ/DNNVV là doanh nghiệp xã hội:\n\n- Tổng số DNNVV cử cán bộ tham gia khóa đào tạo:………….doanh nghiệp.\n\n2. Tổng hợp đánh giá chất lượng khóa đào tạo\n\n| TT | Nội dung | Tốt | Tốt | Khá | Khá | Trung bình | Trung bình | Kém | Kém |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | Nội dung | Số HV | Tỷ lệ (%) | Số HV | Tỷ lệ (%) | Số HV | Tỷ lệ (%) | Số HV | Tỷ lệ (%) |\n| 1 | Nội dung đào tạo |  |  |  |  |  |  |  |  |\n| 2 | Tài liệu giảng dạy |  |  |  |  |  |  |  |  |\n| 3 | Chất lượng giảng viên |  |  |  |  |  |  |  |  |\n| 4 | Công tác tổ chức đào tạo |  |  |  |  |  |  |  |  |\n| 5 | Mức độ tiếp thu của HV |  |  |  |  |  |  |  |  |\n| 6 | Thời lượng của khóa đào tạo | Dài: <br>Số HV...<br>Tỷ lệ (%)... | Dài: <br>Số HV...<br>Tỷ lệ (%)... | Vừa: <br>Số HV...<br>Tỷ lệ (%)... | Vừa: <br>Số HV...<br>Tỷ lệ (%)... | Vừa: <br>Số HV...<br>Tỷ lệ (%)... | Ngắn: <br>Số HV...<br>Tỷ lệ (%)... | Ngắn: <br>Số HV...<br>Tỷ lệ (%)... | Ngắn: <br>Số HV...<br>Tỷ lệ (%)... |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_03-PHU_LUC_SO_03_3-TT-06-2022-TT-BKHDT_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_SO_03-PHU_LUC_SO_03_3-TT-06-2022-TT-BKHDT_chunk_0003",
+            "char_count": 1033,
+            "source_file": "maubaocao/MAU SO 03-PHU LUC SO 03_3-TT-06-2022-TT-BKHDT.doc",
+            "file_name": "MAU SO 03-PHU LUC SO 03_3-TT-06-2022-TT-BKHDT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:27:42",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_03-PHU_LUC_SO_03_3-TT-06-2022-TT-BKHDT_chunk_0003",
+        "doc_id": "maubaocao_MAU_SO_03-PHU_LUC_SO_03_3-TT-06-2022-TT-BKHDT",
+        "text": "lệ (%)... | Vừa: <br>Số HV...<br>Tỷ lệ (%)... | Vừa: <br>Số HV...<br>Tỷ lệ (%)... | Ngắn: <br>Số HV...<br>Tỷ lệ (%)... | Ngắn: <br>Số HV...<br>Tỷ lệ (%)... | Ngắn: <br>Số HV...<br>Tỷ lệ (%)... |\n\n3. Đề xuất/kiến nghị (nếu có):...\n\n| Cán bộ quản lý khóa đào tạo của đơn vị đào tạo<br>(Ký, họ tên) | Cán bộ kiểm tra, giám sát của cơ quan, tổ chức hỗ trợ DNNVV<br>(Ký, họ tên) | Thủ trưởng đơn vị đào tạo<br>(Ký, họ tên, đóng dấu) |\n| --- | --- | --- |\n\nNguồn: Thông tư 06/2022/TT-BKHĐT",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_03-PHU_LUC_SO_03_3-TT-06-2022-TT-BKHDT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 483,
+            "source_file": "maubaocao/MAU SO 03-PHU LUC SO 03_3-TT-06-2022-TT-BKHDT.doc",
+            "file_name": "MAU SO 03-PHU LUC SO 03_3-TT-06-2022-TT-BKHDT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:27:42",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

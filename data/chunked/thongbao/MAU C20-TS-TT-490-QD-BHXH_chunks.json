@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_C20-TS-TT-490-QD-BHXH_chunk_0001",
+        "doc_id": "thongbao_MAU_C20-TS-TT-490-QD-BHXH",
+        "text": "### Bảng tính: Sheet1",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_C20-TS-TT-490-QD-BHXH_chunk_0002",
+            "char_count": 21,
+            "source_file": "thongbao/MAU C20-TS-TT-490-QD-BHXH.xls",
+            "file_name": "MAU C20-TS-TT-490-QD-BHXH.xls",
+            "folder": "thongbao",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-20T23:29:24",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_C20-TS-TT-490-QD-BHXH_chunk_0002",
+        "doc_id": "thongbao_MAU_C20-TS-TT-490-QD-BHXH",
+        "text": "Bảng tính: Sheet1\n\n| BẢO HIỂM XÃ HỘI  … |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| BẢO HIỂM XÃ HỘI … |  |  |  |  |  |  |  |  |  |  |  |  |\n| THÔNG BÁO ĐIỀU CHỈNH GIẢM SỐ PHẢI THU BHXH, BHYT, BHTN, BHTNLĐ, BNN |  |  |  |  |  |  |  |  |  |  |  |  |\n| Tháng …. Năm… |  |  |  |  |  |  |  |  |  |  |  |  |\n| Kính gửi: |  |  |  |  |  |  |  |  |  |  |  |  |\n| Địa chỉ: …...                                                                                        Mã đơn vị: … |  |  |  |  |  |  |  |  |  |  |  |  |\n| Bảo hiểm xã hội ……... thông báo về việc điều chỉnh giảm số tiền phải thu BHXH, BHYT, BHTN, BHTNLĐ, BNN đối với người tham gia của đơn vị đã tham gia BHXH, BHYT, BHTN, BHTNLĐ, BNN, cụ thể như sau: |  |  |  |  |  |  |  |  |  |  |  |  |\n| STT | Họ và tên | Mã số BHXH | Ngày tháng năm sinh | Số CMTND/CCCD/hộ chiếu | Thời gian giảm |  | Số tiền phải thu điều chỉnh giảm |  |  |  | Lý do | Ghi chú |\n|  |  |  |  |  | Từ tháng | Đến tháng | BHXH | BHYT | BHTN | BHTNLĐ, BNN |  |  |\n| A | B | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |\n| Đề nghị đơn vị kiểm tra thông tin trên, trường hợp không thống nhất đề nghị liên hệ với cơ quan BHXH ... ... |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  | ……..,ngày……tháng…..năm………. |  |  |  |\n|  |  |  |  |  |  |  |  |  | Giám đốc BHXH |  |  |  |\n|  |  |  |  |  |  |  |  |  | (ký, ghi rõ họ tên và đóng dấu) |  |  |  |\n|  | Nguồn: Quyết định 490/QĐ-BHXH năm 2023 |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_C20-TS-TT-490-QD-BHXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 1537,
+            "source_file": "thongbao/MAU C20-TS-TT-490-QD-BHXH.xls",
+            "file_name": "MAU C20-TS-TT-490-QD-BHXH.xls",
+            "folder": "thongbao",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-20T23:29:24",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

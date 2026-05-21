@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_B27-KLCV-BCT-BCT-1320-QD-BCT_chunk_0001",
+        "doc_id": "totrinh_MAU_B27-KLCV-BCT-BCT-1320-QD-BCT",
+        "text": "B27-KLCV-BCT\n\n| CƠ QUAN CHỦ QUẢN<br>TÊN TỔ CHỨC CHỦ TRÌ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | ..., ngày ... tháng ... năm 20... |\n\nBẢNG XÁC NHẬN\nKHỐI LƯỢNG CÔNG VIỆC ĐÃ HOÀN THÀNH\n\n| Kính gửi: | - Vụ Khoa học và Công nghệ, Bộ Công Thương<br>- Phòng Kế toán - Tài chính, Văn phòng Bộ Công thương |\n| --- | --- |\n\nCăn cứ Quyết định số ….../QĐ-BCT ngày …. tháng ….. năm ….. của Bộ trưởng Bộ Công thương về việc đặt hàng thực hiện nhiệm vụ khoa học và công nghệ ……….;\n\nCăn cứ hợp đồng thực hiện nhiệm vụ khoa học và công nghệ số ……… ngày …. tháng …. năm ….., ký giữa Bộ Công thương và …….. về việc thực hiện nhiệm vụ khoa học và công nghệ ……;\n\nNội dung khối lượng công việc đơn vị đã thực hiện hoàn thành sau tạm ứng lần….. như sau:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_B27-KLCV-BCT-BCT-1320-QD-BCT_chunk_0002",
+            "char_count": 810,
+            "source_file": "totrinh/MAU B27-KLCV-BCT-BCT-1320-QD-BCT.doc",
+            "file_name": "MAU B27-KLCV-BCT-BCT-1320-QD-BCT.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:14:20",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_B27-KLCV-BCT-BCT-1320-QD-BCT_chunk_0002",
+        "doc_id": "totrinh_MAU_B27-KLCV-BCT-BCT-1320-QD-BCT",
+        "text": "ngày …. tháng …. năm ….., ký giữa Bộ Công thương và …….. về việc thực hiện nhiệm vụ khoa học và công nghệ ……;\n\nNội dung khối lượng công việc đơn vị đã thực hiện hoàn thành sau tạm ứng lần….. như sau:\n\n| TT | Nội dung công việc | Tiến độ đã hoàn thành | Kinh phí đã sử dụng (đồng) |\n| --- | --- | --- | --- |\n| 1 | Chi công lao động |  |  |\n|  | ………… |  |  |\n| 2 | Chi phí vật tư, nguyên nhiên vật liệu, …phục vụ nghiên cứu. |  |  |\n|  | …………… |  |  |\n| 3 | Chi phí thiết bị, máy móc |  |  |\n|  | ………….. |  |  |\n| 4 | Các khoản chi phí khác |  |  |\n|  | …………….. |  |  |\n|  | Tổng cộng |  |  |\n\nKhối lượng công việc đã hoàn thành tương ứng với kinh phí đã thanh toán là:\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n| XÁC NHẬN CỦA <br>THỦ TRƯỞNG ĐƠN VỊ <br>(Họ, tên và chữ ký) | ..., ngày ... tháng ... năm 20...<br>XÁC NHẬN CỦA ĐƠN VỊ <br>QUẢN LÝ NHIỆM VỤ KH&CN <br>(Họ, tên và chữ ký) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_B27-KLCV-BCT-BCT-1320-QD-BCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 906,
+            "source_file": "totrinh/MAU B27-KLCV-BCT-BCT-1320-QD-BCT.doc",
+            "file_name": "MAU B27-KLCV-BCT-BCT-1320-QD-BCT.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:14:20",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

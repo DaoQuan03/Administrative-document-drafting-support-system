@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_1-16-2016-TTLT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_1-16-2016-TTLT",
+        "text": "Mẫu 1. Phiếu kiểm tra sức khỏe nghĩa vụ quân sự\n\n| Huyện...<br>Xã... | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n\nPhiếu kiểm tra sức khỏe nghĩa vụ quân sự\n\nI. Sơ yếu lý lịch\n\nHọ và tên:                                                         Sinh ngày:\n\nHọ và tên bố:                                                    Năm sinh:\n\nHọ và tên mẹ:                                                   Năm sinh:\n\nNguyên quán:\n\nTrú quán:\n\nGiấy chứng minh nhân dân số:\n\nĐã phục vụ tại ngũ từ (tháng/năm) ...đến (tháng/năm) ...\n\nII. Kết quả kiểm tra sức khỏe:\n\nCao: ...cm; Nặng: ...kg; Vòng ngực trung bình: ... cm.\n\nMạch: ... lần/phút; Huyết áp: ...mmHg.\n\nBệnh nội khoa: ...\n\nBệnh ngoại khoa: ...\n\nBệnh chuyên khoa (mắt, T-M-H, R-H-M): ...\n\nTiền sử bệnh tật:\n\nGia đình:...\n\nBản thân:...\n\nPhân loại sức khỏe sơ bộ: ...\n\n|  | Ngày... tháng...năm...<br>Tổ trưởng tổ kiểm tra sức khỏe |\n| --- | --- |\n\nNguồn: Thông tư liên tịch 16/2016/TTLT-BYT-BQP",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 993,
+            "source_file": "mauphieu/MAU SO 1-16-2016-TTLT.doc",
+            "file_name": "MAU SO 1-16-2016-TTLT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:06:23",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    }
+]

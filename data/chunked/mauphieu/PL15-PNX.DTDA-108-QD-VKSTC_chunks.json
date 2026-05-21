@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PL15-PNX_DTDA-108-QD-VKSTC_chunk_0001",
+        "doc_id": "mauphieu_PL15-PNX_DTDA-108-QD-VKSTC",
+        "text": "PL15-PNX.ĐTĐA\n\n| VIỆN KIỂM SÁT NHÂN DÂN <br>TỐI CAO<br>HỘI ĐỒNG ĐÁNH GIÁ, <br>NGHIỆM THU ĐỀ ÁN/ĐỀ TÀI <br>CẤP... | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM <br>Độc lập - Tự do - Hạnh phúc<br><br>Hà Nội, ngày      tháng      năm |\n| --- | --- |\n\nPHIẾU NHẬN XÉT ĐỀ ÁN, ĐỀ TÀI\n\n| I. PHẦN THÔNG TIN CHUNG: |\n| --- |\n\n1. Tên nhiệm vụ:\n\nMã số:\n\nChủ nhiệm đề tài, đề án:\n\nĐơn vị chủ trì đề tài, đề án:\n\n2. Chuyên gia nhận xét:\n\nHọ và tên chuyên gia:\n\nChức danh trong hội đồng:\n\nII. PHẦN NHẬN XÉT:\n\n1. Ý kiến nhận xét Báo cáo tổng thuật kết quả thực hiện đề án, đề tài:\n\n1.1. Về tính đầy đủ, rõ ràng, xác thực và logic của báo cáo tổng thuật\n\n1.2. Về cấu trúc nội dung của báo cáo tổng thuật kết quả nghiên cứu:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PL15-PNX_DTDA-108-QD-VKSTC_chunk_0002",
+            "char_count": 697,
+            "source_file": "mauphieu/PL15-PNX.DTDA-108-QD-VKSTC.doc",
+            "file_name": "PL15-PNX.DTDA-108-QD-VKSTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:54:43",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PL15-PNX_DTDA-108-QD-VKSTC_chunk_0002",
+        "doc_id": "mauphieu_PL15-PNX_DTDA-108-QD-VKSTC",
+        "text": "xét Báo cáo tổng thuật kết quả thực hiện đề án, đề tài:\n\n1.1. Về tính đầy đủ, rõ ràng, xác thực và logic của báo cáo tổng thuật\n\n1.2. Về cấu trúc nội dung của báo cáo tổng thuật kết quả nghiên cứu:\n\n1.3. Về chất lượng kết quả nghiên cứu của đề tài khoa học so với yêu cầu trong Hợp đồng thực hiện đề tài khoa học: mức độ đạt mục tiêu, nhiệm vụ nghiên cứu và các yêu cầu về sản phẩm đã cam kết trong hợp đồng; độ tin cậy, tính cập nhật, phong phú của hệ thống tài liệu đã sử dụng và các số liệu điều tra, thu thập; những điểm mới trong kết quả nghiên cứu; giá trị thực tiễn của kết quả nghiên cứu (khả năng ứng dụng, sử dụng kết quả nghiên cứu vào thực tiễn)\n\n1.4. Những nội dung cần chỉnh sửa, bổ sung\n\n2.  Về tiến độ thực hiện đề tài:\n\n3. Nhận xét chung\n\nCHUYÊN GIA NHẬN XÉT\n\n(Họ, tên và chữ ký)",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PL15-PNX_DTDA-108-QD-VKSTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 796,
+            "source_file": "mauphieu/PL15-PNX.DTDA-108-QD-VKSTC.doc",
+            "file_name": "PL15-PNX.DTDA-108-QD-VKSTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:54:43",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

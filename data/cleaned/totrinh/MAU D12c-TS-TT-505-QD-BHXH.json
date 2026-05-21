@@ -1,0 +1,10 @@
+{
+    "content": "### Bảng tính: Sheet1\n\n| BẢO HIỂM XÃ HỘI VIỆT NAM |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| BẢO HIỂM XÃ HỘI TỈNH… |  |  |  |  |  |  |  |  |\n| BẢNG TỔNG HỢP CHI THÙ LAO ĐẠI LÝ THU BHXH, BHYT |  |  |  |  |  |  |  |  |\n| Ngày ….. tháng….. năm….. |  |  |  |  |  |  |  |  |\n| STT | Tên đơn vị | Đối tượng khai thác thu mới |  | Đối tượng khai thác thu thường kỳ |  | Số thù lao phải trả đại lý | Số tiền thù lao đã chi cho đại lý | Số tiền thù lao còn phải chi cho đại lý |\n|  |  | Số người | Số tiền | Số người | Số tiền |  |  |  |\n| A | B | 1 | 2 | 3 | 4 | 5=2+4 | 6 | 7=5-6 |\n| I | BHYT Hộ gia đình |  |  |  |  |  |  |  |\n| 1 | BHXH huyện A |  |  |  |  |  |  |  |\n| 2 | BHXH huyện B |  |  |  |  |  |  |  |\n| … | …... |  |  |  |  |  |  |  |\n| II | BHXH tự nguyện |  |  |  |  |  |  |  |\n| 1 | BHXH huyện A |  |  |  |  |  |  |  |\n| 2 | BHXH huyện B |  |  |  |  |  |  |  |\n| … | …... |  |  |  |  |  |  |  |\n| III | BHYT người thuộc hộ gia đình cận nghèo; hộ nghèo đa chiều |  |  |  |  |  |  |  |\n| 1 | BHXH huyện A |  |  |  |  |  |  |  |\n| 2 | BHXH huyện B |  |  |  |  |  |  |  |\n| … | …... |  |  |  |  |  |  |  |\n| IV | BHYT hộ NLNDN có mức sống trung bình |  |  |  |  |  |  |  |\n| 1 | BHXH huyện A |  |  |  |  |  |  |  |\n| 2 | BHXH huyện B |  |  |  |  |  |  |  |\n| … | …... |  |  |  |  |  |  |  |\n| V | BHXH học sinh sinh viên |  |  |  |  |  |  |  |\n| 1 | BHXH huyện A |  |  |  |  |  |  |  |\n| 2 | BHXH huyện B |  |  |  |  |  |  |  |\n| … | …... |  |  |  |  |  |  |  |\n| Tổng cộng |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  | Ngày       tháng    năm |  |  |\n|  |  |  |  |  |  | Giám đốc BHXH tỉnh |  |  |\n|  |  |  |  |  |  | (Ký, đóng dấu) |  |  |\n|  | Nguồn: Quyết định 505/QĐ-BHXH |  |  |  |  |  |  |  |",
+    "metadata": {
+        "source_file": "totrinh/MAU D12c-TS-TT-505-QD-BHXH.xls",
+        "file_name": "MAU D12c-TS-TT-505-QD-BHXH.xls",
+        "folder": "totrinh",
+        "original_extension": ".xls",
+        "cleaned_at": "2026-05-20T22:14:39"
+    }
+}

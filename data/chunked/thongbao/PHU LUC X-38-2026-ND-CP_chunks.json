@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_PHU_LUC_X-38-2026-ND-CP_chunk_0001",
+        "doc_id": "thongbao_PHU_LUC_X-38-2026-ND-CP",
+        "text": "PHỤ LỤC X\n\nTHÔNG BÁO TẠM DỪNG MÃ SỐ VÙNG TRỒNG/MÃ SỐ CƠ SỞ ĐÓNG GÓI\n(Kèm theo Nghị định số 38/2026/NĐ-CP ngày 24 tháng 01 năm 2026 của Chính phủ)",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_PHU_LUC_X-38-2026-ND-CP_chunk_0002",
+            "char_count": 145,
+            "source_file": "thongbao/PHU LUC X-38-2026-ND-CP.doc",
+            "file_name": "PHU LUC X-38-2026-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:36:11",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_PHU_LUC_X-38-2026-ND-CP_chunk_0002",
+        "doc_id": "thongbao_PHU_LUC_X-38-2026-ND-CP",
+        "text": "LỤC X\n\nTHÔNG BÁO TẠM DỪNG MÃ SỐ VÙNG TRỒNG/MÃ SỐ CƠ SỞ ĐÓNG GÓI\n(Kèm theo Nghị định số 38/2026/NĐ-CP ngày 24 tháng 01 năm 2026 của Chính phủ)\n\n| THÔNG BÁO<br>Về việc tạm dừng hoạt động của mã số vùng trồng/mã số cơ sở đóng gói<br>Căn cứ Nghị định số      /2026/NĐ-CP ngày   tháng   năm     của Chính phủ quy định về nhập khẩu cây mang theo bầu đất và mã số vùng trồng, mã số cơ sở đóng gói;<br>Theo đề nghị của ………………….. (1).<br>THÔNG BÁO:<br>1. Tạm dừng hoạt động của mã số vùng trồng/mã số cơ sở đóng gói ……. được cấp theo Quyết định số ... ngày ... của ... kể từ ngày ... tháng ... năm ... đến ngày ... tháng ... năm ... đối với thị trường ... (nếu có).<br>Lý do tạm dừng (nêu rõ) ……………………….<br>2. (Tên tổ chức/cá nhân) ... có trách nhiệm điều tra xác định nguyên nhân và báo cáo các biện pháp khắc phục với (Tên cơ quan chuyên môn được giao) (nếu vi phạm an toàn thực phẩm hoặc kiểm dịch thực vật của nước nhập khẩu hoặc vi phạm quy định khác về an toàn thực phẩm của Việt Nam). Thời gian thực hiện không quá 60 ngày kể từ ngày nhận được thông báo này. Trường hợp không thực hiện được các biện pháp khắc phục hiệu quả hoặc không khắc phục thì mã số vùng trồng/mã số cơ sở đóng gói đã cấp sẽ bị thu hồi.<br>Vậy, (Tên cơ quan chuyên môn được giao) thông báo cho tổ chức, cá nhân có liên quan biết, thực hiện./.<br> <br> <br>___<br>(1) Lãnh đạo đơn vị thuộc cơ quan có thẩm quyền được giao nhiệm vụ về quản lý mã số vùng trồng/mã số cơ sở đóng gói. |\n| --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_PHU_LUC_X-38-2026-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 1459,
+            "source_file": "thongbao/PHU LUC X-38-2026-ND-CP.doc",
+            "file_name": "PHU LUC X-38-2026-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:36:11",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

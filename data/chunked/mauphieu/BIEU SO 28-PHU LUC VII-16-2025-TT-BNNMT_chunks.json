@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_BIEU_SO_28-PHU_LUC_VII-16-2025-TT-BNNMT_chunk_0001",
+        "doc_id": "mauphieu_BIEU_SO_28-PHU_LUC_VII-16-2025-TT-BNNMT",
+        "text": "Biểu số 28\n\nPHIẾU THU THẬP TIÊU BẢN THỰC VẬT RỪNG",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_BIEU_SO_28-PHU_LUC_VII-16-2025-TT-BNNMT_chunk_0002",
+            "char_count": 49,
+            "source_file": "mauphieu/BIEU SO 28-PHU LUC VII-16-2025-TT-BNNMT.doc",
+            "file_name": "BIEU SO 28-PHU LUC VII-16-2025-TT-BNNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:43:30",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_BIEU_SO_28-PHU_LUC_VII-16-2025-TT-BNNMT_chunk_0002",
+        "doc_id": "mauphieu_BIEU_SO_28-PHU_LUC_VII-16-2025-TT-BNNMT",
+        "text": "số 28\n\nPHIẾU THU THẬP TIÊU BẢN THỰC VẬT RỪNG\n\n| Số hiệu mẫu: |  |  |  |\n| --- | --- | --- | --- |\n| Số lượng mẫu: |  |  |  |\n| Tên phổ thông: |  | Tên địa phương: |  |\n| Tên khoa học: |  | Họ: |  |\n| Địa điểm thu mẫu |  |  |  |\n| Tọa độ địa lý: |  |  |  |\n| Độ cao |  |  |  |\n| Địa danh: | Thôn: | Xã: | Tỉnh: |\n| Nơi mọc (chân, sườn, đỉnh): | Nơi mọc (chân, sườn, đỉnh): | Nơi mọc (chân, sườn, đỉnh): |  |\n| Sinh cảnh nơi lấy: |  |  |  |\n| Các loài mọc cùng: |  |  |  |\n| Mô tả cây/loài lấy mẫu |  |  |  |\n| Thân: chiều cao cây (m): | Thân: chiều cao cây (m): | Đường kính cấy (cm): | Đường kính cấy (cm): |\n| Hình dạng tán lá: | Hình dạng tán lá: |  |  |\n| Đặc điểm cành: | Đặc điểm cành: |  |  |\n| Đặc điểm vỏ cây: | Đặc điểm vỏ cây: |  |  |\n| Lá (loại lá, hình dạng, kích thước, màu sắc): | Lá (loại lá, hình dạng, kích thước, màu sắc): | Lá (loại lá, hình dạng, kích thước, màu sắc): | Lá (loại lá, hình dạng, kích thước, màu sắc): |\n| Cụm hoa (hình dáng, kích thước): | Cụm hoa (hình dáng, kích thước): |  |  |\n| Hoa (màu sắc, kích thước): | Hoa (màu sắc, kích thước): |  |  |\n| Quả (hình dạng, màu sắc, kích thước): | Quả (hình dạng, màu sắc, kích thước): |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_BIEU_SO_28-PHU_LUC_VII-16-2025-TT-BNNMT_chunk_0001",
+            "next_chunk_id": "mauphieu_BIEU_SO_28-PHU_LUC_VII-16-2025-TT-BNNMT_chunk_0003",
+            "char_count": 1170,
+            "source_file": "mauphieu/BIEU SO 28-PHU LUC VII-16-2025-TT-BNNMT.doc",
+            "file_name": "BIEU SO 28-PHU LUC VII-16-2025-TT-BNNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:43:30",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_BIEU_SO_28-PHU_LUC_VII-16-2025-TT-BNNMT_chunk_0003",
+        "doc_id": "mauphieu_BIEU_SO_28-PHU_LUC_VII-16-2025-TT-BNNMT",
+        "text": "| Cụm hoa (hình dáng, kích thước): |  |  |\n| Hoa (màu sắc, kích thước): | Hoa (màu sắc, kích thước): |  |  |\n| Quả (hình dạng, màu sắc, kích thước): | Quả (hình dạng, màu sắc, kích thước): |  |  |\n\n| Người thu thập: | Thời gian thu thập:<br>Ngày…..tháng….năm... |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_BIEU_SO_28-PHU_LUC_VII-16-2025-TT-BNNMT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 277,
+            "source_file": "mauphieu/BIEU SO 28-PHU LUC VII-16-2025-TT-BNNMT.doc",
+            "file_name": "BIEU SO 28-PHU LUC VII-16-2025-TT-BNNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:43:30",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

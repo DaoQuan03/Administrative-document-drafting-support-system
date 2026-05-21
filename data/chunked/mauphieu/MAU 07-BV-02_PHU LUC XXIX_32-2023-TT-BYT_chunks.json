@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_07-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_07-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "Sở Y tế: ...\n\nBV: ... Khoa: ...\n\nPhiếu theo dõi\n\nTruyền dịch\n\nMS:07/BV-02\n\nSố vào viện: ...\n\n-     Họ tên người bệnh: ...Tuổi: ... Nam/ Nữ\n\n-     Số giường: ……………….. Buồng: ...\n\n-     Chẩn đoán: ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_07-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0002",
+            "char_count": 198,
+            "source_file": "mauphieu/MAU 07-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 07-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:52:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_07-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0002",
+        "doc_id": "mauphieu_MAU_07-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "Y tế: ...\n\nBV: ... Khoa: ...\n\nPhiếu theo dõi\n\nTruyền dịch\n\nMS:07/BV-02\n\nSố vào viện: ...\n\n-     Họ tên người bệnh: ...Tuổi: ... Nam/ Nữ\n\n-     Số giường: ……………….. Buồng: ...\n\n-     Chẩn đoán: ...\n\n| Ngày tháng | Tên dịch truyền/ Hàm lượng | Số lượng | Lô/ Số sản xuất | Tốc độ<br>giọt/ph | Thời gian | Thời gian | BS chỉ định | YT (ĐD ) thực hiện |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Ngày tháng | Tên dịch truyền/ Hàm lượng | Số lượng | Lô/ Số sản xuất | Tốc độ<br>giọt/ph | bắt đầu | kết<br>thúc | BS chỉ định | YT (ĐD ) thực hiện |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_07-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 1426,
+            "source_file": "mauphieu/MAU 07-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 07-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:52:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

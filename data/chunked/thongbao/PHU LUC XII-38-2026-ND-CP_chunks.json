@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_PHU_LUC_XII-38-2026-ND-CP_chunk_0001",
+        "doc_id": "thongbao_PHU_LUC_XII-38-2026-ND-CP",
+        "text": "PHỤ LỤC XII\n\nTHÔNG BÁO PHỤC HỒI HOẠT ĐỘNG CỦA MÃ SỐ VÙNG TRỒNG/MÃ SỐ CƠ SỞ ĐÓNG GÓI\n(Kèm theo Nghị định số 38/2026/NĐ-CP ngày 24 tháng 01 năm 2026 của Chính phủ)",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_PHU_LUC_XII-38-2026-ND-CP_chunk_0002",
+            "char_count": 161,
+            "source_file": "thongbao/PHU LUC XII-38-2026-ND-CP.doc",
+            "file_name": "PHU LUC XII-38-2026-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:36:30",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_PHU_LUC_XII-38-2026-ND-CP_chunk_0002",
+        "doc_id": "thongbao_PHU_LUC_XII-38-2026-ND-CP",
+        "text": "LỤC XII\n\nTHÔNG BÁO PHỤC HỒI HOẠT ĐỘNG CỦA MÃ SỐ VÙNG TRỒNG/MÃ SỐ CƠ SỞ ĐÓNG GÓI\n(Kèm theo Nghị định số 38/2026/NĐ-CP ngày 24 tháng 01 năm 2026 của Chính phủ)\n\n| THÔNG BÁO<br>Phục hồi hoạt động của mã số vùng trồng/mã số cơ sở đóng gói<br>Căn cứ Nghị định số      /2026/NĐ-CP ngày   tháng    năm     của Chính phủ quy định về nhập khẩu cây mang theo bầu đất và mã số vùng trồng, mã số cơ sở đóng gói;<br>Căn cứ Thông báo số     /TB-    ngày   tháng   năm      về việc tạm dừng hoạt động của mã số vùng trồng/mã số cơ sở đóng gói của (Tên cơ quan chuyên môn được giao);<br>Theo đề nghị của ………………………….. (1).<br>THÔNG BÁO:<br>1. Khôi phục hoạt động của mã số vùng trồng/mã số cơ sở đóng gói<br>Tên tổ chức/cá nhân: …………………………………………………………………...<br>Tên vùng trồng/cơ sở đóng gói: ……………………………………………………….<br>Địa chỉ: …………..…………………………………………………………………...<br>Mã số được khôi phục: …………………………………………………………………<br>Mã số vùng trồng/mã số cơ sở đóng gói nêu trên được khôi phục và tiếp tục sử dụng kể từ ngày ... tháng ... năm ... đối với thị trường... (nếu có).<br>2. Trách nhiệm của tổ chức/cá nhân<br>Tổ chức/cá nhân có mã số được khôi phục có trách nhiệm:<br>- Duy trì đầy đủ các điều kiện kỹ thuật theo quy định của Nghị định và yêu cầu của nước nhập khẩu trong trường hợp mã số xuất khẩu;<br>- Thực hiện tự giám sát và lưu hồ sơ theo quy định;<br>- Phối hợp kiểm tra theo yêu cầu của cơ quan chuyên môn được giao;<br>(Tên cơ quan chuyên môn được giao) ... thông báo để tổ chức, cá nhân được biết, thực hiện./.<br> <br> <br>___<br>(1) Lãnh đạo đơn vị thuộc cơ quan có thẩm quyền được giao nhiệm vụ về quản lý mã số vùng trồng/mã số cơ sở đóng gói. |\n| --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_PHU_LUC_XII-38-2026-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 1645,
+            "source_file": "thongbao/PHU LUC XII-38-2026-ND-CP.doc",
+            "file_name": "PHU LUC XII-38-2026-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:36:30",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

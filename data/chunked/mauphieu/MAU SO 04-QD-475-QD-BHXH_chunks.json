@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_04-QD-475-QD-BHXH_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_04-QD-475-QD-BHXH",
+        "text": "Mẫu số 04\n\n| Chữ ký số của Tổ chức<br>(nếu là biểu mẫu điện tử) |  |\n| --- | --- |\n\n| BHXH TỈNH ...<br>PHÒNG ... /BHXH HUYỆN...<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số:…../PXL | …………, ngày …… tháng …… năm 20.… |\n\nPHIẾU XIN LỖI VÀ HẸN LẠI NGÀY TRẢ KẾT QUẢ\n\nKính gửi: Ông/bà/đơn vị ...\n\nNgày...tháng…...năm ..., Bộ phận Tiếp nhận và trả kết quả giải quyết TTHC đã tiếp nhận hồ sơ đề nghị giải quyết TTHC của ông/bà/đơn vị.\n\nMã hồ sơ: …………………..….……………………………………………\n\nThời gian hẹn trả kết quả vào ... giờ ... phút, ngày … tháng ... năm...\n\nTuy nhiên đến nay, Phòng/BHXH huyện ………… chưa xử lý xong hồ sơ đề nghị giải quyết TTHC của ông/bà/đơn vị để trả kết quả theo thời hạn ghi trên Giấy tiếp nhận hồ sơ và hẹn trả kết quả.\n\nLý do: …...\n\nSự chậm trễ này đã gây phiền hà tới ông/bà/đơn vị.\n\nPhòng/BHXH huyện………………. xin lỗi ông/bà/đơn vị và sẽ trả kết quả giải quyết hồ sơ vào ... giờ ... phút, ngày … tháng ... năm...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_04-QD-475-QD-BHXH_chunk_0002",
+            "char_count": 990,
+            "source_file": "mauphieu/MAU SO 04-QD-475-QD-BHXH.doc",
+            "file_name": "MAU SO 04-QD-475-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:56:50",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_04-QD-475-QD-BHXH_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_04-QD-475-QD-BHXH",
+        "text": "quả.\n\nLý do: …...\n\nSự chậm trễ này đã gây phiền hà tới ông/bà/đơn vị.\n\nPhòng/BHXH huyện………………. xin lỗi ông/bà/đơn vị và sẽ trả kết quả giải quyết hồ sơ vào ... giờ ... phút, ngày … tháng ... năm...\n\nMong nhận được sự thông cảm của ông/bà/đơn vị vì sự chậm trễ này./.\n\n|  | QUYỀN HẠN, CHỨC VỤ NGƯỜI KÝ<br>(Ký và ghi rõ họ tên)<br>(Chữ ký số nếu là biểu mẫu điện tử) |\n| --- | --- |\n\nNguồn: Quyết định 475/QĐ-BHXH năm 2023",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_04-QD-475-QD-BHXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 420,
+            "source_file": "mauphieu/MAU SO 04-QD-475-QD-BHXH.doc",
+            "file_name": "MAU SO 04-QD-475-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:56:50",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    }
+]

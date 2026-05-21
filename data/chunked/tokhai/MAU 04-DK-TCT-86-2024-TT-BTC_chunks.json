@@ -1,0 +1,218 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0001",
+        "doc_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC",
+        "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTỜ KHAI ĐĂNG KÝ THUẾ\n\nTAX REGISTRATION FORM\n\n(Dùng cho các nhà thầu nước ngoài, nhà thầu phụ nước ngoài, Ban điều hành liên danh)\n\n(Use for contractor/sub-contractor/management board)\n\nKê khai - nộp thuế nhà thầu                         Kê khai-nộp các loại thuế khác",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 12,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0002",
+            "char_count": 332,
+            "source_file": "tokhai/MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "file_name": "MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:37:26",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0002",
+        "doc_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC",
+        "text": "nước ngoài, nhà thầu phụ nước ngoài, Ban điều hành liên danh)\n\n(Use for contractor/sub-contractor/management board)\n\nKê khai - nộp thuế nhà thầu                         Kê khai-nộp các loại thuế khác\n\n|  |  |\n| --- | --- |\n|  |  |\n| 1. Tên nhà thầu nước ngoài/nhà thầu phụ nước ngoài/Ban điều hành liên danh:<br>Name of contractor/ sub-contractor/management board | 1. Tên nhà thầu nước ngoài/nhà thầu phụ nước ngoài/Ban điều hành liên danh:<br>Name of contractor/ sub-contractor/management board |\n| 2. Thông tin đại lý thuế (nếu có):<br>Tax agent (if any) | 2. Thông tin đại lý thuế (nếu có):<br>Tax agent (if any) |\n| 2a. Tên (Name) | 2a. Tên (Name) |\n| 2b. Mã số thuế <br>(TIN of Tax agent) | 2b. Mã số thuế <br>(TIN of Tax agent) |\n| 2c. Hợp đồng đại lý thuế: Số                                                          ngày<br>Tax agent contract: Number                                                    Date | 2c. Hợp đồng đại lý thuế: Số                                                          ngày<br>Tax agent contract: Number                                                    Date |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 12,
+            "prev_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0001",
+            "next_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0003",
+            "char_count": 1096,
+            "source_file": "tokhai/MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "file_name": "MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:37:26",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0003",
+        "doc_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC",
+        "text": "Date | 2c. Hợp đồng đại lý thuế: Số                                                          ngày<br>Tax agent contract: Number                                                    Date |\n\n| 3. Quốc tịch (Nationality): |\n| --- |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 12,
+            "prev_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0002",
+            "next_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0004",
+            "char_count": 226,
+            "source_file": "tokhai/MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "file_name": "MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:37:26",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0004",
+        "doc_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC",
+        "text": "thuế: Số                                                          ngày<br>Tax agent contract: Number                                                    Date |\n\n| 3. Quốc tịch (Nationality): |\n| --- |\n\n| 4. Địa chỉ trụ sở chính:<br>Address of the head office |  | 5. Địa chỉ văn phòng điều hành tại Việt Nam <br>Address of management office in Vietnam |\n| --- | --- | --- |\n| 4. Địa chỉ trụ sở chính:<br>Address of the head office |  | 5a. Số nhà, đường phố, thôn, xóm:<br>Street number, Street name or Commune |\n| 4. Địa chỉ trụ sở chính:<br>Address of the head office |  | 5b. Xã/phường/đặc khu:<br>Ward |\n| Điện thoại (Tel):                               <br>Fax:                       <br>Email: |  | 5d. Tỉnh/Thành phố:<br>Province/City |\n| Điện thoại (Tel):                               <br>Fax:                       <br>Email: |  | 5d. Tỉnh/Thành phố:<br>Province/City |\n| Điện thoại (Tel):                               <br>Fax:                       <br>Email: |  | 5e. Điện thoại (Tel):                    Fax:              Email: |",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 12,
+            "prev_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0003",
+            "next_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0005",
+            "char_count": 1043,
+            "source_file": "tokhai/MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "file_name": "MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:37:26",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0005",
+        "doc_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC",
+        "text": "Tỉnh/Thành phố:<br>Province/City |\n| Điện thoại (Tel):                               <br>Fax:                       <br>Email: |  | 5e. Điện thoại (Tel):                    Fax:              Email: |\n\n| 6. Giấy phép hoạt động kinh doanh tại Việt Nam <br>Business licence in Vietnam |  | 7. Hoạt động tại Việt Nam theo hợp đồng Nhà thầu hoặc Nhà thầu phụ<br>Contract for Contractor/Sub-Contractor operation in Vietnam |\n| --- | --- | --- |\n| 6a. Số giấy phép:<br>Number |  | 7. Hoạt động tại Việt Nam theo hợp đồng Nhà thầu hoặc Nhà thầu phụ<br>Contract for Contractor/Sub-Contractor operation in Vietnam |\n| 6b. Ngày cấp:             …./…./………..<br>Date |  | 7a. Số:<br>Number |\n| 6c. Cơ quan cấp:<br>Granted by |  | 7b. Ngày: …../…./…….<br>Date |",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 12,
+            "prev_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0004",
+            "next_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0006",
+            "char_count": 747,
+            "source_file": "tokhai/MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "file_name": "MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:37:26",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0006",
+        "doc_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC",
+        "text": "for Contractor/Sub-Contractor operation in Vietnam |\n| 6b. Ngày cấp:             …./…./………..<br>Date |  | 7a. Số:<br>Number |\n| 6c. Cơ quan cấp:<br>Granted by |  | 7b. Ngày: …../…./…….<br>Date |\n\n| 7c. Ký với:<br>Signed with<br>Mã số NNT tại Việt Nam (nếu có):<br>Tax payers identification number in Vietnam (if any) |\n| --- |\n| 7c. Ký với:<br>Signed with<br>Mã số NNT tại Việt Nam (nếu có):<br>Tax payers identification number in Vietnam (if any) |\n\n| 8. Mục tiêu hoạt động tại Việt Nam theo hợp đồng<br>Contract objectives |\n| --- |\n|  |\n\n| 9. Địa điểm tiến hành công việc theo hợp đồng<br>Location of according to the contract |\n| --- |\n|  |\n\n| 10. Thời gian thực hiện hợp đồng<br>Contract duration |\n| --- |\n| Từ: ……/…… đến ……./…….                                                          <br>From: ……/……. to ……/……. |",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 12,
+            "prev_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0005",
+            "next_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0007",
+            "char_count": 821,
+            "source_file": "tokhai/MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "file_name": "MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:37:26",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0007",
+        "doc_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC",
+        "text": "|\n| --- |\n|  |\n\n| 10. Thời gian thực hiện hợp đồng<br>Contract duration |\n| --- |\n| Từ: ……/…… đến ……./…….                                                          <br>From: ……/……. to ……/……. |\n\n| 11. Nhà thầu phụ nước ngoài<br>Do you have sub-contractor? | 11. Nhà thầu phụ nước ngoài<br>Do you have sub-contractor? |\n| --- | --- |\n| Có                                      <br>                 Yes | Không<br>              No |",
+        "metadata": {
+            "chunk_index": 7,
+            "total_chunks": 12,
+            "prev_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0006",
+            "next_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0008",
+            "char_count": 427,
+            "source_file": "tokhai/MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "file_name": "MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:37:26",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0008",
+        "doc_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC",
+        "text": "you have sub-contractor? | 11. Nhà thầu phụ nước ngoài<br>Do you have sub-contractor? |\n| --- | --- |\n| Có                                      <br>                 Yes | Không<br>              No |\n\n| 12. Thông tin người đại diện của nhà thầu nước ngoài (hoặc nhà thầu phụ nước ngoài): \t<br>Information of representative of contractor (or sub-contractor) |\n| --- |\n| 12a. Tên người đại diện theo pháp luật:<br>Name of representative of contractor (or sub-contractor)<br>12b. Chức vụ:...\t<br>Possition<br>12c. Chứng từ chứng thực cá nhân: Số giấy chứng thực cá nhân... Ngày cấp... Ngày hết hạn:…………..….. Nơi cấp...<br>Passport or Identify number:………. Date of Issue……… Date of Expiration...………… Place of Issue……………………<br>12d. Địa chỉ tại Việt Nam:<br>Address of representative of contractor (or sub-contractor) in Vietnam<br>       Số nhà/Đường phố:<br>       Street number, Street name or Commune<br>       Xã/phường/đặc khu:           <br>       Ward<br>       Tỉnh/Thành phố:<br>       Province/City<br>12e. Thông tin khác:<br>       Others<br>Điện thoại (tel):                                   /Fax:<br>Email:                                          Website: |",
+        "metadata": {
+            "chunk_index": 8,
+            "total_chunks": 12,
+            "prev_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0007",
+            "next_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0009",
+            "char_count": 1165,
+            "source_file": "tokhai/MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "file_name": "MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:37:26",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0009",
+        "doc_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC",
+        "text": "phố:<br>       Province/City<br>12e. Thông tin khác:<br>       Others<br>Điện thoại (tel):                                   /Fax:<br>Email:                                          Website: |\n\n| 13. Phương pháp tính thuế GTGT<br>VAT calculation method |  | Khấu trừ<br>Deduction method |  |  |  |  | Trực tiếp trên GTGT<br>Directly method |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |\n| 14. Phương pháp tính thuế TNDN<br>CIT calculation method |  | Doanh thu, chi phí<br>Revenues, expenses |  |  |  | Trực tiếp trên doanh thu <br> Directly method | Trực tiếp trên doanh thu <br> Directly method |  |\n|  |  |  |  |  |  |  |  |  |\n| 15. Năm tài chính<br>Finacial year | Từ ngày …/…                         đến ngày  …/…<br>From: dd….mm… yy…         To: dd….mm… yy… | Từ ngày …/…                         đến ngày  …/…<br>From: dd….mm… yy…         To: dd….mm… yy… | Từ ngày …/…                         đến ngày  …/…<br>From: dd….mm… yy…         To: dd….mm… yy… | Từ ngày …/…                         đến ngày  …/…<br>From: dd….mm… yy…         To: dd….mm… yy… | Từ ngày …/…                         đến ngày  …/…<br>From: dd….mm… yy…         To: dd….mm… yy… | Từ ngày …/…                         đến ngày  …/…<br>From: dd….mm… yy…         To: dd….mm… yy… | Từ ngày …/…                         đến ngày  …/…<br>From: dd….mm… yy…         To: dd….mm… yy… | Từ ngày …/…                         đến ngày  …/…<br>From: dd….mm… yy…         To: dd….mm… yy… |\n|  |  |  |  |  |  |  |  |  |\n| 16. Tài liệu kèm theo<br>Attachments | 16. Tài liệu kèm theo<br>Attachments | 16. Tài liệu kèm theo<br>Attachments | 16. Tài liệu kèm theo<br>Attachments | 16. Tài liệu kèm theo<br>Attachments | 16. Tài liệu kèm theo<br>Attachments | 16. Tài liệu kèm theo<br>Attachments | 16. Tài liệu kèm theo<br>Attachments | 16. Tài liệu kèm theo<br>Attachments |\n|  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 9,
+            "total_chunks": 12,
+            "prev_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0008",
+            "next_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0010",
+            "char_count": 1899,
+            "source_file": "tokhai/MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "file_name": "MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:37:26",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0010",
+        "doc_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC",
+        "text": "| 16. Tài liệu kèm theo<br>Attachments | 16. Tài liệu kèm theo<br>Attachments | 16. Tài liệu kèm theo<br>Attachments | 16. Tài liệu kèm theo<br>Attachments |\n|  |  |  |  |  |  |  |  |  |\n\nCam kết của Nhà thầu nước ngoài hoặc Nhà thầu nước ngoài phụ thực hiện nghiêm chỉnh luật pháp về thuế, nộp kịp thời và đầy đủ các khoản thuế phát sinh, đảm bảo việc khấu trừ và nộp đủ các khoản thuế của Nhà thầu và người lao động làm việc tại Việt Nam theo hợp đồng.\n\nContractors, sub-contractors commit to observe all tax laws, timely and fully pay taxes, ensure to withhold and pay full tax dues of sub-contractors and employees involved in the contract in Vietnam.",
+        "metadata": {
+            "chunk_index": 10,
+            "total_chunks": 12,
+            "prev_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0009",
+            "next_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0011",
+            "char_count": 655,
+            "source_file": "tokhai/MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "file_name": "MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:37:26",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0011",
+        "doc_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC",
+        "text": "sub-contractors commit to observe all tax laws, timely and fully pay taxes, ensure to withhold and pay full tax dues of sub-contractors and employees involved in the contract in Vietnam.\n\n|  | …, ngày: …../…./………….<br>…, date: …../……/………. |\n| --- | --- |\n| NHÂN VIÊN ĐẠI LÝ THUẾ<br>Staff of tax agent<br>Họ và tên:…….<br>Name<br>Chứng chỉ hành nghề số:...<br>Certificate number | NGƯỜI ĐẠI DIỆN NHÀ THẦU   NƯỚC NGOÀI/NHÀ THẦU PHỤ NƯỚC NGOÀI/BAN ĐIỀU HÀNH LIÊN DANH<br>Representative of contractor (or sub-contractor)<br>(Signature) |",
+        "metadata": {
+            "chunk_index": 11,
+            "total_chunks": 12,
+            "prev_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0010",
+            "next_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0012",
+            "char_count": 533,
+            "source_file": "tokhai/MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "file_name": "MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:37:26",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0012",
+        "doc_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC",
+        "text": "chỉ hành nghề số:...<br>Certificate number | NGƯỜI ĐẠI DIỆN NHÀ THẦU   NƯỚC NGOÀI/NHÀ THẦU PHỤ NƯỚC NGOÀI/BAN ĐIỀU HÀNH LIÊN DANH<br>Representative of contractor (or sub-contractor)<br>(Signature) |\n\n| HƯỚNG DẪN KÊ KHAI MẪU SỐ 04-ĐK-TCT<br>GUIDANCE FOR DECLARATION<br><br>Người nộp thuế phải tích chọn vào một trong các ô thích hợp trước khi kê khai vào phần thông tin chi tiết, cụ thể như sau:<br>Contractor/sub-contractor/management board select one of the appropriate boxes before declare detail information, as follows:<br>- “Kê khai-nộp thuế nhà thầu”: Áp dụng cho trường hợp nhà thầu nước ngoài, nhà thầu phụ nước ngoài, Ban điều hành liên danh trực tiếp kê khai và nộp thuế nhà thầu với cơ quan thuế (thuế GTGT, thuế TNDN theo quy định của pháp luật về thuế nhà thầu nước ngoài và pháp luật về quản lý thuế) .<br>“Contractor tax declartion and payment”: Applicable to the Contractor/sub-contractor/management board direct contractor tax declartion and payment and submit to tax department (VAT, CIT in accordance with the contractor tax law and tax managment law).<br>- “Kê khai - nộp các loại thuế khác”: Áp dụng cho trường hợp nhà thầu nước ngoài, nhà thầu phụ nước ngoài trực tiếp kê khai thuế thu nhập cá nhân, lệ phí môn bài,... với cơ quan thuế và được Bên Việt Nam kê khai, khấu trừ, nộp thay thuế nhà thầu nước ngoài theo quy định của pháp luật về thuế nhà thầu nước ngoài và pháp luật về quản lý thuế. <br>“Other tax and fee declartion and payment”: Applicable to the Contractor/sub-contractor/management board direct PIT, other fees declartion and payment and submit to tax department and Vietnamese parties deduct and pay on behalf of contractor/sub-contractor about VAT, CIT in accordance with the contractor tax law and tax managment law.<br>1. Tên nhà thầu nước ngoài, nhà thầu phụ nước ngoài, Ban điều hành liên danh: Ghi đầy đủ tên (kể cả viết tắt) của Nhà thầu hoặc Nhà thầu phụ hoặc Ban điều hành liên danh tham gia các hoạt động kinh doanh tại Việt Nam không theo các hình thức quy định tại Luật Đầu tư.<br>Name of contractor/sub-contractor/management board: Write full name (including abbreviated name) of contractor or sub-contractor or management board doing business in Vietnam under the form not stipulated in the Law of Invesment.<br>2. Thông tin đại lý thuế: Ghi đầy đủ các thông tin của đại lý thuế trong trường hợp Đại lý thuế ký hợp đồng với người nộp thuế để thực hiện thủ tục đăng ký thuế thay cho người nộp thuế theo quy định tại Luật Quản lý thuế.<br>Information of Tax agent: Write name, TIN, contract (number, date).<br>3. Quốc tịch: Ghi rõ quốc tịch của Nhà thầu nước ngoài hoặc Nhà thầu phụ nước ngoài.<br>Nationality: Fill in clearly the nationality of the contractor/sub-contractor/ management board.<br>4. Địa chỉ trụ sở chính: Nếu người nộp thuế là cá nhân thì ghi địa chỉ, số điện thoại, số fax nơi cá nhân cư trú.<br>Nếu người nộp thuế là tổ chức hoặc công ty thì ghi địa chỉ, số điện thoại, số fax nơi đặt trụ sở chính.<br>Address of head office:<br>    If contractor/sub-contractor is an idividual, fill in address, telephone number, fax number of residency.<br>    If contractor/sub-contractor is an organisation or company, fill in address, telephone number, fax number of the head office.<br>5. Địa chỉ văn phòng điều hành tại Việt Nam:<br>Nếu người nộp thuế là cá nhân thì ghi địa chỉ, số điện thoại, số fax nơi cá nhân cư trú tại Việt Nam để điều hành hoạt động.<br>Nếu người nộp thuế là các tổ chức hoặc công ty thì ghi địa chỉ, số điện thoại, số fax nơi đặt trụ sở văn phòng điều hành tại Việt Nam.<br>Address of Management office in Vietnam:<br>   If contractor/sub-contractor is an idividual, fill in address, telephone number, fax number of the individual residing in Vietnam to do business.<br>   If contractor/sub-contractor is an organisation or company, fill in address, telephone number, fax number of the management office in Vietnam.<br>6. Giấy phép hoạt động kinh doanh tại Việt Nam: Căn cứ vào giấy phép hoạt động kinh doanh tại Việt Nam do cơ quan quản lý Nhà nước có thẩm quyền cấp (nếu có) để điền vào các chỉ tiêu tương ứng.<br>Business license in Vietnam:<br>   Based on the business license granted by the competent Goverment authority, fill in the relevant items in the form (if any).<br>7. Hoạt động tại Việt Nam theo hợp đồng Nhà thầu nước ngoài hoặc Nhà thầu phụ nước ngoài: Căn cứ vào hợp đồng được ký kết mà điền vào các chỉ tiêu cho phù hợp. Chỉ kê khai nếu tích chọn “Kê khai-nộp thuế nhà thầu”.<br>Contract for contractor/sub-contractor operation in Vietnam: Based on the signed contract, fill in the relevant items in the form if select “Contractor tax declartion and payment”.<br>8. Mục tiêu hoạt động tại Việt Nam theo hợp đồng: Ghi cụ thể từng mục tiêu hoạt động của hợp đồng. Chỉ kê khai nếu tích chọn “Kê khai-nộp thuế nhà thầu”.<br>Contract objectives: Declare each operation objective of the contract concretely if select “Contractor tax declartion and payment”.<br>9. Địa điểm tiến hành công việc theo hợp đồng: Ghi cụ thể các địa điểm tiến hành công việc theo hợp đồng. Trong trường hợp tiến hành công việc tại nhiều địa phương khác nhau thì phải kê khai đầy đủ các địa điểm tiến hành công việc tại địa phương đó. Chỉ kê khai nếu tích chọn “Kê khai-nộp thuế nhà thầu”.<br>Location of business according to the contract: Declare each operation location of the contract concretely. In case of doing business at many different location, contractor/sub-contract has to declare fully the location to do business if select “Contractor tax declartion and payment”.<br>10. Thời gian thực hiện hợp đồng: Ghi rõ thời gian thực hiện hợp đồng từ tháng, năm đến tháng, năm. Chỉ kê khai nếu tích chọn “Kê khai-nộp thuế nhà thầu”.<br>Contract duration: Fill inclearly contract duration from month, year to month, year if select “Contractor tax declartion and payment”.<br>11. Nhà thầu phụ nước ngoài: Nếu có các Nhà thầu phụ nước ngoài thực hiện một phần hợp đồng yêu cầu kê khai đầy đủ các Nhà thầu phụ nước ngoài theo bảng kê mẫu số BK04-ĐK-TCT đính kèm tờ khai đăng ký thuế.<br>Do you have sub-contractor: If there are sub-contractors taking part in the contract, please declare fully in the Sub-contracor form of BK04-ĐK-TCT declare attached.<br>12. Thông tin người đại diện của nhà thầu nước ngoài (hoặc nhà thầu phụ nước ngoài): Ghi rõ thông tin về người đại diện của nhà thầu (hoặc nhà thầu phụ).<br>Declare information of representative of contractor (or sub-contractor)<br>13. Phương pháp tính thuế GTGT: Người nộp thuế kê khai thông tin về phương pháp tính thuế GTGT nếu tích chọn vào ô “Kê khai-nộp thuế nhà thầu”.<br>Declare information of  VAT calculation method if select “Contractor tax declartion and payment”<br>14. Phương pháp tính thuế TNDN: Người nộp thuế kê khai thông tin về phương pháp tính thuế TNDN nếu tích chọn vào ô “Kê khai-nộp thuế nhà thầu”.<br>Declare information of  CIT calculation method if select “Contractor tax declartion and payment”<br>15. Năm tài chính: Người nộp thuế kê khai thông tin về năm tài chính là năm dương lịch. Trường hợp<br>năm tài chính khác năm dương lịch thì kê khai thông tin từ quý bắt đầu đến quý kết thúc năm tài chính và năm tài chính phải tròn 12 tháng. <br>Declare information of finacial year (From … to …) is calendar year. If finacial year is different from calendar year, declare information is from quarter to quarter and finacial year must be full 12 months.<br>16. Tài liệu kèm theo: Ghi các tài liệu gửi cho cơ quan thuế kèm theo tờ khai đăng ký thuế.<br>Attachments: List all documents attached to the Tax Registration Form<br>17. Nhân viên đại lý thuế: Trường hợp đại lý thuế kê khai thay cho người nộp thuế thì kê khai vào thông tin này.<br>Staff tax agent: Staff tax agent derclare name and certificate number on this area if tax agent derclare onbehalf of contractor/sub-contractor |\n| --- |",
+        "metadata": {
+            "chunk_index": 12,
+            "total_chunks": 12,
+            "prev_chunk_id": "tokhai_MAU_04-DK-TCT-86-2024-TT-BTC_chunk_0011",
+            "next_chunk_id": null,
+            "char_count": 7849,
+            "source_file": "tokhai/MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "file_name": "MAU 04-DK-TCT-86-2024-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:37:26",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

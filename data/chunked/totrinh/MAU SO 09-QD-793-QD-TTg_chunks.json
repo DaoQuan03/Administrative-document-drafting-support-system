@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_SO_09-QD-793-QD-TTg_chunk_0001",
+        "doc_id": "totrinh_MAU_SO_09-QD-793-QD-TTg",
+        "text": "Mẫu số 09\n\n| ……………..<br>-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: .../TTr-... | ..., ngày ... tháng ... năm ... |\n\nTỜ TRÌNH\n\nĐề nghị cho phép hoạt động giáo dục trở lại\n\nKính gửi: Phòng Giáo dục và Đào tạo...\n\nCăn cứ Luật Giáo dục ngày 14 tháng 6 năm 2019;\n\nCăn cứ Nghị định số ... ngày ... của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục;\n\nCăn cứ Nghị định số 127/2018/NĐ-CP ngày 21 tháng 9 năm 2018 của Chính phủ về việc quy định trách nhiệm quản lý nhà nước về giáo dục;\n\nCăn cứ Thông tư số ... ngày ... của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Điều lệ trường mầm non;\n\nCăn cứ Quyết định số .../QĐ-PGDĐT ngày ... của Phòng Giáo dục và Đào tạo quận/huyện về việc đình chỉ hoạt động trường...\n\nTrường... đã thực hiện theo quy định các nội dung như sau:\n\n1\n\n2",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_SO_09-QD-793-QD-TTg_chunk_0002",
+            "char_count": 873,
+            "source_file": "totrinh/MAU SO 09-QD-793-QD-TTg.doc",
+            "file_name": "MAU SO 09-QD-793-QD-TTg.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:23:41",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_SO_09-QD-793-QD-TTg_chunk_0002",
+        "doc_id": "totrinh_MAU_SO_09-QD-793-QD-TTg",
+        "text": "mầm non;\n\nCăn cứ Quyết định số .../QĐ-PGDĐT ngày ... của Phòng Giáo dục và Đào tạo quận/huyện về việc đình chỉ hoạt động trường...\n\nTrường... đã thực hiện theo quy định các nội dung như sau:\n\n1\n\n2\n\nTrường... cam kết đã đảm bảo các điều kiện hoạt động theo đúng quy định. Đề nghị Phòng Giáo dục và Đào tạo... thực hiện các thủ tục cấp phép hoạt động giáo dục trở lại đối với trường... theo quy định.\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: VT, GDĐT. | HIỆU TRƯỞNG<br>(Ký tên, đóng dấu, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_SO_09-QD-793-QD-TTg_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 513,
+            "source_file": "totrinh/MAU SO 09-QD-793-QD-TTg.doc",
+            "file_name": "MAU SO 09-QD-793-QD-TTg.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:23:41",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_BIEU_MAU_SO_02-PHU_LUC_SO_01-TT-16-2018-TT-BKHCN_chunk_0001",
+        "doc_id": "thongbao_BIEU_MAU_SO_02-PHU_LUC_SO_01-TT-16-2018-TT-BKHCN",
+        "text": "Biểu mẫu 2\n\nThông báo về việc bổ sung thông tin\n\n|  | G/TBT/N/XXX/#/Add.# |\n| --- | --- |\n| (00-0000) | Date<br>Page: 62/81 |\n| Committee on Technical Barriers to Trade | Original: |\n\nNOTIFICATION\n\nAddendum\n\nThe following communication, dated   , is being circulated at the request of the delegation of ___.\n\n___\n\n___\n\nHướng dẫn thực hiện Biểu mẫu 2\n\nMẫu thông báo bổ sung được sử dụng trong các trường hợp sau đây:\n\n1. Thay đổi về thời gian góp ý (kéo dài hoặc mở lại);\n\n2. Biện pháp đã thông báo trước đó được thông qua, ban hành hoặc có hiệu lực, đặc biệt trong trường hợp những mốc thời gian này chưa được nêu trong Thông báo trước đó hoặc đã thay đổi so với thời điểm thông báo;\n\n3. Biện pháp đã thông báo được rút bỏ hoặc thu hồi. Nếu được thay thế bằng một biện pháp mới thì nêu mã thông báo tương ứng nếu có;\n\n4. Nội dung hoặc phạm vi của biện pháp đã thông báo thay đổi hoặc sửa đổi một phần. Trong trường hợp này cần xem xét mở lại thời gian góp ý mới;\n\n5. Ban hành hướng dẫn thực hiện;",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_BIEU_MAU_SO_02-PHU_LUC_SO_01-TT-16-2018-TT-BKHCN_chunk_0002",
+            "char_count": 996,
+            "source_file": "thongbao/BIEU MAU SO 02-PHU LUC SO 01-TT-16-2018-TT-BKHCN.doc",
+            "file_name": "BIEU MAU SO 02-PHU LUC SO 01-TT-16-2018-TT-BKHCN.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:10:50",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_BIEU_MAU_SO_02-PHU_LUC_SO_01-TT-16-2018-TT-BKHCN_chunk_0002",
+        "doc_id": "thongbao_BIEU_MAU_SO_02-PHU_LUC_SO_01-TT-16-2018-TT-BKHCN",
+        "text": "tương ứng nếu có;\n\n4. Nội dung hoặc phạm vi của biện pháp đã thông báo thay đổi hoặc sửa đổi một phần. Trong trường hợp này cần xem xét mở lại thời gian góp ý mới;\n\n5. Ban hành hướng dẫn thực hiện;\n\n6. Những thông tin bổ sung hữu ích khác liên quan trực tiếp đến thông báo hoặc một biện pháp đã thông báo mà không thể thông báo theo các mẫu thông báo đính chính, sửa đổi.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_BIEU_MAU_SO_02-PHU_LUC_SO_01-TT-16-2018-TT-BKHCN_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 371,
+            "source_file": "thongbao/BIEU MAU SO 02-PHU LUC SO 01-TT-16-2018-TT-BKHCN.doc",
+            "file_name": "BIEU MAU SO 02-PHU LUC SO 01-TT-16-2018-TT-BKHCN.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:10:50",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

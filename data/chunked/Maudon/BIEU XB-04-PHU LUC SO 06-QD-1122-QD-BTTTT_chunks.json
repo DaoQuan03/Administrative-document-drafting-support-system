@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "Maudon_BIEU_XB-04-PHU_LUC_SO_06-QD-1122-QD-BTTTT_chunk_0001",
+        "doc_id": "Maudon_BIEU_XB-04-PHU_LUC_SO_06-QD-1122-QD-BTTTT",
+        "text": "| Biểu XB-04 | MỘT SỐ KẾT QUẢ HOẠT ĐỘNG CỦA NHÀ XUẤT BẢN | Đơn vị báo cáo: Nhà xuất bản... |\n| --- | --- | --- |\n| Ban hành theo QĐ số .../QĐ-BTTTT | MỘT SỐ KẾT QUẢ HOẠT ĐỘNG CỦA NHÀ XUẤT BẢN | Đơn vị báo cáo: Nhà xuất bản... |\n| Ngày nhận báo cáo: Kỳ quý: Trước ngày 05 tháng sau quý. Kỳ 6 tháng đầu năm: Trước 05/7. Năm: Trước 15/3 năm sau | Quý …/20... |  |\n| Ngày nhận báo cáo: Kỳ quý: Trước ngày 05 tháng sau quý. Kỳ 6 tháng đầu năm: Trước 05/7. Năm: Trước 15/3 năm sau | 6 tháng (đầu năm) 20... | Đơn vị nhận báo cáo: Cục XBIPH |\n| Ngày nhận báo cáo: Kỳ quý: Trước ngày 05 tháng sau quý. Kỳ 6 tháng đầu năm: Trước 05/7. Năm: Trước 15/3 năm sau | Năm 20... | Đơn vị nhận báo cáo: Cục XBIPH |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_BIEU_XB-04-PHU_LUC_SO_06-QD-1122-QD-BTTTT_chunk_0002",
+            "char_count": 696,
+            "source_file": "Maudon/BIEU XB-04-PHU LUC SO 06-QD-1122-QD-BTTTT.doc",
+            "file_name": "BIEU XB-04-PHU LUC SO 06-QD-1122-QD-BTTTT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:57:48",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_BIEU_XB-04-PHU_LUC_SO_06-QD-1122-QD-BTTTT_chunk_0002",
+        "doc_id": "Maudon_BIEU_XB-04-PHU_LUC_SO_06-QD-1122-QD-BTTTT",
+        "text": "| Đơn vị nhận báo cáo: Cục XBIPH |\n| Ngày nhận báo cáo: Kỳ quý: Trước ngày 05 tháng sau quý. Kỳ 6 tháng đầu năm: Trước 05/7. Năm: Trước 15/3 năm sau | Năm 20... | Đơn vị nhận báo cáo: Cục XBIPH |\n\n| TT | Tên chỉ tiêu | Tên chỉ tiêu | Đơn vị tính | Số lượng | Ghi chú | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- |\n| A | B | B | C | 1 | 2 | 2 |\n| 1 | Sách và tài liệu dạng sách | Sách và tài liệu dạng sách | Cuốn |  | (Quý /Năm) | (Quý /Năm) |\n| 1 | Sách và tài liệu dạng sách | Sách và tài liệu dạng sách | 1000 bản |  | (Quý /Năm) | (Quý /Năm) |\n|  | Phân tổ theo mảng đề tài | Phân tổ theo mảng đề tài |  |  |  |  |\n| 1.1 | Số lượng sách chính trị, pháp luật | Số lượng sách chính trị, pháp luật | Cuốn |  | (Quý /Năm) | (Quý /Năm) |\n| 1.1 | Số lượng sách chính trị, pháp luật | Số lượng sách chính trị, pháp luật | 1000 bản |  | (Quý /Năm) | (Quý /Năm) |\n| 1.2 | Số lượng sách Khoa học - công nghệ, kinh tế | Số lượng sách Khoa học - công nghệ, kinh tế | Cuốn |  | (Quý /Năm) | (Quý /Năm) |\n| 1.2 | Số lượng sách Khoa học - công nghệ, kinh tế | Số lượng sách Khoa học - công nghệ, kinh tế | 1000 bản |  | (Quý /Năm) | (Quý /Năm) |\n| 1.3 | Số lượng sách văn hóa - xã hội, nghệ thuật, tôn giáo | Số lượng sách văn hóa - xã hội, nghệ thuật, tôn giáo | Cuốn |  | (Quý /Năm) | (Quý /Năm) |\n| 1.3 | Số lượng sách văn hóa - xã hội, nghệ thuật, tôn giáo | Số lượng sách văn hóa - xã hội, nghệ thuật, tôn giáo | 1000 bản |  | (Quý /Năm) | (Quý /Năm) |\n| 1.4 | Số lượng sách văn học | Số lượng sách văn học | Cuốn |  | (Quý /Năm) | (Quý /Năm) |\n| 1.4 | Số lượng sách văn học | Số lượng sách văn học | 1000 bản |  | (Quý /Năm) | (Quý /Năm) |\n| 1.5 | Số lượng sách giáo khoa - giáo trình - tham khảo | Số lượng sách giáo khoa - giáo trình - tham khảo | Cuốn |  | (Quý /Năm) | (Quý /Năm) |\n| 1.5 | Số lượng sách giáo khoa - giáo trình - tham khảo | Số lượng sách giáo khoa - giáo trình - tham khảo | 1000 bản |  | (Quý /Năm) | (Quý /Năm) |\n| 1.6 | Số lượng sách thiếu niên, nhi đồng | Số lượng sách thiếu niên, nhi đồng | Cuốn |  | (Quý /Năm) | (Quý /Năm) |\n| 1.6 | Số lượng sách thiếu niên, nhi đồng | Số lượng sách thiếu niên, nhi đồng | 1000 bản |  | (Quý /Năm) | (Quý /Năm) |\n| 1.7 | Số lượng sách từ điển, ngoại văn | Số lượng sách từ điển, ngoại văn | Cuốn |  | (Quý /Năm) | (Quý /Năm) |\n| 1.7 | Số lượng sách từ điển, ngoại văn | Số lượng sách từ điển, ngoại văn | 1000 bản |  | (Quý /Năm) | (Quý /Năm) |\n| 1.8 | Số lượng sách loại khác | Số lượng sách loại khác | Cuốn |  | (Quý /Năm) | (Quý /Năm) |\n| 1.8 | Số lượng sách loại khác | Số lượng sách loại khác | 1000 bản |  | (Quý /Năm) | (Quý /Năm) |\n|  | Phân tổ theo phương thức xuất bản | Phân tổ theo phương thức xuất bản |  |  |  |  |\n| 1.9 | Tự xuất bản | Tự xuất bản | Cuốn |  | (Quý /Năm) | (Quý /Năm) |\n| 1.9 | Tự xuất bản | Tự xuất bản | 1000 bản |  | (Quý /Năm) | (Quý /Năm) |\n| 1.1 | Liên kết xuất bản | Liên kết xuất bản | Cuốn |  | (Quý /Năm) | (Quý /Năm) |\n| 1.1 | Liên kết xuất bản | Liên kết xuất bản | 1000 bản |  | (Quý /Năm) | (Quý /Năm) |\n| 2 | Tổng số xuất bản in loại khác xuất bản (Xuất bản phẩm (XBP) không phải là sách) | Tổng số xuất bản in loại khác xuất bản (Xuất bản phẩm (XBP) không phải là sách) | XBP |  | (Quý /Năm) | (Quý /Năm) |\n| 2 | Tổng số xuất bản in loại khác xuất bản (Xuất bản phẩm (XBP) không phải là sách) | Tổng số xuất bản in loại khác xuất bản (Xuất bản phẩm (XBP) không phải là sách) | Bản |  | (Quý /Năm) | (Quý /Năm) |\n| 3 | Xuất bản phẩm điện tử đã phát hành | Xuất bản phẩm điện tử đã phát hành | Đầu sách |  | (Quý /Năm) | (Quý /Năm) |\n|  | Phân tổ theo định dạng XBP điện tử | Phân tổ theo định dạng XBP điện tử |  |  |  |  |\n| 3.1 | Sách xem chữ | Sách xem chữ | Đầu sách |  | (Quý /Năm) | (Quý /Năm) |\n| 3.2 | Sách nói | Sách nói | Đầu sách |  | (Quý /Năm) | (Quý /Năm) |\n| 3.3 | Sách video | Sách video | Đầu sách |  | (Quý /Năm) | (Quý /Năm) |\n|  | Phân tổ theo phương thức hợp tác xuất bản XBP điện tử |  |  |  |  |  |\n| 3.4 | Tự xuất bản | Đầu sách | Đầu sách |  |  | (Quý /Năm) |\n| 3.5 | Liên kết xuất bản | Đầu sách | Đầu sách |  |  | (Quý /Năm) |\n|  | Phân tổ theo mảng đề tài XBP điện tử |  |  |  |  |  |\n| 3.6 | Số lượng đầu sách chính trị, pháp luật | Đầu sách | Đầu sách |  |  | (Quý /Năm) |\n| 3.7 | Số lượng đầu sách Khoa học - công nghệ, kinh tế | Đầu sách | Đầu sách |  |  | (Quý /Năm) |\n| 3.8 | Số lượng đầu sách văn hóa - xã hội, nghệ thuật, tôn giáo | Đầu sách | Đầu sách |  |  | (Quý /Năm) |\n| 3.9 | Số lượng đầu sách văn học | Đầu sách | Đầu sách |  |  | (Quý /Năm) |\n| 3.10. | Số lượng đầu sách giáo khoa - giáo trình - tham khảo | Đầu sách | Đầu sách |  |  | (Quý /Năm) |\n| 3.11 | Số lượng đầu sách thiếu niên, nhi đồng | Đầu sách | Đầu sách |  |  | (Quý /Năm) |\n| 3.12 | Số lượng đầu sách từ điển, ngoại văn | Đầu sách | Đầu sách |  |  | (Quý /Năm) |\n| 3.13 | Loại khác | Đầu sách | Đầu sách |  |  | (Quý /Năm) |\n| 4 | Tổng số tiền ngân sách nhà nước cấp cho hoạt động xuất bản | Triệu VNĐ | Triệu VNĐ |  |  | (Quý /Năm) |\n| 4.1 | Trong đó, đặt hàng | Triệu VNĐ | Triệu VNĐ |  |  | (Quý /Năm) |\n| 5 | Tổng doanh thu hoạt động xuất bản | Triệu VNĐ | Triệu VNĐ |  |  | (Quý /Năm) |\n| 6 | Số lao động hoạt động trong lĩnh vực xuất bản | Người | Người |  |  | (6 tháng /Năm) |\n| 6.1 | Trong đó: Nữ | Người | Người |  |  | (6 tháng /Năm) |\n| 6.2 | Biên tập viên xuất bản | Người | Người |  |  | (6 tháng /Năm) |\n| 6.3 | Trên đại học | Người | Người |  |  | (6 tháng /Năm) |\n| 6.4 | Đại học, cao đẳng | Người | Người |  |  | (6 tháng /Năm) |\n| 6.5 | Trung cấp | Người | Người |  |  | (6 tháng /Năm) |\n| 6.6 | Trung học phổ thông | Người | Người |  |  | (6 tháng /Năm) |\n| 6.7 | Trình độ khác | Người | Người |  |  | (6 tháng /Năm) |\n| 8 | Tổng vốn của nhà xuất bản | Triệu VNĐ | Triệu VNĐ |  |  | (Năm) |\n| 8.1 | Vốn cố định | Triệu VNĐ | Triệu VNĐ |  |  | (Năm) |\n| 8.2 | Vốn lưu động | Triệu VNĐ | Triệu VNĐ |  |  | (Năm) |\n| 9 | Thu nhập trung bình của người lao động xuất bản | Triệu VNĐ /người /năm | Triệu VNĐ /người /năm |  |  | (Năm) |\n| 10 | Nộp ngân sách nhà nước của NXB | Triệu VNĐ | Triệu VNĐ |  |  | (Năm) |\n| 11 | Lợi nhuận sau thuế của NXB | Triệu VNĐ | Triệu VNĐ |  |  | (Năm) |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "Maudon_BIEU_XB-04-PHU_LUC_SO_06-QD-1122-QD-BTTTT_chunk_0001",
+            "next_chunk_id": "Maudon_BIEU_XB-04-PHU_LUC_SO_06-QD-1122-QD-BTTTT_chunk_0003",
+            "char_count": 6125,
+            "source_file": "Maudon/BIEU XB-04-PHU LUC SO 06-QD-1122-QD-BTTTT.doc",
+            "file_name": "BIEU XB-04-PHU LUC SO 06-QD-1122-QD-BTTTT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:57:48",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_BIEU_XB-04-PHU_LUC_SO_06-QD-1122-QD-BTTTT_chunk_0003",
+        "doc_id": "Maudon_BIEU_XB-04-PHU_LUC_SO_06-QD-1122-QD-BTTTT",
+        "text": "/năm | Triệu VNĐ /người /năm |  |  | (Năm) |\n| 10 | Nộp ngân sách nhà nước của NXB | Triệu VNĐ | Triệu VNĐ |  |  | (Năm) |\n| 11 | Lợi nhuận sau thuế của NXB | Triệu VNĐ | Triệu VNĐ |  |  | (Năm) |\n\n|  | ..., ngày ... tháng ... năm 20... |\n| --- | --- |\n| TỔNG HỢP, LẬP BIỂU | TRƯỞNG ĐƠN VỊ |\n| (Ký điện tử) | (Ký điện tử) |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "Maudon_BIEU_XB-04-PHU_LUC_SO_06-QD-1122-QD-BTTTT_chunk_0002",
+            "next_chunk_id": "Maudon_BIEU_XB-04-PHU_LUC_SO_06-QD-1122-QD-BTTTT_chunk_0004",
+            "char_count": 323,
+            "source_file": "Maudon/BIEU XB-04-PHU LUC SO 06-QD-1122-QD-BTTTT.doc",
+            "file_name": "BIEU XB-04-PHU LUC SO 06-QD-1122-QD-BTTTT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:57:48",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_BIEU_XB-04-PHU_LUC_SO_06-QD-1122-QD-BTTTT_chunk_0004",
+        "doc_id": "Maudon_BIEU_XB-04-PHU_LUC_SO_06-QD-1122-QD-BTTTT",
+        "text": "11 | Lợi nhuận sau thuế của NXB | Triệu VNĐ | Triệu VNĐ |  |  | (Năm) |\n\n|  | ..., ngày ... tháng ... năm 20... |\n| --- | --- |\n| TỔNG HỢP, LẬP BIỂU | TRƯỞNG ĐƠN VỊ |\n| (Ký điện tử) | (Ký điện tử) |\n\n|  | Ghi chú |  |\n| --- | --- | --- |\n| Dòng | Nội dung |  |\n| (1) | Số lao động hoạt động trong lĩnh vực xuất bản là số lao động hưởng lương của nhà xuất bản trong kỳ báo cáo. Bằng trung bình giữa số lao động đầu kỳ và cuối kỳ báo cáo. | Số lao động hoạt động trong lĩnh vực xuất bản là số lao động hưởng lương của nhà xuất bản trong kỳ báo cáo. Bằng trung bình giữa số lao động đầu kỳ và cuối kỳ báo cáo. |\n| (1.2) | Biên tập viên xuất bản là người thực hiện biên tập bản thảo; đứng tên trên xuất bản phẩm do mình biên tập. | Biên tập viên xuất bản là người thực hiện biên tập bản thảo; đứng tên trên xuất bản phẩm do mình biên tập. |\n| (2) | Là tổng số tiền thu nhập bình quân của một người lao động trong năm báo cáo. | Là tổng số tiền thu nhập bình quân của một người lao động trong năm báo cáo. |\n| (3) | Là tổng số tiền thuế, phí, lệ phí và các khoản nộp ngân sách khác của các nhà xuất bản phải nộp cho nhà nước theo quy định cùa pháp luật trong kỳ báo cáo. | Là tổng số tiền thuế, phí, lệ phí và các khoản nộp ngân sách khác của các nhà xuất bản phải nộp cho nhà nước theo quy định cùa pháp luật trong kỳ báo cáo. |\n| (4) | Phần lợi nhuận còn lại sau khi đã nộp thuế thu nhập doanh nghiệp của NXB trong kỳ báo cáo. | Phần lợi nhuận còn lại sau khi đã nộp thuế thu nhập doanh nghiệp của NXB trong kỳ báo cáo. |",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "Maudon_BIEU_XB-04-PHU_LUC_SO_06-QD-1122-QD-BTTTT_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 1518,
+            "source_file": "Maudon/BIEU XB-04-PHU LUC SO 06-QD-1122-QD-BTTTT.doc",
+            "file_name": "BIEU XB-04-PHU LUC SO 06-QD-1122-QD-BTTTT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:57:48",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

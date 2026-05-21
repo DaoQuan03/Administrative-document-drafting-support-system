@@ -1,0 +1,92 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP",
+        "text": "Mẫu số 02: Phiếu Hồ sơ xe máy chuyên dùng\n\n| [ĐƠN VỊ CHỦ QUẢN]<br>[CƠ SỞ KIỂM ĐỊNH]<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ………….. | [Địa danh], ngày ….. tháng …. năm 20….. |\n\nPHIẾU HỒ SƠ XE MÁY CHUYÊN DÙNG\n\n1. Thông tin quản lý",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 5,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP_chunk_0002",
+            "char_count": 308,
+            "source_file": "mauphieu/MAU SO 02-66-2024-TT-BQP.doc",
+            "file_name": "MAU SO 02-66-2024-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:42:12",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP",
+        "text": "HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ………….. | [Địa danh], ngày ….. tháng …. năm 20….. |\n\nPHIẾU HỒ SƠ XE MÁY CHUYÊN DÙNG\n\n1. Thông tin quản lý\n\n| Biển số: ………………………… | Ngày ĐK/Ngày ĐK lần đầu: ………………… |\n| --- | --- |\n| Nguồn gốc xe: …… Số GCN NK/Số phiếu:…. | Ngày cấp: ………………………………………. |\n| Đơn vị (doanh nghiệp): ……………… | Điện thoại: …………………………………….. |\n| Địa chỉ:……………………………………………………………………………………………. | Địa chỉ:……………………………………………………………………………………………. |\n| Tình trạng PT khi lập hồ sơ: (Mới 100%, Đã qua sử dụng)………………… | Tình trạng cải tạo: (Cải tạo, CĐ công năng) …………………………………………….. |\n| Loại xe máy chuyên dụng:……………………………………………………………. | Loại xe máy chuyên dụng:……………………………………………………………. |\n| Nhãn hiệu: …………………………… |  |\n| Số khung: …………………………… | Vị trí: ……………………………………….. |\n| Số động cơ: …………………………….. | Vị trí: ……………………………………….. |\n| Năm SX: ………….. Nước SX: ………… |  |\n\n2. Thông số kỹ thuật chung\n\nKhối lượng bản thân (kg): ………………………..",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP_chunk_0003",
+            "char_count": 988,
+            "source_file": "mauphieu/MAU SO 02-66-2024-TT-BQP.doc",
+            "file_name": "MAU SO 02-66-2024-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:42:12",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP_chunk_0003",
+        "doc_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP",
+        "text": "| Vị trí: ……………………………………….. |\n| Số động cơ: …………………………….. | Vị trí: ……………………………………….. |\n| Năm SX: ………….. Nước SX: ………… |  |\n\n2. Thông số kỹ thuật chung\n\nKhối lượng bản thân (kg): ………………………..\n\nKích thước bao (DxRxC) (mm): …………………..\n\na) Động cơ\n\n| Động cơ đốt trong | Động cơ sử dụng xe chạy điện |\n| --- | --- |\n| Ký hiệu: ………………………….. | Ký hiệu: ……………….. |\n| Loại nhiên liệu sử dụng: …………….. | Điện áp: ……………… |\n| Công suất lớn nhất/Vòng quay (kW/v/ph): …………………………………………….. | Công suất lớn nhất/Vòng quay (kW/v/ph): …………………………………………….. |\n\n3. Thông số kỹ thuật đặc trưng\n\n(Ghi theo từng loại xe máy chuyên dùng)\n\nCác nội dung ghi trong Phiếu đã được kiểm tra, soát xét trước khi ký xác nhận.\n\n| KIỂM ĐỊNH VIÊN<br>(ký, ghi rõ họ tên) | CHỈ HUY CƠ SỞ KIỂM ĐỊNH<br>(ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP_chunk_0004",
+            "char_count": 806,
+            "source_file": "mauphieu/MAU SO 02-66-2024-TT-BQP.doc",
+            "file_name": "MAU SO 02-66-2024-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:42:12",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP_chunk_0004",
+        "doc_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP",
+        "text": "nội dung ghi trong Phiếu đã được kiểm tra, soát xét trước khi ký xác nhận.\n\n| KIỂM ĐỊNH VIÊN<br>(ký, ghi rõ họ tên) | CHỈ HUY CƠ SỞ KIỂM ĐỊNH<br>(ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\n| CÁC THAY ĐỔI HÀNH CHÍNH | CÁC THAY ĐỔI HÀNH CHÍNH | CÁC THAY ĐỔI HÀNH CHÍNH | CÁC THAY ĐỔI HÀNH CHÍNH |\n| --- | --- | --- | --- |\n| Ngày | Biển số đăng ký <br>Ngày đăng ký | Số khung mới <br>Số động cơ mới | Đơn vị (doanh nghiệp) <br>Địa chỉ |\n|  | (Biển số cũ) | (Số khung cũ) | (Tên chủ, đơn vị cũ) |\n|  | (Biển số mới) | (Số khung mới) | (Tên chủ, đơn vị mới) |\n|  |  |  |  |",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP_chunk_0003",
+            "next_chunk_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP_chunk_0005",
+            "char_count": 572,
+            "source_file": "mauphieu/MAU SO 02-66-2024-TT-BQP.doc",
+            "file_name": "MAU SO 02-66-2024-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:42:12",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP_chunk_0005",
+        "doc_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP",
+        "text": "mới <br>Số động cơ mới | Đơn vị (doanh nghiệp) <br>Địa chỉ |\n|  | (Biển số cũ) | (Số khung cũ) | (Tên chủ, đơn vị cũ) |\n|  | (Biển số mới) | (Số khung mới) | (Tên chủ, đơn vị mới) |\n|  |  |  |  |\n\n| TÀI LIỆU KÈM THEO: | TÀI LIỆU KÈM THEO: | TÀI LIỆU KÈM THEO: |\n| --- | --- | --- |\n| TT | Tài liệu | Số trang |\n| 1 | Bản sao Phiếu kiểm tra chất lượng xuất xưởng số\tcấp ngày…………. |  |\n| 2 | Bản sao Giấy chứng nhận chất lượng ATKT và BVMT XMCD cải tạo số …….ngày ……………………………… |  |\n| 3 | (Bản sao Giấy chứng nhận chất lượng ATKT và BVMT XMCD ……………………………………………. |  |\n| 4 | (Tài liệu xác định năm sản xuất của XMCD)…………………. |  |\n|  | ……………………………………………….. |  |",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_SO_02-66-2024-TT-BQP_chunk_0004",
+            "next_chunk_id": null,
+            "char_count": 655,
+            "source_file": "mauphieu/MAU SO 02-66-2024-TT-BQP.doc",
+            "file_name": "MAU SO 02-66-2024-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:42:12",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

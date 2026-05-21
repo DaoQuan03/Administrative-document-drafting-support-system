@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_02-36-2021-TT-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_02-36-2021-TT-BTC",
+        "text": "Mẫu số 02 - Phiếu tham dự đấu giá\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n\n..., ngày... tháng... năm 20...\n\nMã số:... (Do Hội đồng bán đấu giá cấp)\n\nPHIẾU THAM DỰ ĐẤU GIÁ\n\nKính gửi:... (Tên Tổ chức bán đấu giá)\n\nTên tổ chức hoặc cá nhân:...\n\nSố ĐKDN/CMND/CCCD/Hộ chiếu... Ngày cấp... Nơi cấp...\n\nĐịa chỉ:...\n\nĐiện thoại:... Fax:...\n\nSố tài khoản ngân hàng:... Mở tại...\n\nSố cổ phần đăng ký mua (dành cho đấu giác cổ phần):...\n\nGiá khởi điểm:...\n\nNgày tổ chức đấu giá:...\n\nSố tiền đặt cọc đã nộp:... (Bằng chữ:...).\n\nNgày thanh toán:...\n\nNgày hoàn trả tiền đặt cọc:...\n\nSau khi nghiên cứu kỹ hồ sơ và Quy chế bán đấu giá cổ phần/lô cổ phần/phần vốn góp của..., tôi/chúng tôi đồng ý đấu giá mua cổ phần/lô cổ phần/phần vốn góp đã đăng ký với mức giá như sau:\n\n1. Mẫu này áp dụng cho hình thức đấu giá thông thường",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_02-36-2021-TT-BTC_chunk_0002",
+            "char_count": 835,
+            "source_file": "mauphieu/MAU SO 02-36-2021-TT-BTC.doc",
+            "file_name": "MAU SO 02-36-2021-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:41:38",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_02-36-2021-TT-BTC_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_02-36-2021-TT-BTC",
+        "text": "đấu giá cổ phần/lô cổ phần/phần vốn góp của..., tôi/chúng tôi đồng ý đấu giá mua cổ phần/lô cổ phần/phần vốn góp đã đăng ký với mức giá như sau:\n\n1. Mẫu này áp dụng cho hình thức đấu giá thông thường\n\n| STT lệnh | Mức giá đặt mua (đồng/cổ phần) | Mức giá đặt mua (đồng/cổ phần) | Khối lượng cổ phần đặt mua |\n| --- | --- | --- | --- |\n| STT lệnh | Bằng số | Bằng chữ | Khối lượng cổ phần đặt mua |\n| 1 |  |  |  |\n| 2... |  |  |  |\n| Tổng số: |  |  |  |\n\n2. Mẫu này áp dụng cho hình thức đấu giá lô cổ phần/phần vốn góp\n\n| Mức giá đặt mua<br>(Đồng/lô cổ phần/phần vốn góp) | Mức giá đặt mua<br>(Đồng/lô cổ phần/phần vốn góp) |\n| --- | --- |\n| Bằng số | Bằng chữ |\n|  |  |\n\n|  | TÊN CÁ NHÂN, TÊN TỔ CHỨC THAM GIA ĐẤU GIÁ<br>Ký, họ và tên, đóng dấu (đối với tổ chức) |\n| --- | --- |\n\nNguồn: Thông tư 36/2021/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_02-36-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 811,
+            "source_file": "mauphieu/MAU SO 02-36-2021-TT-BTC.doc",
+            "file_name": "MAU SO 02-36-2021-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:41:38",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

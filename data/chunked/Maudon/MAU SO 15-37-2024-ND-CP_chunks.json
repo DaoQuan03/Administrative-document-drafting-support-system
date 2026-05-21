@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_15-37-2024-ND-CP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_15-37-2024-ND-CP",
+        "text": "Mẫu số 15\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n-------------------\n\n..., ngày … tháng … năm….\n\nĐƠN ĐỀ NGHỊ CẤP/CẤP LẠI/GIA HẠN GIẤY PHÉP NUÔI TRỒNG THỦY SẢN TRÊN BIỂN\n\nKính gửi: (Tên cơ quan cấp phép).\n\n1. Thông tin tổ chức/cá nhân đề nghị cấp/cấp lại/gia hạn Giấy phép nuôi trồng thủy sản trên biển:\n\n- Tên tổ chức/cá nhân:………………………………………………………………………….\n\n- Số CMND/Số CCCD/Mã số định danh cá nhân/Số Hộ chiếu: ……………………………\n\nNgày cấp: …………………… Nơi cấp: ………………………………………………………..\n\n- Địa chỉ trụ sở (đối với tổ chức)/địa chỉ thường trú (đối với cá nhân):…………………….\n\n- Điện thoại…………… Số Fax ………… Email………………………………………………\n\n- Tên và số Giấy đăng ký kinh doanh/Giấy phép đầu tư/Quyết định thành lập:…………..\n\n- Mã số cơ sở nuôi (nếu có): ……………………………………………………………………\n\n2. Đề nghị (tên cơ quan cấp phép) cấp/cấp lại/gia hạn Giấy phép nuôi trồng thủy sản trên biển cho:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_15-37-2024-ND-CP_chunk_0002",
+            "char_count": 878,
+            "source_file": "Maudon/MAU SO 15-37-2024-ND-CP.doc",
+            "file_name": "MAU SO 15-37-2024-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:38:50",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_15-37-2024-ND-CP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_15-37-2024-ND-CP",
+        "text": "phép đầu tư/Quyết định thành lập:…………..\n\n- Mã số cơ sở nuôi (nếu có): ……………………………………………………………………\n\n2. Đề nghị (tên cơ quan cấp phép) cấp/cấp lại/gia hạn Giấy phép nuôi trồng thủy sản trên biển cho:\n\n| TT | Đối tượng nuôi (tên tiếng Việt, tên khoa học) | Địa chỉ/ vị trí khu vực biển để nuôi trồng thủy sản | Diện tích mặt nước xin được giao (ha/m2) | Dự kiến sản lượng nuôi (tấn/năm) | Thời hạn đề nghị cấp/ cấp lại/ gia hạn | Lý do xin cấp lại (trường hợp xin cấp lại) | Giấy phép đã được cấp (trường hợp xin cấp lại/ gia hạn) |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |\n| ... |  |  |  |  |  |  |  |\n\n3. Thông tin khác (nếu có):………………………………………………………………………..\n\nTôi/Chúng tôi cam kết thực hiện đúng quy định của pháp luật về nuôi trồng thuỷ sản và pháp luật có liên quan.\n\n|  | TỔ CHỨC, CÁ NHÂN<br>(Ký tên, đóng dấu nếu có) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_15-37-2024-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 898,
+            "source_file": "Maudon/MAU SO 15-37-2024-ND-CP.doc",
+            "file_name": "MAU SO 15-37-2024-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:38:50",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

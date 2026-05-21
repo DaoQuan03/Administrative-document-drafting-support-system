@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_04-PHU_LUC_III-112-2025-TT-BQP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_04-PHU_LUC_III-112-2025-TT-BQP",
+        "text": "Mẫu số 04. Thông báo phương tiện giao thông cơ giới đường bộ vào khu vực biên giới biển dùng cho cá nhân.\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n-----------------\n\n3, ngày...tháng ... năm ...\n\nKính gửi: Đồn Biên phòng4...\n\nTên tôi là:...\n\nSinh ngày...tháng...năm... Quốc tịch:...\n\nNghề nghiệp/lĩnh vực hoạt động:...\n\nĐịa chỉ thường trú:...\n\nCăn cước/hộ chiếu số:...; cấp ngày:...; nơi cấp:...\n\nTôi có5... phương tiện là... Biển kiểm soát:...\n\nNgười điều khiển phương tiện:...\n\nSố lượng người trên phương tiện (có danh sách kèm theo)\n\nThời gian hoạt động từ ngày ... tháng... năm ... đến ngày... tháng... năm...\n\nMục đích/nội dung vào khu vực biên giới6:...\n\n...\n\nPhạm vi hoạt động7:...\n\nTôi thông báo để Quý cơ quan biết, tạo điều kiện giúp đỡ./.\n\n|  | NGƯỜI THÔNG BÁO<br>(Ký tên, ghi rõ họ tên) |\n| --- | --- |\n\n___\n\n3 Ghi rõ địa danh tỉnh, thành phố trực thuộc Trung ương nơi người thông báo cư trú;",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_04-PHU_LUC_III-112-2025-TT-BQP_chunk_0002",
+            "char_count": 926,
+            "source_file": "thongbao/MAU SO 04-PHU LUC III-112-2025-TT-BQP.doc",
+            "file_name": "MAU SO 04-PHU LUC III-112-2025-TT-BQP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:44:23",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_04-PHU_LUC_III-112-2025-TT-BQP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_04-PHU_LUC_III-112-2025-TT-BQP",
+        "text": "Quý cơ quan biết, tạo điều kiện giúp đỡ./.\n\n|  | NGƯỜI THÔNG BÁO<br>(Ký tên, ghi rõ họ tên) |\n| --- | --- |\n\n___\n\n3 Ghi rõ địa danh tỉnh, thành phố trực thuộc Trung ương nơi người thông báo cư trú;\n\n4 Ghi rõ tên Đồn Biên phòng và thuộc Ban chỉ huy Bộ đội Biên phòng tỉnh, thành phố nào;\n\n5 Ghi rõ số lượng, loại phương tiện, biển kiểm soát;\n\n6 Ghi rõ nội dung hoạt động;\n\n7 Ghi rõ giới hạn địa điểm hoạt động.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_04-PHU_LUC_III-112-2025-TT-BQP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 409,
+            "source_file": "thongbao/MAU SO 04-PHU LUC III-112-2025-TT-BQP.doc",
+            "file_name": "MAU SO 04-PHU LUC III-112-2025-TT-BQP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:44:23",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

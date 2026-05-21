@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tìm kiếm AI — VănBảnAI</title>
+  <link rel="stylesheet" href="../css/global.css"/>
+  <link rel="stylesheet" href="../css/shell.css"/>
+  <link rel="stylesheet" href="../css/search.css"/>
+</head>
+<body>
+<h2 class="sr-only">Trang tìm kiếm AI kho tri thức</h2>
+<div class="app-shell">
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-workspace">
+      <button class="workspace-btn" onclick="nav('dashboard.html')">
+        <div class="workspace-logo"><svg viewBox="0 0 24 24"><path d="M12 2L20 7V17L12 22L4 17V7L12 2Z"/></svg></div>
+        <span class="workspace-name">UBND Quận 1</span><span class="workspace-arrow">⌄</span>
+      </button>
+    </div>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <button class="sidebar-item" onclick="nav('dashboard.html')"><span class="si-icon">⊞</span><span class="si-label">Tổng quan</span></button>
+        <button class="sidebar-item" onclick="nav('editor.html')"><span class="si-icon">✏️</span><span class="si-label">Soạn thảo mới</span></button>
+        <button class="sidebar-item" onclick="nav('knowledge-base.html')"><span class="si-icon">📚</span><span class="si-label">Kho tri thức</span></button>
+        <button class="sidebar-item active"><span class="si-icon">🔍</span><span class="si-label">Tìm kiếm AI</span></button>
+        <button class="sidebar-item" onclick="nav('settings.html')"><span class="si-icon">⚙️</span><span class="si-label">Cài đặt</span></button>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-label">Lịch sử tìm kiếm</div>
+        <button class="sidebar-item" onclick="loadHistory('Quy trình phê duyệt văn bản')"><span class="si-icon">🕐</span><span class="si-label">Quy trình phê duyệt</span></button>
+        <button class="sidebar-item" onclick="loadHistory('Chỉ tiêu kế hoạch Q2')"><span class="si-icon">🕐</span><span class="si-label">Chỉ tiêu kế hoạch Q2</span></button>
+        <button class="sidebar-item" onclick="loadHistory('Mẫu công văn chuẩn')"><span class="si-icon">🕐</span><span class="si-label">Mẫu công văn chuẩn</span></button>
+      </div>
+    </nav>
+    <div class="sidebar-footer">
+      <div class="user-card"><div class="avatar avatar-blue">NT</div><div class="user-info"><div class="user-name">Nguyễn Trung</div><div class="user-role">Cán bộ · Editor</div></div></div>
+    </div>
+  </aside>
+
+  <div class="app-body">
+    <header class="topbar">
+      <button class="topbar-toggle" onclick="toggleSidebar()">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+      <div class="breadcrumb"><span onclick="nav('dashboard.html')" style="cursor:pointer">UBND Quận 1</span><span class="bc-sep">/</span><span class="bc-current">Tìm kiếm AI</span></div>
+      <div class="topbar-right"><div class="avatar avatar-blue">NT</div></div>
+    </header>
+
+    <main class="page-content">
+      <div class="search-body fade-in">
+        <!-- Search box -->
+        <div class="search-hero" id="search-hero">
+          <h1>🔍 Tìm kiếm AI</h1>
+          <p>Hỏi câu hỏi bằng ngôn ngữ tự nhiên — AI sẽ trả lời dựa trên kho tri thức</p>
+          <div class="search-box-wrap">
+            <input
+              type="text" id="search-input" class="search-main-input"
+              placeholder="Ví dụ: Quy trình phê duyệt văn bản hành chính là gì?"
+              onkeydown="if(event.key==='Enter') doSearch()"
+            />
+            <button class="search-main-btn" onclick="doSearch()">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+            </button>
+          </div>
+          <div class="search-suggestions">
+            <span class="sugg-label">Gợi ý:</span>
+            <button class="sugg-pill" onclick="loadHistory(this.textContent)">Quy trình phê duyệt văn bản</button>
+            <button class="sugg-pill" onclick="loadHistory(this.textContent)">Mẫu công văn hành chính</button>
+            <button class="sugg-pill" onclick="loadHistory(this.textContent)">Chỉ tiêu kế hoạch Q2/2025</button>
+            <button class="sugg-pill" onclick="loadHistory(this.textContent)">Quy định về thẩm quyền ký</button>
+          </div>
+        </div>
+
+        <!-- Results (hidden initially) -->
+        <div id="search-results" style="display:none">
+          <div class="results-header">
+            <span class="results-query" id="results-query"></span>
+            <button class="btn btn-ghost btn-sm" onclick="clearSearch()">← Tìm kiếm mới</button>
+          </div>
+
+          <!-- AI Answer -->
+          <div class="ai-answer-card">
+            <div class="ai-answer-header">
+              <span class="ai-answer-icon">✨</span>
+              <span class="ai-answer-label">Câu trả lời từ AI</span>
+              <div class="ai-answer-model badge badge-blue">GPT-4o · RAG</div>
+            </div>
+            <div class="ai-answer-body" id="ai-answer-body"></div>
+            <div class="ai-answer-sources" id="ai-answer-sources"></div>
+            <div class="ai-answer-actions">
+              <button class="btn btn-secondary btn-sm" onclick="nav('editor.html')">
+                ✏️ Dùng để soạn tài liệu
+              </button>
+              <button class="btn btn-ghost btn-sm" onclick="copyAnswer()">📋 Sao chép</button>
+              <span style="margin-left:auto;font-size:11px;color:var(--text-tertiary)">Hữu ích?</span>
+              <button class="btn btn-ghost btn-sm" onclick="rate(1)">👍</button>
+              <button class="btn btn-ghost btn-sm" onclick="rate(0)">👎</button>
+            </div>
+          </div>
+
+          <!-- Source chunks -->
+          <div class="source-chunks" id="source-chunks">
+            <h3 class="chunks-title">Đoạn văn tham chiếu</h3>
+            <div class="chunks-grid" id="chunks-grid"></div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+<script src="../js/shell.js"></script>
+<script src="../js/search.js"></script>
+</body>
+</html>

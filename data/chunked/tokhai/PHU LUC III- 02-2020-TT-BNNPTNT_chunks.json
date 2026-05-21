@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "tokhai_PHU_LUC_III-_02-2020-TT-BNNPTNT_chunk_0001",
+        "doc_id": "tokhai_PHU_LUC_III-_02-2020-TT-BNNPTNT",
+        "text": "PHỤ LỤC III\n\nMẪU TỜ KHAI KINH TẾ TRANG TRẠI\n(Ban hành kèm theo Thông tư số 02/2020/TT-BNNPTNT ngày 28 tháng 02 năm 2020 của Bộ Nông nghiệp và Phát triển nông thôn)\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nTỜ KHAI KINH TẾ TRANG TRẠI\n\nKính gửi: Ủy ban nhân dân xã...\n\nHọ và tên chủ trang trại:...…………………… Nam/Nữ:\n\nChứng minh nhân dân / Hộ chiếu / Thẻ căn cước công dân số...\nngày cấp... /... /... Nơi cấp:...\n\nNơi đăng ký hộ khẩu thường trú:...\n\nChỗ ở hiện tại:...\n\nTôi tự xác định cơ sở sản xuất kinh doanh trong lĩnh vực nông nghiệp đạt tiêu chí kinh tế trang trại với các thông tin như sau:\n\n1. Địa chỉ trang trại:...\n\n2. Điện thoại... Email (nếu có) ...\n\n3. Loại trang trại:...\n\n4. Tên các sản phẩm chính của trang trại: ...\n\n5. Tổng vốn đầu tư sản xuất kinh doanh (Bao gồm vốn đầu tư xây dựng (bao gồm giá trị đất, hoặc tiền thuê đất) và vốn thực hiện kinh doanh) ...\n\n6. Diện tích đất sản xuất của trang trại:...\n\n7. Giá trị sản xuất kê khai:...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_PHU_LUC_III-_02-2020-TT-BNNPTNT_chunk_0002",
+            "char_count": 989,
+            "source_file": "tokhai/PHU LUC III- 02-2020-TT-BNNPTNT.doc",
+            "file_name": "PHU LUC III- 02-2020-TT-BNNPTNT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:08:15",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_PHU_LUC_III-_02-2020-TT-BNNPTNT_chunk_0002",
+        "doc_id": "tokhai_PHU_LUC_III-_02-2020-TT-BNNPTNT",
+        "text": "xuất kinh doanh (Bao gồm vốn đầu tư xây dựng (bao gồm giá trị đất, hoặc tiền thuê đất) và vốn thực hiện kinh doanh) ...\n\n6. Diện tích đất sản xuất của trang trại:...\n\n7. Giá trị sản xuất kê khai:...\n\n8. Số lao động thường xuyên của trang trại: ...\n\nTôi cam kết và chịu trách nhiệm hoàn toàn trước pháp luật về tính hợp pháp, chính xác, trung thực của nội dung kê khai trên./.\n\n|  | …….., ngày….tháng…..năm…..<br>Chủ trang trại<br>(Ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "tokhai_PHU_LUC_III-_02-2020-TT-BNNPTNT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 465,
+            "source_file": "tokhai/PHU LUC III- 02-2020-TT-BNNPTNT.doc",
+            "file_name": "PHU LUC III- 02-2020-TT-BNNPTNT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:08:15",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

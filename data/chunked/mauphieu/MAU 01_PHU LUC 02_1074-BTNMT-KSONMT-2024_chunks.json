@@ -1,0 +1,110 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024_chunk_0001",
+        "doc_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024",
+        "text": "PHỤ LỤC 2\n\nMẪU PHIẾU ĐIỀU TRA CÁC NGUỒN THẢI\n\nGhi chú: Các mẫu phiếu điều tra dưới đây chỉ mang tính chất tham khảo, có thể được tuỳ chỉnh phụ thuộc vào tình hình nguồn thải tại mỗi địa phương.\n\nMẫu phiếu 01\n\nPHIẾU KHẢO SÁT THÔNG TIN TỪ NGUỒN ĐIỂM\n\n1. Thông tin về cơ sở\n\n1.1. Thông tin chung về cơ sở\n\nTên cơ sở: ...\n\nĐịa chỉ: ...\n\nLoại hình sản xuất kinh doanh:...\n\nĐiện thoại: ...Fax. ...\n\nNăm đi vào hoạt động: ...\n\nQuy mô/ công suất:...\n\nThông tin, số liệu được cung cấp cho tháng/năm:...\n\nTên cán bộ cung cấp thông tin:...\n\nĐiện thoại:……………………………..Email: ...\n\n1.2. Sản phẩm chính\n\n| STT | Tên sản phẩm | Đơn vị tính | Sản lượng |\n| --- | --- | --- | --- |\n| 1 |  |  |  |\n| 2 |  |  |  |\n| 3 |  |  |  |\n\n1.3. Nhiên liệu được sử dụng:\n\n| STT | Loại nhiên liệu (10) | Đơn vị tính | Lượng sử dụng |\n| --- | --- | --- | --- |\n| 1 |  |  |  |\n| 2 |  |  |  |\n| 3 |  |  |  |\n\n10 Ghi rõ loại nhiên liệu và đặc điểm, nguồn gốc: Ví dụ than antraxit, nhập khẩu malaysia..",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 6,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024_chunk_0002",
+            "char_count": 963,
+            "source_file": "mauphieu/MAU 01_PHU LUC 02_1074-BTNMT-KSONMT-2024.doc",
+            "file_name": "MAU 01_PHU LUC 02_1074-BTNMT-KSONMT-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:45:30",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024_chunk_0002",
+        "doc_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024",
+        "text": "| Đơn vị tính | Lượng sử dụng |\n| --- | --- | --- | --- |\n| 1 |  |  |  |\n| 2 |  |  |  |\n| 3 |  |  |  |\n\n10 Ghi rõ loại nhiên liệu và đặc điểm, nguồn gốc: Ví dụ than antraxit, nhập khẩu malaysia..\n\n2. Thông tin về ống khói phát thải khí\n\n| STT | Tên ống khói | Tọa độ (10) | Tọa độ (10) | Hệ thống <br>QT tự động |\n| --- | --- | --- | --- | --- |\n| STT | Tên ống khói | Kinh độ | Vĩ độ | Hệ thống <br>QT tự động |\n| 1 |  |  |  | Có / Không |\n| 2 |  |  |  | Có / Không |\n| 3 |  |  |  | Có / Không |\n| 4 |  |  |  | Có / Không |\n\nĐiền thông tin chi tiết về từng ống khói theo phụ lục kèm theo\n\n…………, Ngày…… tháng …… năm………\n\n| Người cung cấp thông tin<br>(Ký và ghi rõ họ tên) | Đại diện cơ sở sản xuất, doanh nghiệp<br>(Ký và ghi rõ họ tên) |\n| --- | --- |\n\nThông tin chi tiết liên hệ theo địa chỉ:\n\nEmail:\n\nCán bộ tiếp nhận:\n\nPhụ lục (kèm theo mẫu phiếu 01)\n\nỐng khói số:…..\n\n1. Thông tin chung về ống khói\n\nTên ống khói: ...\n\nĐặc điểm (Công suất, loại lò đốt, công nghệ): ...\n\n...",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024_chunk_0003",
+            "char_count": 978,
+            "source_file": "mauphieu/MAU 01_PHU LUC 02_1074-BTNMT-KSONMT-2024.doc",
+            "file_name": "MAU 01_PHU LUC 02_1074-BTNMT-KSONMT-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:45:30",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024_chunk_0003",
+        "doc_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024",
+        "text": "theo địa chỉ:\n\nEmail:\n\nCán bộ tiếp nhận:\n\nPhụ lục (kèm theo mẫu phiếu 01)\n\nỐng khói số:…..\n\n1. Thông tin chung về ống khói\n\nTên ống khói: ...\n\nĐặc điểm (Công suất, loại lò đốt, công nghệ): ...\n\n...\n\nTình trạng hoạt động :…………………..……………………………...…………….\n\n- Thời gian hoạt động:...giờ/ngày. ...ngày/tuần\n\n...Tuần/tháng...tháng/năm\n\n+ Hình dạng mặt cắt ngang của ống khói\n\nO Vòng tròn                              O Hình chữ nhật                         O Vuông\n\nO khác...\n\n+ Chiều cao ống khói...m;\n\n+ Vị trí sàn thao tác để lấy mẫu khí thải: ………..m\n\n+ Đường kính trong ống khói:……………...m (Đối với ống khói vuông, chữ nhật ghi theo kích thước 2 cạnh liền VD: 4 m x 3 m)\n\n+ Phương án chuyển thiết bị lên sàn thao tác: ...\n\n+ Số cổng lấy mẫu:…………………Đường kính cổng lấy mẫu: ...\n\n+ Lưu lượng khí thải theo thiết kế...m³/giờ .\n\n+ Nhiệt độ khí thải theo thiết kế...oC\n\n2. Nhiên liệu sử dụng.\n\nLoại sử dụng nhiên liệu (dầu nặng nhiên liệu, khí hóa lỏng, than, củi, mùn cưa, ...) ...\n\n...\n\nĐặc tính:",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024_chunk_0004",
+            "char_count": 988,
+            "source_file": "mauphieu/MAU 01_PHU LUC 02_1074-BTNMT-KSONMT-2024.doc",
+            "file_name": "MAU 01_PHU LUC 02_1074-BTNMT-KSONMT-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:45:30",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024_chunk_0004",
+        "doc_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024",
+        "text": "thải theo thiết kế...m³/giờ .\n\n+ Nhiệt độ khí thải theo thiết kế...oC\n\n2. Nhiên liệu sử dụng.\n\nLoại sử dụng nhiên liệu (dầu nặng nhiên liệu, khí hóa lỏng, than, củi, mùn cưa, ...) ...\n\n...\n\nĐặc tính:\n\n1. Tỷ lệ lưu huỳnh...%\n\n2. Tỷ lệ tro...%\n\n3. Khác:…………………………………………………………………………\n\nGhi tất cả các loại nhiên liệu có liên quan đến quá trình đốt và phát sinh khí thải kèm theo thông tin về đặc tính nhiên liệu.\n\n3. Hệ thống xử lý khí, bụi (nếu có)\n\n| TT | Loại hệ thống xử lý | Thời điểm vận hành chính thức (Tháng – năm) | Hiệu suất xử lý | Ghi chú |\n| --- | --- | --- | --- | --- |\n|  | Hệ thống xử lý Bụi |  |  |  |\n| 1 |  |  |  |  |\n| 2 |  |  |  |  |\n|  | Hệ thống xử lý khí |  |  |  |\n| 1 |  |  |  |  |\n| 2 |  |  |  |  |\n|  | Hệ thống khác (ghi rõ) |  |  |  |\n| 1 |  |  |  |  |\n| 2 |  |  |  |  |\n\n● Ghi rõ về hệ thống xử lý khác, VD: hệ thống giảm nhiệt",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024_chunk_0003",
+            "next_chunk_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024_chunk_0005",
+            "char_count": 855,
+            "source_file": "mauphieu/MAU 01_PHU LUC 02_1074-BTNMT-KSONMT-2024.doc",
+            "file_name": "MAU 01_PHU LUC 02_1074-BTNMT-KSONMT-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:45:30",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024_chunk_0005",
+        "doc_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024",
+        "text": "Hệ thống xử lý khí |  |  |  |\n| 1 |  |  |  |  |\n| 2 |  |  |  |  |\n|  | Hệ thống khác (ghi rõ) |  |  |  |\n| 1 |  |  |  |  |\n| 2 |  |  |  |  |\n\n● Ghi rõ về hệ thống xử lý khác, VD: hệ thống giảm nhiệt\n\n● Nếu hệ thống xử lý phải dừng hoạt động trong một khoảng thời gian, ghi rõ thời gian dừng hoạt động và phần ghi chú, VD: Bảo dưỡng từ tháng 1 đến tháng 3\n\n4. Hệ thống quan trắc khí thải tự động, liên tục CEMS (nếu có).\n\n- Thời điểm đi vào vận hành chính thức: ...\n\n- Truyền dữ liệu về cơ quan quản lý:  Có               Không\n\nNếu có, thì vui lòng cung cấp thông tin cơ quan nhận dữ liệu truyền về:\n\n Bộ Tài nguyên và môi trường\n\n Sở Tài nguyên môi trường tỉnh/thành phố\n\n Khác (Ghi rõ): ...\n\n5. Dữ liệu về phát thải\n\nDữ liệu phát thải được gửi dưới dạng file số liệu kèm theo hoặc qua email sau:\n\nEmail:\n\nTiêu đề:\n\na. Đối với dữ liệu từ CEMS, dữ liệu là giá trị trung bình tháng của năm 2021 đối với các thông số phát thải (Lưu lượng, nhiệt độ, O2, CO, NOx, SO2,…)",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024_chunk_0004",
+            "next_chunk_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024_chunk_0006",
+            "char_count": 971,
+            "source_file": "mauphieu/MAU 01_PHU LUC 02_1074-BTNMT-KSONMT-2024.doc",
+            "file_name": "MAU 01_PHU LUC 02_1074-BTNMT-KSONMT-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:45:30",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024_chunk_0006",
+        "doc_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024",
+        "text": "kèm theo hoặc qua email sau:\n\nEmail:\n\nTiêu đề:\n\na. Đối với dữ liệu từ CEMS, dữ liệu là giá trị trung bình tháng của năm 2021 đối với các thông số phát thải (Lưu lượng, nhiệt độ, O2, CO, NOx, SO2,…)\n\nb. Đối với dữ liệu từ quan trắc định kỳ là bản in, scan kết quả của các đợt quan trắc trong năm 2021.",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_MAU_01_PHU_LUC_02_1074-BTNMT-KSONMT-2024_chunk_0005",
+            "next_chunk_id": null,
+            "char_count": 300,
+            "source_file": "mauphieu/MAU 01_PHU LUC 02_1074-BTNMT-KSONMT-2024.doc",
+            "file_name": "MAU 01_PHU LUC 02_1074-BTNMT-KSONMT-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:45:30",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

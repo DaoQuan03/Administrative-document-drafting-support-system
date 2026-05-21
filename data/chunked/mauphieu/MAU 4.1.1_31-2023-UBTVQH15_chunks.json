@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_4_1_1_31-2023-UBTVQH15_chunk_0001",
+        "doc_id": "mauphieu_MAU_4_1_1_31-2023-UBTVQH15",
+        "text": "4.1.1. Mẫu phiếu bầu, miễn nhiệm, bãi nhiệm một hoặc nhiều người cùng một chức danh\n\n| PHIẾU BẦU/MIỄN NHIỆM/BÃI NHIỆM…1 <br><br><br>Ghi chú:<br>- Đại biểu thể hiện chính kiến bằng cách đánh dấu “X” vào 1 trong 2 ô “Tán thành” hoặc “Không tán thành” đối với mỗi người.<br>- Không ghi thêm tên của người ngoài danh sách hoặc xóa tên của người trong danh sách. |\n| --- |\n\n1 Ghi chức danh được bầu/miễn nhiệm/bãi nhiệm",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 414,
+            "source_file": "mauphieu/MAU 4.1.1_31-2023-UBTVQH15.doc",
+            "file_name": "MAU 4.1.1_31-2023-UBTVQH15.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:06:04",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

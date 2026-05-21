@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_05_20-2024-ND-CP_chunk_0001",
+        "doc_id": "tokhai_MAU_05_20-2024-ND-CP",
+        "text": "Mẫu số 05\n\n| TÊN DOANH NGHIỆP<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: …….<br>V/v đề nghị cấp/cấp lại Giấy phép kinh doanh cảng hàng không | …, ngày ….. tháng ….. năm …. |\n\nTỜ KHAI CẤP/CẤP LẠI GIẤY PHÉP KINH DOANH CẢNG HÀNG KHÔNG\n\nKính gửi: Bộ Giao thông vận tải.\n\nCăn cứ ...\n\nCăn cứ ...\n\nCông ty ... đề nghị Bộ Giao thông vận tải cấp/cấp lại Giấy phép kinh doanh cảng hàng không với các nội dung chi tiết như sau:\n\n1. Tên đầy đủ của tổ chức, cá nhân theo giấy chứng nhận đăng ký kinh doanh hoặc giấy tờ chứng minh tư cách pháp nhân, cá nhân (kể cả tên viết tắt và tên giao dịch quốc tế):\n\n2. Mã số doanh nghiệp: ...\n\n3. Địa chỉ trụ sở chính: ...\n\n4. Địa chỉ liên lạc:\n\n- Tên người có trách nhiệm:...\n\n- Địa chỉ thư tín:...\n\n- Địa chỉ thư điện tử:...\n\n- Điện thoại……………., fax...\n\n5. Họ và tên người đại diện theo pháp luật (đối với tổ chức):\n\n6. Thông tin của người đại diện theo pháp luật1:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_05_20-2024-ND-CP_chunk_0002",
+            "char_count": 970,
+            "source_file": "tokhai/MAU 05_20-2024-ND-CP.doc",
+            "file_name": "MAU 05_20-2024-ND-CP.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:37:56",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_05_20-2024-ND-CP_chunk_0002",
+        "doc_id": "tokhai_MAU_05_20-2024-ND-CP",
+        "text": "Địa chỉ thư tín:...\n\n- Địa chỉ thư điện tử:...\n\n- Điện thoại……………., fax...\n\n5. Họ và tên người đại diện theo pháp luật (đối với tổ chức):\n\n6. Thông tin của người đại diện theo pháp luật1:\n\n- Họ và tên: ... Ngày tháng năm sinh: ...\n\n- Giới tính:…………………;\n\n- Số chứng minh nhân dân/Số định danh cá nhân/Hộ chiếu: ...\n\nNgày cấp: ... Nơi cấp: ……………………………..\n\n6. Loại hình doanh nghiệp: (công ty TNHH, công ty cổ phần...).\n\n7. Nội dung đề nghị: đề nghị cấp/cấp lại Giấy phép kinh doanh cảng hàng không.\n\n| Nơi nhận:<br>- ...<br>- …………… | GIÁM ĐỐC<br>(Ký và ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\n___\n\nGhi chú: 1 Công dân cung cấp số định danh cá nhân không cần kê khai các thông tin về giới tính, dân tộc, ngày cấp, nơi cấp.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "tokhai_MAU_05_20-2024-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 720,
+            "source_file": "tokhai/MAU 05_20-2024-ND-CP.doc",
+            "file_name": "MAU 05_20-2024-ND-CP.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:37:56",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

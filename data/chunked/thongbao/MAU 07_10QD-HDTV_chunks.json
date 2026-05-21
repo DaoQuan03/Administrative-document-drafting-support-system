@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_07_10QD-HDTV_chunk_0001",
+        "doc_id": "thongbao_MAU_07_10QD-HDTV",
+        "text": "(Ban hành kèm theo Quy chế hoạt động cấp mã chứng khoán,\n\nđăng ký, lưu ký đối với cổ phiếu bán lần đầu theo phương thức đấu giá/phương thức dựng sổ của doanh nghiệp cổ phần hóa)\n\nMẫu 07/ĐKCPH\n\n| CÔNG TY... | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>------------------- |\n| --- | --- |\n|  | … … .., ngày     tháng    năm 20... |\n\nTHÔNG BÁO VỀ TỶ LỆ SỞ HỮU NƯỚC NGOÀI TỐI ĐA\n\nTẠI DOANH NGHIỆP\n\nKính gửi:  Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam\n\nChúng tôi là :\n\nCông ty….\n\nMã số thuế: …\n\nTrụ sở chính: ...\n\nĐiện thoại: ...                   \tFax: ...\n\nEmail: ...\n\nTheo quy định pháp luật về cổ phần hóa, Chúng tôi thông báo tỷ lệ sở hữu nước ngoài tối đa tại công ty là:….% (kèm theo văn bản của cấp có thẩm quyền phê duyệt đề án cổ phần hoá, trong đó có nội dung về tỷ lệ sở hữu nước ngoài của công ty –nếu có).\n\nChúng tôi xin cam kết hoàn toàn chịu trách nhiệm về tính chính xác, trung thực của nội dung thông báo này.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_07_10QD-HDTV_chunk_0002",
+            "char_count": 957,
+            "source_file": "thongbao/MAU 07_10QD-HDTV.doc",
+            "file_name": "MAU 07_10QD-HDTV.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:18:25",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_07_10QD-HDTV_chunk_0002",
+        "doc_id": "thongbao_MAU_07_10QD-HDTV",
+        "text": "đề án cổ phần hoá, trong đó có nội dung về tỷ lệ sở hữu nước ngoài của công ty –nếu có).\n\nChúng tôi xin cam kết hoàn toàn chịu trách nhiệm về tính chính xác, trung thực của nội dung thông báo này.\n\n|  | NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT<br>(Chữ ký, họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_07_10QD-HDTV_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 278,
+            "source_file": "thongbao/MAU 07_10QD-HDTV.doc",
+            "file_name": "MAU 07_10QD-HDTV.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:18:25",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

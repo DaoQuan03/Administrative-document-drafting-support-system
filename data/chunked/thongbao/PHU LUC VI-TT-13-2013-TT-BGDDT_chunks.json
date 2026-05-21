@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_PHU_LUC_VI-TT-13-2013-TT-BGDDT_chunk_0001",
+        "doc_id": "thongbao_PHU_LUC_VI-TT-13-2013-TT-BGDDT",
+        "text": "PHỤ LỤC VI\n\nMẪU THÔNG BÁO KẾT QUẢ ĐÁNH GIÁ TỔ CHỨC KIỂM ĐỊNH CHẤT LƯỢNG GIÁO DỤC\n(Kèm theo Thông tư số 13/2023/TT-BGDĐT ngày 26 tháng 6 năm 2023 của Bộ trưởng Bộ Giáo dục và Đào tạo)\n\n| BỘ GIÁO DỤC VÀ ĐÀO TẠO<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: /TB-BGDĐT | Hà Nội, ngày ... tháng ... năm 20... |\n\nTHÔNG BÁO\nKết quả đánh giá Trung tâm Kiểm định chất lượng giáo dục ...1\n----------\n\nThực hiện Quyết định số .../QĐ-BGDĐT ngày ... tháng ... năm 20... của Bộ trưởng Bộ Giáo dục và Đào tạo về việc đánh giá Trung tâm Kiểm định chất lượng giáo dục..., từ ngày ... tháng ... năm 20... đến ngày ... tháng ... năm 20..., Đoàn đánh giá đã làm việc tại...\n\nTheo báo cáo kết quả đánh giá ... ngày ... tháng ... năm 20... của Trưởng đoàn đánh giá, ý kiến giải trình của ... và đề nghị của Cục trưởng Cục Quản lý chất lượng tại Tờ trình số ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_PHU_LUC_VI-TT-13-2013-TT-BGDDT_chunk_0002",
+            "char_count": 912,
+            "source_file": "thongbao/PHU LUC VI-TT-13-2013-TT-BGDDT.doc",
+            "file_name": "PHU LUC VI-TT-13-2013-TT-BGDDT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:35:24",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_PHU_LUC_VI-TT-13-2013-TT-BGDDT_chunk_0002",
+        "doc_id": "thongbao_PHU_LUC_VI-TT-13-2013-TT-BGDDT",
+        "text": "việc tại...\n\nTheo báo cáo kết quả đánh giá ... ngày ... tháng ... năm 20... của Trưởng đoàn đánh giá, ý kiến giải trình của ... và đề nghị của Cục trưởng Cục Quản lý chất lượng tại Tờ trình số ...\n\nBộ Giáo dục và Đào tạo thông báo kết quả đánh giá Trung tâm Kiểm định chất lượng giáo dục ... như sau:\n\n1. Khái quát chung về tổ chức kiểm định chất lượng giáo dục\n\n…\n\n2. Kết quả đánh giá\n\n…\n\n3. Kết luận\n\na) Ưu điểm:...\n\nb) Hạn chế: ...\n\n4. Các biện pháp xử lý theo thẩm quyền đã áp dụng (nếu có)\n\n…\n\n5. Đề nghị đối với tổ chức kiểm định chất lượng giáo dục\n\n…\n\n| Nơi nhận:<br>- Tổ chức KĐCLGD ...;<br>- …..;<br>- Lưu: VT,... | BỘ TRƯỞNG<br>(Ký tên, đóng dấu) |\n| --- | --- |\n\n___\n\n1 Ghi tên của tổ chức kiểm định chất lượng giáo dục\n\nNguồn: Thông tư 13/2023/TT-BGDDT",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_PHU_LUC_VI-TT-13-2013-TT-BGDDT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 765,
+            "source_file": "thongbao/PHU LUC VI-TT-13-2013-TT-BGDDT.doc",
+            "file_name": "PHU LUC VI-TT-13-2013-TT-BGDDT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:35:24",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

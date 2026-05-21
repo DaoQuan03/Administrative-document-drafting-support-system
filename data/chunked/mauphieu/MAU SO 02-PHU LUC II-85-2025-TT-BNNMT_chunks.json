@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_02-PHU_LUC_II-85-2025-TT-BNNMT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_02-PHU_LUC_II-85-2025-TT-BNNMT",
+        "text": "Mẫu số 02\n\nPHIẾU Ý KIẾN\n\nSỬA ĐỔI, BỔ SUNG DANH MỤC LOÀI NGUY CẤP, QUÝ, HIẾM\n\n1. Họ và tên thành viên Hội đồng ...\n\n2. Cơ quan công tác:\n\n3. Vai trò trong Hội đồng: (Chủ tịch/Thư ký/Ủy viên/Phản biện)\n\n4. Nội dung đánh giá:\n\n| STT | Tên loài đề xuất (Tên khoa học và tên tiếng Việt) | Đánh giá về sự cần thiết (Sửa đổi/Bổ sung/Đưa ra khỏi Danh mục) | Đánh giá tính xác thực của dữ liệu khoa học | Ý kiến về phân nhóm (Nhóm I, Nhóm II) |\n| --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |\n| 2 |  |  |  |  |\n| …… |  |  |  |  |\n\n5. Ý kiến khác: (về sự phù hợp với CITES, tính khả thi trong quản lý...):\n\n...\n\n6. Kết luận chung: (Đồng ý/Không đồng ý/Đồng ý nhưng cần chỉnh sửa)\n\n...\n\n|  | ..., ngày... tháng... năm 20..<br>NGƯỜI ĐÁNH GIÁ<br>(Ký và ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 772,
+            "source_file": "mauphieu/MAU SO 02-PHU LUC II-85-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 02-PHU LUC II-85-2025-TT-BNNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:44:46",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

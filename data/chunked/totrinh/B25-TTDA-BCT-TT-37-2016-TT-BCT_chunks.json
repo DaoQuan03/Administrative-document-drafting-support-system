@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_B25-TTDA-BCT-TT-37-2016-TT-BCT_chunk_0001",
+        "doc_id": "totrinh_B25-TTDA-BCT-TT-37-2016-TT-BCT",
+        "text": "B25-TTDA-BCT\n\n37/2016/TT-BCT\n\n| CƠ QUAN CHỦ QUẢN<br>CƠ QUAN ĐỀ XUẤT | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- | --- |\n|  | Hà Nội,  ngày       tháng    năm 20.. |\n\nTỜ TRÌNH XIN PHÊ DUYỆT\n\nDỰ ÁN TĂNG CƯỜNG TRANG THIẾT BỊ/SỬA CHỮA XÂY DỰNG NHỎ\n\nKính gửi: Bộ Công Thương\n\n1. Căn cứ và sự cần thiết của dự án: (Nêu tóm tắt những căn cứ khoa học và sự cần thiết của dự án)\n\n- Đối với nhiệm vụ sửa chữa xây dựng nhỏ: (Đánh giá tổng quan tình hình sử dụng tài sản cố định (công trình, kiến trúc. ..) trong hoạt động KHCN; Tình hình hư hỏng công trình kiến trúc... và ảnh hưởng đến các hoạt động KHCN)\n\n- Đối với nhiệm vụ tăng cường trang thiết bị: (Đánh giá tổng quan lĩnh vực cần đầu tư; nhu cầu và các nhiệm vụ nghiên cứu khoa học và công nghệ; hiện trạng danh mục thiết bị hiện có và mức độ ảnh hưởng đến các hoạt động KHCN)\n\n2. Tên dự án:\n\n3. Mục tiêu của dự án:\n\n4. Nội dung chủ yếu của dự án:\n\n5. Địa điểm thực hiện dự án:\n\n6. Thời gian thực hiện dự án:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_B25-TTDA-BCT-TT-37-2016-TT-BCT_chunk_0002",
+            "char_count": 986,
+            "source_file": "totrinh/B25-TTDA-BCT-TT-37-2016-TT-BCT.doc",
+            "file_name": "B25-TTDA-BCT-TT-37-2016-TT-BCT.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:03:46",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_B25-TTDA-BCT-TT-37-2016-TT-BCT_chunk_0002",
+        "doc_id": "totrinh_B25-TTDA-BCT-TT-37-2016-TT-BCT",
+        "text": "mục thiết bị hiện có và mức độ ảnh hưởng đến các hoạt động KHCN)\n\n2. Tên dự án:\n\n3. Mục tiêu của dự án:\n\n4. Nội dung chủ yếu của dự án:\n\n5. Địa điểm thực hiện dự án:\n\n6. Thời gian thực hiện dự án:\n\n7. Kinh phí thực hiện dự án:\n\nTrong đó:\n\n- Nhà nước: (nguồn kinh phí sự nghiệp khoa học công nghệ)\n\n- Các nguồn vốn khác:\n\n8. Các kiến nghị khác (nếu có)\n\n|  | Thủ trưởng cơ quan đề xuất <br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\nNguồn: Thông tư 37/2016/TT-BCT",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_B25-TTDA-BCT-TT-37-2016-TT-BCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 468,
+            "source_file": "totrinh/B25-TTDA-BCT-TT-37-2016-TT-BCT.doc",
+            "file_name": "B25-TTDA-BCT-TT-37-2016-TT-BCT.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:03:46",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

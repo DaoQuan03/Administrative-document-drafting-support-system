@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_PHIEU_SO_4-2063-QD-TCHQ_chunk_0001",
+        "doc_id": "mauphieu_MAU_PHIEU_SO_4-2063-QD-TCHQ",
+        "text": "| CỤC HẢI QUAN TỈNH/THÀNH PHỐ: ………<br>CHI CỤC: ………………………………… | Phiếu số 04/KS-GPH<br>…….., ngày … tháng … năm 20 … |\n| --- | --- |\n\nPHIẾU KHẢO SÁT Ý KIẾN\n\n(dành cho Lãnh đạo Chi cục phụ trách quy trình thủ tục)\n\n1. Theo đồng chí, quy trình thủ tục hải quan hiện tại (gồm cả phương thức truyền thống và phương thức điện tử) hiện áp dụng tại cửa khẩu đối với loại hình hàng hóa XNK đang tồn tại vấn đề vướng mắc nào là chủ yếu?\n\n2. Quan điểm cá nhân của đồng chí đề xuất giải pháp như thế nào để hoàn thiện quy trình thủ tục hiện tại theo hướng tạo thuận lợi cho doanh nghiệp làm thủ tục, thúc đẩy nhanh quá trình giải quyết thủ tục hải quan?\n\n3. Đồng chí có đánh giá, nhận xét như thế nào về thực trạng bộ hồ sơ hải quan thuộc hàng hóa XNK theo hợp đồng thương mại hiện đang được thực hiện?",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_PHIEU_SO_4-2063-QD-TCHQ_chunk_0002",
+            "char_count": 789,
+            "source_file": "mauphieu/MAU PHIEU SO 4-2063-QD-TCHQ.doc",
+            "file_name": "MAU PHIEU SO 4-2063-QD-TCHQ.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:26:42",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_PHIEU_SO_4-2063-QD-TCHQ_chunk_0002",
+        "doc_id": "mauphieu_MAU_PHIEU_SO_4-2063-QD-TCHQ",
+        "text": "đẩy nhanh quá trình giải quyết thủ tục hải quan?\n\n3. Đồng chí có đánh giá, nhận xét như thế nào về thực trạng bộ hồ sơ hải quan thuộc hàng hóa XNK theo hợp đồng thương mại hiện đang được thực hiện?\n\n4. Nhằm mục tiêu giảm tối đa thời gian giải phóng hàng hóa, đồng chí có đề xuất giải pháp tổng thể gì để hoàn thiện hơn nữa các nội dung thuộc quy trình thủ tục hải quan (gồm cả phương thức truyền thống và phương thức điện tử);\n\nCụ thể các lĩnh vực có liên quan:\n\na. Cơ chế chính sách pháp luật (bao gồm cả quy định của các Bộ, Ngành khác);\n\nb. Quá trình tự động hóa đối với quy trình thủ tục hải quan;\n\nc. Trình độ, năng lực của cán bộ và biên chế tổ chức bộ máy;\n\nd. Trang thiết bị phục vụ công tác nghiệp vụ tại cửa khẩu.\n\nXin chân thành cảm ơn!",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_PHIEU_SO_4-2063-QD-TCHQ_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 747,
+            "source_file": "mauphieu/MAU PHIEU SO 4-2063-QD-TCHQ.doc",
+            "file_name": "MAU PHIEU SO 4-2063-QD-TCHQ.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:26:42",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

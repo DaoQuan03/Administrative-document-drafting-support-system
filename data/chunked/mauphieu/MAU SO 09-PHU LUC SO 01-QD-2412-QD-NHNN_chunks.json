@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_09-PHU_LUC_SO_01-QD-2412-QD-NHNN_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_09-PHU_LUC_SO_01-QD-2412-QD-NHNN",
+        "text": "| Chữ ký số của đơn vị (đối với biểu mẫu điện tử) |  | Mẫu số 09 |\n| --- | --- | --- |\n\n| ….(1)...<br>BỘ PHẬN TIẾP NHẬN VÀ<br>TRẢ KẾT QUẢ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: …./PT | ………., ngày … tháng … năm … |\n\nPHIẾU TRẢ HỒ SƠ\n\nHồ sơ………\n\nHọ và tên: ... (2) ...\n\nChức vụ, đơn vị công tác: ...\n\nĐã hoàn trả hồ sơ của: ... (3) ...\n\nÔng (bà): ... (4) ...\n\n... đã nhận hồ sơ bao gồm:\n\n1 ...\n\n2 ... (5) ...\n\n3 ...\n\n| NGƯỜI NHẬN HỒ SƠ<br>(Ký và ghi rõ họ tên)<br><br><br><br><br>Họ và tên | NGƯỜI TRẢ HỒ SƠ<br>(Ký và ghi rõ họ tên)<br><br><br><br><br>Họ và tên |\n| --- | --- |\n\nGhi chú:\n\n(1) Ngân hàng Nhà nước Việt Nam hoặc Ngân hàng Nhà nước chi nhánh, tùy thuộc vào mẫu này áp dụng cho Bộ phận Một cửa tại Trụ sở chính hay tại Ngân hàng Nhà nước chi nhánh\n\n(2) Họ và tên, chức vụ và đơn vị công tác của người trả hồ sơ.\n\n(3) Thông tin của tổ chức, cá nhân đề nghị giải quyết thủ tục hành chính",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_09-PHU_LUC_SO_01-QD-2412-QD-NHNN_chunk_0002",
+            "char_count": 995,
+            "source_file": "mauphieu/MAU SO 09-PHU LUC SO 01-QD-2412-QD-NHNN.doc",
+            "file_name": "MAU SO 09-PHU LUC SO 01-QD-2412-QD-NHNN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:05:49",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_09-PHU_LUC_SO_01-QD-2412-QD-NHNN_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_09-PHU_LUC_SO_01-QD-2412-QD-NHNN",
+        "text": "cửa tại Trụ sở chính hay tại Ngân hàng Nhà nước chi nhánh\n\n(2) Họ và tên, chức vụ và đơn vị công tác của người trả hồ sơ.\n\n(3) Thông tin của tổ chức, cá nhân đề nghị giải quyết thủ tục hành chính\n\n(4) Họ và tên, nơi công tác và giấy tờ tuỳ thân của người nhận hồ sơ.\n\n(5) Liệt kê đầy đủ, cụ thể các văn bản, giấy tờ, tài liệu có trong hồ sơ.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_09-PHU_LUC_SO_01-QD-2412-QD-NHNN_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 343,
+            "source_file": "mauphieu/MAU SO 09-PHU LUC SO 01-QD-2412-QD-NHNN.doc",
+            "file_name": "MAU SO 09-PHU LUC SO 01-QD-2412-QD-NHNN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:05:49",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    }
+]

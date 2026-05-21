@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_02-PGH_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_02-PGH",
+        "text": "Mẫu số 02/PGH\n\nPHIẾU GIAO HÀNG\n\nĐỐI VỚI KHÁCH MUA HÀNG MIỄN THUẾ TRONG NỘI ĐỊA\n\n..., ngày … tháng … năm …\n\nTên doanh nghiệp: Mã số thuế:\n\nTên người mua hàng:\n\nSố hộ chiếu/giấy thông hành của hành khách/giấy tờ có giá trị đi lại quốc tế:\n\nSố hiệu chuyến bay, số hiệu phương tiện xuất cảnh (nếu có):\n\nSố hóa đơn:\n\nNgày hóa đơn:\n\nCửa khẩu giao hàng:\n\nKho/cửa hàng xuất hàng:\n\n| STT | Tên hàng | Đơn vị tính | Số lượng | Trị giá | Ghi chú |\n| --- | --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) | (6) |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n\n| XÁC NHẬN CỦA NGƯỜI MUA HÀNG<br>(Ký, ghi rõ họ tên) | XÁC NHẬN CỦA NHÂN VIÊN BÁN HÀNG MIỄN THUẾ/KHO HÀNG MIỄN THUẾ<br>(Ký, ghi rõ họ tên) | XÁC NHẬN CỦA CÔNG CHỨC HẢI QUAN CỬA KHẨU<br>(Ký, đóng dấu số hiệu công chức) |\n| --- | --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_02-PGH_chunk_0002",
+            "char_count": 853,
+            "source_file": "mauphieu/MAU SO 02-PGH.doc",
+            "file_name": "MAU SO 02-PGH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:43:24",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_02-PGH_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_02-PGH",
+        "text": "rõ họ tên) | XÁC NHẬN CỦA NHÂN VIÊN BÁN HÀNG MIỄN THUẾ/KHO HÀNG MIỄN THUẾ<br>(Ký, ghi rõ họ tên) | XÁC NHẬN CỦA CÔNG CHỨC HẢI QUAN CỬA KHẨU<br>(Ký, đóng dấu số hiệu công chức) |\n| --- | --- | --- |\n\n*Lưu ý: Nhân viên kho hàng miễn thuế chỉ thực hiện xác nhận trong trường hợp doanh nghiệp có nhiều cửa hàng miễn thuế, đề nghị được sử dụng hàng hóa tại kho hàng miễn thuế cửa khẩu khách xuất cảnh để giao cho khách hàng đã mua hàng tại cửa hàng miễn thuế trong nội địa (kho hàng miễn thuế tại sân bay và cửa hàng miễn thuế trong nội địa thuộc sự quản lý của 02 Chi cục Hải quan khác nhau).\n\nNguồn: Nghị định 100/2020/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_02-PGH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 621,
+            "source_file": "mauphieu/MAU SO 02-PGH.doc",
+            "file_name": "MAU SO 02-PGH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:43:24",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

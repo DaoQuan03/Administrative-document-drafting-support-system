@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_01-48-2019-NDCP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_01-48-2019-NDCP",
+        "text": "Mẫu số 01\n\n| TÊN TỔ CHỨC<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số:     /ĐĐN-………………… (1) | ……… (địa danh), ngày   tháng  năm 20…… |\n\nĐƠN ĐỀ NGHỊ\n\nVề việc chấp thuận tổ chức hoạt động vui chơi giải trí dưới nước……..(2)\n\nKính gửi: ………………………….(3)………………….\n\n1. Căn cứ pháp lý\n\nCăn cứ Nghị định số.../2019/NĐ-CP ngày ... tháng ... năm 2019 của Chính phủ quy định về quản lý hoạt động của phương tiện phục vụ vui chơi giải trí dưới nước.\n\nCăn cứ...(4)...\n\n2. Nội dung đề xuất\n\na) Chiều dài vùng hoạt động …………………………km (từ …………….đến…………….);\n\nb) Chiều rộng vùng hoạt động ……………………….km (từ …………...đến…………….);\n\nc) Thời gian bắt đầu thực hiện khai thác: từ giờ... phút, ngày... tháng...năm... đến giờ... phút, ngày... tháng...năm...;\n\nd) Các nội dung khác\n\n...\n\n...\n\n………………. (5)……………… kính đề nghị …………….(3) …………….xem xét, công bố vùng hoạt động ………….(2) ……………………………………………………………….\n\nXin trân trọng cảm ơn./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_01-48-2019-NDCP_chunk_0002",
+            "char_count": 971,
+            "source_file": "Maudon/MAU SO 01-48-2019-NDCP.doc",
+            "file_name": "MAU SO 01-48-2019-NDCP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:15:36",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_01-48-2019-NDCP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_01-48-2019-NDCP",
+        "text": "tháng...năm...;\n\nd) Các nội dung khác\n\n...\n\n...\n\n………………. (5)……………… kính đề nghị …………….(3) …………….xem xét, công bố vùng hoạt động ………….(2) ……………………………………………………………….\n\nXin trân trọng cảm ơn./.\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: VT, …….(7) | THỦ TRƯỞNG(6)<br>(Ký tên, đóng dấu, họ và tên) |\n| --- | --- |\n\nGhi chú:\n\n(1) Ký hiệu viết tắt của cơ quan, tổ chức (đơn vị, doanh nghiệp).\n\n(2) Nêu tên vùng hoạt động (nếu có).\n\n(3) Nêu tên cơ quan có thẩm quyền công bố theo quy định tại Nghị định này.\n\n(4) Nêu: Quyết định phê duyệt (nếu có) hoặc nhu cầu hoạt động của tổ chức, cá nhân.\n\n(5) Tên cơ quan, tổ chức, cá nhân.\n\n(6) Thẩm quyền ký là Thủ trưởng cơ quan, tổ chức, cá nhân.\n\n(7) Chữ viết tắt tên cơ quan tham mưu và số lượng bản lưu (nếu cần).\n\nNguồn: Nghị định 48/2019/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_01-48-2019-NDCP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 776,
+            "source_file": "Maudon/MAU SO 01-48-2019-NDCP.doc",
+            "file_name": "MAU SO 01-48-2019-NDCP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:15:36",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

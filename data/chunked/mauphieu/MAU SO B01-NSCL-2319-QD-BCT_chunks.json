@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_B01-NSCL-2319-QD-BCT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_B01-NSCL-2319-QD-BCT",
+        "text": "B01-NSCL: Phiếu đánh giá đề xuất nhiệm vụ\n\n| BỘ CÔNG THƯƠNG<br>HỘI ĐỒNG TƯ VẤN XÁC ĐỊNH NHIỆM VỤ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | Hà Nội, ngày ……. tháng ……. năm 20… |\n\nPHIẾU ĐÁNH GIÁ ĐỀ XUẤT NHIỆM VỤ\n\nThực hiện Dự án Nâng cao năng suất và chất lượng sản phẩm hàng hóa ngành công nghiệp\n\nI. Thông tin chung:\n\n1. Họ tên ủy viên Hội đồng:\n\n2. Chức vụ/học vị:\tĐơn vị công tác:\n\n3. Ngày họp:     /    /20...\n\n4. Địa điểm họp:\n\n5. Quyết định thành lập Hội đồng:\n\nII. Đánh giá đề xuất đặt hàng:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_B01-NSCL-2319-QD-BCT_chunk_0002",
+            "char_count": 574,
+            "source_file": "mauphieu/MAU SO B01-NSCL-2319-QD-BCT.doc",
+            "file_name": "MAU SO B01-NSCL-2319-QD-BCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:22:23",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_B01-NSCL-2319-QD-BCT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_B01-NSCL-2319-QD-BCT",
+        "text": "Thông tin chung:\n\n1. Họ tên ủy viên Hội đồng:\n\n2. Chức vụ/học vị:\tĐơn vị công tác:\n\n3. Ngày họp:     /    /20...\n\n4. Địa điểm họp:\n\n5. Quyết định thành lập Hội đồng:\n\nII. Đánh giá đề xuất đặt hàng:\n\n| TT | Tên nhiệm vụ | Đơn vị đề xuất | Ý kiến tư vấn, đề xuất của ủy viên Hội đồng tư vấn | Ý kiến tư vấn, đề xuất của ủy viên Hội đồng tư vấn | Ý kiến tư vấn, đề xuất của ủy viên Hội đồng tư vấn | Ý kiến tư vấn, đề xuất của ủy viên Hội đồng tư vấn |\n| --- | --- | --- | --- | --- | --- | --- |\n| TT | Tên nhiệm vụ | Đơn vị đề xuất | Không đồng ý (nêu lý do) | Đồng ý hoàn toàn | Đồng ý có chỉnh sửa | Ý kiến đề nghị chỉnh sửa để hoàn thiện |\n| (1) | (2) | (3) | (4) | (5) | (6) | (7) |\n| 1. | ………… |  |  |  |  |  |\n| 2. | ………… |  |  |  |  |  |\n|  | Tổng: |  |  |  |  |  |\n\n|  | Thành viên Hội đồng<br>(Họ tên và chữ ký) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_B01-NSCL-2319-QD-BCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 835,
+            "source_file": "mauphieu/MAU SO B01-NSCL-2319-QD-BCT.doc",
+            "file_name": "MAU SO B01-NSCL-2319-QD-BCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:22:23",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

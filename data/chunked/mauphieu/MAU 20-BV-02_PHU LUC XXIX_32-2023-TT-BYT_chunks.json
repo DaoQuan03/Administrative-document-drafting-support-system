@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_20-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_20-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "Sở Y tế: ...\n\nBV: ...\n\nPhiếu xét nghiệm\n\nSinh thiết tuỷ xương\n\nMS: 20/BV-02\n\nSố ...\n\n- Họ tên người bệnh: ...              Tuổi: ...  Nam/Nữ\n\n- Địa chỉ: ...Số thẻ BHTY:\n\n- Khoa: ... Buồng: ...Giường: ... ...\n\n- Chẩn đoán lâm sàng: ... ...\n\nNgày ... tháng ... năm ...                                                                                               ...\n\nBác sĩ điều trị\n\nHọ tên: ...\n\nSinh thiết: ... giờ ... .ngày ... tháng ... năm ...                   Số:...\n\nKết quả\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\nKết luận: ...\n\n...\n\n...\n\nĐề nghị: ...\n\n...\n\n...\n\n...\n\nNgày ... tháng ... năm ...\n\nTrưởng khoa xét nghiệm\n\nHọ tên: ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 635,
+            "source_file": "mauphieu/MAU 20-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 20-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:00:51",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PL_2c-sd-91-2017-TT-BTC_chunk_0001",
+        "doc_id": "mauphieu_PL_2c-sd-91-2017-TT-BTC",
+        "text": "PHỤ LỤC SỐ 02c\n\n(Ban hành kèm theo Thông tư số 91/2017/TT-BTC ngày 31/8/2017 của Bộ Tài chính)\n\n| BỘ TÀI CHÍNH |  | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM |\n| --- | --- | --- |\n| HỘI ĐỒNG THI KIỂM TOÁN VIÊN, |  | Độc lập - Tự do - Hạnh phúc |\n| KẾ TOÁN VIÊN |  |  |\n\nPHIẾU ĐĂNG KÝ DỰ THI SÁT HẠCH\n\nĐỐI VỚI NGƯỜI CÓ CHỨNG CHỈ CHUYÊN GIA\n\nKẾ TOÁN HOẶC CHỨNG CHỈ KIỂM TOÁN VIÊN\n\nNƯỚC NGOÀI\n\nNăm …\n\n1. Họ và tên (chữ in hoa):………………………………...………………...\n\n2. Ngày, tháng, năm sinh:……………………………. Nam (Nữ):…………...\n\nCMND/Căn cước công dân/Căn cước/Hộ chiếu số: …………………………...\n\n3. Quê quán (hoặc Quốc tịch - đối với người nước ngoài):...……………..…...\n\n4. Số điện thoại:...e.mail:...\n\n5. Chức vụ, đơn vị nơi đang công tác:.…………………………………...\n\n……………………………………………………………………………...\n\n6. Trình độ chuyên môn:\n\n- Đại học:... Chuyên ngành:... Năm:...\n\n- Đại học:... Chuyên ngành:... Năm:...\n\n- Sau đại học: ... Chuyên ngành:... Năm:...\n\n7. Chứng chỉ KTV nước ngoài/ Chứng chỉ chuyên gia kế toán:\n\nTên chứng chỉ: ... Viết tắt:...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PL_2c-sd-91-2017-TT-BTC_chunk_0002",
+            "char_count": 994,
+            "source_file": "mauphieu/PL 2c-sd-91-2017-TT-BTC.doc",
+            "file_name": "PL 2c-sd-91-2017-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:53:58",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PL_2c-sd-91-2017-TT-BTC_chunk_0002",
+        "doc_id": "mauphieu_PL_2c-sd-91-2017-TT-BTC",
+        "text": "ngành:... Năm:...\n\n- Đại học:... Chuyên ngành:... Năm:...\n\n- Sau đại học: ... Chuyên ngành:... Năm:...\n\n7. Chứng chỉ KTV nước ngoài/ Chứng chỉ chuyên gia kế toán:\n\nTên chứng chỉ: ... Viết tắt:...\n\nSố:... ngày:... Tổ chức cấp:...\n\nTổ chức cấp chứng chỉ có là thành viên của IFAC không? Có\t      Không\n\nTham dự và đạt yêu cầu 2 môn thi (môn Luật Doanh nghiệp và kinh doanh và môn Thuế) theo chương trình thi phối hợp giữa Bộ Tài chính Việt Nam với Hiệp hội kế toán công chứng Vương quốc Anh (ACCA)\n\nCó\t\t\t          Không\n\n8. Đăng ký dự thi tại: \tHà Nội\t\t    TP. Hồ Chí Minh\n\n9. Đăng ký dự thi:  \tKiểm toán viên \t    Kế toán viên\n\n10. Quá trình làm việc:\n\n| Thời gian từ ... đến ... | Công việc - Chức vụ | Nơi làm việc |\n| --- | --- | --- |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n\n|  |  | ..., ngày ... tháng ... năm ... |\n| --- | --- | --- |\n|  |  | Người đăng ký dự thi |\n|  |  | (Ký, họ tên) |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PL_2c-sd-91-2017-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 898,
+            "source_file": "mauphieu/PL 2c-sd-91-2017-TT-BTC.doc",
+            "file_name": "PL 2c-sd-91-2017-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:53:58",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_Mau_so_26_131_2021_ND-CP_chunk_0001",
+        "doc_id": "Maudon_Mau_so_26_131_2021_ND-CP",
+        "text": "Mẫu số 26\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN ĐỀ NGHỊ\n\nSửa đổi, bổ sung thông tin trong hồ sơ ...1...\n\nKính gửi: ...2...\n\nHọ và tên: ...\n\nNgày tháng năm sinh: ... Nam/Nữ: ...\n\nCCCD/CMND số ... Ngày cấp ... Nơi cấp ...\n\nQuê quán: ...\n\nNơi thường trú: ...\n\nSố điện thoại: ...\n\nThuộc diện người có công3: ...\n\nThông tin đang ghi trong hồ sơ: ...\n\n...\n\n...\n\nThông tin đề nghị sửa đổi, bổ sung: ...\n\n...\n\n...\n\n| ..., ngày... tháng... năm...<br>Xác nhận của cơ có thẩm quyền4<br>Ông (bà) ... hiện thường trú tại ... và có chữ ký trên bản khai là đúng.<br>QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ<br>(Chữ ký, dấu)<br>Họ và tên | ………., ngày ... tháng ... năm ..…...<br>Người khai<br>(Ký, ghi rõ họ và tên) |\n| --- | --- |\n\n___\n\nGhi chú:\n\n1 Ghi rõ tên hồ sơ người có công (ví dụ: hồ sơ liệt sĩ, hồ sơ thương binh...).",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_Mau_so_26_131_2021_ND-CP_chunk_0002",
+            "char_count": 848,
+            "source_file": "Maudon/Mau so 26_131_2021_ND-CP.doc",
+            "file_name": "Mau so 26_131_2021_ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:42:50",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_Mau_so_26_131_2021_ND-CP_chunk_0002",
+        "doc_id": "Maudon_Mau_so_26_131_2021_ND-CP",
+        "text": "và tên | ………., ngày ... tháng ... năm ..…...<br>Người khai<br>(Ký, ghi rõ họ và tên) |\n| --- | --- |\n\n___\n\nGhi chú:\n\n1 Ghi rõ tên hồ sơ người có công (ví dụ: hồ sơ liệt sĩ, hồ sơ thương binh...).\n\n2 Đối với hồ sơ do ngành LĐTBXH quản lý thì gửi Sở LĐTBXH nơi quản lý hồ sơ. Đối với hồ sơ do quân đội, công an đang quản lý thì gửi cơ quan, đơn vị quản lý hồ sơ.\n\n3 Ghi rõ diện đối tượng người có công (thương binh, bệnh binh...). Trường hợp không phải là người có công phải ghi rõ mối quan hệ với người có công.\n\n4 Đối với hồ sơ do ngành LĐTBXH quản lý thì UBND cấp xã nơi người đề nghị thường trú xác nhận. Đối với hồ sơ do quân đội, công an đang quản lý thì gửi cơ quan, đơn vị quản lý trực tiếp xác nhận.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_Mau_so_26_131_2021_ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 706,
+            "source_file": "Maudon/Mau so 26_131_2021_ND-CP.doc",
+            "file_name": "Mau so 26_131_2021_ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:42:50",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

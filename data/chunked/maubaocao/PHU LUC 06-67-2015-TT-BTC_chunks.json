@@ -1,0 +1,92 @@
+[
+    {
+        "chunk_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC",
+        "text": "PHỤ LỤC 06\n\n(Hướng dẫn đoạn 57 và A31 Chuẩn mực này)\n\nMẪU BÁO CÁO KIỂM TOÁN VỚI Ý KIẾN KIỂM TOÁN NGOẠI TRỪ\n\nCông ty kiểm toán XYZ\n\nĐịa chỉ, điện thoại, fax...\n\nSố .../20x5/BCKT\n\nBÁO CÁO KIỂM TOÁN ĐỘC LẬP (*)\n\nVề Báo cáo quyết toán dự án hoàn thành\n\nDự án: …...\n\nKính gửi:[Người nhận báo cáo kiểm toán]\n\nChúng tôi, [Công ty kiểm toán XYZ…], đã thực hiện kiểm toán Báo cáo quyết toán dự án hoàn thành của dự án [Tên dự án], từ trang … đến trang … kèm theo, do [Chủ đầu tư/Ban quản lý dự án] lập ngày … tháng... năm...\n\n(Các phần từ “Trách nhiệm của Ban Giám đốc” đến hết phần “Kết quả kiểm toán” tương tự như Phụ lục 05 nói trên)\n\nCơ sở của ý kiến kiểm toán ngoại trừ\n\nĐến thời điểm kết thúc cuộc kiểm toán, hồ sơ quyết toán dự án hoàn thành cung cấp cho kiểm toán còn một số tồn tại sau:\n\n(1) Chủ đầu tư chưa tập hợp và cung cấp hồ sơ quyết toán các chi phí A là XXX1 đồng, chi phí B là XXX2 đồng dẫn đến việc chưa đủ cơ sở để xác định giá trị quyết toán các chi phí này;",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 5,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC_chunk_0002",
+            "char_count": 970,
+            "source_file": "maubaocao/PHU LUC 06-67-2015-TT-BTC.doc",
+            "file_name": "PHU LUC 06-67-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:46:32",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC",
+        "text": "số tồn tại sau:\n\n(1) Chủ đầu tư chưa tập hợp và cung cấp hồ sơ quyết toán các chi phí A là XXX1 đồng, chi phí B là XXX2 đồng dẫn đến việc chưa đủ cơ sở để xác định giá trị quyết toán các chi phí này;\n\n(2) Bản vẽ thiết kế và bản vẽ hoàn công hạng mục C không đủ cơ sở để xác định khối lượng phần chi phí xây dựng... theo báo cáo quyết toán của hạng mục C là XXX3 đồng dẫn đến việc chưa đủ cơ sở để xác định giá trị quyết toán hạng mục này;\n\n(3) Chủ đầu tư chưa cung cấp đầy đủ các bằng chứng liên quan đến:\n\n- Đơn giá phần...thuộc hạng mục...;\n\n- Khối lượng phần...thuộc hạng mục...;\n\n- Xuất xứ thiết bị...thuộc gói thầu...\n\ndẫn đến việc không đủ cơ sở xác định giá trị quyết toán của hạng mục trên;\n\n(4) Một số hạng mục chi phí chưa đủ điều kiện quyết toán gồm:\n\n- Phần giá trị hạng mục A4 phát sinh mới chưa có dự toán được duyệt, đang trong quá trình phê duyệt dự toán bổ sung với giá trị là XY2 VNĐ;",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 5,
+            "prev_chunk_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC_chunk_0001",
+            "next_chunk_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC_chunk_0003",
+            "char_count": 902,
+            "source_file": "maubaocao/PHU LUC 06-67-2015-TT-BTC.doc",
+            "file_name": "PHU LUC 06-67-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:46:32",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC_chunk_0003",
+        "doc_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC",
+        "text": "Một số hạng mục chi phí chưa đủ điều kiện quyết toán gồm:\n\n- Phần giá trị hạng mục A4 phát sinh mới chưa có dự toán được duyệt, đang trong quá trình phê duyệt dự toán bổ sung với giá trị là XY2 VNĐ;\n\n- Chi phí thẩm tra phê duyệt quyết toán chưa thực hiện, được ghi nhận vào kết quả kiểm toán của dự án với giá trị là XY3 VNĐ.\n\nGiá trị các hạng mục chi phí nêu trên có được chấp nhận quyết toán hay không tùythuộc vào quyết định của người có thẩm quyền phê duyệt quyết toán.\n\nChúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được và kết quả kiểm toán nói trên là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán ngoại trừ của chúng tôi.\n\nÝ kiến kiểm toán ngoại trừ:",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 5,
+            "prev_chunk_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC_chunk_0002",
+            "next_chunk_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC_chunk_0004",
+            "char_count": 692,
+            "source_file": "maubaocao/PHU LUC 06-67-2015-TT-BTC.doc",
+            "file_name": "PHU LUC 06-67-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:46:32",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC_chunk_0004",
+        "doc_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC",
+        "text": "rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được và kết quả kiểm toán nói trên là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán ngoại trừ của chúng tôi.\n\nÝ kiến kiểm toán ngoại trừ:\n\n“Trên cơ sở các hồ sơ, tài liệu được chủ đầu tư cung cấp và kết quả kiểm tra, theo ý kiến của chúng tôi, xét trên các khía cạnh trọng yếu, ngoại trừ ảnh hưởng (nếu có) của các vấn đề nêu tại đoạn “Cơ sở của ý kiến kiểm toán ngoại trừ” nói trên, quá trình thực hiện dự án đã tuân thủ các quy định về quản lý đầu tư và Báo cáo quyết toán dự án hoàn thành đã phản ánh trung thực và hợp lý tình hình quyết toán dự án hoàn thành tại thời điểm lập báo cáo, phù hợp với chuẩn mực kế toán, chế độ kế toán [áp dụng cho đơn vị chủ đầu tư ] và quy định pháp lý có liên quan đến việc lập và trình bày báo cáo quyết toán dự án hoàn thành.\n\nKiến nghị:\n\n… (Nếu có)\n\n[(Hà Nội), ngày … tháng … năm…]\n\nCông ty kiểm toán XYZ",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 5,
+            "prev_chunk_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC_chunk_0003",
+            "next_chunk_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC_chunk_0005",
+            "char_count": 909,
+            "source_file": "maubaocao/PHU LUC 06-67-2015-TT-BTC.doc",
+            "file_name": "PHU LUC 06-67-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:46:32",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC_chunk_0005",
+        "doc_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC",
+        "text": "đơn vị chủ đầu tư ] và quy định pháp lý có liên quan đến việc lập và trình bày báo cáo quyết toán dự án hoàn thành.\n\nKiến nghị:\n\n… (Nếu có)\n\n[(Hà Nội), ngày … tháng … năm…]\n\nCông ty kiểm toán XYZ\n\n| Giám đốc<br>(Chữ ký, họ và tên, đóng dấu)<br>Số Giấy CN ĐKHN kiểm toán:… | Kiểm toán viên<br>(Chữ ký, họ và tên)<br>Số Giấy CN ĐKHN kiểm toán:… |\n| --- | --- |\n\nGhi chú: (*) Mẫu này có thể thay đổi tùy theo công việc thực tế kiểm toán của từng dự án và phù hợp quy định pháp luật của từng thời kỳ.\n\nNguồn: Thông tư 67/2015/TT-BTC",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 5,
+            "prev_chunk_id": "maubaocao_PHU_LUC_06-67-2015-TT-BTC_chunk_0004",
+            "next_chunk_id": null,
+            "char_count": 531,
+            "source_file": "maubaocao/PHU LUC 06-67-2015-TT-BTC.doc",
+            "file_name": "PHU LUC 06-67-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:46:32",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

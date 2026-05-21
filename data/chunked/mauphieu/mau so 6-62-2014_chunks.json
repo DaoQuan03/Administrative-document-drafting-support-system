@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_mau_so_6-62-2014_chunk_0001",
+        "doc_id": "mauphieu_mau_so_6-62-2014",
+        "text": "Mẫu số 6\n\n| ……………………………..1<br>HỘI ĐỒNG ………………….2<br>XÉT TẶNG DANH HIỆU<br>“NGHỆ NHÂN NHÂN DÂN”,<br>“NGHỆ NHÂN ƯU TÚ\"<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | ……………, ngày … tháng … năm ……… |\n\nPHIẾU BẦU\n\nVỀ VIỆC XÉT TẶNG DANH HIỆU “NGHỆ NHÂN ƯU TÚ”\n(Đồng ý, không đồng ý, đề nghị thành viên Hội đồng đánh dấu X vào ô thích hợp).\n\n| Stt | Họ và tên nghệ nhân được đề cử | Loại hình di sản văn hóa phi vật thể nắm giữ | Ý kiến của thành viên Hội đồng xét tặng danh hiệu | Ý kiến của thành viên Hội đồng xét tặng danh hiệu |\n| --- | --- | --- | --- | --- |\n| Stt | Họ và tên nghệ nhân được đề cử | Loại hình di sản văn hóa phi vật thể nắm giữ | Đồng ý | Không đồng ý |\n| 1 |  |  |  |  |\n| 2 |  |  |  |  |\n| 3 |  |  |  |  |\n| 4 |  |  |  |  |\n| 5 |  |  |  |  |\n| 6 |  |  |  |  |\n| … |  |  |  |  |\n\n|  | Thành viên Hội đồng<br>(Ký, ghi rõ họ tên ) |\n| --- | --- |\n\n___\n\n(1) Tên tổ chức ghi tại con dấu Hội đồng sử dụng.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_mau_so_6-62-2014_chunk_0002",
+            "char_count": 989,
+            "source_file": "mauphieu/mau so 6-62-2014.doc",
+            "file_name": "mau so 6-62-2014.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:20:57",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_mau_so_6-62-2014_chunk_0002",
+        "doc_id": "mauphieu_mau_so_6-62-2014",
+        "text": "|  |\n| 4 |  |  |  |  |\n| 5 |  |  |  |  |\n| 6 |  |  |  |  |\n| … |  |  |  |  |\n\n|  | Thành viên Hội đồng<br>(Ký, ghi rõ họ tên ) |\n| --- | --- |\n\n___\n\n(1) Tên tổ chức ghi tại con dấu Hội đồng sử dụng.\n\n(2) Tên Hội đồng.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_mau_so_6-62-2014_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 217,
+            "source_file": "mauphieu/mau so 6-62-2014.doc",
+            "file_name": "mau so 6-62-2014.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:20:57",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

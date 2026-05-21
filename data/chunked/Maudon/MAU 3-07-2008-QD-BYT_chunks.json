@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_3-07-2008-QD-BYT_chunk_0001",
+        "doc_id": "Maudon_MAU_3-07-2008-QD-BYT",
+        "text": "Mẫu 3 - Đơn tự nguyện hiến mô, bộ phận cơ thể ở người sau khi chết - màu vàng nhat.\n\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n-------\n\nĐƠN TỰ NGUYỆN HIẾN MÔ, BỘ PHẬN CƠ THỂ Ở NGƯỜI SAU KHI CHẾT\n\nKính gửi:\n\nTên tôi là:\n\nNgày tháng năm sinh:\n\nGiới:\n\nĐịa chỉ thường trú:\n\nNghề nghiệp:\n\nNơi công tác (nếu có):\n\nGiấy CMND/Hộ chiếu số……………… ;cấp ngày………………… ; nơi cấp:………………………\n\nĐiện thoại (nếu có)\n\nVì sự phát triển nền Y học nước nhà, nhằm giúp đỡ những người không may mắc các bệnh hiểm nghèo và với tinh thần nhân đạo chữa bệnh cứu người. Sau khi được cán bộ y tế tư vấn, tôi xin tự nguyện hiến mô, bộ phận cơ thể của mình sau khi tôi qua đời mà không yêu cầu kèm theo bất cứ một điều kiện nào.\n\nTôi đề nghị giữ ( hoặc không giữ ) bí mật danh tính của tôi đối với người nhận.\n\nTôi viết đơn này trong trạng thái tinh thần hoàn toàn minh mẫn, tỉnh táo và xin chịu trách nhiệm trước pháp luật về cam kết của mình .\n\nTôi xin chân thành cảm ơn./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_3-07-2008-QD-BYT_chunk_0002",
+            "char_count": 961,
+            "source_file": "Maudon/MAU 3-07-2008-QD-BYT.doc",
+            "file_name": "MAU 3-07-2008-QD-BYT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:08:33",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_3-07-2008-QD-BYT_chunk_0002",
+        "doc_id": "Maudon_MAU_3-07-2008-QD-BYT",
+        "text": "tính của tôi đối với người nhận.\n\nTôi viết đơn này trong trạng thái tinh thần hoàn toàn minh mẫn, tỉnh táo và xin chịu trách nhiệm trước pháp luật về cam kết của mình .\n\nTôi xin chân thành cảm ơn./.\n\n..., ngày... tháng... năm 200...\nNgười làm đơn\n(Ký, ghi rõ họ tên )",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_3-07-2008-QD-BYT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 267,
+            "source_file": "Maudon/MAU 3-07-2008-QD-BYT.doc",
+            "file_name": "MAU 3-07-2008-QD-BYT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:08:33",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

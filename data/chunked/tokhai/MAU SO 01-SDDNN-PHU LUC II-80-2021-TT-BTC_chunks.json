@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_01-SDDNN-PHU_LUC_II-80-2021-TT-BTC_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_01-SDDNN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTỜ KHAI THUẾ SỬ DỤNG ĐẤT NÔNG NGHIỆP\n\n(Áp dụng đối với tổ chức có đất chịu thuế)\n\n[01] Kỳ tính thuế: Năm ...\n\n[02] Lần đầu:                           [03] Bổ sung lần thứ:..…\n\n1. Người nộp thuế:\n\n[04] Tên tổ chức: ...\n\n[05] Mã số thuế:\n\n[06] Địa chỉ trụ sở:\n\n[06.1] Số nhà: ...       [06.2] Đường/phố: ...\n\n[06.3] Tổ/thôn: ... [06.4] Xã/phường/đặc khu: ...\n\n[06.5] Tỉnh/Thành phố: ...\n\n2. Đại lý thuế (nếu có):\n\n[07] Tên đại lý thuế: ...\n\n[08] Mã số thuế:\n\n[09] Hợp đồng đại lý thuế: Số: ... ngày: ...\n\n3. Tính thuế:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_01-SDDNN-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+            "char_count": 581,
+            "source_file": "tokhai/MAU SO 01-SDDNN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-SDDNN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:47:08",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_01-SDDNN-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_01-SDDNN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "... [06.4] Xã/phường/đặc khu: ...\n\n[06.5] Tỉnh/Thành phố: ...\n\n2. Đại lý thuế (nếu có):\n\n[07] Tên đại lý thuế: ...\n\n[08] Mã số thuế:\n\n[09] Hợp đồng đại lý thuế: Số: ... ngày: ...\n\n3. Tính thuế:\n\n| STT | Địa chỉ<br>thửa đất | Địa chỉ<br>thửa đất | Địa chỉ<br>thửa đất | Thửa đất số | Tờ bản đồ số | Diện tích | Loại đất | Hạng đất | Định suất thuế | Thuế tính bằng thóc (kg) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Tổ/thôn | Xã/ phường/đặc khu | Tỉnh/thành phố | Thửa đất số | Tờ bản đồ số | Diện tích | Loại đất | Hạng đất | Định suất thuế | Thuế tính bằng thóc (kg) |\n|  | [10.1] | [10.2] | [10.3] | [11] | [12] | [13] | [14] | [15] | [16] | [17]=[13]x [16] |\n| 1 |  |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |  |\n|  | Tổng cộng | Tổng cộng | Tổng cộng |  |  |  |  |  |  |  |\n\n[18] Thời điểm bắt đầu sử dụng đất: …………………………………………………….\n\n[19] Thời điểm thay đổi diện tích đất: …………………………………………...\n\n[20] Thuế được miễn, giảm: ...kg.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "tokhai_MAU_SO_01-SDDNN-PHU_LUC_II-80-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": "tokhai_MAU_SO_01-SDDNN-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+            "char_count": 986,
+            "source_file": "tokhai/MAU SO 01-SDDNN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-SDDNN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:47:08",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_01-SDDNN-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+        "doc_id": "tokhai_MAU_SO_01-SDDNN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "Tổng cộng | Tổng cộng |  |  |  |  |  |  |  |\n\n[18] Thời điểm bắt đầu sử dụng đất: …………………………………………………….\n\n[19] Thời điểm thay đổi diện tích đất: …………………………………………...\n\n[20] Thuế được miễn, giảm: ...kg.\n\n[21] Thuế phải nộp tính bằng thóc ([21] = [17] – [20]): ...kg.\n\n[22] Giá thóc tính thuế (đồng/kg): ...\n\n[23] Thuế phải nộp tính bằng tiền ([23] = [21] x [22]): …...đồng.\n\nTôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về số liệu đã khai./.\n\n| NHÂN VIÊN ĐẠI LÝ THUẾ<br>Họ và tên:...<br>Chứng chỉ hành nghề số:... | ..., ngày... tháng... năm...<br>NGƯỜI NỘP THUẾ hoặc <br>ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ<br>(Chữ ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có)/Ký điện tử) |\n| --- | --- |\n\nGhi chú:\n\n1. Nếu là đất trồng cây ăn quả trên đất trồng cây hàng năm thuộc đất hạng 1, hạng 2, hoặc hạng 3 thì phải nhân thêm hệ số 1,3.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "tokhai_MAU_SO_01-SDDNN-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+            "next_chunk_id": "tokhai_MAU_SO_01-SDDNN-PHU_LUC_II-80-2021-TT-BTC_chunk_0004",
+            "char_count": 856,
+            "source_file": "tokhai/MAU SO 01-SDDNN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-SDDNN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:47:08",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_01-SDDNN-PHU_LUC_II-80-2021-TT-BTC_chunk_0004",
+        "doc_id": "tokhai_MAU_SO_01-SDDNN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "tên; chức vụ và đóng dấu (nếu có)/Ký điện tử) |\n| --- | --- |\n\nGhi chú:\n\n1. Nếu là đất trồng cây ăn quả trên đất trồng cây hàng năm thuộc đất hạng 1, hạng 2, hoặc hạng 3 thì phải nhân thêm hệ số 1,3.\n\n2. Chỉ tiêu thuế được miễn, giảm: nếu được miễn ghi 100%, nếu được giảm thì ghi tương ứng số % được giảm; đồng thời người nộp thuế phải kèm theo tài liệu chứng minh được miễn, giảm.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "tokhai_MAU_SO_01-SDDNN-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 382,
+            "source_file": "tokhai/MAU SO 01-SDDNN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-SDDNN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:47:08",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

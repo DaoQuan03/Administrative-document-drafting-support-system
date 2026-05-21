@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_04a-GQVL_8055-NHCS-TDSV-2019_chunk_0001",
+        "doc_id": "mauphieu_MAU_04a-GQVL_8055-NHCS-TDSV-2019",
+        "text": "| CN NHCSXH tỉnh, TP...<br>PGD (quận, huyện) ………<br>---------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- | Mẫu số 04a/GQVL<br>NH lập: 02 liên<br>- 01 liên gửi KH<br>- 01 liên lưu NH. |\n| --- | --- | --- |\n\nTHÔNG BÁO TỪ CHỐI CHO VAY\n\nKính gửi: ………………………………………..\n\nNgày …… tháng ……. năm ……, Chi nhánh Ngân hàng Chính sách xã hội (tỉnh, TP)/Phòng giao dịch Ngân hàng Chính sách xã hội (quận, huyện) ………………………… nhận được bộ hồ sơ đề nghị vay vốn để sử dụng vào việc ……………………… của khách hàng vay vốn là …………………………….\n\nCăn cứ kết quả báo cáo thẩm định ngày …… tháng ……. năm ……..\n\nCăn cứ thông báo từ chối cho vay của cấp có thẩm quyền quản lý vốn (nếu có) ……………………………………..\n\nChi nhánh Ngân hàng Chính sách xã hội (tỉnh, TP)/Phòng giao dịch Ngân hàng chính sách xã hội (quận/huyện)……………………. thông báo từ chối cho vay đối với khách hàng vay vốn là …………………….. vì những lý do sau:\n\n- …………………………………………………………………………………………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_04a-GQVL_8055-NHCS-TDSV-2019_chunk_0002",
+            "char_count": 957,
+            "source_file": "mauphieu/MAU 04a-GQVL_ 8055-NHCS-TDSV-2019.doc",
+            "file_name": "MAU 04a-GQVL_ 8055-NHCS-TDSV-2019.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:50:04",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_04a-GQVL_8055-NHCS-TDSV-2019_chunk_0002",
+        "doc_id": "mauphieu_MAU_04a-GQVL_8055-NHCS-TDSV-2019",
+        "text": "giao dịch Ngân hàng chính sách xã hội (quận/huyện)……………………. thông báo từ chối cho vay đối với khách hàng vay vốn là …………………….. vì những lý do sau:\n\n- …………………………………………………………………………………………………………\n\n- ………………………………………………………………………………………………………...\n\nTrường hợp Quý khách hàng có nhu cầu nhận lại hồ sơ đã gửi cho Ngân hàng Chính sách xã hội, đề nghị Quý khách hàng đến Chi nhánh Ngân hàng Chính sách xã hội (tỉnh, TP)/Phòng giao dịch Ngân hàng Chính sách xã hội (quận, huyện)..., địa chỉ ……………………………… trong giờ làm việc để nhận lại hồ sơ/.\n\nTrân trọng thông báo!\n\n|  | GIÁM ĐỐC<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_04a-GQVL_8055-NHCS-TDSV-2019_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 614,
+            "source_file": "mauphieu/MAU 04a-GQVL_ 8055-NHCS-TDSV-2019.doc",
+            "file_name": "MAU 04a-GQVL_ 8055-NHCS-TDSV-2019.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:50:04",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

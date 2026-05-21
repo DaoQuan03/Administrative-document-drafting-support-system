@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_01-QT-LNCL-80-2021-TT-BTC_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_01-QT-LNCL-80-2021-TT-BTC",
+        "text": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTỜ KHAI QUYẾT TOÁN LỢI NHUẬN SAU THUẾ CÒN LẠI\n\nSAU KHI TRÍCH LẬP CÁC QUỸ PHẢI NỘP NGÂN SÁCH NHÀ NƯỚC CỦA DOANH NGHIỆP DO NHÀ NƯỚC NẮM GIỮ 100% VỐN ĐIỀU LỆ\n\nÁp dụng đối với: ...(lựa chọn hoạt động phải khai riêng, nếu có)...\n\n[01] Kỳ tính lợi nhuận sau thuế còn lại sau khi trích lập các quỹ: ...\n\nTừ .../ .../ ... đến .../ .../ ...\n\n[02] Lần đầu                         [03] Bổ sung lần thứ:…\n\n[04] Tên người nộp thuế: ...\n\n[05] Mã số thuế:\n\n[06] Tên đại lý thuế (nếu có):...\n\n[07] Mã số thuế:\n\n[08] Hợp đồng đại lý thuế: Số...ngày...\n\nĐơn vị tiền: Đồng Việt Nam",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_01-QT-LNCL-80-2021-TT-BTC_chunk_0002",
+            "char_count": 628,
+            "source_file": "tokhai/MAU SO 01-QT-LNCL-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-QT-LNCL-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:47:04",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_01-QT-LNCL-80-2021-TT-BTC_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_01-QT-LNCL-80-2021-TT-BTC",
+        "text": "[03] Bổ sung lần thứ:…\n\n[04] Tên người nộp thuế: ...\n\n[05] Mã số thuế:\n\n[06] Tên đại lý thuế (nếu có):...\n\n[07] Mã số thuế:\n\n[08] Hợp đồng đại lý thuế: Số...ngày...\n\nĐơn vị tiền: Đồng Việt Nam\n\n| STT | Chỉ tiêu | Mã chỉ tiêu | Số tiền |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| A | Xác định số lợi nhuận sau thuế còn lại sau khi trích lập các quỹ phải nộp ngân sách nhà nước | [09] |  |\n| 1 | Lợi nhuận sau thuế thu nhập doanh nghiệp | [10] |  |\n| 2 | Các khoản phân phối, trích lập các quỹ theo quy định được trừ ([11]=[12]+[13]+…+[16]) | [11] |  |\n| 2.1 | Chia lãi cho các thành viên góp vốn liên kết theo quy định của hợp đồng kinh tế (nếu có) | [12] |  |\n| 2.2 | Bù đắp khoản lỗ của các năm trước đã hết thời hạn được trừ vào lợi nhuận trước thuế | [13] |  |\n| 2.3 | Trích quỹ đầu tư phát triển | [14] |  |\n| 2.4 | Trích quỹ khen thưởng, phúc lợi | [15] |  |\n| 2.5 | Trích quỹ thưởng người quản lý doanh nghiệp, kiểm soát viên | [16] |  |\n| B | Lợi nhuận sau thuế còn lại sau khi trích lập các quỹ phải nộp ([17]=[10]-[11]) | [17] |  |\n| C | Số lợi nhuận sau thuế còn lại nộp thừa kỳ trước chuyển sang kỳ này | [18] |  |\n| D | Số lợi nhuận sau thuế còn lại đã tạm nộp đến thời hạn nộp hồ sơ khai quyết toán | [19] |  |\n| E | Chênh lệch giữa số phải nộp của kỳ tính thuế và số đã tạm nộp đến thời hạn nộp hồ sơ khai quyết toán ([20]=[17]-[19]) | [20] |  |\n| G | Số lợi nhuận sau thuế còn lại còn phải nộp đến thời hạn nộp hồ sơ khai quyết toán ([21]=[17]-[18]-[19]) | [21] |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "tokhai_MAU_SO_01-QT-LNCL-80-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": "tokhai_MAU_SO_01-QT-LNCL-80-2021-TT-BTC_chunk_0003",
+            "char_count": 1493,
+            "source_file": "tokhai/MAU SO 01-QT-LNCL-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-QT-LNCL-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:47:04",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_01-QT-LNCL-80-2021-TT-BTC_chunk_0003",
+        "doc_id": "tokhai_MAU_SO_01-QT-LNCL-80-2021-TT-BTC",
+        "text": "tạm nộp đến thời hạn nộp hồ sơ khai quyết toán ([20]=[17]-[19]) | [20] |  |\n| G | Số lợi nhuận sau thuế còn lại còn phải nộp đến thời hạn nộp hồ sơ khai quyết toán ([21]=[17]-[18]-[19]) | [21] |  |\n\nTôi cam đoan số liệu, tài liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về những số liệu, tài liệu đã khai./.\n\n| NHÂN VIÊN ĐẠI LÝ THUẾ<br>Họ và tên:...<br>Chứng chỉ hành nghề số:... | ..., ngày... tháng... năm...<br>NGƯỜI NỘP THUẾ hoặc <br>ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ<br>(Chữ ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có)/Ký điện tử) |\n| --- | --- |\n\nGhi chú:\n\n1. Tờ khai mẫu số 01/QT-LNCL được mặc định áp dụng đối với hoạt động sản xuất kinh doanh thông thường của người nộp thuế. Trường hợp người nộp thuế có các hoạt động đặc thù “Hoạt động xổ số kiến thiết, xổ số điện toán” thì phải lựa chọn để khai riêng đối với hoạt động đặc thù đó.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "tokhai_MAU_SO_01-QT-LNCL-80-2021-TT-BTC_chunk_0002",
+            "next_chunk_id": "tokhai_MAU_SO_01-QT-LNCL-80-2021-TT-BTC_chunk_0004",
+            "char_count": 864,
+            "source_file": "tokhai/MAU SO 01-QT-LNCL-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-QT-LNCL-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:47:04",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_01-QT-LNCL-80-2021-TT-BTC_chunk_0004",
+        "doc_id": "tokhai_MAU_SO_01-QT-LNCL-80-2021-TT-BTC",
+        "text": "doanh thông thường của người nộp thuế. Trường hợp người nộp thuế có các hoạt động đặc thù “Hoạt động xổ số kiến thiết, xổ số điện toán” thì phải lựa chọn để khai riêng đối với hoạt động đặc thù đó.\n\n2. Chỉ tiêu [18]: NNT kê khai số lợi nhuận sau thuế còn lại nộp thừa kỳ trước chuyển sang bù trừ với số lợi nhuận sau thuế còn lại phải nộp kỳ này.\n\nNguồn: Thông tư 80/2021/TT-BTC",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "tokhai_MAU_SO_01-QT-LNCL-80-2021-TT-BTC_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 378,
+            "source_file": "tokhai/MAU SO 01-QT-LNCL-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-QT-LNCL-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:47:04",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

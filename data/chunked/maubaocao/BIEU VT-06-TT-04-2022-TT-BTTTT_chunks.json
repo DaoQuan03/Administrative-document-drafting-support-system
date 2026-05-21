@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_VT-06-TT-04-2022-TT-BTTTT_chunk_0001",
+        "doc_id": "maubaocao_BIEU_VT-06-TT-04-2022-TT-BTTTT",
+        "text": "| Biểu VT-06 | TỶ LỆ NGƯỜI SỬ DỤNG <br>ĐIỆN THOẠI DI ĐỘNG, MÁY TÍNH,<br> DỊCH VỤ INTERNET (*) | Đơn vị báo cáo: Cục VT |  |\n| --- | --- | --- | --- |\n| Ban hành kèm theo TT số .../2022/TT-BTTTT | TỶ LỆ NGƯỜI SỬ DỤNG <br>ĐIỆN THOẠI DI ĐỘNG, MÁY TÍNH,<br> DỊCH VỤ INTERNET (*) | Đơn vị báo cáo: Cục VT |  |\n| Ban hành kèm theo TT số .../2022/TT-BTTTT | TỶ LỆ NGƯỜI SỬ DỤNG <br>ĐIỆN THOẠI DI ĐỘNG, MÁY TÍNH,<br> DỊCH VỤ INTERNET (*) |  |  |\n| Ngày nhận báo cáo:<br>Trước 15/3 năm tiếp theo | Năm 20… | Đơn vị <br>nhận báo cáo: <br> Vụ KHTC, VP Bộ |  |\n\nĐơn vị tính: %",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_BIEU_VT-06-TT-04-2022-TT-BTTTT_chunk_0002",
+            "char_count": 564,
+            "source_file": "maubaocao/BIEU VT-06-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU VT-06-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:09:24",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_VT-06-TT-04-2022-TT-BTTTT_chunk_0002",
+        "doc_id": "maubaocao_BIEU_VT-06-TT-04-2022-TT-BTTTT",
+        "text": "DỤNG <br>ĐIỆN THOẠI DI ĐỘNG, MÁY TÍNH,<br> DỊCH VỤ INTERNET (*) |  |  |\n| Ngày nhận báo cáo:<br>Trước 15/3 năm tiếp theo | Năm 20… | Đơn vị <br>nhận báo cáo: <br> Vụ KHTC, VP Bộ |  |\n\nĐơn vị tính: %\n\n| TT | Địa bàn | Mã địa bàn | Tỷ lệ người sử dụng điện thoại di động | Tỷ lệ người sở hữu điện thoại di động | Tỷ lệ người sử dụng Internet | Tỷ lệ hộ gia đình kết nối Internet | Tỷ lệ hộ gia đình có máy tính | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| A | B | C | 1 | 2 | 3 | 4 | 5 | 7 |\n|  | CẢ NƯỚC |  |  |  |  |  |  |  |\n| 1 | Hà Nội | 01 |  |  |  |  |  |  |\n| 2 | Hà Giang | 02 |  |  |  |  |  |  |\n| ... | ... | ... |  |  |  |  |  |  |\n| 63 | Cà Mau | 96 |  |  |  |  |  |  |\n\n| TỔNG HỢP, LẬP BIỂU<br>(Thông tin người thực hiện) | KIỂM TRA BIỂU<br>(Thông tin người thực hiện) | Hà Nội, ngày ... tháng ... năm 20...<br>CỤC TRƯỞNG<br>(Ký điện tử) |\n| --- | --- | --- |\n\na) Khái niệm, phương pháp tính",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_BIEU_VT-06-TT-04-2022-TT-BTTTT_chunk_0001",
+            "next_chunk_id": "maubaocao_BIEU_VT-06-TT-04-2022-TT-BTTTT_chunk_0003",
+            "char_count": 928,
+            "source_file": "maubaocao/BIEU VT-06-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU VT-06-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:09:24",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_VT-06-TT-04-2022-TT-BTTTT_chunk_0003",
+        "doc_id": "maubaocao_BIEU_VT-06-TT-04-2022-TT-BTTTT",
+        "text": "tin người thực hiện) | KIỂM TRA BIỂU<br>(Thông tin người thực hiện) | Hà Nội, ngày ... tháng ... năm 20...<br>CỤC TRƯỞNG<br>(Ký điện tử) |\n| --- | --- | --- |\n\na) Khái niệm, phương pháp tính\n\n| (1) | Tỷ lệ người sử dụng điện thoại di động: Là tỷ lệ % giữa số người sử dụng điện thoại di động và dân số tương ứng của kỳ báo cáo. Người sử dụng điện thoại di động là người trong vòng 3 tháng trở về trước tính từ thời điểm khảo sát có sử dụng máy điện thoại di động để thực hiện cuộc gọi, tin nhắn. (Tùy theo yêu cầu quản lý của từng thời kỳ và để đảm bảo mục tiêu so sánh quốc tế, số người sử dụng điện thoại di động được quy định theo độ tuổi và tần suất sử dụng nhất định. Vì vậy phạm vi thu thập số liệu sẽ được quy định cụ thể trong từng phương án điều tra) |\n| --- | --- |\n| (2) | Tỷ lệ người sở hữu điện thoại di động: Là tỷ lệ % giữa số người sở hữu điện thoại di động và dân số tương ứng của kỳ báo cáo. Người sở hữu điện thoại di động là người có thiết bị điện thoại di động và có ít nhất 1 thẻ SIM còn đang hoạt động tại thời điểm khảo sát. |\n| (3) | Tỷ lệ người sử dụng Internet: Là tỷ lệ % giữa số người sử dụng Internet và dân số tương ứng của kỳ báo cáo. Người sử dụng Internet là người trong vòng 3 tháng trở về trước tính từ thời điểm khảo sát có sử dụng Internet để đọc tin tức, gửi nhận thư điện tử, mua hàng trên mạng,... (Tùy theo yêu cầu quản lý của từng thời kỳ và để đảm bảo mục tiêu so sánh quốc tế, số người sử dụng Internet được quy định theo độ tuổi và tần suất sử dụng nhất định. Vì vậy phạm vi thu thập số liệu sẽ được quy định cụ thể trong từng phương án điều tra). |\n| (4) | Tỷ lệ hộ gia đình kết nối Internet: Là tỷ lệ % giữa số hộ gia đình có kết nối Internet và tổng số hộ gia đình tương ứng của kỳ báo cáo. Hộ gia đình có kết nối Internet là hộ gia đình được cung cấp dịch vụ truy nhập Internet. Phạm vi thu thập số liệu và những quy định chi tiết về hộ gia đình có sử dụng Internet được quy định cụ thể trong từng phương án điều tra. |\n| (5) | Tỷ lệ hộ gia đình có máy tính: Là tỷ lệ % giữa số hộ gia đình có máy tính và tổng số hộ gia đình tương ứng của kỳ báo cáo. Hộ có máy tính là hộ có máy để bàn, máy xách tay, máy tính bảng để các thành viên hộ có thể sử dụng. |\n| b) Cách ghi biểu | b) Cách ghi biểu |\n|  | Thông tin, số liệu được ghi theo hướng dẫn cụ thể trên biểu. |\n| c) Nguồn số liệu | c) Nguồn số liệu |\n|  | Điều tra, khảo sát (bao gồm cả điều tra thống kê, điều tra xã hội học,...). |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_BIEU_VT-06-TT-04-2022-TT-BTTTT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 2434,
+            "source_file": "maubaocao/BIEU VT-06-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU VT-06-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:09:24",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

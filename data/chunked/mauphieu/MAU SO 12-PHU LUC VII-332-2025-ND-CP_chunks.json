@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_12-PHU_LUC_VII-332-2025-ND-CP_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_12-PHU_LUC_VII-332-2025-ND-CP",
+        "text": "Mẫu số 12. Phiếu khai báo vật liệu hạt nhân nguồn\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n----------------\n\nPHIẾU KHAI BÁO VẬT LIỆU HẠT NHÂN NGUỒN\n\nI. THÔNG TIN TỔ CHỨC, CÁ NHÂN KHAI BÁO\n\n1. Tên tổ chức, cá nhân:\n\n2. Địa chỉ liên lạc:\n\n3. Số điện thoại: \t\t\t\t4. Số Fax:\n\n5. E-mail:\n\nII. ĐẶC TÍNH VẬT LIỆU\n\n1. Loại vật liệu hạt nhân nguồn:\n\n2. Khối lượng:\n\n3. Thành phần hoá học:\n\n4. Trạng thái vật lý:\n\n5. Nơi lưu giữ, sử dụng:\n\n6. Mục đích sử dụng:\n\n7. Đặc tính của thùng chứa, bình chứa:\n\n| NGƯỜI LẬP PHIẾU<br>(Ký, ghi rõ họ tên) | ..., ngày... tháng... năm...<br>NGƯỜI ĐỨNG ĐẦU TỔ CHỨC/<br>CÁ NHÂN KHAI BÁO<br>(Ký, ghi rõ họ tên, đóng dấu hoặc ký số điện tử) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 700,
+            "source_file": "mauphieu/MAU SO 12-PHU LUC VII-332-2025-ND-CP.doc",
+            "file_name": "MAU SO 12-PHU LUC VII-332-2025-ND-CP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:09:12",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    }
+]

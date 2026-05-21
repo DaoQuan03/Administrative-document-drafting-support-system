@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_04A-PHU_LUC_I-32-2025-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_04A-PHU_LUC_I-32-2025-TT-BYT",
+        "text": "Mẫu số 04A: Phiếu kiểm nghiệm chất lượng vị thuốc cổ truyền/ dược liệu\n\n| Tên đơn vị chủ quản<br>Tên cơ sở kiểm nghiệm<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n\nPHIẾU KIỂM NGHIỆM\n\nSố:\n\nTên mẫu vị thuốc cổ truyền/dược liệu:                                           Tên khoa học:\n\nCơ sở sản xuất:\n\nCơ sở nhập khẩu (đối với vị thuốc cổ truyền/dược liệu nhập khẩu từ nước ngoài):\n\nSố lô:                                    Ngày sản xuất:                               Hạn dùng:\n\nSố giấy đăng ký đăng ký lưu hành hoặc số giấy phép nhập khẩu:\n\nNơi lấy mẫu (gửi mẫu):\n\nNgười lấy mẫu (gửi mẫu):\n\nYêu cầu kiểm nghiệm (ghi rõ nội dung, số, ngày, tháng, năm của biên bản lấy mẫu hoặc giấy tờ kèm theo)\n\nNgày/ tháng/ năm nhận mẫu:\n\nSố đăng ký kiểm nghiệm:\n\nNgười giao mẫu:                                               Người nhận mẫu:\n\nTiêu chuẩn áp dụng:\n\nTình trạng mẫu khi nhận và khi mở niêm phong để kiểm nghiệm:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_04A-PHU_LUC_I-32-2025-TT-BYT_chunk_0002",
+            "char_count": 980,
+            "source_file": "mauphieu/MAU SO 04A-PHU LUC I-32-2025-TT-BYT.doc",
+            "file_name": "MAU SO 04A-PHU LUC I-32-2025-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:57:15",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_04A-PHU_LUC_I-32-2025-TT-BYT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_04A-PHU_LUC_I-32-2025-TT-BYT",
+        "text": "nhận mẫu:\n\nSố đăng ký kiểm nghiệm:\n\nNgười giao mẫu:                                               Người nhận mẫu:\n\nTiêu chuẩn áp dụng:\n\nTình trạng mẫu khi nhận và khi mở niêm phong để kiểm nghiệm:\n\n| Chỉ tiêu chất lượng | Yêu cầu chất lượng | Kết quả và kết luận |\n| --- | --- | --- |\n\n1.\n\n2.\n\n3…\n\nKết luận: (Ghi rõ mẫu vị thuốc cổ truyền/dược liệu /lô vị thuốc cổ truyền/lô dược liệu đạt hay không đạt chỉ tiêu (ghi rõ tên chỉ tiêu) theo tiêu chuẩn chất lượng áp dụng.\n\n|  | ….., ngày….tháng….năm…… <br>Người đứng đầu cơ sở kiểm nghiệm <br>(ký tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_04A-PHU_LUC_I-32-2025-TT-BYT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 575,
+            "source_file": "mauphieu/MAU SO 04A-PHU LUC I-32-2025-TT-BYT.doc",
+            "file_name": "MAU SO 04A-PHU LUC I-32-2025-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:57:15",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    }
+]

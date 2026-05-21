@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_TTCS-01-TT-04-2022-TT-BTTTT_chunk_0001",
+        "doc_id": "maubaocao_BIEU_TTCS-01-TT-04-2022-TT-BTTTT",
+        "text": "| Biểu TTCS-01<br>Ban hành kèm theo TT số……/2022/TT-BTTTT<br><br>Ngày nhận báo cáo: Trước 05/3 năm tiếp theo | MỘT SỐ THÔNG TIN HOẠT ĐỘNG ĐÀI TRUYỀN THANH CẤP XÃ <br> <br> <br>Năm 20… | Đơn vị báo cáo:<br>UBND (cấp xã)<br> <br>Đơn vị nhận báo cáo:<br>Phòng VH&TT, Sở TT&TT |\n| --- | --- | --- |\n\n|  |  |  |  | Mã số |\n| --- | --- | --- | --- | --- |\n| 1 | Tên xã/phường/thị trấn: |  |  |  |\n| 2 | Thuộc huyện/quận/thị xã/thành phố trực thuộc tỉnh: |  |  |  |\n| 3 | Thuộc tỉnh/thành phố trực thuộc Trung ương: |  |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_BIEU_TTCS-01-TT-04-2022-TT-BTTTT_chunk_0002",
+            "char_count": 519,
+            "source_file": "maubaocao/BIEU TTCS-01-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU TTCS-01-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:07:45",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_TTCS-01-TT-04-2022-TT-BTTTT_chunk_0002",
+        "doc_id": "maubaocao_BIEU_TTCS-01-TT-04-2022-TT-BTTTT",
+        "text": "--- | --- | --- | --- | --- |\n| 1 | Tên xã/phường/thị trấn: |  |  |  |\n| 2 | Thuộc huyện/quận/thị xã/thành phố trực thuộc tỉnh: |  |  |  |\n| 3 | Thuộc tỉnh/thành phố trực thuộc Trung ương: |  |  |  |\n\n| TT | TÊN CHỈ TIÊU/NHÓM CHỈ TIÊU | TÊN CHỈ TIÊU/NHÓM CHỈ TIÊU | TÊN CHỈ TIÊU/NHÓM CHỈ TIÊU | TÊN CHỈ TIÊU/NHÓM CHỈ TIÊU | Đơn vị tính | Số lượng | Ghi chú |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| A | B | B | B | B | C | 1 | 2 |  |  |\n| 1 | Đơn vị có đài truyền thanh cấp xã | Đơn vị có đài truyền thanh cấp xã | Đơn vị có đài truyền thanh cấp xã | Đơn vị có đài truyền thanh cấp xã |  |  | Đánh dấu X vào ô phù hợp trên Cột 1 |  |  |\n| 2 | CƠ SỞ VẬT CHẤT, PHƯƠNG TIỆN, MỨC PHỔ CẬP | Công nghệ truyền thanh đài truyền thanh cấp xã có sử dụng | Đài có dây | Đài có dây |  |  |  |  |  |\n| 3 | CƠ SỞ VẬT CHẤT, PHƯƠNG TIỆN, MỨC PHỔ CẬP | Công nghệ truyền thanh đài truyền thanh cấp xã có sử dụng | Đài không dây | Đài không dây |  |  |  |  |  |\n| 4 | CƠ SỞ VẬT CHẤT, PHƯƠNG TIỆN, MỨC PHỔ CẬP | Công nghệ truyền thanh đài truyền thanh cấp xã có sử dụng | Đài cả có dây và không dây | Đài cả có dây và không dây |  |  |  |  |  |\n| 5 | CƠ SỞ VẬT CHẤT, PHƯƠNG TIỆN, MỨC PHỔ CẬP | Công nghệ truyền thanh đài truyền thanh cấp xã có sử dụng | Đài ứng dụng công nghệ thông tin - viễn thông | Đài ứng dụng công nghệ thông tin - viễn thông |  |  |  |  |  |\n| 6 | CƠ SỞ VẬT CHẤT, PHƯƠNG TIỆN, MỨC PHỔ CẬP | Tỷ lệ phủ sóng phát thanh của đài truyền thanh cấp xã | Tỷ lệ phủ sóng phát thanh của đài truyền thanh cấp xã | Tỷ lệ phủ sóng phát thanh của đài truyền thanh cấp xã | % |  |  |  |  |\n| 7 | NHÂN LỰC | Tổng số người làm việc (7= 9+10+11) | Tổng số người làm việc (7= 9+10+11) | Tổng số người làm việc (7= 9+10+11) | Người |  |  |  |  |\n| 8 | NHÂN LỰC | Trong đó nữ | Trong đó nữ | Trong đó nữ | Người |  |  |  |  |\n| 9 | NHÂN LỰC | Tổng số người làm việc chia ra | Kiêm nhiệm | Công chức văn hóa - xã hội | Người |  |  |  |  |\n| 10 | NHÂN LỰC | Tổng số người làm việc chia ra | Kiêm nhiệm | Công chức khác | Người |  |  |  |  |\n| 11 | NHÂN LỰC | Tổng số người làm việc chia ra | Cán bộ không chuyên trách | Cán bộ không chuyên trách | Người |  |  |  |  |\n| 12 | NHÂN LỰC | Trình độ, chuyên ngành đào tạo | Đại học trở lên | Báo chí, tuyên truyền | Người |  |  |  |  |\n| 13 | NHÂN LỰC | Trình độ, chuyên ngành đào tạo | Đại học trở lên | Điện tử - Viễn thông, công nghệ thông tin | Người |  |  |  |  |\n| 14 | NHÂN LỰC | Trình độ, chuyên ngành đào tạo | Đại học trở lên | Ngành khác | Người |  |  |  |  |\n| 15 | NHÂN LỰC | Trình độ, chuyên ngành đào tạo | Cao đẳng trở xuống | Báo chí, tuyên truyền | Người |  |  |  |  |\n| 16 | NHÂN LỰC | Trình độ, chuyên ngành đào tạo | Cao đẳng trở xuống | Điện tử - Viễn thông, công nghệ thông tin | Người |  |  |  |  |\n| 17 | NHÂN LỰC | Trình độ, chuyên ngành đào tạo | Cao đẳng trở xuống | Ngành khác | Người |  |  |  |  |\n| 18 | NHÂN LỰC | Nhu cầu đào tạo, bồi dưỡng trong năm | Nhu cầu đào tạo, bồi dưỡng trong năm | Kỹ năng sản xuất chương trình, biên tập tin, bài | Người |  |  |  |  |\n| 19 | NHÂN LỰC | Nhu cầu đào tạo, bồi dưỡng trong năm | Nhu cầu đào tạo, bồi dưỡng trong năm | Ứng dụng CNTT, sử dụng thiết bị kỹ thuật | Người |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_BIEU_TTCS-01-TT-04-2022-TT-BTTTT_chunk_0001",
+            "next_chunk_id": "maubaocao_BIEU_TTCS-01-TT-04-2022-TT-BTTTT_chunk_0003",
+            "char_count": 3208,
+            "source_file": "maubaocao/BIEU TTCS-01-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU TTCS-01-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:07:45",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_TTCS-01-TT-04-2022-TT-BTTTT_chunk_0003",
+        "doc_id": "maubaocao_BIEU_TTCS-01-TT-04-2022-TT-BTTTT",
+        "text": "biên tập tin, bài | Người |  |  |  |  |\n| 19 | NHÂN LỰC | Nhu cầu đào tạo, bồi dưỡng trong năm | Nhu cầu đào tạo, bồi dưỡng trong năm | Ứng dụng CNTT, sử dụng thiết bị kỹ thuật | Người |  |  |  |  |\n\n| TỔNG HỢP, LẬP BIỂU<br>(Thông tin người thực hiện) | ……, ngày... tháng ... năm 20...<br>CHỦ TỊCH<br>(Ký điện tử) |\n| --- | --- |\n\na) Khái niệm, phương pháp tính\n\nSố lượng nhân lực của đài truyền thanh cấp xã: Là số người làm việc của đài truyền thanh cấp xã của kỳ báo cáo.\n\nTỷ lệ phủ sóng phát thanh của truyền thanh cấp xã: Là tỷ lệ % giữa số lượng hộ dân cư nghe được truyền thanh cấp xã và tổng số hộ dân cư tại địa bàn cấp xã tương ứng của kỳ báo cáo.\n\nb) Cách ghi biểu\n\nPhần thông tin định danh:\n\nMã số đơn vị hành chính cấp tỉnh, cấp huyện, cấp xã: Ghi theo bảng Danh mục và mã số các đơn vị hành chính Việt Nam.\n\nPhần thông tin trên biểu:",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_BIEU_TTCS-01-TT-04-2022-TT-BTTTT_chunk_0002",
+            "next_chunk_id": "maubaocao_BIEU_TTCS-01-TT-04-2022-TT-BTTTT_chunk_0004",
+            "char_count": 847,
+            "source_file": "maubaocao/BIEU TTCS-01-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU TTCS-01-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:07:45",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_TTCS-01-TT-04-2022-TT-BTTTT_chunk_0004",
+        "doc_id": "maubaocao_BIEU_TTCS-01-TT-04-2022-TT-BTTTT",
+        "text": "báo cáo.\n\nb) Cách ghi biểu\n\nPhần thông tin định danh:\n\nMã số đơn vị hành chính cấp tỉnh, cấp huyện, cấp xã: Ghi theo bảng Danh mục và mã số các đơn vị hành chính Việt Nam.\n\nPhần thông tin trên biểu:\n\n| Dòng | Nội dung |\n| --- | --- |\n|  | Các dòng từ dòng 1 đến dòng 20: Ghi thông tin tương ứng liên quan đến đài truyền thanh của xã, phường, thị trấn (viết gọn là xã). |\n| (1) | Đánh dấu X nếu xã có tổ chức Đài truyền thanh cấp xã. Nếu không phải, thì để trống. |\n| (2) | Đánh dấu X nếu đài truyền thanh cấp xã sử dụng công nghệ có dây. Nếu không phải thì để trống. |\n|  | Các Dòng (3), (4), (5): Ghi thông tin tương tự như cách ghi áp dụng đối với Dòng 2. |\n\nc) Nguồn số liệu\n\nTừ dữ liệu hành chính của UBND cấp xã và các thông tin, dữ liệu phục vụ quản lý và vận hành Đài truyền thanh cấp xã.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_BIEU_TTCS-01-TT-04-2022-TT-BTTTT_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 795,
+            "source_file": "maubaocao/BIEU TTCS-01-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU TTCS-01-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:07:45",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

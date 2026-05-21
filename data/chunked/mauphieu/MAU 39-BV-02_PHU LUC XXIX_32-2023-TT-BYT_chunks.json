@@ -1,0 +1,110 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "Cơ sở KB, CB...          PHIẾU NHẬN ĐỊNH – PHÂN LOẠI NGƯỜI BỆNH TẠI KHOA CẤP CỨU\n\nMS: 39/BV1\n\nSố vào viện………...\n\nMã người bệnh ……..\n\nA. THÔNG TIN NGƯỜI BỆNH:\n\nHọ và tên:…………………………………………... Tuổi:...        ⬜ Nam     ⬜ Nữ\n\nPhòng:...     Giường: ...\n\nB. PHẦN NHẬN ĐỊNH - PHÂN LOẠI\n\n1. Ngày đến khám: ... giờ ... ngày .../.../20...\n\n2. Lý do vào viện, vấn đề sức khỏe: ...\n\n3. Kết quả đánh giá:\n\nDấu hiệu sinh tồn, cơ thể\n\n| Thời gian<br>thực hiện | Nhiệt độ | Mạch | Huyết áp | Nhịp<br>thở | Sp02 | BMI | Thang điểm hôn mê<br>Glasgow |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Lần thứ 1: |  |  |  |  |  |  |  |\n| Lần thứ 2: |  |  |  |  |  |  |  |\n\nToàn trạng:                        ⬜ Tốt                   ⬜ Trung bình      ⬜ Xấu\n\nĐau ngực:                          ⬜ Không             ⬜ Có (Đo điện tâm đồ nếu cần thiết)\n\nThang điểm đau:               ...\n\nNguy cơ té ngã :                ⬜ Không             ⬜ Thấp                ⬜ Trung bình         ⬜ Cao",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 6,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0002",
+            "char_count": 984,
+            "source_file": "mauphieu/MAU 39-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 39-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:04:42",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0002",
+        "doc_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "⬜ Không             ⬜ Có (Đo điện tâm đồ nếu cần thiết)\n\nThang điểm đau:               ...\n\nNguy cơ té ngã :                ⬜ Không             ⬜ Thấp                ⬜ Trung bình         ⬜ Cao\n\nTrạng thái tinh thần:          ⬜ Bình thường    ⬜ Lo lắng            ⬜ Ủ rũ                   ⬜ Kích động\n\n⬜ Hung hăng\n\nNồng độ đường huyết:        ... (đo đường huyết nếu cần thiết)\n\nDị ứng:                                ⬜ Không           ⬜ Có: ...\n\nKết quả phân loại mức độ cấp cứu:             ⬜ Loại 1              ⬜ Loại 2                ⬜ Loại 3\n\n⬜ Loại 4              ⬜ Loại 5\n\nNgười bệnh được chuyển đến:                         ⬜ Phòng hồi sức ⬜ Giường cấp cứu ⬜ Khác\n\nNgười bệnh được chuyển đến Khoa khác:      ⬜ Không             ⬜ Có - Ghi rõ và nêu lý do:\n\n...\n\n...\n\nGiờ thực hiện:...:... Họ và tên người thực hiện:...Chữ ký: ...\n\nKết quả phân loại mức độ cấp cứu (Lần 2):   ⬜ Loại 1         ⬜ Loại 2            ⬜ Loại 3\n\n⬜ Loại 4         ⬜ Loại 5",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0003",
+            "char_count": 981,
+            "source_file": "mauphieu/MAU 39-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 39-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:04:42",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0003",
+        "doc_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "thực hiện:...:... Họ và tên người thực hiện:...Chữ ký: ...\n\nKết quả phân loại mức độ cấp cứu (Lần 2):   ⬜ Loại 1         ⬜ Loại 2            ⬜ Loại 3\n\n⬜ Loại 4         ⬜ Loại 5\n\nGiờ thực hiện:... :... Họ và tên người thực hiện:...Chữ ký:...\n\nTHANG PHÂN LOẠI MỨC ĐỘ CẤP CỨU",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0004",
+            "char_count": 277,
+            "source_file": "mauphieu/MAU 39-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 39-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:04:42",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0004",
+        "doc_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "mức độ cấp cứu (Lần 2):   ⬜ Loại 1         ⬜ Loại 2            ⬜ Loại 3\n\n⬜ Loại 4         ⬜ Loại 5\n\nGiờ thực hiện:... :... Họ và tên người thực hiện:...Chữ ký:...\n\nTHANG PHÂN LOẠI MỨC ĐỘ CẤP CỨU\n\n| LOẠI | PHẢN ỨNG | PHÂN LOẠI | DẤU HIỆU LÂM SÀNG<br>(chỉ mang tính chất trình bày) |\n| --- | --- | --- | --- |\n| LOẠI 1 | Đánh giá và điều trị<br>cùng lúc và ngay<br>lập tức | Đe dọa mạng sống ngay lập tức<br>Tình trạng bệnh đe dọa mạng sống (hoặc sắp có nguy cơ xấu) và cần phải có sự can thiệp mạnh mẽ ngay lập tức. | Ngừng tim. Ngừng hô hấp.<br>Nguy cơ ngay lập tức tới đường thở. Nhịp thở < 10 lần/phút.<br>Suy hô hấp cấp.<br>Huyết áp < 80mmHg (người lớn) hoặc trẻ em/trẻ sơ sinh sốc nặng. Không đáp ứng hoặc đáp ứng chỉ với cơn đau (Điểm Glasgow < 9). Co giật liên tục/kéo dài.<br>Quá liều tiêm tĩnh mạch và không phản ứng hoặc giảm thông khí.<br>Rối loạn hành vi nghiêm trọng vối mối đe dọa trực tiếp bạo lực nguy hiểm |\n| LOẠI 2 | Đánh giá và điều trị trong 10 phút (đánh giá và điều trị thường cùng lúc) | Sắp đe dọa tới mạng sống<br>Tình trạng của người bệnh đủ nghiêm trọng hoặc xấu đi nhanh tới nỗi có nguy cơ đe dọa tới mạng sống, hoặc suy hệ thống các bộ phận cơ thể nếu không được điều trị trong vòng 10 phút sau khi tới bệnh viện.<br><br><br>HOẶC<br><br><br>Điều trị có tính quyết định liên quan tới thời gian<br>Khả năng điều trị có tính quyết định liên quan tới thời gian (ví dụ: làm tan huyết khối, giải độc) để thực hiện một tác động đáng kể đến kết quả lâm sàng phụ thuộc vào điều trị bắt đầu trong vòng một vài phút sau khi người bệnh tới Khoa cấp cứu.<br><br><br>HOẶC<br><br><br>Đau rất nghiêm trọng<br>Cần phải giảm cơn đau rất nghiêm trọng trong vòng 10<br>phút. | Nguy cơ đường thở - thở rít hoặc chảy nước dãi và suy kiệt. Suy hô hấp nghiêm trọng.<br>Bệnh lý tuần hoàn máu:<br>• Da lạnh và nổi đốm, tưới máu kém.<br>• Nhịp tim < 50 hoặc >150 (người lớn).<br>• Hạ huyết áp và ảnh hưởng huyết động.<br>• Mất máu nghiêm trọng.<br>Đau ngực có thể liên quan tới tim.<br>Đau nghiêm trọng bất kỳ nguyên nhân nào. Mức đường huyết < 3 mmol/L.<br>Gà gật, giảm phản ứng đối với bất kỳ nguyên nhân nào (Điểm Glasgow  <<br>13).<br>Liệt nửa người cấp/chứng bất lực ngôn ngữ. Sốt có dấu hiệu hôn mê (mọi lứa tuổi).<br>Nghi ngờ nhiễm trùng huyết do não mô cầu. Axit hoặc kiềm bắn vào mắt cần phải rửa mắt.<br>Đa chấn thương nghiêm trọng (cần phản ứng nhanh của nhân viên y tế). Chấn thương khu trú nghiêm trọng - nứt xương nặng.<br>Tiền sử nguy cơ cao:<br>• Nhiễm độc nguy hiểm/nặng do động vật cắn.<br>• Đau nghiêm trọng có thể do nghẽn mạch phổi, phình động mạch chủ<br>bụng. |",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0003",
+            "next_chunk_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0005",
+            "char_count": 2646,
+            "source_file": "mauphieu/MAU 39-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 39-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:04:42",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0005",
+        "doc_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "thương khu trú nghiêm trọng - nứt xương nặng.<br>Tiền sử nguy cơ cao:<br>• Nhiễm độc nguy hiểm/nặng do động vật cắn.<br>• Đau nghiêm trọng có thể do nghẽn mạch phổi, phình động mạch chủ<br>bụng. |\n\n| LOẠI | PHẢN ỨNG | PHÂN LOẠI | DẤU HIỆU LÂM SÀNG<br>(chỉ mang tính chất trình bày) |\n| --- | --- | --- | --- |\n|  |  |  | Hành vi/tâm thần:<br>• Hung hăng hoặc gây hấn.<br>• Đe dọa ngay lập tức cho bản thân hoặc người khác.<br>• Yêu cầu hoặc đã yêu cầu kiềm chế.<br>• Kích động nặng hoặc gây hấn. |\n| LOẠI 3 | Đánh giá và điều trị<br>trong vòng 30 phút | Có khả năng đe dọa tới mạng sống<br>Tình trạng của người bệnh có thể đe dọa tới tính mạng hoặc các chi hoặc có thể dẫn đến tình trạng bệnh nặng, nếu đánh giá và điều trị không được bắt đầu trong vòng 30 phút sau khi người bệnh đến.<br><br><br>HOẶC<br>Tình huống khẩn cấp<br>Có thể mang lại kết quả bất lợi nếu điều trị có tính quyết<br>định liên quan tới thời gian không được bắt đầu trong vòng<br>30 phút sau khi người bệnh đến.<br>HOẶC<br>Đau, khó chịu nghiêm trọng<br>Cần phải giảm cơn đau rất nghiêm trọng trong vòng 30<br>phút. | Tăng huyết áp nghiêm trọng.<br>Mất máu nghiêm trọng - bất kỳ nguyên nhân gây khó thở vừa. SpO2: 90 - 95%.<br>Mức đường huyết >16 mmol/L.<br>Co giật (hiện đã tỉnh).<br>Sốt nếu bị ức chế miễn dịch ví dụ người bệnh ung thư, điều trị steroid. Nôn mửa kéo dài.<br>Bị mất nước.<br>Chấn thương đầu bị mất ý thức trong thời gian ngắn - hiện đã tỉnh. Đau nặng vừa - bất kỳ nguyên nhân nào - cần dùng thuốc giảm đau. Đau ngực có thể không liên quan tới tim và mức độ vừa.<br>Đau bụng không có các biểu hiện nguy cơ cao - đau vừa tới nghiêm trọng hoặc người bệnh > 65 tuổi.<br>Tổn thương chi mức độ vừa - biến dạng, rách nghiêm trọng, dập nát. Chi - thay đổi cảm giác, trụy mạch cấp.<br>Chấn thương - tiền sử nguy cơ cao mà không có biểu hiện nguy cơ cao khác.<br>Trẻ sơ sinh ổn định.<br>Trẻ có nguy cơ bị ngược đãi/chấn thương nghi ngờ không phải do ngẫu nhiên<br>Hành vi/tâm thần:<br>• Rất đau đớn, nguy cơ tự làm tổn thương.<br>• Loạn thần cấp hoặc rối loạn tư tưởng.<br>• Khủng hoảng tình huống, cố ý tự làm tổn thương.<br>• Kích động/lãnh đạm.<br>• Có thể hung hăng. |",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0004",
+            "next_chunk_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0006",
+            "char_count": 2195,
+            "source_file": "mauphieu/MAU 39-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 39-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:04:42",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0006",
+        "doc_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "Rất đau đớn, nguy cơ tự làm tổn thương.<br>• Loạn thần cấp hoặc rối loạn tư tưởng.<br>• Khủng hoảng tình huống, cố ý tự làm tổn thương.<br>• Kích động/lãnh đạm.<br>• Có thể hung hăng. |\n\n| LOẠI | PHẢN ỨNG | PHÂN LOẠI | DẤU HIỆU LÂM SÀNG<br>(chỉ mang tính chất trình bày) |\n| --- | --- | --- | --- |\n| LOẠI 4 | Đánh giá và Điều trị trong 45 phút | Có thể nghiêm trọng<br>Tình trạng của người bệnh có thể xấu đi hoặc dẫn tới kết quả bất lợi, nếu không bắt đầu đánh giá và điều trị trong vòng 1 giờ khi tới Khoa cấp cứu.<br>Các triệu chứng ở mức độ vừa phải hoặc kéo dài.<br>HOẶC<br>Có thể có kết quả bất lợi nếu điều trị có tính quyết định liên quan tới thời gian không bắt đầu trong vòng 1 giờ.<br>HOẶC<br>Phức tạp hoặc mức độ nghiêm trọng đáng kể<br>Có thể cần khám chẩn đoán và tư vấn phức tạp và/hoặc nhập viện để xử trí.<br>HOẶC<br>Đau và khó chịu nhiều<br>Cần phải giảm cơn đau rất nghiêm trọng trong vòng 45<br>phút. | Xuất huyết nhẹ.<br>Hít dị vật vào đường hô hấp, không suy hô hấp.<br>Chấn thương ngực mà không đau xương sườn hoặc suy hô hấp. Khó nuốt, không suy hô hấp.<br>Chấn thương đều nhẹ, không mất ý thức.<br>Đau vừa phải, một số đặc điểm nguy cơ. Nôn hoặc tiêu chảy nhưng không mất nước.<br>Viêm mắt hoặc có dị vật trong mắt thị lực bình thường.<br>Chấn thương nhẹ ở chi - mắt cá chân bị bong gân, có thể gãy xương, vết rách không phức tạp đòi hỏi phải can thiệp sinh hiệu bình thường, đau ít/ vừa.<br>Bó bột chặt, không suy thần kinh - mạch. Khớp sưng đỏ.<br>Đau bụng không đặc hiệu. Hành vi/ tâm thần:<br>• Bệnh tâm thần bán cấp.<br>• Đang được theo dõi và/hoặc không có nguy cơ ngay lập tức cho bản thân <br>hay người khác. |\n| LOẠI 5 | Đánh giá và điều trị<br>trong 60 phút | Ít khẩn cấp<br>Tình trạng của người bệnh là mạn tính hoăc nhẹ mà triệu chứng hay kết quả lâm sàng sẽ không bị ảnh hưởng đáng kể nếu đánh giá và điều trị chậm trễ sau 01 - 02 giờ từ khi người bệnh đến.<br>HOẶC<br>Vấn đề liên quan tới lâm sàng - hành chính.<br>Chỉ kiểm tra kết quả, giấy xác nhận y khoa, đơn thuốc. | Đau rất nhẹ không có đặc điểm nguy cơ cao.<br>Tiền sử nguy cơ thấp và hiện không có triệu chứng bệnh. Triệu chứng nhẹ của bệnh ổn định hiện tại.<br>Triệu chứng nhẹ của bệnh có nguy cơ thấp.<br>Các vết thương nhỏ, trầy xước nhỏ, vết rách nhỏ (không cần khâu).<br>Lên lịch khám lại ví dụ: khám vết thương, thay băng vết thương phức tạp. Do tiêm chủng.<br>Hành vi/tâm thần:<br>• Người bệnh được biết đến với các triệu chứng mạn tính.<br>• Người bệnh khỏe mạnh về mặt lâm sàng hay bị khủng hoảng xã hội. |",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_MAU_39-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0005",
+            "next_chunk_id": null,
+            "char_count": 2579,
+            "source_file": "mauphieu/MAU 39-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 39-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:04:42",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

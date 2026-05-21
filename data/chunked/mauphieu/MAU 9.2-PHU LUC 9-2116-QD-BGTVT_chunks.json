@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_9_2-PHU_LUC_9-2116-QD-BGTVT_chunk_0001",
+        "doc_id": "mauphieu_MAU_9_2-PHU_LUC_9-2116-QD-BGTVT",
+        "text": "Mẫu 9.2. Phiếu đề nghị cấp Chứng thư số cho cá nhân\n\n| BỘ GIAO THÔNG VẬN TẢI<br>… (Tên cơ quan đề nghị)…<br>--------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n\nPHIẾU ĐỀ NGHỊ CẤP CHỨNG THƯ SỐ CHO CÁ NHÂN\n\nKính gửi: Văn phòng Bộ\n\nĐể thực hiện các quy định về quản lý, sử dụng văn bản điện tử của Bộ Giao thông vận tải,……(tên cơ quan đề nghị)… đề nghị Văn phòng Bộ làm thủ tục cấp Chứng thư số cho các ông/bà đang công tác tại ……(tên cơ quan đề nghị)… , cụ thể như sau:\n\n| STT | Họ tên | Ngày sinh | Số CMND/ Hộ chiếu/ ngày cấp/ nơi cấp | Địa chỉ thư điện tử | Tên cơ quan, đơn vị | Tỉnh/ Thành phố | Chức vụ | Số điện thoại<br>di động | Số chứng thư số cũ (nếu có) | Đăng ký<br>Sim PKI |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1. |  |  |  |  |  |  |  |  |  |  |\n| 2. |  |  |  |  |  |  |  |  |  |  |\n| 3. |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_9_2-PHU_LUC_9-2116-QD-BGTVT_chunk_0002",
+            "char_count": 927,
+            "source_file": "mauphieu/MAU 9.2-PHU LUC 9-2116-QD-BGTVT.doc",
+            "file_name": "MAU 9.2-PHU LUC 9-2116-QD-BGTVT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:08:47",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_9_2-PHU_LUC_9-2116-QD-BGTVT_chunk_0002",
+        "doc_id": "mauphieu_MAU_9_2-PHU_LUC_9-2116-QD-BGTVT",
+        "text": "Đăng ký<br>Sim PKI |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1. |  |  |  |  |  |  |  |  |  |  |\n| 2. |  |  |  |  |  |  |  |  |  |  |\n| 3. |  |  |  |  |  |  |  |  |  |  |\n\n|  | THỦ TRƯỞNG CƠ QUAN, ĐƠN VỊ<br>(Ký và ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_9_2-PHU_LUC_9-2116-QD-BGTVT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 273,
+            "source_file": "mauphieu/MAU 9.2-PHU LUC 9-2116-QD-BGTVT.doc",
+            "file_name": "MAU 9.2-PHU LUC 9-2116-QD-BGTVT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:08:47",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_04A-165-2025-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_04A-165-2025-ND-CP",
+        "text": "Mẫu số 04a\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\n…., ngày ... tháng ... năm ...\n\nTHÔNG BÁO CHẤM DỨT\nCHUYỂN, XỬ LÝ DỮ LIỆU XUYÊN BIÊN GIỚI\n\nKính gửi: Trung tâm Dữ liệu Quốc gia - Bộ Công an.\n\nThực hiện quy định của Luật Dữ liệu về dữ liệu cốt lõi, dữ liệu quan trọng, kính gửi Bộ Công an Thông báo chấm dứt chuyển, xử lý dữ liệu xuyên biên giới, như sau:\n\n1. Thông tin về người gửi hồ sơ\n\n- Tên cá nhân:……………………………………………………………….\n\n- Địa chỉ:……………………………………………………………………..\n\nSố CMTND/Thẻ căn cước công dân/Hộ chiếu………………………………\n\ncấp ngày …../…../…….. tại ..………………………………………………..\n\n- Số điện thoại:……………………………………………………………….\n\n- Email:………………………………………………………………………..\n\n- Đơn vị công tác (nếu có):…………………………………………………….\n\n2. Hồ sơ đánh giá tác động chuyển, xử lý dữ liệu xuyên biên giới gửi ngày …../…./…..\n\nSố giấy tiếp nhận hồ sơ:………………………………………………..\n\n3. Thời gian chấm dứt chuyển, xử lý dữ liệu xuyên biên giới:……./……./…….\n\n- Thời gian xóa, hủy dữ liệu tại bên nhận:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_04A-165-2025-ND-CP_chunk_0002",
+            "char_count": 994,
+            "source_file": "thongbao/MAU SO 04A-165-2025-ND-CP.doc",
+            "file_name": "MAU SO 04A-165-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:45:39",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_04A-165-2025-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_04A-165-2025-ND-CP",
+        "text": "xuyên biên giới gửi ngày …../…./…..\n\nSố giấy tiếp nhận hồ sơ:………………………………………………..\n\n3. Thời gian chấm dứt chuyển, xử lý dữ liệu xuyên biên giới:……./……./…….\n\n- Thời gian xóa, hủy dữ liệu tại bên nhận:\n\n4. Tài liệu kèm theo:\n\n…………………………………………………………………………………..\n\n…………………………………………………………………………………..\n\n…………………………………………………………………………………..\n\n5. Cam kết\n\nTôi xin cam kết: Chịu trách nhiệm trước pháp luật về tính chính xác và tính hợp pháp của Thông báo chấm dứt chuyển, xử lý dữ liệu xuyên biên giới và tài liệu kèm theo./.\n\n| Nơi nhận:<br>- Như trên;<br>… | NGƯỜI GỬI HỒ SƠ<br>(Ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_04A-165-2025-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 599,
+            "source_file": "thongbao/MAU SO 04A-165-2025-ND-CP.doc",
+            "file_name": "MAU SO 04A-165-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:45:39",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_3-4365-QD-BVHTTDL_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_3-4365-QD-BVHTTDL",
+        "text": "Phụ lục 3\n\n| BỘ VĂN HÓA, THỂ THAO VÀ DU LỊCH <br>VĂN PHÒNG BỘ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số:………/……… | ………., ngày………. tháng……. năm…….. |\n\nPHIẾU TIẾP NHẬN YÊU CẦU CUNG CẤP THÔNG TIN [1]\n\nVăn phòng Bộ Văn hóa, Thể thao và Du lịch tiếp nhận Phiếu yêu cầu của\n\nÔng/Bà[2]: ...\n\nSố CMTND/Thẻ căn cước công dân/Hộ chiếu: ... ...\n\ncấp ngày……… /……… / tại: ………. ...\n\nNơi cư trú: ………. ... ...\n\nSố điện thoại: ……...…Fax: ……… Email: ……...….\n\nYêu cầu cung cấp văn bản/hồ sơ/tài liệu: ………. ... ... ...\n\n... ... ...\n\nHình thức cung cấp thông tin: ………. ... ...\n\nVăn bản kèm theo Phiếu yêu cầu cung cấp thông tin gồm[3]:\n\n1 ... ...\n\n2 ………...\n\n3 ………. ... ...\n\nVào Sổ theo dõi cung cấp thông tin theo yêu cầu, Quyền số:.../năm…….\n\nSố thứ tự………\n\n|  | NGƯỜI TIẾP NHẬN PHIẾU <br>(Ký và ghi rõ họ tên) |\n| --- | --- |\n\n___",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_3-4365-QD-BVHTTDL_chunk_0002",
+            "char_count": 887,
+            "source_file": "mauphieu/PHU LUC 3-4365-QD-BVHTTDL.doc",
+            "file_name": "PHU LUC 3-4365-QD-BVHTTDL.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:37:24",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_3-4365-QD-BVHTTDL_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_3-4365-QD-BVHTTDL",
+        "text": "... ...\n\n2 ………...\n\n3 ………. ... ...\n\nVào Sổ theo dõi cung cấp thông tin theo yêu cầu, Quyền số:.../năm…….\n\nSố thứ tự………\n\n|  | NGƯỜI TIẾP NHẬN PHIẾU <br>(Ký và ghi rõ họ tên) |\n| --- | --- |\n\n___\n\n[1] Phiếu tiếp nhận yêu cầu cung cấp thông tin được lập thành 2 bản; một bản lưu tại cơ quan/đơn vị đầu mối cung cấp thông tin, một bản giao cho cá nhân, tổ chức yêu cầu cung cấp thông tin.\n\n[2] Tên của người đại diện trong trường hợp cung cấp thông tin cho công dân thông qua tổ chức, đoàn thể, doanh nghiệp.\n\n[3] Là những văn bản kèm theo trong trường hợp cung cấp thông tin có điều kiện.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_3-4365-QD-BVHTTDL_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 584,
+            "source_file": "mauphieu/PHU LUC 3-4365-QD-BVHTTDL.doc",
+            "file_name": "PHU LUC 3-4365-QD-BVHTTDL.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:37:24",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

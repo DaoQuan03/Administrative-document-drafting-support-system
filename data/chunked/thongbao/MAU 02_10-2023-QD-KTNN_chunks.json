@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_02_10-2023-QD-KTNN_chunk_0001",
+        "doc_id": "thongbao_MAU_02_10-2023-QD-KTNN",
+        "text": "Mẫu số 02\n\n| KIỂM TOÁN NHÀ NƯỚC<br>-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>------------ |\n| --- | --- |\n| Số: …/TB-… | ……., ngày … tháng … năm … |\n\nTHÔNG BÁO\n\nVề việc không thụ lý giải quyết khiếu nại\n\nKính gửi: ………………(1)………………\n\nNgày … tháng … năm ……, Kiểm toán nhà nước nhận được đơn khiếu nại của ……………………………………………(1)……………………………………………… .\n\nĐịa chỉ: …………………………………………………………………………… .\n\nSố CMND/ Hộ chiếu/ Thẻ căn cước công dân: ………………..; Ngày cấp:………...; Nơi cấp:…………………………………………………….(nếu người khiếu nại là cá nhân).\n\nKhiếu nại về việc: ... (2)……………………………\n\nSau khi xem xét nội dung đơn khiếu nại của ….(1)….., căn cứ quy định tại Điều 11 của Luật Khiếu nại ngày 11 tháng 11 năm 2011 và các quy định của Luật Kiểm toán nhà nước, Luật sửa đổi, bổ sung một số điều của Luật Kiểm toán nhà nước…, Kiểm toán nhà nước nhận thấy, đơn khiếu nại của...(1)... không đủ điều kiện để thụ lý giải quyết vì lý do sau đây:\n\n...  (3)…………………………...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_02_10-2023-QD-KTNN_chunk_0002",
+            "char_count": 968,
+            "source_file": "thongbao/MAU 02_10-2023-QD-KTNN.doc",
+            "file_name": "MAU 02_10-2023-QD-KTNN.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:13:17",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_02_10-2023-QD-KTNN_chunk_0002",
+        "doc_id": "thongbao_MAU_02_10-2023-QD-KTNN",
+        "text": "sửa đổi, bổ sung một số điều của Luật Kiểm toán nhà nước…, Kiểm toán nhà nước nhận thấy, đơn khiếu nại của...(1)... không đủ điều kiện để thụ lý giải quyết vì lý do sau đây:\n\n...  (3)…………………………...\n\nVậy thông báo để ...  (1)... ……………..được biết./.\n\n| Nơi nhận:<br>- Như trên;<br>- ….(4)….;<br>- Lưu: VT, hồ sơ. | TL. TỔNG KIỂM TOÁN NHÀ NƯỚC<br>THỦ TRƯỞNG ĐƠN VỊ CHỦ TRÌ CUỘC KIỂM TOÁN<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\nGhi chú:\n\n(1) Tên đơn vị được kiểm toán, cơ quan, tổ chức, cá nhân khiếu nại.\n\n(2) Ghi tóm tắt nội dung khiếu nại.\n\n(3) Ghi rõ lý do không thụ lý giải quyết khiếu nại.\n\n(4) Tên cơ quan, tổ chức, đơn vị, cá nhân có liên quan.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_02_10-2023-QD-KTNN_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 660,
+            "source_file": "thongbao/MAU 02_10-2023-QD-KTNN.doc",
+            "file_name": "MAU 02_10-2023-QD-KTNN.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:13:17",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

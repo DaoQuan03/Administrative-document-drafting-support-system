@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_20-PHU_LUC_I-34-2025-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_20-PHU_LUC_I-34-2025-ND-CP",
+        "text": "Mẫu số 20\n\n| CỤC HÀNG HẢI VIỆT NAM<br>CẢNG VỤ HÀNG HẢI…….<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: …./TBHH-………. | ……, ngày …. tháng … năm …. |\n\nTHÔNG BÁO HÀNG HẢI\n\nVề việc tạm ngừng hoạt động ………………….\n\nVùng biển: ……………………………………………………………………………\n\nTên luồng: ………………………………………………………………….(nếu có).\n\nTên báo hiệu: ……………………………………………………………………….\n\nTọa độ địa lý:\n\n| Hệ VN-2000 | Hệ VN-2000 | Hệ WGS-84 | Hệ WGS-84 |\n| --- | --- | --- | --- |\n| Vĩ độ | Kinh độ | Vĩ độ | Kinh độ |\n|  |  |  |  |\n\nCăn cứ…………………………………………………………………………….\n\nCảng vụ Hàng hải ... thông báo ...đã tạm ngừng hoạt động từ ngày ……………..\n\nHƯỚNG DẪN HÀNG HẢI (NẾU CẦN)",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_20-PHU_LUC_I-34-2025-ND-CP_chunk_0002",
+            "char_count": 702,
+            "source_file": "thongbao/MAU SO 20-PHU LUC I-34-2025-ND-CP.doc",
+            "file_name": "MAU SO 20-PHU LUC I-34-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:04:10",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_20-PHU_LUC_I-34-2025-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_20-PHU_LUC_I-34-2025-ND-CP",
+        "text": "--- |\n| Vĩ độ | Kinh độ | Vĩ độ | Kinh độ |\n|  |  |  |  |\n\nCăn cứ…………………………………………………………………………….\n\nCảng vụ Hàng hải ... thông báo ...đã tạm ngừng hoạt động từ ngày ……………..\n\nHƯỚNG DẪN HÀNG HẢI (NẾU CẦN)\n\n| Nơi nhận:<br>- Cục Hàng hải Việt Nam (để b/c);<br>- Các Cảng vụ hàng hải ...;<br>- Tổng Công ty Bảo đảm An toàn hàng hải...;<br>- Tổ chức hoa tiêu hàng hải...;<br>- Công ty TNHH MTV Thông tin điện tử hàng hải Việt Nam;<br>- Website Cảng vụ hàng hải...;<br>- ……………………………… | ……………………………<br>Người có thẩm quyền ký, đóng dấu |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_20-PHU_LUC_I-34-2025-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 539,
+            "source_file": "thongbao/MAU SO 20-PHU LUC I-34-2025-ND-CP.doc",
+            "file_name": "MAU SO 20-PHU LUC I-34-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:04:10",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

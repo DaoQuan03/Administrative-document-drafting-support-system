@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_31-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_31-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "MS: 31/BV2\n\nPHIẾU PHẪU THUẬT BỀ MẶT NHÃN CẦU\n\n- Họ, tên người bệnh: …………………………………… . Tuổi: …      Nam            Nữ\n\n- Ngày vào viện: ……../……../20………Ngày, giờ phẫu thuật:…….giờ. ngày………/…../20……\n\n- Chẩn đoán trước phẫu thuật: ……………………………………………………………………….\n\n- Chỉ định phẫu thuật:  MP           MT         …………………………………………………………\n\n- Phẫu thuật viên chính: ………………………….……Phẫu thuật viên phụ: ….…………………\n\n- Bác sĩ gây mê: ……………………………...\n\nMÔ TẢ PHẪU THUẬT\n\n- Phương pháp vô cảm:  Mê          Tê              CNC, bề mặt         Loại thuốc tê: ………………..ml",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_31-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0002",
+            "char_count": 545,
+            "source_file": "mauphieu/MAU 31-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 31-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:04:20",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_31-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0002",
+        "doc_id": "mauphieu_MAU_31-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "chính: ………………………….……Phẫu thuật viên phụ: ….…………………\n\n- Bác sĩ gây mê: ……………………………...\n\nMÔ TẢ PHẪU THUẬT\n\n- Phương pháp vô cảm:  Mê          Tê              CNC, bề mặt         Loại thuốc tê: ………………..ml\n\n| Lược đồ phẫu thuật | Trình tự phẫu thuật |\n| --- | --- |\n|  | + Cố định mi:   Vành mi                 Chỉ cơ trực<br><br>+ Gọt tổ chức tổn thương:  KM                 GM<br><br> Kích thước: ... mm                Toàn bộ NC<br><br> Độ sâu:     1/3          1/2         3/4          khác<br><br> Đặc điểm:  Tổ chức xơ                     Hoại   tử<br><br>+ Tách dính mi cầu:  Trên          Dưới         Trong          Ngoài           Toàn bộ<br><br>+ Ghép màng ối: Kích thước:  ... mm<br><br> Vị trí:  GM:      Một phần                      Toàn bộ<br><br>CM: Trên        Duới         Trong        Ngoài           Toàn bộ nhãn cầu<br><br> Hình thức:  1lớp       2lớp        3lớp            Khác<br><br>+ Ghép KM rìa:     Tự thân                            Khác<br><br>* Vị trí:           Một phần                Toàn bộ            Kích thước: ... mm<br><br>+ Kỹ thuật khâu:  Mũi rời              Liên tục<br><br>Loại chỉ khâu:       Nylon                 Prolene              Tiêu               Khác<br><br>Cỡ chỉ:                      10.0                       9.0                8.0                Khác<br><br> PT phối hợp:Rửa mủ TP                                 Cắt bè<br><br>Lấy T3       Ngoài bao         Phaco          Đặt IOL Đặt khuôn                          Khâu cò mi<br>Mô tả:  ...<br>...<br>...<br> Thuốc tiêm:... thuốc   tra: ...<br><br> Băng che:                                                     Băng ép: |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_31-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_31-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0003",
+            "char_count": 1637,
+            "source_file": "mauphieu/MAU 31-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 31-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:04:20",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_31-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0003",
+        "doc_id": "mauphieu_MAU_31-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "IOL Đặt khuôn                          Khâu cò mi<br>Mô tả:  ...<br>...<br>...<br> Thuốc tiêm:... thuốc   tra: ...<br><br> Băng che:                                                     Băng ép: |\n\nNgày... tháng ... năm...\n\nPhẫu thuật viên\n\n(Ký, ghi rõ họ tên)\n\nHọ và tên...",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_31-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 275,
+            "source_file": "mauphieu/MAU 31-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 31-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:04:20",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

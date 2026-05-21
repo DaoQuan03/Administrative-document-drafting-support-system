@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_B4-95-2023-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_B4-95-2023-ND-CP",
+        "text": "Mẫu B4\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n-----------------\n\n...(1)..., ngày … tháng …. năm….\n\nTHÔNG BÁO\n\nVề khoản thu, mục đích sử dụng khoản thu từ việc tổ chức lễ hội tín ngưỡng\n\nKính gửi:…………………(2)……………………..\n\nTên cơ sở tín ngưỡng (chữ in hoa):...\n\nĐịa chỉ:...\n\nNgười đại diện(3):\n\n- Họ và tên:...\n\n- Số CMTND/CCCD:...\n\nThông báo về khoản thu, mục đích sử dụng khoản thu với nội dung sau:\n\n| TT | Tên lễ hội | Khoản thu(4) | Tổng khoản thu | Mục đích sử dụng khoản thu | Ghi chú |\n| --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |\n| 2 |  |  |  |  |  |\n| ... |  |  |  |  |  |\n| n |  |  |  |  |  |\n\n|  | NGƯỜI ĐẠI DIỆN(3)<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\n(1) Địa danh nơi có cơ sở tín ngưỡng.\n\n(2) Ủy ban nhân dân cấp xã nơi tổ chức lễ hội đối với lễ hội tín ngưỡng có quy mô tổ chức trong một xã; Ủy ban nhân dân cấp tỉnh nơi tổ chức lễ hội đối với lễ hội tín ngưỡng có quy mô tổ chức trong nhiều xã trên địa bàn tỉnh.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_B4-95-2023-ND-CP_chunk_0002",
+            "char_count": 965,
+            "source_file": "thongbao/MAU B4-95-2023-ND-CP.doc",
+            "file_name": "MAU B4-95-2023-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:28:55",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_B4-95-2023-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_B4-95-2023-ND-CP",
+        "text": "nơi tổ chức lễ hội đối với lễ hội tín ngưỡng có quy mô tổ chức trong một xã; Ủy ban nhân dân cấp tỉnh nơi tổ chức lễ hội đối với lễ hội tín ngưỡng có quy mô tổ chức trong nhiều xã trên địa bàn tỉnh.\n\n(3) Trường hợp cơ sở tín ngưỡng có ban quản lý thì người thay mặt ban quản lý ký bản thông báo.\n\n(4) Ghi rõ số tiền của từng khoản thu.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_B4-95-2023-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 335,
+            "source_file": "thongbao/MAU B4-95-2023-ND-CP.doc",
+            "file_name": "MAU B4-95-2023-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:28:55",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

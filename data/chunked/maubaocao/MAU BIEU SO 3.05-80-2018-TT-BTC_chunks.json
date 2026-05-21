@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_3_05-80-2018-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_BIEU_SO_3_05-80-2018-TT-BTC",
+        "text": "Mẫu biểu số 3.05\n\nCơ quan thực hiện: ... (Cơ quan được ủy quyền cho vay lại không chịu rủi ro)\n\nTHỰC HIỆN TRẢ NỢ TRỰC TIẾP CHO NƯỚC NGOÀI\n\nKỳ báo cáo: từ ngày ... đến ngày ...\n\n| TÊN DỰ ÁN | Loại tiền | Trả nợ trực tiếp nước ngoài theo nguyên tệ | Trả nợ trực tiếp nước ngoài theo nguyên tệ | Trả nợ trực tiếp nước ngoài theo nguyên tệ | Trả nợ trực tiếp nước ngoài theo nguyên tệ | Quy USD | Quy VND |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| TÊN DỰ ÁN | Loại tiền | Gốc | Lãi | Phí | Cộng | Quy USD | Quy VND |\n| TÊN DỰ ÁN | A | 1 | 2 | 3 | 4 | 5 | 6 |\n| TỔNG CỘNG<br>Chính phủ nước ngoài<br>Nước ….<br>Dự án …..<br>Tổ chức quốc tế<br>Tổ chức<br>Dự án …..<br>Các TCTD, NHTM<br>Ngân hàng...<br>Dự án …..<br>Tổ chức khác (nếu có)<br>Tên tổ chức ...<br>Dự án….. | - |  |  |  |  |  |  |\n\nGhi chú:\n\n- Các cột quy USD, VNĐ: Áp dụng tỷ giá bán ra đồng tiền cho vay lại do Ngân hàng thương mại cổ phần Ngoại thương công bố tại thời điểm trả nợ",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_BIEU_SO_3_05-80-2018-TT-BTC_chunk_0002",
+            "char_count": 948,
+            "source_file": "maubaocao/MAU BIEU SO 3.05-80-2018-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 3.05-80-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:21:06",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_3_05-80-2018-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_BIEU_SO_3_05-80-2018-TT-BTC",
+        "text": "chức ...<br>Dự án….. | - |  |  |  |  |  |  |\n\nGhi chú:\n\n- Các cột quy USD, VNĐ: Áp dụng tỷ giá bán ra đồng tiền cho vay lại do Ngân hàng thương mại cổ phần Ngoại thương công bố tại thời điểm trả nợ\n\n|  | ……, Ngày ….. tháng …… năm…. |\n| --- | --- |\n| NGƯỜI LẬP BIỂU | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký tên, đóng dấu) |\n\nNguồn: Thông tư 80/2018/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_BIEU_SO_3_05-80-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 340,
+            "source_file": "maubaocao/MAU BIEU SO 3.05-80-2018-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 3.05-80-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:21:06",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

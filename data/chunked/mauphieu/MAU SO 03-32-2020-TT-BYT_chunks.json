@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-32-2020-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_03-32-2020-TT-BYT",
+        "text": "Mẫu số 03\n\n| TÊN ĐƠN VỊ CHỦ QUẢN<br>TÊN CƠ QUAN TIẾP NHẬN<br>-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ….…/…. | ..., ngày... tháng... năm 20... |\n\nPHIẾU TIẾP NHẬN\n\nHỒ SƠ CÔNG BỐ ĐÁP ỨNG\n\nĐỦ TIÊU CHUẨN CHẾ BIẾN, BÀO CHẾ THUỐC CỔ TRUYỀN\n\nSố: /năm/ĐKCB\n\n1. Đơn vị nộp:\n\n………………………….………………………….…………………………………….\n\n2. Địa chỉ đơn vị nộp hồ sơ (trường hợp nộp hồ sơ qua đường bưu điện):\n\n3. Hình thức nộp: Trực tiếp □ Bưu điện □\n\nNộp lần đầu□ Nộp bổ sung lần ……(2)….□\n\n4. Số, ngày tháng năm văn bản của đơn vị (nếu có): ……………………………………………..\n\n5. Danh mục tài liệu (3): ………………………….………………………….…………………………\n\n|  | NGƯỜI NHẬN HỒ SƠ<br>(Ký và ghi rõ họ tên) |\n| --- | --- |\n\nGhi chú:\n\n(1) Số tiếp nhận hồ sơ\n\n(2) Ghi lần bổ sung hồ sơ.\n\n(3) Các tài liệu tương ứng\n\n- Giấy phép hoạt động của cơ sở khám bệnh, chữa bệnh bằng y học cổ truyền ;",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_03-32-2020-TT-BYT_chunk_0002",
+            "char_count": 896,
+            "source_file": "mauphieu/MAU SO 03-32-2020-TT-BYT.doc",
+            "file_name": "MAU SO 03-32-2020-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:50:11",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-32-2020-TT-BYT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_03-32-2020-TT-BYT",
+        "text": "ghi rõ họ tên) |\n| --- | --- |\n\nGhi chú:\n\n(1) Số tiếp nhận hồ sơ\n\n(2) Ghi lần bổ sung hồ sơ.\n\n(3) Các tài liệu tương ứng\n\n- Giấy phép hoạt động của cơ sở khám bệnh, chữa bệnh bằng y học cổ truyền ;\n\n- Bản công bố đáp ứng đủ điều kiện chế biến, bào chế thuốc cổ truyền quy định tại Mẫu số 01 Phụ lục IV ban hành kèm theo Thông tư này;\n\n- Báo cáo hoạt động bào chế, chế biến thuốc cổ truyền theo Mẫu số 02 Phụ lục IV ban hành kèm theo Thông tư này;\n\nNguồn: Thông tư 32/2020/TT-BYT",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_03-32-2020-TT-BYT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 478,
+            "source_file": "mauphieu/MAU SO 03-32-2020-TT-BYT.doc",
+            "file_name": "MAU SO 03-32-2020-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:50:11",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

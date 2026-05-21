@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_PL1-PDXNV-822-QD-BHXH_chunk_0001",
+        "doc_id": "mauphieu_MAU_PL1-PDXNV-822-QD-BHXH",
+        "text": "PL1-PĐXNV\n\nPHIẾU ĐỀ XUẤT NHIỆM VỤ KH&CN CẤP ...\n\nNăm...\n\n1. Tổ chức, cá nhân đề xuất:\n\n2. Tên nhiệm vụ KH&CN thứ nhất:\n\n- Hình thức thực hiện (chương trình, đề tài, đề án):\n\n- Mục tiêu của nhiệm vụ:\n\n- Tính cấp thiết và tính mới:\n\n- Các nội dung chính và kết quả dự kiến:\n\n- Dự kiến hiệu quả:\n\n- Địa chỉ ứng dụng dự kiến:\n\n- Dự kiến thời gian thực hiện (thời gian bắt đầu, thời gian kết thúc):\n\n- Dự kiến kinh phí thực hiện (mong muốn dự kiến của chuyên gia):\n\n- Dự kiến tổ chức chủ trì thực hiện:\n\n3. Tên nhiệm vụ KH&CN thứ hai:\n\n|  | ..., ngày ... tháng... năm…….<br>TỔ CHỨC, CÁ NHÂN ĐỀ XUẤT<br> (Ký, họ tên, đóng dấu (nếu có)) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 645,
+            "source_file": "mauphieu/MAU PL1-PDXNV-822-QD-BHXH.doc",
+            "file_name": "MAU PL1-PDXNV-822-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:28:29",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_4h-102-2024-ND-CP_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_4h-102-2024-ND-CP",
+        "text": "Mẫu số 04h. Phiếu chuyển thông tin địa chính thửa đất\n\n| ...1...<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>------------ |\n| --- | --- |\n| Số:……….. | …………, ngày ... tháng ... năm …. |\n\nPHIẾU CHUYỂN THÔNG TIN ĐỊA CHÍNH THỬA ĐẤT\n\nKính gửi: ………2\n\nI. THÔNG TIN CHUNG VỀ NGƯỜI SỬ DỤNG ĐẤT\n\n1. Tên:…………………\n\n2. Địa chỉ: …………………\n\n3. Số địa chỉ liên hệ…………………Email (nếu có): …………\n\n4. Mã số thuế (nếu có): …………………\n\n5. Giấy tờ nhân thân/pháp nhân:…..số…ngày cấp…nơi cấp……\n\n6. Loại thủ tục cần xác định nghĩa vụ tài chính: …………………\n\nII. THÔNG TIN VỀ THỬA ĐẤT\n\n(Tương tự nội dung ghi trong Quyết định giao đất/cho thuê đất/chuyển mục đích sử dụng đất/gia hạn sử dụng đất/điều chỉnh quyết định...)\n\n1. Thửa đất số…………………tờ bản đồ số…………………\n\n2. Địa chỉ tại: ……………………………………\n\n3. Giá đất: ……………………………………\n\n- Giá đất theo bảng giá: …………………\n\n- Giá đất cụ thể: ……………………….\n\n- Giá trúng đấu giá: ……………………\n\n4. Diện tích……………………………………\n\n5. Mục đích sử dụng đất: ………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_4h-102-2024-ND-CP_chunk_0002",
+            "char_count": 983,
+            "source_file": "mauphieu/MAU SO 4h-102-2024-ND-CP.doc",
+            "file_name": "MAU SO 4h-102-2024-ND-CP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:19:48",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_4h-102-2024-ND-CP_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_4h-102-2024-ND-CP",
+        "text": "Giá đất: ……………………………………\n\n- Giá đất theo bảng giá: …………………\n\n- Giá đất cụ thể: ……………………….\n\n- Giá trúng đấu giá: ……………………\n\n4. Diện tích……………………………………\n\n5. Mục đích sử dụng đất: ………………………\n\n6. Thời hạn sử dụng đất…………………\n\n- Ổn định lâu dài\n\n- Có thời hạn….năm từ ngày……/………/……đến ngày…/……/…\n\n- Gia hạn….năm từ ngày……/………/……đến ngày……/……/………\n\n7. Thời điểm bắt đầu sử dụng: từ ngày……/……/………\n\n8. Hình thức sử dụng đất: …………………\n\n9. Những giấy tờ kèm theo (nếu có) …………………\n\nIII. THÔNG TIN CỤ THỂ XÁC ĐỊNH NGHĨA VỤ TÀI CHÍNH ĐỐI VỚI TRƯỜNG HỢP THUÊ ĐẤT ĐỂ XÂY DỰNG CÔNG TRÌNH NGẦM TRONG LÒNG ĐẤT, THUÊ ĐẤT CÓ MẶT NƯỚC\n\n1. Đối với thuê đất để xây dựng công trình ngầm trong lòng đất (không phải là phần ngầm của công trình xây dựng trên mặt đất và không phải là đất xây dựng công trình trên mặt đất phục vụ cho việc vận hành, khai thác sử dụng công trình ngầm):\n\n- Diện tích đất:…………….m2\n\n- Giá đất tính tiền thuê đất:……………….\n\n2. Đối với thuê đất có mặt nước:\n\n- Diện tích đất: ……………….m2",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_SO_4h-102-2024-ND-CP_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_SO_4h-102-2024-ND-CP_chunk_0003",
+            "char_count": 974,
+            "source_file": "mauphieu/MAU SO 4h-102-2024-ND-CP.doc",
+            "file_name": "MAU SO 4h-102-2024-ND-CP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:19:48",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_4h-102-2024-ND-CP_chunk_0003",
+        "doc_id": "mauphieu_MAU_SO_4h-102-2024-ND-CP",
+        "text": "mặt đất phục vụ cho việc vận hành, khai thác sử dụng công trình ngầm):\n\n- Diện tích đất:…………….m2\n\n- Giá đất tính tiền thuê đất:……………….\n\n2. Đối với thuê đất có mặt nước:\n\n- Diện tích đất: ……………….m2\n\n- Diện tích mặt nước: ……………….m2\n\n- Giá đất để tính tiền thuê đất của phần diện tích đất: ………………\n\n|  | CƠ QUAN CÓ CHỨC NĂNG QUẢN LÝ ĐẤT ĐAI<br>GIÁM ĐỐC<br>(Ký và ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\n___\n\n1 Tên cơ quan có chức năng quản lý đất đai\n\n2 Tên cơ quan thuế có thẩm quyền",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_SO_4h-102-2024-ND-CP_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 482,
+            "source_file": "mauphieu/MAU SO 4h-102-2024-ND-CP.doc",
+            "file_name": "MAU SO 4h-102-2024-ND-CP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:19:48",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

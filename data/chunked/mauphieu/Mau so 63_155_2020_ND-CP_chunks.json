@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_Mau_so_63_155_2020_ND-CP_chunk_0001",
+        "doc_id": "mauphieu_Mau_so_63_155_2020_ND-CP",
+        "text": "Mẫu số 63\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\n..., ngày... tháng... năm...\n\nPHIẾU YÊU CẦU CUNG CẤP THÔNG TIN ĐĂNG KÝ\nBIỆN PHÁP BẢO ĐẢM\n\nKính gửi: - Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam;\n\n- Thành viên lưu ký...\n\n1. Phương thức nhận kết quả cung cấp thông tin\n\n□ Trực tiếp tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam\n\n□ Qua đường bưu điện (theo tên và địa chỉ kê khai tại mục 2 đơn này)\n\n□ Văn bản điện tử qua hệ thống đăng ký biện pháp bảo đảm trực tuyến (nếu gửi phiếu yêu cầu qua thành viên lưu ký).\n\n2. Người yêu cầu cung cấp thông tin\n\n- Tên đầy đủ: (viết chữ in hoa)...\n\n- Số Chứng minh nhân dân/Căn cước công dân/Hộ Chiếu/Giấy chứng nhận Đăng ký doanh nghiệp/...\n\n- Ngày cấp:...\n\n- Địa chỉ...\n\n3. Nội dung yêu cầu cung cấp thông tin:...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_Mau_so_63_155_2020_ND-CP_chunk_0002",
+            "char_count": 796,
+            "source_file": "mauphieu/Mau so 63_155_2020_ND-CP.doc",
+            "file_name": "Mau so 63_155_2020_ND-CP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:21:05",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_Mau_so_63_155_2020_ND-CP_chunk_0002",
+        "doc_id": "mauphieu_Mau_so_63_155_2020_ND-CP",
+        "text": "đầy đủ: (viết chữ in hoa)...\n\n- Số Chứng minh nhân dân/Căn cước công dân/Hộ Chiếu/Giấy chứng nhận Đăng ký doanh nghiệp/...\n\n- Ngày cấp:...\n\n- Địa chỉ...\n\n3. Nội dung yêu cầu cung cấp thông tin:...\n\n(Ghi rõ thông tin: Tên đầy đủ, số Chứng minh nhân dân/Căn cước công dân/Hộ chiếu/Giấy chứng nhận Đăng ký doanh nghiệp, ngày cấp... của bên đảm bảo hoặc bên nhận đảm bảo và mã chứng khoán muốn được cung cấp).\n\n4. Kèm theo phiếu yêu cầu gồm có:\n\n...\n\n|  | CÁ NHÂN/TỔ CHỨC/CƠ QUAN <br>Ký, ghi rõ họ tên, chức vụ và đóng dấu (nếu có) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_Mau_so_63_155_2020_ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 543,
+            "source_file": "mauphieu/Mau so 63_155_2020_ND-CP.doc",
+            "file_name": "Mau so 63_155_2020_ND-CP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:21:05",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

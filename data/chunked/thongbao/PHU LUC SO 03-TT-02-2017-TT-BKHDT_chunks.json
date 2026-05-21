@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_PHU_LUC_SO_03-TT-02-2017-TT-BKHDT_chunk_0001",
+        "doc_id": "thongbao_PHU_LUC_SO_03-TT-02-2017-TT-BKHDT",
+        "text": "Phụ lục 3\n\n| (TÊN CƠ QUAN ĐĂNG KÝ ĐẦU TƯ)<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ………………….. | ……………….., ngày …… tháng …… năm ….. |\n\nTHÔNG BÁO\n\nVề việc sửa đổi, bổ sung hồ sơ đăng ký đầu tư, đăng ký doanh nghiệp\n\n| Kính gửi: | (Tên Nhà đầu tư/ Tên doanh nghiệp)<br>Địa chỉ:<br>Mã số dự án /Mã số doanh nghiệp (nếu có): |\n| --- | --- |\n\n(Tên cơ quan đăng ký đầu tư) ……………………………………………………………………\n\nĐịa chỉ trụ sở: ………………………………………………………………………………………\n\nĐiện thoại: …………………………………………… Fax: ………………………………………\n\nEmail: ………………………………………………… Website: …………………………………\n\nTrên cơ sở thống nhất ý kiến giữa cơ quan đăng ký đầu tư và cơ quan đăng ký kinh doanh, sau khi xem xét hồ sơ mã số: …………………………. đã nhận ngày... tháng... năm……… của Ông/Bà: …………………………………về việc: ……………………………………………………….\n\n(Tên cơ quan đăng ký đầu tư) đề nghị những nội dung cần sửa đổi, bổ sung trong hồ sơ và lý do sửa đổi, bổ sung như sau: ……………………………………………………………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_PHU_LUC_SO_03-TT-02-2017-TT-BKHDT_chunk_0002",
+            "char_count": 994,
+            "source_file": "thongbao/PHU LUC SO 03-TT-02-2017-TT-BKHDT.doc",
+            "file_name": "PHU LUC SO 03-TT-02-2017-TT-BKHDT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:31:55",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_PHU_LUC_SO_03-TT-02-2017-TT-BKHDT_chunk_0002",
+        "doc_id": "thongbao_PHU_LUC_SO_03-TT-02-2017-TT-BKHDT",
+        "text": "việc: ……………………………………………………….\n\n(Tên cơ quan đăng ký đầu tư) đề nghị những nội dung cần sửa đổi, bổ sung trong hồ sơ và lý do sửa đổi, bổ sung như sau: ……………………………………………………………………………\n\n……………………………………………………………………………………………………………\n\nNgày (Tên cơ quan đăng ký đầu tư) nhận được tài liệu sửa đổi, bổ sung theo yêu cầu nói trên được tính là ngày nhận hồ sơ.\n\n| Nơi nhận:<br>- Như trên;<br>- Phòng ĐKKD tỉnh/thành phố…….;<br>- Lưu: ………… | CƠ QUAN ĐĂNG KÝ ĐẦU TƯ<br>(Ký, ghi họ tên và đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_PHU_LUC_SO_03-TT-02-2017-TT-BKHDT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 496,
+            "source_file": "thongbao/PHU LUC SO 03-TT-02-2017-TT-BKHDT.doc",
+            "file_name": "PHU LUC SO 03-TT-02-2017-TT-BKHDT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:31:55",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

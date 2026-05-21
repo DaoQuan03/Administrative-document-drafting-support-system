@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_21-PHU_LUC_II-85-2025-TT-BNNMT_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_21-PHU_LUC_II-85-2025-TT-BNNMT",
+        "text": "Mẫu số 21\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nTHÔNG BÁO\n\nHoạt động trao đổi, tặng cho mẫu vật loài nguy cấp, quý, hiếm được ưu tiên bảo vệ\n\nKính gửi: …………………………….………………………………\n\nI. THÔNG TIN CHUNG VỀ TỔ CHỨC, CÁ NHÂN THỰC HIỆN HOẠT ĐỘNG TRAO ĐỔI, TẶNG CHO\n\n1. Tổ chức/cá nhân đề nghị chuyển giao\n\n- Đối với tổ chức: tên đầy đủ, địa chỉ, điện thoại; số đăng ký kinh doanh/giấy chứng nhận đăng ký đầu tư hoặc quyết định thành lập (ngày cấp, nơi cấp).\n\n- Đối với cá nhân: họ và tên, điện thoại; Số, ngày cấp, nơi cấp Căn cước công dân/Căn cước/Căn cước điện tử/Hộ chiếu/Mã định danh cá nhân:\n\n2. Tổ chức/cá nhân tiếp nhận\n\n- Đối với tổ chức: tên đầy đủ, địa chỉ, điện thoại; số đăng ký kinh doanh/giấy chứng nhận đăng ký đầu tư hoặc quyết định thành lập (ngày cấp, nơi cấp).\n\n- Đối với cá nhân: họ và tên, điện thoại; Số, ngày cấp, nơi cấp Căn cước công dân/Căn cước/Căn cước điện tử/Hộ chiếu/Mã định danh cá nhân:\n\nII. THÔNG TIN VỀ LOÀI TRAO ĐỔI, TẶNG CHO",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_21-PHU_LUC_II-85-2025-TT-BNNMT_chunk_0002",
+            "char_count": 996,
+            "source_file": "thongbao/MAU SO 21-PHU LUC II-85-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 21-PHU LUC II-85-2025-TT-BNNMT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:04:56",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_21-PHU_LUC_II-85-2025-TT-BNNMT_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_21-PHU_LUC_II-85-2025-TT-BNNMT",
+        "text": "cấp, nơi cấp).\n\n- Đối với cá nhân: họ và tên, điện thoại; Số, ngày cấp, nơi cấp Căn cước công dân/Căn cước/Căn cước điện tử/Hộ chiếu/Mã định danh cá nhân:\n\nII. THÔNG TIN VỀ LOÀI TRAO ĐỔI, TẶNG CHO\n\n| STT | Tên loài | Tên loài | Số lượng | Đơn vị tính5 | Nguồn gốc | Thời gian dự kiến trao đổi, tặng cho |\n| --- | --- | --- | --- | --- | --- | --- |\n| STT | Tên tiếng Việt | Tên khoa học | Số lượng | Đơn vị tính5 | Nguồn gốc | Thời gian dự kiến trao đổi, tặng cho |\n| 1 |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |\n\n|  | Địa điểm…, ngày .… tháng … năm …<br>Ký tên<br>(Tổ chức: ghi rõ họ, tên, chức vụ của người đại diện và đóng dấu; cá nhân: ghi rõ họ, tên) |\n| --- | --- |\n\n___\n\n5 Đơn vị tính của động vật là số cá thể; đơn vị tính của thực vật là cây, trường hợp không xác định được chính xác số cây thì tính theo cụm/ khóm hoặc m2 hoặc héc ta.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_21-PHU_LUC_II-85-2025-TT-BNNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 893,
+            "source_file": "thongbao/MAU SO 21-PHU LUC II-85-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 21-PHU LUC II-85-2025-TT-BNNMT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:04:56",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

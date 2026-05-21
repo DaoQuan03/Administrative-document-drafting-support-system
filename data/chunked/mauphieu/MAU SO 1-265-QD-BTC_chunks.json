@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_1-265-QD-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_1-265-QD-BTC",
+        "text": "Mẫu số 1\n\n| Số phiếu | PHIẾU TIẾP NHẬN YÊU CẦU<br>…...(Lưu tại nơi tiếp nhận) |\n| --- | --- |\n\nNgày tiếp nhận :    /   /200…\n\nNgười tiếp nhận yêu cầu: …...\n\nNgười yêu cầu :  …...\n\nThuộc đơn vị :  …...Phòng : …...\n\nLoại thiết bị : …...\n\nNội dung yêu cầu : …...\n\nNgười nhận xử lý : …... Điện thoại :\n\nNgày hoàn thành (dự kiến):    /    /200…  Ngày hoàn thành:   /   /200…",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 369,
+            "source_file": "mauphieu/MAU SO 1-265-QD-BTC.doc",
+            "file_name": "MAU SO 1-265-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:06:26",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    }
+]

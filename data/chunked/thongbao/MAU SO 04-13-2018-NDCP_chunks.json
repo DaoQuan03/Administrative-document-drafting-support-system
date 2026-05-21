@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_04-13-2018-NDCP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_04-13-2018-NDCP",
+        "text": "Mẫu số 04\n\n| TÊN CƠ QUAN<br>ĐƠN VỊ ĐẦU MỐI1<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số:……../……… | …………, ngày………… tháng…….. năm……… |\n\nTHÔNG BÁO\nGIA HẠN CUNG CẤP THÔNG TIN\n\nKính gửi:……………………………………………………………………………\n\nTên cơ quan/đơn vị đầu mối cung cấp thông tin: ……………………………………………\n\nNhận được Phiếu yêu cầu của Ông/Bà2: …………………………………………………….\n\nSố CMTND/Thẻ căn cước công dân/Hộ chiếu…………………………………………………………. cấp ngày…….. / …………/... tại ………………………………………………………\n\nNơi cư trú: …………………………………………………………………………………………\n\nSố điện thoại:……………………….. Fax………………….. Email: …………………………..\n\nYêu cầu cung cấp văn bản/hồ sơ/tài liệu:………………………………………………………\n\nNgày/tháng/năm nhận Phiếu yêu cầu: …………………………………………………………\n\nCơ quan/Đơn vị đầu mối cung cấp thông tin thông báo về việc gia hạn cung cấp thông tin do Ông/Bà yêu cầu vì lý do………………………………………………………………\n\nThời gian gia hạn cung cấp thông tin:……………………………………………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_04-13-2018-NDCP_chunk_0002",
+            "char_count": 956,
+            "source_file": "thongbao/MAU SO 04-13-2018-NDCP.doc",
+            "file_name": "MAU SO 04-13-2018-NDCP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:43:15",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_04-13-2018-NDCP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_04-13-2018-NDCP",
+        "text": "quan/Đơn vị đầu mối cung cấp thông tin thông báo về việc gia hạn cung cấp thông tin do Ông/Bà yêu cầu vì lý do………………………………………………………………\n\nThời gian gia hạn cung cấp thông tin:……………………………………………………………\n\nThời gian cung cấp thông tin sau khi gia hạn: …………………………………………………\n\n|  | THỦ TRƯỞNG CƠ QUAN/ĐƠN VỊ ĐẦU MỐI CUNG CẤP THÔNG TIN<br>(Ký, ghi rõ họ tên, đóng dấu cơ quan/đơn vị đầu mối cung cấp thông tin3) |\n| --- | --- |\n\n___\n\n1 Trường hợp cơ quan cung cấp thông tin phân công đơn vị đầu mối.\n\n2 Tên của người đại diện trong trường hợp cung cấp thông tin cho công dân thông qua tổ chức, đoàn thể, doanh nghiệp.\n\n3 Trường hợp đơn vị đầu mối cung cấp thông tin không có con dấu riêng thì sử dụng con dấu của cơ quan cung cấp thông tin.\n\nNguồn: Nghị định 13/2018/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_04-13-2018-NDCP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 759,
+            "source_file": "thongbao/MAU SO 04-13-2018-NDCP.doc",
+            "file_name": "MAU SO 04-13-2018-NDCP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:43:15",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

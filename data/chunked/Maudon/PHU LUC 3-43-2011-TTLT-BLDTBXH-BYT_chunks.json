@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_PHU_LUC_3-43-2011-TTLT-BLDTBXH-BYT_chunk_0001",
+        "doc_id": "Maudon_PHU_LUC_3-43-2011-TTLT-BLDTBXH-BYT",
+        "text": "PHỤ LỤC 3\n\nMẪU ĐƠN ĐỀ NGHỊ CẤP, GIA HẠN GIẤY PHÉP HOẠT ĐỘNG CAI NGHIỆN MA TÚY\n(Ban hành kèm theo Thông tư liên tịch số 43/2011/TTLT/BLĐTBXH-BYT ngày 31 tháng 12 năm 2011 của Bộ Lao động - Thương binh và Xã hội, Bộ Y tế)\n\n| TÊN CƠ QUAN CHỦ QUẢN (1)<br>Tên cơ sở cai nghiện (2)<br>---------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | (3)….., ngày … tháng … năm … |\n\nĐƠN ĐỀ NGHỊ CẤP (GIA HẠN) GIẤY PHÉP\nHOẠT ĐỘNG CAI NGHIỆN MA TÚY (4)\n\n| Kính gửi: | - Bộ Lao động - Thương binh và Xã hội<br>- Sở Lao động - Thương binh và Xã hội (5)……… |\n| --- | --- |\n\n1. Tên cơ sở cai nghiện (2):...\n\n2. Tên giao dịch (nếu có):...\n\n3. Điện thoại……………………………..Fax………………..E-mail...\n\n4. Quyết định thành lập Cơ sở cai nghiện số … ngày … tháng … năm … của (6)...\n\n...\n\n5. Tài khoản tại Ngân hàng (nếu có):...\n\n- Tiền Việt Nam:\n\n- Ngoại tệ:\n\n6. Họ và tên người đứng đầu Cơ sở cai nghiện:...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_PHU_LUC_3-43-2011-TTLT-BLDTBXH-BYT_chunk_0002",
+            "char_count": 932,
+            "source_file": "Maudon/PHU LUC 3-43-2011-TTLT-BLDTBXH-BYT.doc",
+            "file_name": "PHU LUC 3-43-2011-TTLT-BLDTBXH-BYT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:54:22",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_PHU_LUC_3-43-2011-TTLT-BLDTBXH-BYT_chunk_0002",
+        "doc_id": "Maudon_PHU_LUC_3-43-2011-TTLT-BLDTBXH-BYT",
+        "text": "định thành lập Cơ sở cai nghiện số … ngày … tháng … năm … của (6)...\n\n...\n\n5. Tài khoản tại Ngân hàng (nếu có):...\n\n- Tiền Việt Nam:\n\n- Ngoại tệ:\n\n6. Họ và tên người đứng đầu Cơ sở cai nghiện:...\n\nĐề nghị cấp (gia hạn) giấy phép hoạt động cai nghiện ma túy với nội dung hoạt động là (7) ...\n\n...\n\nCơ sở cai nghiện cam kết thực hiện đầy đủ trách nhiệm theo đúng quy định hiện hành của Nhà nước.\n\n|  | Giám đốc hoặc Người đứng đầu Cơ sở cai nghiện<br>(Ký tên, đóng dấu và ghi rõ họ tên) |\n| --- | --- |\n\n___\n\n1. Tên cơ quan quyết định thành lập Cơ sở cai nghiện ma túy tự nguyện\n\n2. Tên đầy đủ của Cơ sở cai nghiện\n\n3. Ghi địa danh hành chính cấp tỉnh, thành phố nơi đóng trụ sở chính của cơ sở.\n\n4. Khi xin cấp giấy phép thì chỉ ghi xin cấp giấy phép hoạt động cai nghiện ma túy.\n\n5. Ghi địa danh hành chính cấp tỉnh, thành phố.\n\n6. Tên cơ quan ra quyết định thành lập Cơ sở cai nghiện.\n\n7. Ghi phạm vi hoạt động theo quy định tại Nghị định 147/2003/NĐ-CP , Nghị định 94/2011/NĐ-CP hoặc Thông tư này.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_PHU_LUC_3-43-2011-TTLT-BLDTBXH-BYT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 999,
+            "source_file": "Maudon/PHU LUC 3-43-2011-TTLT-BLDTBXH-BYT.doc",
+            "file_name": "PHU LUC 3-43-2011-TTLT-BLDTBXH-BYT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:54:22",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

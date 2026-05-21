@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_19-PHU_LUC_I-34-2025-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_19-PHU_LUC_I-34-2025-ND-CP",
+        "text": "Mẫu số 19\n\n| CỤC HÀNG HẢI VIỆT NAM<br>CẢNG VỤ HÀNG HẢI…….<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: …./TBHH-………. | ……, ngày …. tháng … năm …. |\n\nTHÔNG BÁO HÀNG HẢI\n\nVề việc thay đổi ………….\n\nVùng biển: ………………………………………………………………………………\n\nTên luồng: …………………………………………………………………………(nếu có)\n\nTên báo hiệu: ……………………………………………………………………………….\n\nTọa độ địa lý:\n\n| Hệ VN-2000 | Hệ VN-2000 | Hệ WGS-84 | Hệ WGS-84 |\n| --- | --- | --- | --- |\n| Vĩ độ | Kinh độ | Vĩ độ | Kinh độ |\n|  |  |  |  |\n\nCăn cứ …………………………………………………………………………………..\n\nCảng vụ Hàng hải\t………………………………..thông báo thay đổi:……….như sau:\n\n- Vị trí: …………………………………………………………………………………..\n\n- Tọa độ địa lý:\n\n| Hệ VN-2000 | Hệ VN-2000 | Hệ WGS-84 | Hệ WGS-84 |\n| --- | --- | --- | --- |\n| Vĩ độ | Kinh độ | Vĩ độ | Kinh độ |\n|  |  |  |  |\n\n- Tác dụng: ……………………………………………………………………………………….\n\n1. Báo hiệu thị giác\n\na) Đặc tính nhận biết ban ngày\n\n- Hình dạng: ……………………………………………………………………….",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_19-PHU_LUC_I-34-2025-ND-CP_chunk_0002",
+            "char_count": 996,
+            "source_file": "thongbao/MAU SO 19-PHU LUC I-34-2025-ND-CP.doc",
+            "file_name": "MAU SO 19-PHU LUC I-34-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:03:09",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_19-PHU_LUC_I-34-2025-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_19-PHU_LUC_I-34-2025-ND-CP",
+        "text": "|\n| Vĩ độ | Kinh độ | Vĩ độ | Kinh độ |\n|  |  |  |  |\n\n- Tác dụng: ……………………………………………………………………………………….\n\n1. Báo hiệu thị giác\n\na) Đặc tính nhận biết ban ngày\n\n- Hình dạng: ……………………………………………………………………….\n\n- Màu sắc: ………………………………………………………………………..\n\n- Dấu hiệu đỉnh: ……………………………………………………..(nếu có).\n\n- Số hiệu (Chữ hiệu): ………………………………………………(nếu có).\n\n- Chiều cao toàn bộ: ……m, tính đến…………………………………………….\n\n- Chiều cao công trình: ... m, tính đến mặt đất (dành riêng cho báo hiệu cố định).\n\n- Chiều rộng trung bình:\t ………………….m (dành riêng cho báo hiệu cố định).\n\n- Tầm nhìn địa lý: …………………..hải lý với chiều cao của mắt người quan sát bằng ...m.\n\nb) Đặc tính ánh sáng ban đêm\n\n- Đặc tính ánh sáng: …………………………………………………………\n\n- Phạm vi chiếu sáng: ………………………………………………………..\n\n- Chiều cao tâm sáng: …………m, tính đến………………………………..\n\n- Tầm hiệu lực ánh sáng: ……………hải lý với hệ số truyền quang của khí quyển T=0,74\n\n2. Báo hiệu vô tuyến điện:\n\na) Racon:\n\n- Dải tần hoạt động: ………………………………………………………………",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "thongbao_MAU_SO_19-PHU_LUC_I-34-2025-ND-CP_chunk_0001",
+            "next_chunk_id": "thongbao_MAU_SO_19-PHU_LUC_I-34-2025-ND-CP_chunk_0003",
+            "char_count": 978,
+            "source_file": "thongbao/MAU SO 19-PHU LUC I-34-2025-ND-CP.doc",
+            "file_name": "MAU SO 19-PHU LUC I-34-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:03:09",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_19-PHU_LUC_I-34-2025-ND-CP_chunk_0003",
+        "doc_id": "thongbao_MAU_SO_19-PHU_LUC_I-34-2025-ND-CP",
+        "text": "…………m, tính đến………………………………..\n\n- Tầm hiệu lực ánh sáng: ……………hải lý với hệ số truyền quang của khí quyển T=0,74\n\n2. Báo hiệu vô tuyến điện:\n\na) Racon:\n\n- Dải tần hoạt động: ………………………………………………………………\n\n- Mã tín hiệu nhận dạng: …………………………………………………………\n\n- Chu kỳ hoạt động: ……………………………………………………………..\n\n- Tầm hiệu lực: ... hải lý với radar có công suất phát ...kW, chiều cao ăng ten radar…….m.\n\nb) Báo hiệu hàng hải AIS:\n\n- Loại báo hiệu hàng hải AIS: ………………………………………………………..\n\n- Dải tần hoạt động: ………………………………………………………………….\n\n- Số nhận dạng (MMSI):\t……………………………………………………………\n\n- Tần suất phát thông tin: ………………………………………………………….\n\n- Tầm hiệu lực: ………………………………………………………………………..\n\n- Thông tin truyền phát về báo hiệu hàng hải: ………………………………………..\n\n3. Báo hiệu âm thanh\n\n- Cường độ phát âm: …………………………………………………………………..\n\n- Tần số phát âm: ………………………………………………………………………..\n\n- Mã tín hiệu phát âm: ………………………………………………………………….\n\n- Chu kỳ phát âm: ……………………………………………………………………",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "thongbao_MAU_SO_19-PHU_LUC_I-34-2025-ND-CP_chunk_0002",
+            "next_chunk_id": "thongbao_MAU_SO_19-PHU_LUC_I-34-2025-ND-CP_chunk_0004",
+            "char_count": 945,
+            "source_file": "thongbao/MAU SO 19-PHU LUC I-34-2025-ND-CP.doc",
+            "file_name": "MAU SO 19-PHU LUC I-34-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:03:09",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_19-PHU_LUC_I-34-2025-ND-CP_chunk_0004",
+        "doc_id": "thongbao_MAU_SO_19-PHU_LUC_I-34-2025-ND-CP",
+        "text": "Cường độ phát âm: …………………………………………………………………..\n\n- Tần số phát âm: ………………………………………………………………………..\n\n- Mã tín hiệu phát âm: ………………………………………………………………….\n\n- Chu kỳ phát âm: ……………………………………………………………………\n\n- Tầm hiệu lực âm phát: …………………………………hải lý với tốc độ gió cấp 1.\n\nGhi chú: Các đặc tính khác của báo hiệu không thay đổi (tham khảo Thông báo hàng hải số…………ngày………………)\n\nHƯỚNG DẪN HÀNG HẢI (NẾU CẦN)\n\n…………………………………………..…………………………………………………………\n\n| Nơi nhận:<br>- Cục Hàng hải Việt Nam (để b/c);<br>- Các Cảng vụ hàng hải ...;<br>- Tổng Công ty Bảo đảm An toàn hàng hải...;<br>- Tổ chức hoa tiêu hàng hải...;<br>- Công ty TNHH MTV Thông tin điện tử hàng hải Việt Nam;<br>- Website Cảng vụ hàng hải...;<br>- ………………………………… | …………………………<br>Người có thẩm quyền ký, đóng dấu |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "thongbao_MAU_SO_19-PHU_LUC_I-34-2025-ND-CP_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 774,
+            "source_file": "thongbao/MAU SO 19-PHU LUC I-34-2025-ND-CP.doc",
+            "file_name": "MAU SO 19-PHU LUC I-34-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:03:09",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

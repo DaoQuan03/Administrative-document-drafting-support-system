@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_PHU_LUC_11-92-2019-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_PHU_LUC_11-92-2019-TT-BTC",
+        "text": "PHỤ LỤC 11\n\n(Ban hành kèm theo Thông tư số 92/2019/TT-BTC ngày 31/12/2019 của Bộ trưởng Bộ Tài chính)\n\n| BỘ TÀI CHÍNH<br>TỔNG CỤC HẢI QUAN<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: /TB-TCHQ | ….., ngày … tháng ….. năm….. |\n\nTHÔNG BÁO\n\nVề sự cố kỹ thuật của Hệ thống quản lý hoàn thuế giá trị gia tăng cho người nước ngoài của Tổng cục Hải quan\n\nCăn cứ khoản 5 Điều 1 Thông tư số 92/2019/TT-BTC ngày 31/12/2019 sửa đổi, bổ sung Thông tư số 72/2014/TT-BTC ngày 30/5/2014 của Bộ trưởng Bộ Tài chính quy định về hoàn thuế giá trị gia tăng đối với hàng hóa của người nước ngoài, người Việt Nam định cư ở nước ngoài mang theo khi xuất cảnh.\n\nDo sự cố kỹ thuật, Hệ thống quản lý hoàn thuế giá trị gia tăng cho người nước ngoài sẽ tạm dừng hoạt động từ ngày... tháng... năm ... đến ngày …… tháng... năm...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_PHU_LUC_11-92-2019-TT-BTC_chunk_0002",
+            "char_count": 875,
+            "source_file": "thongbao/PHU LUC 11-92-2019-TT-BTC.doc",
+            "file_name": "PHU LUC 11-92-2019-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:23:58",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_PHU_LUC_11-92-2019-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_PHU_LUC_11-92-2019-TT-BTC",
+        "text": "nước ngoài mang theo khi xuất cảnh.\n\nDo sự cố kỹ thuật, Hệ thống quản lý hoàn thuế giá trị gia tăng cho người nước ngoài sẽ tạm dừng hoạt động từ ngày... tháng... năm ... đến ngày …… tháng... năm...\n\nTổ chức, đơn vị có liên quan cần biết thêm chi tiết, xin vui lòng truy cập theo đường dẫn: http://www.customs.gov.vn hoặc gọi điện tới số hotline: <024.39440833> để được hỗ trợ trực tiếp.\n\nTổng cục Hải quan thông báo để các tổ chức, đơn vị có liên quan được biết.\n\n|  | TỔNG CỤC TRƯỞNG TỔNG CỤC HẢI QUAN<br><ký, ghi rõ họ tên, đóng dấu> |\n| --- | --- |\n\nNguồn: Thông tư 92/2019/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_PHU_LUC_11-92-2019-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 584,
+            "source_file": "thongbao/PHU LUC 11-92-2019-TT-BTC.doc",
+            "file_name": "PHU LUC 11-92-2019-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:23:58",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

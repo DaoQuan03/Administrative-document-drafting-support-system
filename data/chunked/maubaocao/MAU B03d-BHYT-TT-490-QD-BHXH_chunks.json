@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_B03d-BHYT-TT-490-QD-BHXH_chunk_0001",
+        "doc_id": "maubaocao_MAU_B03d-BHYT-TT-490-QD-BHXH",
+        "text": "### Bảng tính: Sheet1",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_B03d-BHYT-TT-490-QD-BHXH_chunk_0002",
+            "char_count": 21,
+            "source_file": "maubaocao/MAU B03d-BHYT-TT-490-QD-BHXH.xls",
+            "file_name": "MAU B03d-BHYT-TT-490-QD-BHXH.xls",
+            "folder": "maubaocao",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-21T03:14:39",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_B03d-BHYT-TT-490-QD-BHXH_chunk_0002",
+        "doc_id": "maubaocao_MAU_B03d-BHYT-TT-490-QD-BHXH",
+        "text": "Bảng tính: Sheet1\n\n| BẢO HIỂM XÃ HỘI VIỆT NAM |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| BÁO CÁO TỔNG HỢP ĐỐI TƯỢNG VÀ KINH PHÍ TRÍCH CHĂM SÓC SỨC KHỎE BAN ĐẦU |  |  |  |  |  |  |  |\n| Quý (Năm)….. năm …... |  |  |  |  |  |  |  |\n|  |  |  |  |  | Đơn vị tính: Lượt người, đồng |  |  |\n| STT | Mã số | Tên đơn vị | Số người tham gia BHYT được trích CSSKBĐ | Kinh phí trích CSSKBĐ theo giá trị thẻ trong năm |  |  | Kinh phí trích CSSKBĐ năm nay trích cho giá trị thẻ năm sau |\n|  |  |  |  | Cộng | Năm trước trích cho giá trị thẻ năm nay | Năm nay |  |\n| A | B | C | 1 | 2=3+4 | 3 | 4 | 5 |\n| I. Cơ sở giáo dục hoặc cơ sở GDNN |  |  | 1+2+… | 1+2+… | 1+2+… | 1+2+… | 1+2+… |\n| 1 |  | BHXH tỉnh A |  |  |  |  |  |\n| a |  | Học sinh tham gia BHYT tại trường |  |  |  |  |  |\n| b |  | Học sinh tham gia BHYT đối tượng khác trong tỉnh |  |  |  |  |  |\n| c |  | Học sinh tham gia BHYT đối tượng khác ngoài tỉnh |  |  |  |  |  |\n| 2 |  | BHXH tỉnh B |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |\n| II. Cơ quan đơn vị, doanh nghiệp |  |  | 1+2+… | 1+2+… | 1+2+… | 1+2+… | 1+2+… |\n| 1 |  |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |\n| III. Người làm việc trên tàu đánh bắt xa bờ |  |  | 1+2+… | 1+2+… | 1+2+… | 1+2+… | 1+2+… |\n| 1 |  |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |\n| IV. Cơ yếu do BHXH tỉnh phát hành thẻ BHYT |  |  | 1+2+… | 1+2+… | 1+2+… | 1+2+… | 1+2+… |\n| 1 |  |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |\n| Tổng cộng: |  |  | I+II+… | I+II+… | I+II+… | I+II+… | I+II+… |\n|  |  |  | Ngày       tháng    năm |  |  |  |  |\n|  | Người lập biểu |  | Tổng Giám đốc/Trưởng ban Quản lý Thu - Sổ, Thẻ |  |  |  |  |\n|  | (Ký, ghi rõ họ tên) |  | (Ký, ghi rõ họ tên) |  |  |  |  |\n|  | Nguồn: Quyết định 490/QĐ-BHXH năm 2023 |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_B03d-BHYT-TT-490-QD-BHXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 1806,
+            "source_file": "maubaocao/MAU B03d-BHYT-TT-490-QD-BHXH.xls",
+            "file_name": "MAU B03d-BHYT-TT-490-QD-BHXH.xls",
+            "folder": "maubaocao",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-21T03:14:39",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

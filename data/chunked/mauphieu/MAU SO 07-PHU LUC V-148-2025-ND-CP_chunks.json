@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_07-PHU_LUC_V-148-2025-ND-CP_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_07-PHU_LUC_V-148-2025-ND-CP",
+        "text": "Mẫu số 07\n\nPhiếu kết quả kiểm nghiệm\n\n| CƠ SỞ KIỂM NGHIỆM<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: …./… |  |\n\nPHIẾU KẾT QUẢ KIỂM NGHIỆM\n\n(Kết quả kiểm nghiệm chỉ có giá trị với mẫu đem thử)\n\n1. Tên mẫu: (Ghi tên của mẫu kiểm nghiệm)\n\n2. Mã số mẫu:\n\n3. Mô tả mẫu: (tình trạng mẫu khi nhận, khối lượng mẫu, ngày sản xuất, hạn sử dụng, tình trạng lưu mẫu)\n\n4. Thời gian lưu mẫu:\n\n5. Ngày lấy mẫu:\n\n6. Ngày nhận mẫu:\n\n7. Thời gian kiểm nghiệm:\n\n8. Nơi gửi mẫu:\n\n9. Tài liệu kèm theo: (ghi rõ nội dung, số, ngày, tháng năm của công văn hay giấy tờ kèm theo)\n\n10. Kết quả kiểm nghiệm (các chỉ tiêu đã được chỉ định của cơ sở kiểm nghiệm):\n\n| TT | Chỉ tiêu kiểm nghiệm | Phương pháp kiểm nghiệm | Đơn vị | Kết quả | So với QCVN.../ TCVN.../QĐ... |\n| --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |\n| 2 |  |  |  |  |  |\n|  |  |  |  |  |  |\n| … | …… | …… | …… | …… | ………… |\n\n11. Kết luận:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_07-PHU_LUC_V-148-2025-ND-CP_chunk_0002",
+            "char_count": 968,
+            "source_file": "mauphieu/MAU SO 07-PHU LUC V-148-2025-ND-CP.doc",
+            "file_name": "MAU SO 07-PHU LUC V-148-2025-ND-CP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:02:52",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_07-PHU_LUC_V-148-2025-ND-CP_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_07-PHU_LUC_V-148-2025-ND-CP",
+        "text": "Đơn vị | Kết quả | So với QCVN.../ TCVN.../QĐ... |\n| --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |\n| 2 |  |  |  |  |  |\n|  |  |  |  |  |  |\n| … | …… | …… | …… | …… | ………… |\n\n11. Kết luận:\n\n(Cần nêu rõ mẫu có đạt yêu cầu hay không)\n\n12. Ghi chú: (nếu có)\n\n|  |  | ….,ngày ….tháng...năm... |\n| --- | --- | --- |\n| Thủ trưởng đơn vị<br>(Ký tên và đóng dấu) | Phụ trách cơ sở kiểm nghiệm<br>(Ký và ghi rõ họ tên) | Kiểm nghiệm viên<br>(Ký và ghi rõ họ tên) |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_07-PHU_LUC_V-148-2025-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 465,
+            "source_file": "mauphieu/MAU SO 07-PHU LUC V-148-2025-ND-CP.doc",
+            "file_name": "MAU SO 07-PHU LUC V-148-2025-ND-CP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:02:52",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    }
+]

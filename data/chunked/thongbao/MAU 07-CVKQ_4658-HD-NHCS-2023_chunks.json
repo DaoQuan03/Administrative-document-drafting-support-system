@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_07-CVKQ_4658-HD-NHCS-2023_chunk_0001",
+        "doc_id": "thongbao_MAU_07-CVKQ_4658-HD-NHCS-2023",
+        "text": "Mẫu số 07/CVKQ\n\nLập 02 liên: 01 liên lưu NH, 01 liên giao khách hàng\n\n| NHCSXH TỈNH, TP…………… <br>PGD …………………………… <br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | ……., ngày…. tháng….. năm 20…….. |\n\nTHÔNG BÁO\n\nTỪ CHỐI CHO VAY\n\n| Kính gửi: | Ông (bà) …………………………………………..<br>Địa chỉ: ……………………………………………. |\n| --- | --- |\n\nNgày …./…./20…., Chi nhánh/Phòng giao dịch Ngân hàng Chính sách xã hội (NHCSXH) …………………………. nhận được hồ sơ đề nghị vay vốn của khách hàng gửi đến.\n\nSau khi kiểm tra, đối chiếu, Chi nhánh/Phòng giao dịch NHCSXH ……………………………….. thông báo từ chối cho vay đối với khách hàng vì những lý do như sau:\n\n1. ………………………………………………………………………………………..\n\n2. ………………………………………………………………………………………..\n\n3. ………………………………………………………………………………………..",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_07-CVKQ_4658-HD-NHCS-2023_chunk_0002",
+            "char_count": 800,
+            "source_file": "thongbao/MAU 07-CVKQ_4658-HD-NHCS-2023.doc",
+            "file_name": "MAU 07-CVKQ_4658-HD-NHCS-2023.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:17:45",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_07-CVKQ_4658-HD-NHCS-2023_chunk_0002",
+        "doc_id": "thongbao_MAU_07-CVKQ_4658-HD-NHCS-2023",
+        "text": "thông báo từ chối cho vay đối với khách hàng vì những lý do như sau:\n\n1. ………………………………………………………………………………………..\n\n2. ………………………………………………………………………………………..\n\n3. ………………………………………………………………………………………..\n\nTrường hợp Ông/Bà có nhu cầu nhận lại hồ sơ đã gửi về Ngân hàng, đề nghị Ông/Bà đến trụ sở NHCSXH ……………………………., Địa chỉ………………………………………, trong giờ làm việc trước ngày…. tháng ... năm….. Sau thời hạn trên, nếu Ông/Bà không đến nhận lại hồ sơ, hồ sơ sẽ bị hủy theo quy định của NHCSXH./.\n\n|  | GIÁM ĐỐC<br>(Ký tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_07-CVKQ_4658-HD-NHCS-2023_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 527,
+            "source_file": "thongbao/MAU 07-CVKQ_4658-HD-NHCS-2023.doc",
+            "file_name": "MAU 07-CVKQ_4658-HD-NHCS-2023.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:17:45",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

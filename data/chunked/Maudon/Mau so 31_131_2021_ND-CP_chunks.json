@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_Mau_so_31_131_2021_ND-CP_chunk_0001",
+        "doc_id": "Maudon_Mau_so_31_131_2021_ND-CP",
+        "text": "Mẫu số 31\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN ĐỀ NGHỊ\n\nThăm viếng mộ liệt sĩ\n\nKính gửi: Phòng Lao động - Thương binh và Xã hội ...1\n\n1. Thông tin về người đề nghị\n\nHọ và tên: ...\n\nNgày tháng năm sinh: ... Nam/Nữ: ...\n\nCCCD/CMND số ... Ngày cấp ... Nơi cấp ...\n\nNơi thường trú: ...\n\nSố điện thoại liên hệ: ...\n\nQuan hệ với liệt sĩ2: ...\n\n2. Thông tin về liệt sĩ:\n\nHọ và tên: ...\n\nQuê quán: ...\n\nCơ quan, đơn vị khi hy sinh: ...\n\nCấp bậc, chức vụ khi hy sinh: ...\n\nNgày tháng năm hy sinh ... tại ...\n\n3. Thông tin về người đi cùng3\n\nHọ tên người thứ nhất ... Ngày tháng năm sinh ...\n\nCCCD/CMND Số ... Ngày cấp ... Nơi cấp ...\n\nQuan hệ với liệt sĩ4: ...\n\nHọ tên người thứ hai ... Ngày tháng năm sinh ...\n\nCCCD/CMND Số ... Ngày cấp ... Nơi cấp ...\n\nQuan hệ với liệt sĩ5: ...\n\nĐề nghị Phòng Lao động - Thương binh và Xã hội xem xét, giải quyết./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_Mau_so_31_131_2021_ND-CP_chunk_0002",
+            "char_count": 890,
+            "source_file": "Maudon/Mau so 31_131_2021_ND-CP.doc",
+            "file_name": "Mau so 31_131_2021_ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:44:17",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_Mau_so_31_131_2021_ND-CP_chunk_0002",
+        "doc_id": "Maudon_Mau_so_31_131_2021_ND-CP",
+        "text": "sĩ4: ...\n\nHọ tên người thứ hai ... Ngày tháng năm sinh ...\n\nCCCD/CMND Số ... Ngày cấp ... Nơi cấp ...\n\nQuan hệ với liệt sĩ5: ...\n\nĐề nghị Phòng Lao động - Thương binh và Xã hội xem xét, giải quyết./.\n\n| ..., ngày... tháng... năm...<br>Xác nhận của UBND cấp xã<br>Thông tin về người đề nghị và chữ ký trên bản khai là đúng.<br>QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ<br>(Chữ ký, dấu)<br>Họ và tên | ………., ngày ... tháng ... năm ..…...<br>Người khai<br>(Ký, ghi rõ họ và tên) |\n| --- | --- |\n\n___\n\nGhi chú:\n\n1 Phòng LĐTBXH tại địa phương quản lý hồ sơ của liệt sĩ.\n\n2 Ghi rõ mối quan hệ với liệt sĩ (là thân nhân hay người hưởng trợ cấp thờ cúng).\n\n3 Trường hợp thân nhân liệt sĩ ở cùng địa bàn (cấp xã) thì làm 01 đơn và khai nội dung này.\n\n4 Ghi rõ mối quan hệ với liệt sĩ (là thân nhân hay người hưởng trợ cấp thờ cúng).\n\n5 Ghi rõ mối quan hệ với liệt sĩ (là thân nhân hay người hưởng trợ cấp thờ cúng).",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_Mau_so_31_131_2021_ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 896,
+            "source_file": "Maudon/Mau so 31_131_2021_ND-CP.doc",
+            "file_name": "Mau so 31_131_2021_ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:44:17",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

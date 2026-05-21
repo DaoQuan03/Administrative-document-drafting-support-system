@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_04-01-QCPH-CT-CQLDD_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_04-01-QCPH-CT-CQLDD",
+        "text": "PHỤ LỤC IV\n\nPHIẾU YÊU CẦU CUNG CẤP THÔNG TIN, DỮ LIỆU ĐẤT ĐAI\n(Kèm theo Quy chế phối hợp số 01/QCPH-CT-CQLĐĐ ngày 07/01/2026 của Cục Thuế và Cục Quản lý đất đai)\n\n| TÊN CƠ QUAN THUẾ <br>CẤP TRÊN<br>TÊN CƠ QUAN THUẾ<br>BAN HÀNH VĂN BẢN<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: …………<br>V/v đề nghị cung cấp thông tin để xác định nghĩa vụ tài chính về đất đai | ….., ngày … tháng …. năm… |\n\nKính gửi: <Tên cơ quan nhận đề nghị>\n\nCăn cứ quy định của Luật Đất đai và Nghị định của Chính phủ hướng dẫn thi hành Luật;\n\nCăn cứ quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành;\n\nĐể có căn cứ cơ quan thuế xác định nghĩa vụ tài chính cho người sử dụng đất theo quy định của pháp luật, <Tên cơ quan thuế đề nghị> đề nghị <Tên cơ quan nhận đề nghị> cung cấp thông tin sau:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_04-01-QCPH-CT-CQLDD_chunk_0002",
+            "char_count": 855,
+            "source_file": "mauphieu/PHU LUC 04-01-QCPH-CT-CQLDD.doc",
+            "file_name": "PHU LUC 04-01-QCPH-CT-CQLDD.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:33:14",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_04-01-QCPH-CT-CQLDD_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_04-01-QCPH-CT-CQLDD",
+        "text": "hành;\n\nĐể có căn cứ cơ quan thuế xác định nghĩa vụ tài chính cho người sử dụng đất theo quy định của pháp luật, <Tên cơ quan thuế đề nghị> đề nghị <Tên cơ quan nhận đề nghị> cung cấp thông tin sau:\n\n| STT | Thông tin người thuê đất, thuê mặt nước (1) | Thông tin cần cung cấp | Thông tin cần cung cấp |\n| --- | --- | --- | --- |\n| 1 | <Tên1>, <MST/Số định danh>, <Số GCN>, <Số HĐ, QĐ thuê đất>,... | □ Thông tin  về thửa đất | □ Giá đất<br>□ Thông tin, dữ liệu khác:……. |\n| 2 | <Tên2>, <MST/Số định danh>, <Số GCN>, <Số HĐ, QĐ thuê đất>,... | □ Thông tin  về thửa đất | □ Giá đất<br>□ Thông tin, dữ liệu khác:……. |\n| …. |  |  |  |\n\nMục đích sử dụng thông tin, dữ liệu:\n\n| Nơi nhận:<br>- Như trên; <br>- <Các bộ phận có liên quan>;<br>- Lưu VT, <bộ phận soạn thảo>. | QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ (3)<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_04-01-QCPH-CT-CQLDD_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 853,
+            "source_file": "mauphieu/PHU LUC 04-01-QCPH-CT-CQLDD.doc",
+            "file_name": "PHU LUC 04-01-QCPH-CT-CQLDD.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:33:14",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

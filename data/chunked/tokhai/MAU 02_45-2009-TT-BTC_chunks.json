@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_02_45-2009-TT-BTC_chunk_0001",
+        "doc_id": "tokhai_MAU_02_45-2009-TT-BTC",
+        "text": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n------------------\n\nTỜ KHAI THUẾ GIÁ TRỊ GIA TĂNG\n\n(Dùng cho các Công ty thủy điện hạch toán phụ thuộc EVN)\n\n(Ban hành kèm theo Thông tư số 45/2009/TT-BTC ngày 11 tháng 3 năm 2009)\n\n[01] Kỳ tính thuế: tháng ...năm 200...\n\n[03] Tên cơ sở kinh doanh:...\n\n[04] Địa chỉ trụ sở:... [05] Quận/huyện:... [06] Tỉnh/Thành phố:...\n\n[07] Điện thoại:... [08] Fax:... [09] E-Mail:...\n\n| STT | Chỉ tiêu | Sản lượng điện | Giá tính thuế | Thuế suất | Thuế GTGT |\n| --- | --- | --- | --- | --- | --- |\n| 1. | Thuế GTGT đầu ra | (1) | (2) | (3) | (4)= (1)x(2)x(3) |\n| 2. | Số thuế GTGT đầu vào được khấu trừ của hoạt động sản xuất điện |  |  |  | (5) |\n| 3. | Số thuế GTGT phải nộp |  |  |  | (6) = (4)-(5) |\n\nTôi cam đoan số liệu kê khai trên là đúng sự thật và tự chịu trách nhiệm trước pháp luật về những số liệu đã kê khai.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_02_45-2009-TT-BTC_chunk_0002",
+            "char_count": 873,
+            "source_file": "tokhai/MAU 02_45-2009-TT-BTC.doc",
+            "file_name": "MAU 02_45-2009-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:36:44",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_02_45-2009-TT-BTC_chunk_0002",
+        "doc_id": "tokhai_MAU_02_45-2009-TT-BTC",
+        "text": "điện |  |  |  | (5) |\n| 3. | Số thuế GTGT phải nộp |  |  |  | (6) = (4)-(5) |\n\nTôi cam đoan số liệu kê khai trên là đúng sự thật và tự chịu trách nhiệm trước pháp luật về những số liệu đã kê khai.\n\n|  | ..., ngày...tháng... năm...<br>Đại diện theo pháp luật của cơ sở kinh doanh<br>Ký tên, đóng dấu (ghi rõ họ tên và chức vụ) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "tokhai_MAU_02_45-2009-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 341,
+            "source_file": "tokhai/MAU 02_45-2009-TT-BTC.doc",
+            "file_name": "MAU 02_45-2009-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:36:44",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

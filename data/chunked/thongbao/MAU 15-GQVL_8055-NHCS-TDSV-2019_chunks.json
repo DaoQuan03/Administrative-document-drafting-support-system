@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_15-GQVL_8055-NHCS-TDSV-2019_chunk_0001",
+        "doc_id": "thongbao_MAU_15-GQVL_8055-NHCS-TDSV-2019",
+        "text": "| CN NHCSXH (tỉnh, TP)…<br>PGD (quận, huyện)…<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- | Mẫu số 15/GQVL<br>NH lập: 02 liên<br>- 01 liên gửi KH;<br>- 01 liên lưu NH. |\n| --- | --- | --- |\n\n……….., ngày …… tháng …… năm ……..\n\nTHÔNG BÁO CHẤM DỨT CHO VAY\n\nKính gửi: …………………………………………\n\nĐịa chỉ …………………………………………………………..\n\nNgày ….. tháng ……. năm ……, Chi nhánh NHCSXH (tỉnh, TP)/Phòng giao dịch NHCSXH (quận, huyện) ………………………………………. và khách hàng vay vốn là ……………………….. đã ký Hợp đồng tín dụng số ………….. ngày …./…../….. để ………………………….:\n\nMức duyệt cho vay: ………………. đồng, đã giải ngân số tiền là …………………………….. đồng và dư nợ đến ngày ……../……./……. là …………………………… đồng.\n\nChi nhánh NHCSXH (tỉnh, TP)/Phòng giao dịch NHCSXH (quận, huyện)…………………………. thông báo chấm dứt cho vay đối với khách hàng vay vốn là ………………………………… do đã vi phạm cam kết trong Hợp đồng tín dụng số ……………………….. ngày .../.../..., theo biên bản kiểm tra ngày ……../……./…….. kèm theo, cụ thể:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_15-GQVL_8055-NHCS-TDSV-2019_chunk_0002",
+            "char_count": 997,
+            "source_file": "thongbao/MAU 15-GQVL_8055-NHCS-TDSV-2019.doc",
+            "file_name": "MAU 15-GQVL_8055-NHCS-TDSV-2019.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:23:13",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_15-GQVL_8055-NHCS-TDSV-2019_chunk_0002",
+        "doc_id": "thongbao_MAU_15-GQVL_8055-NHCS-TDSV-2019",
+        "text": "chấm dứt cho vay đối với khách hàng vay vốn là ………………………………… do đã vi phạm cam kết trong Hợp đồng tín dụng số ……………………….. ngày .../.../..., theo biên bản kiểm tra ngày ……../……./…….. kèm theo, cụ thể:\n\n- …………………………………………………………………………………………………………….\n\n- …………………………………………………………………………………………………………….\n\n- …………………………………………………………………………………………………………….\n\nTrong thời gian tối đa 03 tháng kể từ ngày thông báo, Quý khách hàng phải thực hiện trả nợ trước hạn, nếu không thực hiện trả nợ, Chi nhánh NHCSXH (tỉnh, TP)/Phòng giao dịch NHCSXH (quận, huyện) …………………………….. thực hiện chuyển nợ quá hạn số tiền nêu trên.\n\nChi nhánh NHCSXH (tỉnh, TP)/Phòng giao dịch NHCSXH (quận, huyện) …………………………….. thông báo để Quý khách hàng được biết./.\n\n|  | GIÁM ĐỐC<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_15-GQVL_8055-NHCS-TDSV-2019_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 780,
+            "source_file": "thongbao/MAU 15-GQVL_8055-NHCS-TDSV-2019.doc",
+            "file_name": "MAU 15-GQVL_8055-NHCS-TDSV-2019.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:23:13",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

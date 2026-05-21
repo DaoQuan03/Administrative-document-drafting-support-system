@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_44-PYC-KTr-QD-196-QD-TCTHADC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_44-PYC-KTr-QD-196-QD-TCTHADC",
+        "text": "Mẫu số 44/PYC-KTr\n\n| …………(1) …………<br>ĐOÀN KIỂM TRA | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>(Địa danh), ngày….. tháng…. năm…. |\n| --- | --- |\n\nPHIẾU YÊU CẦU\n\nBáo cáo, giải trình, cung cấp bổ sung hồ sơ, tài liệu\n\n(Lần thứ………)\n\nĐoàn kiểm tra theo Quyết định số:………….………….. ngày….. tháng….. năm…..của…………………………………………………………………..\n\nYêu cầu (cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm cung cấp)……………………………………………………...…………………………………\n\nBáo cáo, giải trình, cung cấp hồ sơ, tài liệu sau đây:\n\n1……………………………………………………………………………………\n\n2……………………………………………………………………………………\n\n3……………………………………………………………………………………\n\n..……………………………………………………………………………………\n\n..……………………………………………………………………………………\n\n..……………………………………………………………………………………\n\nThời gian cung cấp: …… giờ……phút, ngày…… tháng…… năm……\n\nĐịa điểm cung cấp: ……………………………………………………………\n\nNgười nhận báo cáo, hồ sơ, tài liệu: Ông (bà) …………………………; Chức vụ/ chức danh: ……",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_44-PYC-KTr-QD-196-QD-TCTHADC_chunk_0002",
+            "char_count": 916,
+            "source_file": "mauphieu/MAU SO 44-PYC-KTr-QD-196-QD-TCTHADC.doc",
+            "file_name": "MAU SO 44-PYC-KTr-QD-196-QD-TCTHADC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:19:28",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_44-PYC-KTr-QD-196-QD-TCTHADC_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_44-PYC-KTr-QD-196-QD-TCTHADC",
+        "text": "gian cung cấp: …… giờ……phút, ngày…… tháng…… năm……\n\nĐịa điểm cung cấp: ……………………………………………………………\n\nNgười nhận báo cáo, hồ sơ, tài liệu: Ông (bà) …………………………; Chức vụ/ chức danh: ……\n\n| NGƯỜI ĐƯỢC YÊU CẦU<br>(Ký và ghi rõ họ tên) | TRƯỞNG ĐOÀN KIỂM TRA<br>(Ký và ghi rõ họ tên) |\n| --- | --- |\n\n(1) Tên cơ quan ra quyết định kiểm tra",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_44-PYC-KTr-QD-196-QD-TCTHADC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 326,
+            "source_file": "mauphieu/MAU SO 44-PYC-KTr-QD-196-QD-TCTHADC.doc",
+            "file_name": "MAU SO 44-PYC-KTr-QD-196-QD-TCTHADC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:19:28",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

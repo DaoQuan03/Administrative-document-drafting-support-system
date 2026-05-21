@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_8-PL6-1668-QD-BVHTTDL_chunk_0001",
+        "doc_id": "thongbao_MAU_8-PL6-1668-QD-BVHTTDL",
+        "text": "Mẫu 8:  Thông báo của Bộ.\n\n| BỘ VĂN HÓA, THỂ THAO VÀ DU LỊCH<br><br>Số:        /TB-BVHTTDL | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT <br>Độc lập - Tự do - Hạnh phúc<br>Hà Nội, ngày     tháng    năm 20… |\n| --- | --- |\n\nTHÔNG BÁO\n\n...1...\n\n2 ... ... ...\n\n...…./.3\n\n| Nơi nhận:                                                                      <br>- …………;(*)<br>- Bộ trưởng;       <br>- …………;<br>- Lưu: VT, ...5..., NTH.1506. | BỘ TRƯỞNG 4<br><br>(Chữ ký, dấu)<br><br>Hoàng Tuấn Anh |\n| --- | --- |\n\nGhi chú:\n\n1 Trích yếu nội dung Thông báo.\n\n2 Nội dung của Thông báo.\n\n3  Vị trí ký tắt của Thủ trưởng cơ quan chủ trì soạn thảo.\n\n4 Nếu Chánh Văn phòng được phân cấp ký Thừa lệnh thì phải ghi:\n\nVí dụ:\tTL. BỘ TRƯỞNG\n\nCHÁNH VĂN PHÒNG\n\n5  Đơn vị soạn thảo và số bản lưu tại đơn vị. Ví dụ: VP (3)\n\n6 Ký hiệu người đánh máy, số lượng bản phát hành. Ví dụ: TK.50.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_8-PL6-1668-QD-BVHTTDL_chunk_0002",
+            "char_count": 849,
+            "source_file": "thongbao/MAU 8-PL6-1668-QD-BVHTTDL.doc",
+            "file_name": "MAU 8-PL6-1668-QD-BVHTTDL.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:27:50",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_8-PL6-1668-QD-BVHTTDL_chunk_0002",
+        "doc_id": "thongbao_MAU_8-PL6-1668-QD-BVHTTDL",
+        "text": "cấp ký Thừa lệnh thì phải ghi:\n\nVí dụ:\tTL. BỘ TRƯỞNG\n\nCHÁNH VĂN PHÒNG\n\n5  Đơn vị soạn thảo và số bản lưu tại đơn vị. Ví dụ: VP (3)\n\n6 Ký hiệu người đánh máy, số lượng bản phát hành. Ví dụ: TK.50.\n\n(*) Khi đơn vị gửi văn bản đến nhiều nơi mà phần \"Nơi nhận\" chưa ghi đầy đủ, đề nghị đơn vị phải có danh sách nơi nhận (có ký tắt của Lãnh đạo, Thủ trưởng đơn vị) gửi kèm bản lưu tại Văn thư của Bộ.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_8-PL6-1668-QD-BVHTTDL_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 395,
+            "source_file": "thongbao/MAU 8-PL6-1668-QD-BVHTTDL.doc",
+            "file_name": "MAU 8-PL6-1668-QD-BVHTTDL.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:27:50",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_IV-MAU_SO_02-01-2022-TT-BNNPTNT_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_IV-MAU_SO_02-01-2022-TT-BNNPTNT",
+        "text": "PHỤ LỤC IV\n\nMẪU PHIẾU THỐNG KÊ, PHÂN TÍCH MẪU SINH HỌC NGHỀ CÁ\n(Ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT ngày 18 tháng 01 năm 2022 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn)\n\nMẫu số 02\n\nPhiếu số:...\n\nMẪU PHIẾU ĐIỀU TRA SINH HỌC NGHỀ CÁ\n\n...Ngày…..tháng.….năm 20…..\n\n| Tỉnh………………………………... | Điểm lên cá……………………………...……... |\n| --- | --- |\n| Số đăng ký tàu……………………… | Khối lượng nhóm thương phẩm (kg):……...… |\n| Nhóm thương phẩm………………… | Khối lượng của loài trong nhóm thương phẩm (kg): |\n| Tên loài: …………………………… | ... |\n| Tên Việt Nam: …………………… | Khối lượng mẫu (kg): …………………...…... |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_IV-MAU_SO_02-01-2022-TT-BNNPTNT_chunk_0002",
+            "char_count": 601,
+            "source_file": "mauphieu/PHU LUC IV-MAU SO 02-01-2022-TT-BNNPTNT.doc",
+            "file_name": "PHU LUC IV-MAU SO 02-01-2022-TT-BNNPTNT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:44:09",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_IV-MAU_SO_02-01-2022-TT-BNNPTNT_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_IV-MAU_SO_02-01-2022-TT-BNNPTNT",
+        "text": "phẩm (kg):……...… |\n| Nhóm thương phẩm………………… | Khối lượng của loài trong nhóm thương phẩm (kg): |\n| Tên loài: …………………………… | ... |\n| Tên Việt Nam: …………………… | Khối lượng mẫu (kg): …………………...…... |\n\n| STT | SL (cm) | FL (cm) | TL (cm) | W (g) | Wsd (g) | Giới | Độ chín tuyến sinh dục | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |  |\n| 4 |  |  |  |  |  |  |  |  |\n| 5 |  |  |  |  |  |  |  |  |\n| 6 |  |  |  |  |  |  |  |  |\n| 7 |  |  |  |  |  |  |  |  |\n| 8 |  |  |  |  |  |  |  |  |\n| 9 |  |  |  |  |  |  |  |  |\n| 10 |  |  |  |  |  |  |  |  |\n| 11 |  |  |  |  |  |  |  |  |\n| 12 |  |  |  |  |  |  |  |  |\n| 13 |  |  |  |  |  |  |  |  |\n| 14 |  |  |  |  |  |  |  |  |\n| 15 |  |  |  |  |  |  |  |  |\n| 16 |  |  |  |  |  |  |  |  |\n\n|  | NGƯỜI THU MẪU |\n| --- | --- |\n\nNgười phân tích:……………………………      Người nhập số liệu: ………………………\n\nNgày nhập số liệu: …………………………….\n\nGhi chú:",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_PHU_LUC_IV-MAU_SO_02-01-2022-TT-BNNPTNT_chunk_0001",
+            "next_chunk_id": "mauphieu_PHU_LUC_IV-MAU_SO_02-01-2022-TT-BNNPTNT_chunk_0003",
+            "char_count": 979,
+            "source_file": "mauphieu/PHU LUC IV-MAU SO 02-01-2022-TT-BNNPTNT.doc",
+            "file_name": "PHU LUC IV-MAU SO 02-01-2022-TT-BNNPTNT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:44:09",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_IV-MAU_SO_02-01-2022-TT-BNNPTNT_chunk_0003",
+        "doc_id": "mauphieu_PHU_LUC_IV-MAU_SO_02-01-2022-TT-BNNPTNT",
+        "text": "|  |  |  |  |  |  |  |  |\n| 16 |  |  |  |  |  |  |  |  |\n\n|  | NGƯỜI THU MẪU |\n| --- | --- |\n\nNgười phân tích:……………………………      Người nhập số liệu: ………………………\n\nNgày nhập số liệu: …………………………….\n\nGhi chú:\n\n- SL, FL, TL: là chiều dài cá thể tương ứng đo từ mép ngoài mõm cá đến cuối đốt sống cuối cùng, đến mép ngoài chẽ vây đuôi, đến điểm cuối của vây đuôi; W là khối lượng cá thể;\n\n- Wsd là khối lượng tuyến sinh dục.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_PHU_LUC_IV-MAU_SO_02-01-2022-TT-BNNPTNT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 413,
+            "source_file": "mauphieu/PHU LUC IV-MAU SO 02-01-2022-TT-BNNPTNT.doc",
+            "file_name": "PHU LUC IV-MAU SO 02-01-2022-TT-BNNPTNT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:44:09",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_1-PHU_LUC_I-106-2025-TT-BQP_chunk_0001",
+        "doc_id": "mauphieu_MAU_1-PHU_LUC_I-106-2025-TT-BQP",
+        "text": "Mẫu 1. Phiếu kiểm tra sức khỏe quân nhân dự bị\n\n| ...<br>... | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n\nPHIẾU KIỂM TRA SỨC KHỎE QUÂN NHÂN DỰ BỊ1\n\nI. SƠ YẾU LÝ LỊCH\n\nHọ và tên*: …………………..…Ngày, tháng, năm sinh*:……………. Giới tính:……\n\nSố CCCD*: ……………………Nghề nghiệp: ………………………Dân tộc:………….\n\nĐã phục vụ tại ngũ*: Từ (tháng/năm) ……………………đến (tháng/năm) ……………\n\nHọ và tên bố: ………………………………………………Năm sinh: …………………\n\nHọ và tên mẹ: ………………………………………………Năm sinh: …………………\n\nNơi đăng ký thường trú: …………………………………………………………………\n\nChỗ ở hiện nay của gia đình: ………………………………………………………………\n\nII. KẾT QUẢ KHÁM\n\nCao : …………cm; Nặng: …………….kg;            Vòng ngực trung bình: ………….cm.\n\nMạch: ………..lần/phút;                                      Huyết áp: …………/………… mmHg.\n\nBệnh nội khoa: ………………………………………………………………………\n\nBệnh ngoại khoa: ………………………………………………………………………\n\nBệnh chuyên khoa (Mắt, T-M-H, R-H-M): ………………………………………………\n\nTiền sử bệnh tật:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_1-PHU_LUC_I-106-2025-TT-BQP_chunk_0002",
+            "char_count": 963,
+            "source_file": "mauphieu/MAU 1-PHU LUC I-106-2025-TT-BQP.doc",
+            "file_name": "MAU 1-PHU LUC I-106-2025-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:55:16",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_1-PHU_LUC_I-106-2025-TT-BQP_chunk_0002",
+        "doc_id": "mauphieu_MAU_1-PHU_LUC_I-106-2025-TT-BQP",
+        "text": "Huyết áp: …………/………… mmHg.\n\nBệnh nội khoa: ………………………………………………………………………\n\nBệnh ngoại khoa: ………………………………………………………………………\n\nBệnh chuyên khoa (Mắt, T-M-H, R-H-M): ………………………………………………\n\nTiền sử bệnh tật:\n\nGia đình: ……………………………………………………………………………………\n\nBản thân: …………………………………………………………………………………\n\nPhân loại sức khỏe sơ bộ: …………………………………………………………………\n\n|  | Ngày... tháng...năm ……<br>TỔ TRƯỞNG<br>TỔ KIỂM TRA SỨC KHỎE |\n| --- | --- |\n\n___\n\n1 Phiếu kiểm tra sức khỏe quân nhân dự bị:\n\n- Phiếu được in trên giấy trắng khổ A4 đứng, phông chữ 13.\n\n- Phiếu gồm 02 phần:\n\n+ Phần 1 gồm sơ yếu lý lịch.\n\n+ Phần 2 là kết quả kiểm tra, sơ tuyển sức khỏe, do y tế xã tiến hành.\n\n- Kết quả khám có giá trị trong vòng 06 tháng kể từ ngày kiểm tra, sơ tuyển sức khỏe",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_1-PHU_LUC_I-106-2025-TT-BQP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 733,
+            "source_file": "mauphieu/MAU 1-PHU LUC I-106-2025-TT-BQP.doc",
+            "file_name": "MAU 1-PHU LUC I-106-2025-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:55:16",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_BCCP-01_1_-TT-04-2022-TT-BTTTT_chunk_0001",
+        "doc_id": "maubaocao_BIEU_BCCP-01_1_-TT-04-2022-TT-BTTTT",
+        "text": "| Biểu BCCP-01.1 <br>Ban hành kèm theo TT số …../2022/TT-BTTTT | TỔNG HỢP CẢ NƯỚC PHÁT TRIỂN DOANH NGHIỆP BƯU CHÍNH | Đơn vị báo cáo: Vụ BC |\n| --- | --- | --- |\n|  |  |  |\n| Ngày nhận báo cáo: trước 15/3 năm tiếp theo | Năm /20….. | Đơn vị nhận báo cáo: Vụ KHTC, VP Bộ |\n|  |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_BIEU_BCCP-01_1_-TT-04-2022-TT-BTTTT_chunk_0002",
+            "char_count": 282,
+            "source_file": "maubaocao/BIEU BCCP-01.1 -TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU BCCP-01.1 -TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:58:20",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_BCCP-01_1_-TT-04-2022-TT-BTTTT_chunk_0002",
+        "doc_id": "maubaocao_BIEU_BCCP-01_1_-TT-04-2022-TT-BTTTT",
+        "text": "TRIỂN DOANH NGHIỆP BƯU CHÍNH | Đơn vị báo cáo: Vụ BC |\n| --- | --- | --- |\n|  |  |  |\n| Ngày nhận báo cáo: trước 15/3 năm tiếp theo | Năm /20….. | Đơn vị nhận báo cáo: Vụ KHTC, VP Bộ |\n|  |  |  |\n\n| 1. Số lượng doanh nghiệp, tổ chức được cấp phép hoạt động trong lĩnh vực bưu chính (DNBC) (1=1.1+1.2): |  | (doanh nghiệp) |\n| --- | --- | --- |\n| 1.1. Số lượng DNBC được cấp giấy phép bưu chính (lũy kế): |  |  |\n| 1.1.1. Trong đó, số DNBC được cấp giấy phép bưu chính mới trong kỳ: |  |  |\n| 1.2. Số DNBC được xác nhận thông báo hoạt động bưu chính (lũy kế): |  |  |\n| 1.2.1. Trong đó số DNBC được xác nhận thông báo mới trong kỳ: |  |  |\n| 1.3. Số lượng DNBC được cấp đồng thời giấy phép bưu chính và văn bản xác nhận thông báo hoạt động bưu chính (lũy kế): |  |  |\n| 2. Số lượng chi nhánh, đại lý, văn phòng đại diện được cấp văn bản xác nhận thông báo hoạt động bưu chính (lũy kế): |  |  |\n| 2.1. Trong đó, số lượng chi nhánh, đại lý, văn phòng đại diện được cấp mới văn bản xác nhận thông báo hoạt động bưu chính: |  |  |\n| 3. Số lượng doanh nghiệp chia theo các nhóm<br>Theo loại hình kinh tế của doanh nghiệp (1 = 2.1 +..+2.3) |  |  |\n| 3.1. Nhà nước: |  |  |\n| 3.2. Ngoài nhà nước (trừ FDI): |  |  |\n| 3.3. Có vốn FDI: |  |  |\n| Theo ứng dụng công nghệ |  |  |\n| 3.4. Có cổng, trang TTĐT (website): |  |  |\n| 3.5. Có sử dụng MXH trong kinh doanh: |  |  |\n| 3.6. Có sử dụng nền tảng di động trong hoạt động: |  |  |\n| 3.7. Có sử dụng chữ ký số, hợp đồng điện tử: |  |  |\n| 3.8. Có sử dụng các kênh thanh toán online: |  |  |\n| 3.9. Có áp dụng công nghệ chia chọn bưu gửi tự động |  |  |\n| Theo mức độ tham gia vào TMĐT |  |  |\n| 3.10. CCDV chuyển phát gói, kiện hàng hóa cho TMĐT: |  |  |\n| 3.11. CCDV logistics cho TMĐT: |  |  |\n| 3.12. Có sàn giao dịch TMĐT; |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_BIEU_BCCP-01_1_-TT-04-2022-TT-BTTTT_chunk_0001",
+            "next_chunk_id": "maubaocao_BIEU_BCCP-01_1_-TT-04-2022-TT-BTTTT_chunk_0003",
+            "char_count": 1774,
+            "source_file": "maubaocao/BIEU BCCP-01.1 -TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU BCCP-01.1 -TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:58:20",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_BCCP-01_1_-TT-04-2022-TT-BTTTT_chunk_0003",
+        "doc_id": "maubaocao_BIEU_BCCP-01_1_-TT-04-2022-TT-BTTTT",
+        "text": "tự động |  |  |\n| Theo mức độ tham gia vào TMĐT |  |  |\n| 3.10. CCDV chuyển phát gói, kiện hàng hóa cho TMĐT: |  |  |\n| 3.11. CCDV logistics cho TMĐT: |  |  |\n| 3.12. Có sàn giao dịch TMĐT; |  |  |\n\n5. Số lượng DNBC, chi nhánh và các hình thức kinh doanh khác của DNBC tại địa phương\n\n| TT | Địa bàn | Mã địa bàn | Số lượng DNBC | Trong đó DNBC nội tỉnh | Chi nhánh và các hình thức kinh doanh khác của DNBC | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- |\n| A | B | C | 1 | 2 | 3 | 4 |\n| 1 | Hà Nội | 01 |  |  |  |  |\n| 2 | Hà Giang | 02 |  |  |  |  |\n| … | … | ... |  |  |  |  |\n| 63 | Cà Mau | 96 |  |  |  |  |\n\n(Phụ biểu BCCP-01.PB kèm theo)\n\n| TỔNG HỢP, LẬP BIỂU<br>(Thông tin người thực hiện) | Hà Nội, ngày... tháng... năm 20... <br>VỤ TRƯỞNG <br>(Ký điện tử) |\n| --- | --- |\n\nCách ghi biểu, nguồn số liệu",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_BIEU_BCCP-01_1_-TT-04-2022-TT-BTTTT_chunk_0002",
+            "next_chunk_id": "maubaocao_BIEU_BCCP-01_1_-TT-04-2022-TT-BTTTT_chunk_0004",
+            "char_count": 819,
+            "source_file": "maubaocao/BIEU BCCP-01.1 -TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU BCCP-01.1 -TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:58:20",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_BCCP-01_1_-TT-04-2022-TT-BTTTT_chunk_0004",
+        "doc_id": "maubaocao_BIEU_BCCP-01_1_-TT-04-2022-TT-BTTTT",
+        "text": "biểu BCCP-01.PB kèm theo)\n\n| TỔNG HỢP, LẬP BIỂU<br>(Thông tin người thực hiện) | Hà Nội, ngày... tháng... năm 20... <br>VỤ TRƯỞNG <br>(Ký điện tử) |\n| --- | --- |\n\nCách ghi biểu, nguồn số liệu\n\nThông tin, số liệu của biểu được tổng hợp tương ứng từ biểu mẫu BCCP-01 các Sở TT&TT đã gửi Vụ, từ số liệu theo dõi sau cấp phép của Vụ BC, cập nhật từ thông tin được chia sẻ từ các cơ quan nhà nước có liên quan.\n\nKhi có sự thay đổi, Vụ BC thực hiện cập nhật dữ liệu phụ biểu ngay sau khi có sự thay đổi hoặc cập nhật trong vòng 07 ngày (kể từ khi có thay đổi) lên CSDL thống kê để hệ thống có thể tổng hợp được số liệu theo định dạng của biểu này với các thông tin cập nhật.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_BIEU_BCCP-01_1_-TT-04-2022-TT-BTTTT_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 669,
+            "source_file": "maubaocao/BIEU BCCP-01.1 -TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU BCCP-01.1 -TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:58:20",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_4-PHU_LUC-3326-QD-BTNMT_chunk_0001",
+        "doc_id": "mauphieu_MAU_4-PHU_LUC-3326-QD-BTNMT",
+        "text": "Mẫu 04\n………….\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n--------------\n\n| (Nếu nhiệm vụ có mang nội dung bí mật nhà nước, đóng dấu xác định độ mật tại đây) | ………, ngày …….. tháng ... năm…… |\n| --- | --- |\n\nPHIẾU CẬP NHẬT THÔNG TIN NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ ĐANG TIẾN HÀNH\nKHÔNG SỬ DỤNG NGÂN SÁCH NHÀ NƯỚC\n\n| 1 | Tên nhiệm vụ |\n| --- | --- |\n|  |  |\n| 2 | Thông tin thay đổi, bổ sung: |\n| 2.1 | Chủ nhiệm nhiệm vụ |\n|  | Họ và tên:                                               Giới tính:<br>Trình độ học vấn:                                   Chức danh khoa học: <br>Chức vụ:<br>Điện thoại:                                              Fax:<br>E-mail: |\n| 2.2 | Sản phẩm khoa học và công nghệ dự kiến: |\n| 2.3 | Địa chỉ ứng dụng dự kiến: |\n| 2.4 | Thời gian thực hiện: ……………tháng (từ ……………..đến ………………) |\n| 2.5 | Kinh phí thực hiện: ………………….. triệu đồng |\n|  | trong đó:<br>- Từ nguồn tự có của cá nhân, tổ chức |\n|  | - Từ nguồn khác: |\n| 2.6 | Thông tin khác: |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_4-PHU_LUC-3326-QD-BTNMT_chunk_0002",
+            "char_count": 989,
+            "source_file": "mauphieu/MAU 4-PHU LUC-3326-QD-BTNMT.doc",
+            "file_name": "MAU 4-PHU LUC-3326-QD-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:05:46",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_4-PHU_LUC-3326-QD-BTNMT_chunk_0002",
+        "doc_id": "mauphieu_MAU_4-PHU_LUC-3326-QD-BTNMT",
+        "text": "……………tháng (từ ……………..đến ………………) |\n| 2.5 | Kinh phí thực hiện: ………………….. triệu đồng |\n|  | trong đó:<br>- Từ nguồn tự có của cá nhân, tổ chức |\n|  | - Từ nguồn khác: |\n| 2.6 | Thông tin khác: |\n\n| XÁC NHẬN CỦA TỔ CHỨC CHỦ TRÌ<br>NHIỆM VỤ (nếu có)(1)<br>(Thủ trưởng ký, ghi rõ họ tên và đóng dấu) | CHỦ NHIỆM NHIỆM VỤ<br>(Ký và ghi rõ họ tên) |\n| --- | --- |\n\n___\n\n(1) Ghi tên đầy đủ của tổ chức chủ trì nhiệm vụ khoa học và công nghệ",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_4-PHU_LUC-3326-QD-BTNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 434,
+            "source_file": "mauphieu/MAU 4-PHU LUC-3326-QD-BTNMT.doc",
+            "file_name": "MAU 4-PHU LUC-3326-QD-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:05:46",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

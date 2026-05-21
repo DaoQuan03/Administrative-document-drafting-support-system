@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Kho tri thức — VănBảnAI</title>
+  <link rel="stylesheet" href="../css/global.css"/>
+  <link rel="stylesheet" href="../css/shell.css"/>
+  <link rel="stylesheet" href="../css/knowledge-base.css"/>
+</head>
+<body>
+<h2 class="sr-only">Trang quản lý kho tri thức VănBảnAI</h2>
+
+<div class="app-shell">
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-workspace">
+      <button class="workspace-btn" onclick="nav('dashboard.html')">
+        <div class="workspace-logo"><svg viewBox="0 0 24 24"><path d="M12 2L20 7V17L12 22L4 17V7L12 2Z"/></svg></div>
+        <span class="workspace-name">UBND Quận 1</span>
+        <span class="workspace-arrow">⌄</span>
+      </button>
+    </div>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <button class="sidebar-item" onclick="nav('dashboard.html')"><span class="si-icon">⊞</span><span class="si-label">Tổng quan</span></button>
+        <button class="sidebar-item" onclick="nav('editor.html')"><span class="si-icon">✏️</span><span class="si-label">Soạn thảo mới</span></button>
+        <button class="sidebar-item active"><span class="si-icon">📚</span><span class="si-label">Kho tri thức</span></button>
+        <button class="sidebar-item" onclick="nav('search.html')"><span class="si-icon">🔍</span><span class="si-label">Tìm kiếm AI</span></button>
+        <button class="sidebar-item" onclick="nav('settings.html')"><span class="si-icon">⚙️</span><span class="si-label">Cài đặt</span></button>
+      </div>
+    </nav>
+    <div class="sidebar-footer">
+      <div class="user-card"><div class="avatar avatar-blue">NT</div><div class="user-info"><div class="user-name">Nguyễn Trung</div><div class="user-role">Cán bộ · Editor</div></div></div>
+    </div>
+  </aside>
+
+  <div class="app-body">
+    <header class="topbar">
+      <button class="topbar-toggle" onclick="toggleSidebar()">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+      <div class="breadcrumb">
+        <span onclick="nav('dashboard.html')" style="cursor:pointer">UBND Quận 1</span>
+        <span class="bc-sep">/</span>
+        <span class="bc-current">Kho tri thức</span>
+      </div>
+      <div class="topbar-right">
+        <button class="btn btn-primary btn-sm" onclick="showUploadModal()">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+          Thêm tài liệu
+        </button>
+        <div class="avatar avatar-blue">NT</div>
+      </div>
+    </header>
+
+    <main class="page-content">
+      <div class="kb-body fade-in">
+
+        <!-- KB list -->
+        <div class="kb-header">
+          <h1>📚 Kho tri thức</h1>
+          <p>Quản lý tài liệu nguồn cho AI · 1,247 tài liệu · 2.8 GB</p>
+        </div>
+
+        <!-- KB Cards -->
+        <div class="kb-cards">
+          <div class="kb-card active-kb" onclick="openKB('quy-dinh')">
+            <div class="kb-card-icon">📋</div>
+            <div class="kb-card-info">
+              <div class="kb-card-name">Quy định nội bộ</div>
+              <div class="kb-card-meta">312 tài liệu · 840 MB</div>
+            </div>
+            <div class="kb-card-right">
+              <span class="badge badge-green">Hoạt động</span>
+              <div class="kb-card-bar"><div style="width:67%"></div></div>
+            </div>
+          </div>
+
+          <div class="kb-card" onclick="openKB('phap-ly')">
+            <div class="kb-card-icon">⚖️</div>
+            <div class="kb-card-info">
+              <div class="kb-card-name">Văn bản pháp lý</div>
+              <div class="kb-card-meta">587 tài liệu · 1.2 GB</div>
+            </div>
+            <div class="kb-card-right">
+              <span class="badge badge-green">Hoạt động</span>
+              <div class="kb-card-bar"><div style="width:48%"></div></div>
+            </div>
+          </div>
+
+          <div class="kb-card" onclick="openKB('bieu-mau')">
+            <div class="kb-card-icon">📝</div>
+            <div class="kb-card-info">
+              <div class="kb-card-name">Biểu mẫu & mẫu văn bản</div>
+              <div class="kb-card-meta">215 tài liệu · 320 MB</div>
+            </div>
+            <div class="kb-card-right">
+              <span class="badge badge-green">Hoạt động</span>
+              <div class="kb-card-bar"><div style="width:32%"></div></div>
+            </div>
+          </div>
+
+          <div class="kb-card" onclick="openKB('bao-cao')">
+            <div class="kb-card-icon">📊</div>
+            <div class="kb-card-info">
+              <div class="kb-card-name">Báo cáo & thống kê</div>
+              <div class="kb-card-meta">133 tài liệu · 440 MB</div>
+            </div>
+            <div class="kb-card-right">
+              <span class="badge badge-amber">Đang index</span>
+              <div class="kb-card-bar indexing"><div style="width:72%"></div></div>
+            </div>
+          </div>
+
+          <!-- Add KB card -->
+          <div class="kb-card kb-add-card" onclick="showCreateKBModal()">
+            <div class="kb-add-icon">+</div>
+            <span>Tạo kho tri thức mới</span>
+          </div>
+        </div>
+
+        <!-- Document list for active KB -->
+        <div class="doc-section">
+          <div class="doc-section-header">
+            <div class="doc-section-title">
+              <span>📋</span>
+              <h2>Quy định nội bộ</h2>
+              <span class="badge badge-green">312 tài liệu</span>
+            </div>
+            <div class="doc-section-actions">
+              <input type="text" class="input" placeholder="🔍 Tìm trong kho..." style="width:220px" oninput="filterDocs(this.value)" id="kb-search" />
+              <select class="input" style="width:130px">
+                <option>Tất cả loại</option>
+                <option>PDF</option>
+                <option>Word</option>
+                <option>URL</option>
+                <option>Text</option>
+              </select>
+              <button class="btn btn-secondary btn-sm" onclick="showUploadModal()">
+                ↑ Upload
+              </button>
+            </div>
+          </div>
+
+          <!-- Docs table -->
+          <div class="docs-table-wrap">
+            <table class="docs-table" id="docs-table">
+              <thead>
+                <tr>
+                  <th><input type="checkbox" id="select-all" onchange="toggleSelectAll(this)"/></th>
+                  <th>Tên tài liệu</th>
+                  <th>Loại</th>
+                  <th>Kích thước</th>
+                  <th>Trạng thái</th>
+                  <th>Ngày thêm</th>
+                  <th></th>
+                </tr>
+              </thead>
+              <tbody id="docs-tbody">
+                <tr>
+                  <td><input type="checkbox" class="doc-check"/></td>
+                  <td class="doc-name-cell"><span class="doc-file-icon">📄</span>Quy chế làm việc nội bộ 2025</td>
+                  <td><span class="badge badge-blue">PDF</span></td>
+                  <td>2.4 MB</td>
+                  <td><span class="badge badge-green">Đã index</span></td>
+                  <td>15/07/2025</td>
+                  <td class="doc-actions">
+                    <button class="btn btn-ghost btn-sm" onclick="previewDoc(this)">Xem</button>
+                    <button class="btn btn-ghost btn-sm">↓</button>
+                    <button class="btn btn-ghost btn-sm" style="color:var(--red-400)" onclick="deleteDoc(this)">✕</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td><input type="checkbox" class="doc-check"/></td>
+                  <td class="doc-name-cell"><span class="doc-file-icon">📋</span>Nghị quyết số 18/NQ-HĐND</td>
+                  <td><span class="badge badge-blue">PDF</span></td>
+                  <td>1.1 MB</td>
+                  <td><span class="badge badge-green">Đã index</span></td>
+                  <td>12/07/2025</td>
+                  <td class="doc-actions">
+                    <button class="btn btn-ghost btn-sm" onclick="previewDoc(this)">Xem</button>
+                    <button class="btn btn-ghost btn-sm">↓</button>
+                    <button class="btn btn-ghost btn-sm" style="color:var(--red-400)" onclick="deleteDoc(this)">✕</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td><input type="checkbox" class="doc-check"/></td>
+                  <td class="doc-name-cell"><span class="doc-file-icon">📝</span>Hướng dẫn soạn thảo văn bản hành chính</td>
+                  <td><span class="badge badge-gray">DOCX</span></td>
+                  <td>890 KB</td>
+                  <td><span class="badge badge-green">Đã index</span></td>
+                  <td>10/07/2025</td>
+                  <td class="doc-actions">
+                    <button class="btn btn-ghost btn-sm" onclick="previewDoc(this)">Xem</button>
+                    <button class="btn btn-ghost btn-sm">↓</button>
+                    <button class="btn btn-ghost btn-sm" style="color:var(--red-400)" onclick="deleteDoc(this)">✕</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td><input type="checkbox" class="doc-check"/></td>
+                  <td class="doc-name-cell"><span class="doc-file-icon">🌐</span>Cổng thông tin UBND Quận 1</td>
+                  <td><span class="badge badge-amber">URL</span></td>
+                  <td>—</td>
+                  <td><span class="badge badge-amber">Đang index</span></td>
+                  <td>20/07/2025</td>
+                  <td class="doc-actions">
+                    <button class="btn btn-ghost btn-sm" onclick="previewDoc(this)">Xem</button>
+                    <button class="btn btn-ghost btn-sm">🔄</button>
+                    <button class="btn btn-ghost btn-sm" style="color:var(--red-400)" onclick="deleteDoc(this)">✕</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td><input type="checkbox" class="doc-check"/></td>
+                  <td class="doc-name-cell"><span class="doc-file-icon">📊</span>Bảng theo dõi KPI tháng 6</td>
+                  <td><span class="badge badge-green">XLSX</span></td>
+                  <td>340 KB</td>
+                  <td><span class="badge badge-green">Đã index</span></td>
+                  <td>05/07/2025</td>
+                  <td class="doc-actions">
+                    <button class="btn btn-ghost btn-sm" onclick="previewDoc(this)">Xem</button>
+                    <button class="btn btn-ghost btn-sm">↓</button>
+                    <button class="btn btn-ghost btn-sm" style="color:var(--red-400)" onclick="deleteDoc(this)">✕</button>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+      </div>
+    </main>
+  </div>
+</div>
+
+<!-- Upload modal -->
+<div class="modal-overlay" id="upload-modal" style="display:none" onclick="closeUploadModal(event)">
+  <div class="modal-card" style="width:520px">
+    <div class="modal-header">
+      <h3>Thêm tài liệu vào kho tri thức</h3>
+      <button class="btn btn-ghost btn-icon" onclick="closeUploadModal()">✕</button>
+    </div>
+    <div class="modal-body">
+      <!-- Tabs -->
+      <div class="upload-tabs">
+        <button class="upload-tab active" onclick="switchUploadTab(this,'file')">📄 Tải file lên</button>
+        <button class="upload-tab" onclick="switchUploadTab(this,'url')">🌐 Nhập URL</button>
+        <button class="upload-tab" onclick="switchUploadTab(this,'drive')">☁️ Google Drive</button>
+      </div>
+
+      <!-- File upload -->
+      <div id="upload-file">
+        <div class="drop-zone" id="drop-zone" onclick="document.getElementById('file-input').click()">
+          <div class="dz-icon">📁</div>
+          <div class="dz-text">Kéo thả file vào đây hoặc <strong>click để chọn</strong></div>
+          <div class="dz-sub">PDF, Word, Excel, TXT, HTML — tối đa 50MB mỗi file</div>
+          <input type="file" id="file-input" multiple accept=".pdf,.docx,.doc,.xlsx,.xls,.txt,.html" style="display:none" onchange="handleFileSelect(event)"/>
+        </div>
+        <div id="file-list" class="file-list"></div>
+      </div>
+
+      <!-- URL -->
+      <div id="upload-url" style="display:none">
+        <label class="field-label">Nhập URL trang web</label>
+        <input type="url" class="input" placeholder="https://..." id="url-input" />
+        <p style="font-size:12px;color:var(--text-tertiary);margin-top:6px">Hệ thống sẽ crawl và trích xuất nội dung từ URL này.</p>
+      </div>
+
+      <!-- Drive -->
+      <div id="upload-drive" style="display:none">
+        <button class="btn btn-secondary btn-lg" style="width:100%;justify-content:center">
+          <svg viewBox="0 0 87.3 78" width="18" height="18"><path d="m6.6 66.85 3.85 6.65c.8 1.4 1.95 2.5 3.3 3.3L33.2 45.3l-20.3-35.15C9.3 11.3 8 13.6 8 16.25L.1 70.2c-.3 1.6.1 3.3 1 4.7z" fill="#0066da"/><path d="M43.65 25 29.2 0c-1.35.8-2.5 1.9-3.3 3.3L1.1 45.3c-.8 1.4-1.1 2.9-1 4.4l20.5-3.9z" fill="#00ac47"/><path d="M73.55 76.8c1.35-.8 2.5-1.9 3.3-3.3l1.6-2.75 7.65-13.25c.8-1.4 1.1-2.9 1-4.4L57.5 25 43.65 25l20.4 35.3z" fill="#ea4335"/></svg>
+          Kết nối Google Drive
+        </button>
+      </div>
+
+      <div class="upload-actions">
+        <button class="btn btn-secondary" onclick="closeUploadModal()">Hủy</button>
+        <button class="btn btn-primary" onclick="startUpload()">Tải lên & Index</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Preview panel -->
+<div class="preview-panel" id="preview-panel" style="display:none">
+  <div class="preview-header">
+    <h3 id="preview-title">Quy chế làm việc nội bộ 2025</h3>
+    <button class="btn btn-ghost btn-icon" onclick="closePreview()">✕</button>
+  </div>
+  <div class="preview-body" id="preview-body">
+    <p>Đang tải xem trước...</p>
+  </div>
+</div>
+
+<script src="../js/shell.js"></script>
+<script src="../js/knowledge-base.js"></script>
+</body>
+</html>

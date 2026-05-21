@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_30-PHU_LUC_II-43-2025-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_30-PHU_LUC_II-43-2025-TT-BTC",
+        "text": "Mẫu số 30\n\n| CƠ QUAN ĐĂNG KÝ KINH DOANH CẤP XÃ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ……. | ….., ngày …. tháng …. năm ….. |\n\nTHÔNG BÁO\n\nVề việc chi nhánh/văn phòng đại diện của hợp tác xã đang làm thủ tục chấm dứt hoạt động\n\n(Tên Cơ quan đăng ký kinh doanh cấp xã) ……………… thông báo chi nhánh/văn phòng đại diện/địa điểm kinh doanh của hợp tác xã sau đang làm thủ tục chấm dứt hoạt động:\n\nTên chi nhánh/văn phòng đại diện/địa điểm kinh doanh (ghi bằng chữ in hoa): ...\n\nMã số/mã số thuế của chi nhánh/văn phòng đại diện: ...\n\nTrường hợp chi nhánh có địa điểm kinh doanh trực thuộc, kê khai đầy đủ các địa điểm kinh doanh (chỉ kê khai đối với trường hợp thu hồi chi nhánh).\n\nLà chi nhánh/văn phòng đại diện/địa điểm kinh doanh của hợp tác xã sau:\n\nTên hợp tác xã (ghi bằng chữ in hoa): ...\n\nMã số hợp tác xã/Mã số thuế: ...\n\nĐịa chỉ trụ sở chính: ...\n\nĐiện thoại: …………………………..………. Fax: ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_30-PHU_LUC_II-43-2025-TT-BTC_chunk_0002",
+            "char_count": 968,
+            "source_file": "thongbao/MAU SO 30-PHU LUC II-43-2025-TT-BTC.doc",
+            "file_name": "MAU SO 30-PHU LUC II-43-2025-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:10:00",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_30-PHU_LUC_II-43-2025-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_30-PHU_LUC_II-43-2025-TT-BTC",
+        "text": "phòng đại diện/địa điểm kinh doanh của hợp tác xã sau:\n\nTên hợp tác xã (ghi bằng chữ in hoa): ...\n\nMã số hợp tác xã/Mã số thuế: ...\n\nĐịa chỉ trụ sở chính: ...\n\nĐiện thoại: …………………………..………. Fax: ...\n\nEmail: …………………………………………Website: ...\n\nDo1:\n\nÔng/Bà (ghi bằng chữ in hoa): ...\n\nGiới tính: ...\n\nSinh ngày: ……/……./…….. Quốc tịch: ...\n\nSố định danh cá nhân: ……………/Số Chứng minh nhân dân, Hộ chiếu, giấy tờ có giá trị thay thế hộ chiếu nước ngoài (đối với người đại diện là người nước ngoài): …………. Ngày cấp: ... Nơi cấp: …………\n\nĐịa chỉ liên lạc: ...\n\nLà người đại diện theo pháp luật.\n\n(Tên Cơ quan đăng ký kinh doanh cấp xã) đăng tải thông báo chi nhánh/văn phòng đại diện/địa điểm kinh doanh của hợp tác xã đang làm thủ tục chấm dứt hoạt động trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.\n\n___\n\n1 Ghi thông tin của tất cả người đại diện theo pháp luật trong trường hợp hợp tác xã có nhiều hơn 01 người đại diện theo pháp luật.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_30-PHU_LUC_II-43-2025-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 931,
+            "source_file": "thongbao/MAU SO 30-PHU LUC II-43-2025-TT-BTC.doc",
+            "file_name": "MAU SO 30-PHU LUC II-43-2025-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:10:00",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

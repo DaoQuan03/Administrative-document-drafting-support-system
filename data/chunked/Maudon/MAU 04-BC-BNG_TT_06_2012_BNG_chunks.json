@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_04-BC-BNG_TT_06_2012_BNG_chunk_0001",
+        "doc_id": "Maudon_MAU_04-BC-BNG_TT_06_2012_BNG",
+        "text": "Mẫu 04/BC-BNG\nForm 04/BC-BNG\n\n(Tên cơ quan báo chí nước ngoài)\n(Name of the foreign media organisation)\n\nĐƠN ĐỀ NGHỊ\nHOẠT ĐỘNG THÔNG TIN, BÁO CHÍ CỦA VĂN PHÒNG BÁO CHÍ NƯỚC NGOÀI\nREQUEST FORM\nFOR JOURNALISTIC ACTIVITIES BY THE FOREIGN MEDIA’S RESIDENT OFFICE\n\n|  | ……………., ngày ….. tháng ….. năm …….<br>(dd/mm/yyyy) |\n| --- | --- |\n\n| Kính gửi: |  |\n| --- | --- |\n| To: |  |\n\nVăn phòng báo chí nước ngoài/Foreign media organisation: ...\n\nĐịa chỉ/Address:...\n\nĐiện thoại/Tel:………………………… Fax:……………………….Email: ...\n\nI. Dự kiến chương trình hoạt động báo chí/Tentative program of journalistic activities:\n\n1. Mục đích chương trình/Purpose(s):...\n\n2. Nội dung hoạt động/Content:...\n\n3. Thời gian thực hiện/Time:...\n\n4. Địa điểm hoạt động/Places:...\n\n5. Dự kiến câu hỏi phỏng vấn/Questions for interview:...\n\n6. Dự kiến phát hành/phát sóng/ Publication and broadcasting plan:\n\n...\n\nII. Thông tin về đoàn phóng viên/Details of media crew:\n\n1. Họ và tên/Full name:...\n\nChức vụ/Title:...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_04-BC-BNG_TT_06_2012_BNG_chunk_0002",
+            "char_count": 976,
+            "source_file": "Maudon/MAU 04-BC-BNG_TT_06_2012_BNG.doc",
+            "file_name": "MAU 04-BC-BNG_TT_06_2012_BNG.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:02:50",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_04-BC-BNG_TT_06_2012_BNG_chunk_0002",
+        "doc_id": "Maudon_MAU_04-BC-BNG_TT_06_2012_BNG",
+        "text": "for interview:...\n\n6. Dự kiến phát hành/phát sóng/ Publication and broadcasting plan:\n\n...\n\nII. Thông tin về đoàn phóng viên/Details of media crew:\n\n1. Họ và tên/Full name:...\n\nChức vụ/Title:...\n\n2. Họ và tên/Full name:...\n\nChức vụ/Title:...\n\nCác phóng viên cam kết tuân thủ đầy đủ các quy định pháp luật hiện hành của Việt Nam.\nThe above mentioned correspondents hereby affirm to comply fully with Vietnamese laws and regulations.\n\n|  | Đại diện văn phòng báo chí nước ngoài<br>Representative of the foreign media’s resident office<br>(Ghi rõ họ tên, ký và đóng dấu)<br>(Full name, signature and seal) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_04-BC-BNG_TT_06_2012_BNG_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 618,
+            "source_file": "Maudon/MAU 04-BC-BNG_TT_06_2012_BNG.doc",
+            "file_name": "MAU 04-BC-BNG_TT_06_2012_BNG.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:02:50",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_02-67-2020-NDCP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_02-67-2020-NDCP",
+        "text": "Mẫu số 02\n\n| TÊN DOANH NGHIỆP<br>-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | ..., ngày ... tháng ... năm ... |\n\nTHÔNG BÁO HOẠT ĐỘNG TRỞ LẠI...\n\nKính gửi: Tổng cục Hải quan/Cục Hải quan tỉnh, thành phố.\n\n1. Doanh nghiệp thông báo hoạt động trở lại\n\n- Tên doanh nghiệp:...\n\n- Mã số thuế:...\n\n- Trụ sở chính tại:...\n\n- Số điện thoại:... Số fax:...\n\nGiấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư số: ……… ngày ... tháng …….. năm …………;\n\nCơ quan cấp:...\n\nNgành nghề kinh doanh:... (chỉ kê ngành nghề kinh doanh liên quan đến kinh doanh hàng miễn thuế, kho bãi, địa điểm).\n\n2. Đề nghị hoạt động trở lại... có vị trí tại...\n\n3. Cửa hàng miễn thuế, kho bãi, địa điểm hoạt động trở lại đã tạm dừng hoạt động theo Đơn đề nghị số ... ngày... tháng ... năm...của doanh nghiệp và Thông báo tạm dừng hoạt động số ... ngày...tháng ... năm... của Cục Hải quan/Tổng cục Hải quan.\n\n4. Lý do hoạt động trở lại:...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_02-67-2020-NDCP_chunk_0002",
+            "char_count": 984,
+            "source_file": "thongbao/MAU SO 02-67-2020-NDCP.doc",
+            "file_name": "MAU SO 02-67-2020-NDCP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:35:59",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_02-67-2020-NDCP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_02-67-2020-NDCP",
+        "text": "theo Đơn đề nghị số ... ngày... tháng ... năm...của doanh nghiệp và Thông báo tạm dừng hoạt động số ... ngày...tháng ... năm... của Cục Hải quan/Tổng cục Hải quan.\n\n4. Lý do hoạt động trở lại:...\n\n5. Hồ sơ kèm theo đơn:...\n\n- ...\n\nDoanh nghiệp cam đoan các nội dung trên là đúng; đồng thời chấp hành và thực hiện đúng các quy định pháp luật về hoạt động của ...\n\n|  | GIÁM ĐỐC DOANH NGHIỆP<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\nNguồn: Nghị định 67/2020/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_02-67-2020-NDCP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 470,
+            "source_file": "thongbao/MAU SO 02-67-2020-NDCP.doc",
+            "file_name": "MAU SO 02-67-2020-NDCP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:35:59",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

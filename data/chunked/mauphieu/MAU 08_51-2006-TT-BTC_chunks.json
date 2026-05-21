@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_08_51-2006-TT-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_08_51-2006-TT-BTC",
+        "text": "Mẫu số 8\n\n| Dấu treo của tổ chức bán đấu giá | Ban hành kèm theo Thông tư số 51/2006/TT-BTC ngày 12 tháng 6 năm 2006 |\n| --- | --- |\n\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự - Hạnh phúc\n\n..., .ngày...tháng... năm 200\n\n| Mã số: |\n| --- |\n\nPHIẾU THAM DỰ ĐẤU GIÁ MUA CÔNG TY NHÀ NƯỚC\n\nKính gửi:  Hội đồng đấu giá...\n\nTên tổ chức và cá nhân tham gia:\n\nĐịa chỉ:\n\nĐiện thoại, fax, e-mail:\n\nSố CMND/số ĐKKD (đối với tổ chức), cấp ngày ___/___/___ tại ___\n\nSố tài khoản (nếu có):\n\nChủ Tài khoản:\n\nNgân hàng:\n\nGiá khởi điểm theo thông báo: ___\n\nSố tiền đã đặt cọc : ___ bằng chữ:___\n\nSau khi nghiên cứu kỹ hồ sơ và nội quy phiên bán đấu giá công ty nhà n­ước, tôi (chúng tôi)  mong muốn mua Công ty   ___\n\nVới giá: ___ bằng chữ:\n\nChúng tôi tự nguyện và mong muốn được sử dụng số lao động (nếu có) như trong đơn đã đăng ký và loại hình của công ty mới là ___\n\nNhà đầu tư tham gia đấu giá.\n\nKý, ghi rõ họ, tên và đóng dấu (nếu có)\n\nCác lưu ý:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_08_51-2006-TT-BTC_chunk_0002",
+            "char_count": 939,
+            "source_file": "mauphieu/MAU 08_51-2006-TT-BTC.doc",
+            "file_name": "MAU 08_51-2006-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:54:02",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_08_51-2006-TT-BTC_chunk_0002",
+        "doc_id": "mauphieu_MAU_08_51-2006-TT-BTC",
+        "text": "nguyện và mong muốn được sử dụng số lao động (nếu có) như trong đơn đã đăng ký và loại hình của công ty mới là ___\n\nNhà đầu tư tham gia đấu giá.\n\nKý, ghi rõ họ, tên và đóng dấu (nếu có)\n\nCác lưu ý:\n\n1. Để đảm bảo tính hợp lệ của phiếu, nhà đầu tư cần kiểm tra dấu treo trên phiếu và đảm bảo: điền đầy đủ, rõ ràng các thông tin theo quy định, phiếu không đựoc tẩy xoá hoặc rách, giá đặt mua không thấp hơn giá khởi điểm đã thông báo.\n\n2. Phiếu tham dự đấu giá được bỏ trong phong bì dán kín, có chữ ký trên mép phong bì hoặc đóng dấu niêm phong nếu cần (đối với tổ chức) trên phong bì và ghi rõ trên phong bì: phiếu đấu giá mua công ty ...",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_08_51-2006-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 638,
+            "source_file": "mauphieu/MAU 08_51-2006-TT-BTC.doc",
+            "file_name": "MAU 08_51-2006-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:54:02",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

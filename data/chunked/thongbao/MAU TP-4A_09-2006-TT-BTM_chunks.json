@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_TP-4A_09-2006-TT-BTM_chunk_0001",
+        "doc_id": "thongbao_MAU_TP-4A_09-2006-TT-BTM",
+        "text": "Mẫu TB-4A\n\n| BỘ THƯƠNG MẠI <br>   Số:….. | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------------<br>      Hà nội, ngày... tháng... năm... |\n| --- | --- |\n\nTHÔNG BÁO\nTỪ CHỐI ĐĂNG KÝ HOẠT ĐỘNG\nNHƯỢNG QUYỀN THƯƠNG MẠI\n\nKính gửi:...\n\nSau khi xem xét hồ sơ đã nhận ngày... tháng... năm...của [tên thương nhân đăng ký] về việc đăng ký hoạt động nhượng quyền thương mại. Bộ Thương mại thông báo:\n\nTừ chối đăng ký hoạt động nhượng quyền thương mại  của [tên thương nhân đăng ký] với lý do .………………………………………………………………………………..\n\n| Nơi nhận:<br>-...;<br>-...;<br>- Lưu VT, … | TL. BỘ TRƯỞNG<br>VỤ TRƯỞNG VỤ KẾ HOẠCH VÀ ĐẦU TƯ<br>(Ký tên và đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 687,
+            "source_file": "thongbao/MAU TP-4A_09-2006-TT-BTM.doc",
+            "file_name": "MAU TP-4A_09-2006-TT-BTM.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:20:42",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_SO_05-45-2026-ND-CP_chunk_0001",
+        "doc_id": "totrinh_MAU_SO_05-45-2026-ND-CP",
+        "text": "Mẫu số 05. Mẫu tờ trình thẩm định/phê duyệt kế hoạch thuê dịch vụ công nghệ thông tin\n\n| TÊN CƠ QUAN, TỔ CHỨC TRÌNH<br>-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: . . . . . | . . . . , ngày. . . tháng. . . .năm. . . . . |\n\nTỜ TRÌNH\n\nThẩm định/phê duyệt kế hoạch thuê dịch vụ công nghệ thông tin\n\n(Tên hoạt động thuê) . . .\n\nKính gửi: … …\n\nCăn cứ Nghị định số …/…/NĐ-CP ngày … tháng … năm … của Chính phủ quy định về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước;\n\nCác căn cứ pháp lý khác có liên quan;\n\n(Tên cơ quan, tổ chức) trình thẩm định/phê duyệt kế hoạch thuê dịch vụ công nghệ thông tin … (Tên hoạt động thuê) … với các nội dung chính sau:\n\nI. THÔNG TIN CHUNG\n\n1. Tên hoạt động thuê:\n\n2. Chủ trì thuê:\n\n3. Tổ chức tư vấn lập kế hoạch thuê dịch vụ công nghệ thông tin (nếu có):\n\n4. Mục tiêu:\n\n5. Nội dung và quy mô:\n\n6. Địa điểm:\n\n7. Dự toán thuê dịch vụ công nghệ thông tin:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_SO_05-45-2026-ND-CP_chunk_0002",
+            "char_count": 991,
+            "source_file": "totrinh/MAU SO 05-45-2026-ND-CP.doc",
+            "file_name": "MAU SO 05-45-2026-ND-CP.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:21:34",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_SO_05-45-2026-ND-CP_chunk_0002",
+        "doc_id": "totrinh_MAU_SO_05-45-2026-ND-CP",
+        "text": "thuê:\n\n2. Chủ trì thuê:\n\n3. Tổ chức tư vấn lập kế hoạch thuê dịch vụ công nghệ thông tin (nếu có):\n\n4. Mục tiêu:\n\n5. Nội dung và quy mô:\n\n6. Địa điểm:\n\n7. Dự toán thuê dịch vụ công nghệ thông tin:\n\nTổng cộng:\n\nTrong đó:\n\n- Chi phí thuê dịch vụ công nghệ thông tin:\n\n- Chi phí quản lý:\n\n- Chi phí tư vấn:\n\n- Chi phí khác:\n\n- Chi phí dự phòng:\n\n8. Nguồn vốn:\n\n9. Thời gian thực hiện:\n\n10. Các nội dung khác:\n\nII. HỒ SƠ TRÌNH THẨM ĐỊNH/PHÊ DUYỆT\n\n…..\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: VT. | ĐẠI DIỆN TỔ CHỨC<br>(Ký, ghi rõ họ tên, chức vụ và đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_SO_05-45-2026-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 568,
+            "source_file": "totrinh/MAU SO 05-45-2026-ND-CP.doc",
+            "file_name": "MAU SO 05-45-2026-ND-CP.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:21:34",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

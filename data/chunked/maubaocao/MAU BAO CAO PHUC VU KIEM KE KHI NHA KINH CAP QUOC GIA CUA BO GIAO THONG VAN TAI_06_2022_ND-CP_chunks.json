@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_GIAO_THONG_VAN_TAI_06_2022_ND-CP_chunk_0001",
+        "doc_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_GIAO_THONG_VAN_TAI_06_2022_ND-CP",
+        "text": "Mẫu số 02\n\n| BỘ GIAO THÔNG VẬN TẢI<br>------------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>---------------- |\n| --- | --- |\n\nBÁO CÁO\n\nPhục vụ kiểm kê khí nhà kính cấp quốc gia của Bộ Giao thông vận tải năm ...\n\nI. Mô tả chung\n\n1. Tổ chức thực hiện kiểm kê khí nhà kính\n\n2. Phương pháp luận kiểm kê khí nhà kính\n\n3. Số liệu hoạt động và hệ số phát thải\n\n4. Kết quả đánh giá độ không chắc chắn\n\n5. Kiểm soát chất lượng và đảm bảo chất lượng (QA/QC)\n\nII. Hoạt động kiểm kê khí nhà kính năm ...\n\n(Trình bày chi tiết về phương pháp luận, số liệu hoạt động, hệ số phát thải và kết quả tính toán phát thải đối với từng hoạt động trong các lĩnh vực)\n\n1. Phát thải khí nhà kính từ các hoạt động vận tải hàng không\n\n2. Phát thải khí nhà kính từ các hoạt động vận tải đường bộ\n\n3. Phát thải khí nhà kính từ các hoạt động vận tải đường sắt\n\n4. Phát thải khí nhà kính từ các hoạt động vận tải đường thủy\n\nIII. Tổng hợp kết quả kiểm kê khí nhà kính",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_GIAO_THONG_VAN_TAI_06_2022_ND-CP_chunk_0002",
+            "char_count": 966,
+            "source_file": "maubaocao/MAU BAO CAO PHUC VU KIEM KE KHI NHA KINH CAP QUOC GIA CUA BO GIAO THONG VAN TAI_06_2022_ND-CP.doc",
+            "file_name": "MAU BAO CAO PHUC VU KIEM KE KHI NHA KINH CAP QUOC GIA CUA BO GIAO THONG VAN TAI_06_2022_ND-CP.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:17:22",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_GIAO_THONG_VAN_TAI_06_2022_ND-CP_chunk_0002",
+        "doc_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_GIAO_THONG_VAN_TAI_06_2022_ND-CP",
+        "text": "các hoạt động vận tải đường bộ\n\n3. Phát thải khí nhà kính từ các hoạt động vận tải đường sắt\n\n4. Phát thải khí nhà kính từ các hoạt động vận tải đường thủy\n\nIII. Tổng hợp kết quả kiểm kê khí nhà kính\n\n| STT | Nguồn phát thải | CO2 | CH4 | N2O | Tổng |\n| --- | --- | --- | --- | --- | --- |\n| I | GIAO THÔNG VẬN TẢI |  |  |  |  |\n| I.1 | Các hoạt động tiêu thụ năng lượng |  |  |  |  |\n| 1 | Hàng không |  |  |  |  |\n| 2 | Đường bộ |  |  |  |  |\n| 3 | Đường sắt |  |  |  |  |\n| 4 | Đường thủy |  |  |  |  |\n\nĐơn vị: nghìn tấn CO2tđ\n\nIV. Các cải thiện được thực hiện đối với quá trình kiểm kê khí nhà kính năm ...\n\nTrình bày những cải thiện đã được thực hiện trong quá trình kiểm kê khí nhà kính năm ... so với các năm trước đây (về phương pháp luận, thu thập số liệu hoạt động, hệ số phát thải)\n\nV. Kết luận và kiến nghị\n\n|  | THỦ TRƯỞNG CƠ QUAN |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_BAO_CAO_PHUC_VU_KIEM_KE_KHI_NHA_KINH_CAP_QUOC_GIA_CUA_BO_GIAO_THONG_VAN_TAI_06_2022_ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 860,
+            "source_file": "maubaocao/MAU BAO CAO PHUC VU KIEM KE KHI NHA KINH CAP QUOC GIA CUA BO GIAO THONG VAN TAI_06_2022_ND-CP.doc",
+            "file_name": "MAU BAO CAO PHUC VU KIEM KE KHI NHA KINH CAP QUOC GIA CUA BO GIAO THONG VAN TAI_06_2022_ND-CP.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:17:22",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

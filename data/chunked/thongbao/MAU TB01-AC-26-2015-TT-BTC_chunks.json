@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_TB01-AC-26-2015-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_TB01-AC-26-2015-TT-BTC",
+        "text": "| CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập  - Tự do - Hạnh phúc |\n| --- |\n\n| Mẫu: TB01/AC<br>(Ban hành kèm theo Thông tư số 26/2015/TT-BTC  ngày 27/02/2015 của Bộ Tài chính) |\n| --- |\n\nTHÔNG BÁO\n\nPhát hành hóa đơn\n\n(Dành cho tổ chức kinh doanh đặt in, tự in)\n\n1. Tên đơn vị phát hành hoá đơn:...\n\n2. Mã số thuế:...\n\n3. Địa chỉ trụ sở chính:...\n\n4. Điện thoại:...\n\n5. Các loại hoá đơn phát hành:\n\n| STT | Tên loại<br>hoá đơn | Mẫu số | Ký hiệu | Số lượng | Từ số | Đến số | Ngày bắt đầu sử dụng | Doanh nghiệp in/Doanh nghiệp cung cấp phần mềm | Doanh nghiệp in/Doanh nghiệp cung cấp phần mềm |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Tên loại<br>hoá đơn | Mẫu số | Ký hiệu | Số lượng | Từ số | Đến số | Ngày bắt đầu sử dụng | Tên | MST |\n|  | Hóa đơn GTGT |  | AA/15T |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n\n6. Thông tin đơn vị chủ quản (trường hợp tổ chức dùng hóa đơn của đơn vị chủ quản đặt in, tự in):",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_TB01-AC-26-2015-TT-BTC_chunk_0002",
+            "char_count": 985,
+            "source_file": "thongbao/MAU TB01-AC-26-2015-TT-BTC.doc",
+            "file_name": "MAU TB01-AC-26-2015-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:19:16",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_TB01-AC-26-2015-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_TB01-AC-26-2015-TT-BTC",
+        "text": "GTGT |  | AA/15T |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n\n6. Thông tin đơn vị chủ quản (trường hợp tổ chức dùng hóa đơn của đơn vị chủ quản đặt in, tự in):\n\n- Tên đơn vị:...\n\n- Mã số thuế:...\n\n7. Tên cơ quan thuế tiếp nhận thông báo:...\n\n| Ghi chú: Tổ chức tự in hóa đơn đặt in hoặc tự tạo phần mềm tự in hoá đơn để sử dụng không ghi cột Doanh nghiệp in/Doanh nghiệp cung cấp phần mềm. | ..., ngày...tháng...năm...<br>        NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT<br>      (Ký, đóng dấu và ghi rõ họ tên) |\n| --- | --- |\n\nNguồn: Thông tư 26/2015/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_TB01-AC-26-2015-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 588,
+            "source_file": "thongbao/MAU TB01-AC-26-2015-TT-BTC.doc",
+            "file_name": "MAU TB01-AC-26-2015-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:19:16",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_02a_DKT-PHU_LUC_VIII-02-2026-TT-BNNMT_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_02a_DKT-PHU_LUC_VIII-02-2026-TT-BNNMT",
+        "text": "Mẫu số 02a.ĐKT\n\nMẪU TỜ KHAI ĐĂNG KÝ TÀU CÁ\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\n..., ngày... tháng... năm...\n\nTỜ KHAI ĐĂNG KÝ TÀU CÁ\n\nKính gửi: ...\n\nHọ tên người đứng khai:...…………..\n\nThường trú tại: ...………….\n\nSố CCCD/CC:……………………...……………….\n\nSố điện thoại:………………………………………………………………………..\n\nĐề nghị cấp Giấy chứng nhận đăng ký tàu cá với nội dung sau:\n\n1. Đặc điểm cơ bản của tàu như sau:\n\nTên tàu: …...; Công dụng (nghề):…...\n\nNăm, nơi đóng: …...\n\nCảng đăng ký: …...\n\nThông số cơ bản của tàu (m):        Lmax =…...…; Bmax =…...…..; D =………….\n\nLtk   =………..; Btk…=……...; d =…...…….\n\nVật liệu vỏ: …...; Tổng dung tích (GT): …...\n\nTrọng tải toàn phần, (DW): …...Số thuyền viên,người…...\n\nNghề kiêm (nếu có):…...\n\nVùng hoạt động:…...\n\nMáy chính:\n\n| TT | Ký hiệu máy | Số máy | Công suất định mức, kW | Vòng quay định mức, rpm | Ghi chú |\n| --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_02a_DKT-PHU_LUC_VIII-02-2026-TT-BNNMT_chunk_0002",
+            "char_count": 968,
+            "source_file": "tokhai/MAU SO 02a.DKT-PHU LUC VIII-02-2026-TT-BNNMT.doc",
+            "file_name": "MAU SO 02a.DKT-PHU LUC VIII-02-2026-TT-BNNMT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:51:25",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02a_DKT-PHU_LUC_VIII-02-2026-TT-BNNMT_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_02a_DKT-PHU_LUC_VIII-02-2026-TT-BNNMT",
+        "text": "chính:\n\n| TT | Ký hiệu máy | Số máy | Công suất định mức, kW | Vòng quay định mức, rpm | Ghi chú |\n| --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n\n2. Họ tên, địa chỉ của từng chủ sở hữu (Nếu tàu thuộc sở hữu nhiều chủ)\n\n| TT | Họ và tên | Địa chỉ | Chứng minh nhân dân/căn cước công dân |\n| --- | --- | --- | --- |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n\nTôi xin cam đoan sử dụng tàu đúng nội dung đã đăng ký và chấp hành đúng các quy định của pháp luật Nhà nước.\n\n|  | ĐẠI DIỆN CHỦ TÀU<br>(Chữ ký/ký số -nếu có, ghi rõ họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "tokhai_MAU_SO_02a_DKT-PHU_LUC_VIII-02-2026-TT-BNNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 607,
+            "source_file": "tokhai/MAU SO 02a.DKT-PHU LUC VIII-02-2026-TT-BNNMT.doc",
+            "file_name": "MAU SO 02a.DKT-PHU LUC VIII-02-2026-TT-BNNMT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:51:25",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

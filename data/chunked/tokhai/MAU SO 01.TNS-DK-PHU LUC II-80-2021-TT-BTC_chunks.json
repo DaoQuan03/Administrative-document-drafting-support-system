@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_01_TNS-DK-PHU_LUC_II-80-2021-TT-BTC_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_01_TNS-DK-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTỜ KHAI CÁC KHOẢN THU VỀ HOA HỒNG DẦU KHÍ, TIỀN ĐỌC\n\nVÀ SỬ DỤNG TÀI LIỆU DẦU KHÍ\n\n[01] Kỳ tính thuế: Lần phát sinh ngày ... tháng ... năm ...\n\n[02] Lần đầu □          [03] Bổ sung lần thứ: ...\n\n[04] Tên người nộp thuế: ...\n\n[05] Mã số thuế người nộp thuế:\n\n[06] Hợp đồng dầu khí lô: ...\n\n[07] Mã số thuế hợp đồng dầu khí:\n\n[08] Địa chỉ nhà điều hành PSC: ...\n\n[09] Xã/phường/đặc khu: ... [10] Tỉnh/Thành phố: ...\n\n[11] Điện thoại: ... [12] Fax:  ... [13] E-mail: ...\n\n[14] Tên đơn vị được uỷ quyền [   ] hoặc Đại lý thuế [   ]: ...\n\n[15] Mã số thuế đơn vị được uỷ quyền/đại lý thuế\t:\n\n[16] Địa chỉ: ... [17] Xã/phường/đặc khu: ... [18] Tỉnh/Thành phố: ...\n\n[19] Điện thoại: ... [20] Fax:  ... [21] E-mail: ...\n\n[22] Hợp đồng uỷ quyền hoặc Hợp đồng đại lý thuế, số: ... ngày ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_01_TNS-DK-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+            "char_count": 842,
+            "source_file": "tokhai/MAU SO 01.TNS-DK-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01.TNS-DK-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:23",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_01_TNS-DK-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_01_TNS-DK-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "Địa chỉ: ... [17] Xã/phường/đặc khu: ... [18] Tỉnh/Thành phố: ...\n\n[19] Điện thoại: ... [20] Fax:  ... [21] E-mail: ...\n\n[22] Hợp đồng uỷ quyền hoặc Hợp đồng đại lý thuế, số: ... ngày ...\n\n| STT | Chỉ tiêu | Mã chỉ tiêu | Đơn vị tính | Số tiền |\n| --- | --- | --- | --- | --- |\n| 1 | Tiền thu hoa hồng chữ ký | [23] | USD |  |\n| 2 | Tiền thu hoa hồng phát hiện thương mại dầu, khí | [24] | USD |  |\n| 3 | Tiền thu hoa hồng sản xuất | [25] | USD |  |\n| 4 | Tiền đền bù do không thực hiện đầy đủ cam kết tối thiểu của nhà thầu trong các Hợp đồng dầu khí | [26] | USD |  |\n| 5 | Tiền đọc và sử dụng tài liệu dầu khí (100%) | [27] | USD |  |\n| 5.1 | Tiền đọc và sử dụng tài liệu dầu khí nộp NSNN | [28] | USD |  |\n\nTôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về số liệu đã khai./.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "tokhai_MAU_SO_01_TNS-DK-PHU_LUC_II-80-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": "tokhai_MAU_SO_01_TNS-DK-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+            "char_count": 807,
+            "source_file": "tokhai/MAU SO 01.TNS-DK-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01.TNS-DK-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:23",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_01_TNS-DK-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+        "doc_id": "tokhai_MAU_SO_01_TNS-DK-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "khí (100%) | [27] | USD |  |\n| 5.1 | Tiền đọc và sử dụng tài liệu dầu khí nộp NSNN | [28] | USD |  |\n\nTôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về số liệu đã khai./.\n\n| NHÂN VIÊN ĐẠI LÝ THUẾ<br>Họ và tên:...<br>Chứng chỉ hành nghề số:... | ..., ngày... tháng... năm...<br>NGƯỜI NỘP THUẾ hoặc <br>ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ<br>(Chữ ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có)/Ký điện tử) |\n| --- | --- |\n\nGhi chú:\n\n- Chỉ tiêu [04]: Tên người nộp thuế là Tập đoàn Dầu khí Việt Nam (Lô...).",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "tokhai_MAU_SO_01_TNS-DK-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 534,
+            "source_file": "tokhai/MAU SO 01.TNS-DK-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01.TNS-DK-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:23",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_04-TT-50-2015-TT-BCT_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_04-TT-50-2015-TT-BCT",
+        "text": "PHỤ LỤC 4\n\nMẪU PHIẾU ĐÁNH GIÁ CỦA THÀNH VIÊN HỘI ĐỒNG THẨM ĐỊNH DỰ ÁN QUY HOẠCH\n(Kèm theo Thông tư số 50/2015/TT-BCT ngày 28 tháng 12 năm 2015 của Bộ trưởng Bộ Công Thương)\n\n| …….(1)…….<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| HỘI ĐỒNG THẨM ĐỊNH DỰ ÁN QUY HOẠCH ….. (2)…. | ….., ngày    tháng    năm 20… |\n\nPHIẾU ĐÁNH GIÁ\n\nCủa thành viên Hội đồng thẩm định Dự án quy hoạch ...(2)...\n\nHọ và tên người đánh giá:\n\nChức vụ:\n\nChức danh trong Hội đồng: …………….(theo Quyết định thành lập Hội đồng thẩm định dự án quy hoạch …… (2) ... số …..ngày...tháng …..năm của ……(1) …..\n\nÝ KIẾN BIỂU QUYẾT ĐÁNH GIÁ\n\n1. Nhất trí thông qua dự án quy hoạch không cần chỉnh sửa bổ sung: □\n\n2. Thông qua dự án quy hoạch với điều kiện phải chỉnh sửa, bổ sung): □\n\nCác yêu cầu chỉnh sửa, bổ sung: ...\n\n...\n\n...\n\n3. Không thông qua dự án quy hoạch: □\n\nLý do không thông qua: ...\n\n...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_04-TT-50-2015-TT-BCT_chunk_0002",
+            "char_count": 929,
+            "source_file": "mauphieu/PHU LUC 04-TT-50-2015-TT-BCT.doc",
+            "file_name": "PHU LUC 04-TT-50-2015-TT-BCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:33:29",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_04-TT-50-2015-TT-BCT_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_04-TT-50-2015-TT-BCT",
+        "text": "sung: □\n\n2. Thông qua dự án quy hoạch với điều kiện phải chỉnh sửa, bổ sung): □\n\nCác yêu cầu chỉnh sửa, bổ sung: ...\n\n...\n\n...\n\n3. Không thông qua dự án quy hoạch: □\n\nLý do không thông qua: ...\n\n...\n\n4. Kiến nghị đối với các cơ quan có liên quan, đơn vị tư vấn lập quy hoạch, đơn vị thường trực thẩm định quy hoạch và Người phê duyệt quy hoạch (nếu có):\n\n|  | NGƯỜI BIỂU QUYẾT ĐÁNH GIÁ<br>(Ký và ghi rõ họ tên) |\n| --- | --- |\n\nGhi chú:\n\n(1) Cơ quan tổ chức lập quy hoạch\n\n(2) Tên dự án quy hoạch.\n\nNguồn: Thông tư 50/2015/TT-BCT",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_04-TT-50-2015-TT-BCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 529,
+            "source_file": "mauphieu/PHU LUC 04-TT-50-2015-TT-BCT.doc",
+            "file_name": "PHU LUC 04-TT-50-2015-TT-BCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:33:29",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

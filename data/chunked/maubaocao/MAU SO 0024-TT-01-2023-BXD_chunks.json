@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_0024-TT-01-2023-BXD_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_0024-TT-01-2023-BXD",
+        "text": "Mẫu số 0024. Báo cáo về tình hình hoạt động trong lĩnh vực vật liệu xây dựng\n\n| TÊN CƠ QUAN BÁO CÁO<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: .../BC-Chữ viết tắt tên cơ quan báo cáo | …., ngày ... tháng …. năm …. |\n\nBÁO CÁO\n\nTình hình hoạt động trong lĩnh vực vật liệu xây dựng\n\nI. Đánh giá tình hình hoạt động trong lĩnh vực vật liệu xây dựng tại địa phương\n\n1. Tình hình thực hiện quy hoạch các loại khoáng sản làm vật liệu xây dựng\n\n2. Hoạt động đầu tư, sản xuất vật liệu xây dựng\n\n3. Tình hình sử dụng vật liệu xây không nung\n\n4. Tình hình sử dụng vật liệu xây\n\n5. Tình hình xóa bỏ các lò sản xuất gạch đất sét nung thủ công tại địa phương\n\n6. Đề xuất các chính sách phát triển vật liệu xây dựng tiết kiệm tài nguyên khoáng sản, tiết kiệm năng lượng, thân thiện với môi trường.\n\nII. Các số liệu cụ thể:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_0024-TT-01-2023-BXD_chunk_0002",
+            "char_count": 884,
+            "source_file": "maubaocao/MAU SO 0024-TT-01-2023-BXD.doc",
+            "file_name": "MAU SO 0024-TT-01-2023-BXD.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:24:05",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_0024-TT-01-2023-BXD_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_0024-TT-01-2023-BXD",
+        "text": "đất sét nung thủ công tại địa phương\n\n6. Đề xuất các chính sách phát triển vật liệu xây dựng tiết kiệm tài nguyên khoáng sản, tiết kiệm năng lượng, thân thiện với môi trường.\n\nII. Các số liệu cụ thể:\n\n| TT | Chủng loại vật liệu xây dựng | Đơn vị tính | Công suất thiết kế | Sản lượng sản xuất thực tế | Giá trị sản lượng (tỷ đồng) |\n| --- | --- | --- | --- | --- | --- |\n| 1 | Xi măng | Tấn |  |  |  |\n| 2 | Gạch ốp lát | m2 |  |  |  |\n| 3 | Sứ vệ sinh | SP |  |  |  |\n| 4 | Kính xây dựng | m2 (QTC) |  |  |  |\n| 5 | Vôi công nghiệp | Tấn |  |  |  |\n| 6 | Vật liệu xây | Viên (QTC) |  |  |  |\n| - | Vật liệu xây nung | Viên (QTC) |  |  |  |\n| - | Vật liệu xây không nung | Viên (QTC) |  |  |  |\n| 7 | Tấm lợp fibro xi măng | m2 |  |  |  |\n| 8 | Đá ốp lát | m2 |  |  |  |\n| 9 | Đá xây dựng | m3 |  |  |  |\n| 10 | Cát xây dựng | m3 |  |  |  |\n\n| Nơi nhận:<br>- Tên cơ quan nhận báo cáo;<br>- Lưu: VT,... | ĐẠI DIỆN CƠ QUAN BÁO CÁO<br>(ký tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_SO_0024-TT-01-2023-BXD_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 966,
+            "source_file": "maubaocao/MAU SO 0024-TT-01-2023-BXD.doc",
+            "file_name": "MAU SO 0024-TT-01-2023-BXD.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:24:05",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

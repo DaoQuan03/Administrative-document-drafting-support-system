@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_10-TT-46-2015-TT-BCT_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_10-TT-46-2015-TT-BCT",
+        "text": "Mẫu số 10\n\n| TÊN CƠ QUAN CHỦ QUẢN<br>TÊN CƠ QUAN KIỂM TRA<br>-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số:          /TB-…. | ………, ngày   tháng    năm 20.. |\n\nTHÔNG BÁO\n\nVề việc sản phẩm được tiếp tục sản xuất, lưu thông\n\nCăn cứ Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007;\n\nCăn cứ Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chất lượng sản phẩm, hàng hóa;\n\nCăn cứ Thông tư số 46/2015/TT-BCT ngày 11 tháng 12 năm 2015 của Bộ Công Thương quy định kiểm tra về chất lượng sản phẩm trong sản xuất thuộc phạm vi quản lý của Bộ Công Thương;\n\nCăn cứ ….… (1);\n\nCăn cứ đề nghị của (tên cơ sở sản xuất)…;\n\nCăn cứ Thông báo kết quả thử nghiệm mẫu số         ngày\n\nXét đề nghị của trưởng đoàn kiểm tra….,\n\nTHÔNG BÁO\n\n1. Sản phẩm (tên sản phẩm, ký hiệu/mã hiệu…):\n\ncủa (tên cơ sở sản xuất), địa chỉ: …………... được tiếp tục sản xuất, lưu thông.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_10-TT-46-2015-TT-BCT_chunk_0002",
+            "char_count": 989,
+            "source_file": "thongbao/MAU SO 10-TT-46-2015-TT-BCT.doc",
+            "file_name": "MAU SO 10-TT-46-2015-TT-BCT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:54:45",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_10-TT-46-2015-TT-BCT_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_10-TT-46-2015-TT-BCT",
+        "text": "mẫu số         ngày\n\nXét đề nghị của trưởng đoàn kiểm tra….,\n\nTHÔNG BÁO\n\n1. Sản phẩm (tên sản phẩm, ký hiệu/mã hiệu…):\n\ncủa (tên cơ sở sản xuất), địa chỉ: …………... được tiếp tục sản xuất, lưu thông.\n\n2. (Tên cơ sở sản xuất) có trách nhiệm thực hiện Luật Chất lượng sản phẩm, hàng hóa, duy trì đảm bảo sản xuất sản phẩm phù hợp tiêu chuẩn công bố áp dụng/quy chuẩn kỹ thuật tương ứng.\n\n| Nơi nhận:<br>- Cơ sở sản xuất;<br>- Cơ quan liên quan (để phối hợp);<br>- Lưu: VT,… | THỦ TRƯỞNG CƠ QUAN KIỂM TRA<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\n(1) Chức năng, nhiệm vụ cơ quan kiểm tra.\n\nNguồn: Thông tư 46/2015/TT-BCT",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_10-TT-46-2015-TT-BCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 625,
+            "source_file": "thongbao/MAU SO 10-TT-46-2015-TT-BCT.doc",
+            "file_name": "MAU SO 10-TT-46-2015-TT-BCT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:54:45",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

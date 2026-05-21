@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-26-2014-TTLT-BYT-BCA_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_01-26-2014-TTLT-BYT-BCA",
+        "text": "Mẫu số 01\n\nBan hành kèm theo TTLT số 26/2014/TTLT-BYT-BCA ngày 23/7/2014\n\n| BỘ Y TẾ<br>SỞ Y TẾ ………..<br>Đơn vị ………….<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n\nPHIẾU YÊU CẦU\n\nXÉT NGHIỆM NỒNG ĐỘ CỒN TRONG MÁU\n\nHọ và tên người được lấy mẫu: …………………………………………………………\n\nTuổi: …………………………………………… Nam: ………………….. Nữ:...\n\nTình trạng người được lấy mẫu: …………………………………………………………\n\n………………………………………………………………………………………………..\n\n………………………………………………………………………………………………..\n\nTình trạng mẫu: …………………………………………………………………………….\n\nGiờ, ngày lấy mẫu xét nghiệm: ……………………………………………………………\n\nLưu ý:\n\n- Không sát trùng chỗ lấy máu bằng cồn;\n\n- Dùng ống không có chất đông và có nút kín;\n\n- Chuyển ngay mẫu đến cơ sở có điều kiện làm xét nghiệm cồn và phiếu trả kết quả phải ghi rõ giờ làm xét nghiệm, sau đó lưu mẫu ở 4oC.\n\n|  | Giờ ……., ngày ….. tháng ….. năm…..<br>BÁC SĨ CHỈ ĐỊNH XÉT NGHIỆM<br>(Ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_01-26-2014-TTLT-BYT-BCA_chunk_0002",
+            "char_count": 959,
+            "source_file": "mauphieu/MAU SO 01-26-2014-TTLT-BYT-BCA.doc",
+            "file_name": "MAU SO 01-26-2014-TTLT-BYT-BCA.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:31:25",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-26-2014-TTLT-BYT-BCA_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_01-26-2014-TTLT-BYT-BCA",
+        "text": "xét nghiệm cồn và phiếu trả kết quả phải ghi rõ giờ làm xét nghiệm, sau đó lưu mẫu ở 4oC.\n\n|  | Giờ ……., ngày ….. tháng ….. năm…..<br>BÁC SĨ CHỈ ĐỊNH XÉT NGHIỆM<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\nNguồn: Thông tư liên tịch 26/2014/TTLT-BYT-BCA",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-26-2014-TTLT-BYT-BCA_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 247,
+            "source_file": "mauphieu/MAU SO 01-26-2014-TTLT-BYT-BCA.doc",
+            "file_name": "MAU SO 01-26-2014-TTLT-BYT-BCA.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:31:25",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

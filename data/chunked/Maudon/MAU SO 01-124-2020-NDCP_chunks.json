@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_01-124-2020-NDCP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_01-124-2020-NDCP",
+        "text": "Mẫu số 01\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\n..., ngày... tháng... năm...\n\nĐƠN KHIẾU NẠI\n\nKính gửi: (1)\n\nHọ và tên người khiếu nại:... ;\n\nĐịa chỉ:... (2);\n\nSố CMND/Hộ chiếu/Thẻ căn cước công dân... , ngày cấp... , nơi cấp: ...(3).\n\nTên của cơ quan, tổ chức, cá nhân bị khiếu nại:... ;\n\nĐịa chỉ:... (4);\n\nKhiếu nại về việc:... (5);\n\nNội dung khiếu nại:... (6).\n\n(Tài liệu, chứng cứ kèm theo - nếu có).\n\n|  | NGƯỜI KHIẾU NẠI<br>(Chữ ký hoặc điểm chỉ)<br><br><br>Họ và tên |\n| --- | --- |\n\nGhi chú:\n\n(1) Tên cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết khiếu nại.\n\n(2) Họ, tên và địa chỉ của người khiếu nại:\n\n- Nếu là người đại diện của cơ quan, tổ chức thực hiện việc khiếu nại thì ghi rõ chức danh, tên cơ quan, tổ chức mà mình được đại diện;\n\n- Nếu là người được ủy quyền khiếu nại thì ghi rõ cơ quan, tổ chức, cá nhân ủy quyền.\n\n(3) Nếu người khiếu nại không có CMND/Hộ chiếu/Thẻ căn cước công dân thì ghi các thông tin theo giấy tờ tùy thân.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_01-124-2020-NDCP_chunk_0002",
+            "char_count": 996,
+            "source_file": "Maudon/MAU SO 01-124-2020-NDCP.doc",
+            "file_name": "MAU SO 01-124-2020-NDCP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:14:33",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_01-124-2020-NDCP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_01-124-2020-NDCP",
+        "text": "Nếu là người được ủy quyền khiếu nại thì ghi rõ cơ quan, tổ chức, cá nhân ủy quyền.\n\n(3) Nếu người khiếu nại không có CMND/Hộ chiếu/Thẻ căn cước công dân thì ghi các thông tin theo giấy tờ tùy thân.\n\n(4) Tên và địa chỉ của cơ quan, tổ chức, cá nhân bị khiếu nại.\n\n(5) Khiếu nại quyết định hành chính, hành vi hành chính về việc gì (ghi rõ khiếu nại lần đầu hoặc lần hai).\n\n(6) Ghi tóm tắt nội dung khiếu nại; ghi rõ cơ sở của việc khiếu nại; yêu cầu giải quyết khiếu nại.\n\nNguồn: Nghị định 124/2020/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_01-124-2020-NDCP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 504,
+            "source_file": "Maudon/MAU SO 01-124-2020-NDCP.doc",
+            "file_name": "MAU SO 01-124-2020-NDCP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:14:33",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

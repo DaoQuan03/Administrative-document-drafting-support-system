@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_7_PHU_LUC_7_88-2023-ND-CP_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_7_PHU_LUC_7_88-2023-ND-CP",
+        "text": "Mẫu số 07 Phụ lục VII\n\n| UBND TỈNH, THÀNH PHỐ……<br>……………….<br>-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| [Số văn bản đến]<br>Ngày…/…./…… | ….., ngày ……. tháng ……. năm ……. |\n\nPHIẾU TIẾP NHẬN\n\nHỒ SƠ KÊ KHAI LẠI GIÁ THUỐC\n\n1. Cơ sở kê khai: .……………….…………….…………………………………..\n\nĐịa chỉ: .…………….…………………………….………………………………..\n\nĐiện thoại: .…………….…………………………….…………………………….\n\n2. Số văn bản kê khai lại: .…………….……………………….…….…………..\n\n3. Thông tin thuốc kê khai lại:\n\n| Tên thuốc | Số Giấy đăng ký lưu hành | Nồng độ/ hàm lượng | Quy cách đóng gói |\n| --- | --- | --- | --- |\n|  |  |  |  |\n\n4. Danh mục hồ sơ:\n\n| Bảng kê khai lại giá thuốc | □ |\n| --- | --- |\n| Tài liệu khác (Ghi rõ):<br>.…………….……………………….………………………….………..<br>.…………….……………………….…………….……………………..<br>.…………….……………………….…………….……………………..<br>.…………….……………………….…………….…………………….. | □<br>□<br>□<br>□ |\n\nGhi chú:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_7_PHU_LUC_7_88-2023-ND-CP_chunk_0002",
+            "char_count": 914,
+            "source_file": "mauphieu/MAU SO 7 PHU LUC 7_88-2023-ND-CP.doc",
+            "file_name": "MAU SO 7 PHU LUC 7_88-2023-ND-CP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:21:08",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_7_PHU_LUC_7_88-2023-ND-CP_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_7_PHU_LUC_7_88-2023-ND-CP",
+        "text": "liệu khác (Ghi rõ):<br>.…………….……………………….………………………….………..<br>.…………….……………………….…………….……………………..<br>.…………….……………………….…………….……………………..<br>.…………….……………………….…………….…………………….. | □<br>□<br>□<br>□ |\n\nGhi chú:\n\n- Phiếu tiếp nhận này chỉ có giá trị xác nhận cơ sở đã tiến hành thủ tục kê khai giá thuốc theo quy định tại Nghị định số ……\n\n- Giá thuốc kê khai, kê khai lại sẽ được công bố trên Cổng thông tin điện tử của Bộ Y tế theo quy định.\n\n|  | NGƯỜI NHẬN HỒ SƠ<br>(Ký và ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_7_PHU_LUC_7_88-2023-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 493,
+            "source_file": "mauphieu/MAU SO 7 PHU LUC 7_88-2023-ND-CP.doc",
+            "file_name": "MAU SO 7 PHU LUC 7_88-2023-ND-CP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:21:08",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

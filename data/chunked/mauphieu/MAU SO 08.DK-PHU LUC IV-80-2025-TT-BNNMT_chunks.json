@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_08_DK-PHU_LUC_IV-80-2025-TT-BNNMT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_08_DK-PHU_LUC_IV-80-2025-TT-BNNMT",
+        "text": "Mẫu số 08.ĐK\n\nThông báo kết quả thẩm định/kiểm tra việc duy trì điều kiện ATTP không đạt yêu cầu\n\n| CƠ QUAN CHỦ QUẢN<br>TÊN CƠ QUAN THẨM QUYỀN<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số:    /…….<br>V/v: kết quả thẩm định/kiểm tra việc duy trì điều kiện ATTP | ……, ngày    tháng    năm |\n\nKính gửi:... (tên Cơ sở đăng ký)...\n\nSau khi xem xét Biên bản thẩm định điều kiện bảo đảm an toàn thực phẩm (ATTP)/ kiểm tra việc duy trì điều kiện ATTP ngày … đối với (tên Cơ sở đăng ký) ………………… (Địa chỉ: …………….) do Đoàn thẩm định/ kiểm tra của (tên Cơ quan thẩm quyền) thực hiện, (tên Cơ quan thẩm quyền) thông báo như sau:\n\n1. Kết quả thẩm định/kiểm tra điều kiện bảo đảm ATTP của Cơ sở không đạt theo yêu cầu quy định của Việt Nam và các thị trường đăng ký xuất khẩu do Cơ sở chưa khắc phục còn tồn tại các điểm không phù hợp theo Biên bản thẩm định/kiểm tra ngày … (quy định tại khoản…., Điều….Thông tư ….). . cụ thể……..",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_08_DK-PHU_LUC_IV-80-2025-TT-BNNMT_chunk_0002",
+            "char_count": 990,
+            "source_file": "mauphieu/MAU SO 08.DK-PHU LUC IV-80-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 08.DK-PHU LUC IV-80-2025-TT-BNNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:05:20",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_08_DK-PHU_LUC_IV-80-2025-TT-BNNMT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_08_DK-PHU_LUC_IV-80-2025-TT-BNNMT",
+        "text": "Việt Nam và các thị trường đăng ký xuất khẩu do Cơ sở chưa khắc phục còn tồn tại các điểm không phù hợp theo Biên bản thẩm định/kiểm tra ngày … (quy định tại khoản…., Điều….Thông tư ….). . cụ thể……..\n\n2. Đề nghị cơ sở khắc phục triệt để các điểm không phù hợp và gửi báo cáo kèm theo bằng chứng khắc phục về (tên Cơ quan thẩm quyền) trong thời hạn 30 ngày làm việc kể từ ngày thông báo để được thẩm tra theo qui định.\n\nTrân trọng./.\n\n| Nơi nhận:<br>- Như trên;<br>-…………<br>- Lưu. | Lãnh đạo Cơ quan thẩm quyền<br>(Ký tên, đóng dấu/chữ ký số) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_08_DK-PHU_LUC_IV-80-2025-TT-BNNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 557,
+            "source_file": "mauphieu/MAU SO 08.DK-PHU LUC IV-80-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 08.DK-PHU LUC IV-80-2025-TT-BNNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:05:20",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    }
+]

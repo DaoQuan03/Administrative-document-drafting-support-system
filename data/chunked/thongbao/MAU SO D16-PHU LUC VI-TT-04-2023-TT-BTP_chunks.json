@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_D16-PHU_LUC_VI-TT-04-2023-TT-BTP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_D16-PHU_LUC_VI-TT-04-2023-TT-BTP",
+        "text": "|  | Mẫu số: D16-THADS<br>(Ban hành kèm theo Thông tư số 04/2023/TT-BTP <br>ngày 14/8/2023 của Bộ Tư pháp) |\n| --- | --- |\n\n| TỔNG CỤC (CỤC) THADS... | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |\n| --- | --- |\n| CỤC (CHI CỤC) THADS <br>tỉnh (huyện)... | Độc lập - Tự do - Hạnh phúc |\n|  |  |\n| Số:.../TB-THADS | ..., ngày... tháng... năm 20... |\n\nTHÔNG BÁO\n\nVề việc tạm đình chỉ thi hành án\n\nCăn cứ khoản 1 Điều 49 Luật Thi hành án dân sự;\n\nCăn cứ Bản án, Quyết định số:... ngày... tháng... năm... của ...;\n\nCăn cứ Quyết định thi hành án số... ngày... tháng... năm... của Cục (Chi cục) Thi hành án dân sự...;\n\nCăn cứ Quyết định số... ngày... tháng... năm 20... của...\n\nCục (Chi cục) Thi hành án dân sự... thông báo cho... ...,\n\nĐịa chỉ:...\n\nVề việc tạm đình chỉ thi hành án đối với các khoản:\n\n... ... ... ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_D16-PHU_LUC_VI-TT-04-2023-TT-BTP_chunk_0002",
+            "char_count": 802,
+            "source_file": "thongbao/MAU SO D16-PHU LUC VI-TT-04-2023-TT-BTP.doc",
+            "file_name": "MAU SO D16-PHU LUC VI-TT-04-2023-TT-BTP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:17:01",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_D16-PHU_LUC_VI-TT-04-2023-TT-BTP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_D16-PHU_LUC_VI-TT-04-2023-TT-BTP",
+        "text": "cứ Quyết định số... ngày... tháng... năm 20... của...\n\nCục (Chi cục) Thi hành án dân sự... thông báo cho... ...,\n\nĐịa chỉ:...\n\nVề việc tạm đình chỉ thi hành án đối với các khoản:\n\n... ... ... ...\n\nThời gian tạm đình chỉ kể từ ngày... tháng... năm...cho đến khi có quyết định của cơ quan có thẩm quyền. Trong thời gian tạm đình chỉ thi hành án, người phải thi hành án không phải chịu lãi suất chậm thi hành án.\n\nCục (Chi cục) Thi hành án dân sự... thông báo để... biết./.\n\n| Nơi nhận:<br>- Chánh án TAND...;<br>- Viện trưởng VKSND...;<br>- Các đương sự;<br>- Lưu: VT, Hồ sơ THA. | CỤC (CHI CỤC) TRƯỞNG |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_D16-PHU_LUC_VI-TT-04-2023-TT-BTP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 616,
+            "source_file": "thongbao/MAU SO D16-PHU LUC VI-TT-04-2023-TT-BTP.doc",
+            "file_name": "MAU SO D16-PHU LUC VI-TT-04-2023-TT-BTP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:17:01",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

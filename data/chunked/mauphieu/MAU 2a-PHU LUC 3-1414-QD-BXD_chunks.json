@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_2a-PHU_LUC_3-1414-QD-BXD_chunk_0001",
+        "doc_id": "mauphieu_MAU_2a-PHU_LUC_3-1414-QD-BXD",
+        "text": "|  |  | Mẫu 2a |\n| --- | --- | --- |\n| CƠ QUAN CHỦ QUẢN<br>ĐƠN VỊ ...1<br>------- | ..., ngày ... tháng ... năm ... | ..., ngày ... tháng ... năm ... |\n|  |  |  |\n\nPHIẾU LẤY Ý KIẾN\n\n(tại Hội nghị Bước ...)2\n\nGiới thiệu nhân sự đề nghị bổ nhiệm giữ chức ...3\n\nCăn cứ cơ cấu, tiêu chuẩn, điều kiện chức danh đề nghị bổ nhiệm và yêu cầu nhiệm vụ và khả năng đáp ứng của nhân sự; đề nghị đồng chí giới thiệu nhân sự đủ điều kiện, tiêu chuẩn để đề nghị cấp có thẩm quyền bổ nhiệm giữ chức...3:\n\n| TT | Họ và tên | Ngày, tháng, năm sinh | Chức vụ, đơn vị công tác hiện tại | Ghi chú |\n| --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |\n\nGhi chú:\n\n- Người ghi phiếu chỉ được giới thiệu 01 người.\n\n- Người ghi phiếu không cần: Ký, ghi họ tên của mình.\n\n___\n\n1 Tên đơn vị đề nghị bổ nhiệm\n\n2 Ghi rõ Bước 2 hoặc Bước 3;\n\n3 Chức danh đề nghị bổ nhiệm.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 839,
+            "source_file": "mauphieu/MAU 2a-PHU LUC 3-1414-QD-BXD.doc",
+            "file_name": "MAU 2a-PHU LUC 3-1414-QD-BXD.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:02:24",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_BIEU_MAU_18-16-2025-TT-BCT_chunk_0001",
+        "doc_id": "mauphieu_BIEU_MAU_18-16-2025-TT-BCT",
+        "text": "Biểu mẫu 18 - Đăng ký tài khoản truy cập hệ thống thông tin\n\n| CÔNG TY …… | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | …, ngày … tháng … năm … |\n\nPHIẾU ĐĂNG KÝ CẤP TÀI KHOẢN NGƯỜI DÙNG TRUY CẬP CỔNG THÔNG TIN ĐIỆN TỬ THỊ TRƯỜNG ĐIỆN\n\nKính gửi: Công ty Vận hành hệ thống điện và thị trường điện Quốc gia\n\nĐơn vị đăng ký: Công ty ………\n\nĐiện thoại: ………;               Fax:………;             Email: ………\n\nĐề nghị Công ty Vận hành hệ thống điện và thị trường điện Quốc gia (Đơn vị vận hành hệ thống điện và thị trường điện) cấp quyền truy cập cho các tài khoản có mục đích sử dụng đăng ký dưới đây truy cập hệ thống thông tin thị trường.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_BIEU_MAU_18-16-2025-TT-BCT_chunk_0002",
+            "char_count": 691,
+            "source_file": "mauphieu/BIEU MAU 18-16-2025-TT-BCT.doc",
+            "file_name": "BIEU MAU 18-16-2025-TT-BCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:41:29",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_BIEU_MAU_18-16-2025-TT-BCT_chunk_0002",
+        "doc_id": "mauphieu_BIEU_MAU_18-16-2025-TT-BCT",
+        "text": "điện và thị trường điện Quốc gia (Đơn vị vận hành hệ thống điện và thị trường điện) cấp quyền truy cập cho các tài khoản có mục đích sử dụng đăng ký dưới đây truy cập hệ thống thông tin thị trường.\n\n| STT | Mục đích sử dụng | Ghi chú |\n| --- | --- | --- |\n| 1 | Xem thông tin vận hành hệ thống trên trang web | Trang web công bố các thông tin công khai đại chúng về hệ thống điện và thị trường điện tới người dùng và phục vụ trao đổi thông tin vận hành hệ thống giữa Công ty Vận hành hệ thống điện và thị trường điện Quốc gia và các đơn vị. |\n| 2 | Công bố thông tin vận hành hệ thống trên trang web | Trang web công bố các thông tin công khai đại chúng về hệ thống điện và thị trường điện tới người dùng và phục vụ trao đổi thông tin vận hành hệ thống giữa Công ty Vận hành hệ thống điện và thị trường điện Quốc gia và các đơn vị. |\n| 3 | Xem thông tin vận hành thị trường trên trang web | Trang web phục vụ chào giá và trao đổi thông tin nội bộ thị trường điện giữa Công ty Vận hành hệ thống điện và thị trường điện Quốc gia và các đơn vị. |\n| 4 | Công bố thông tin thị trường điện, chào giá qua trang web và chào giá qua đường FTP. | Trang web phục vụ chào giá và trao đổi thông tin nội bộ thị trường điện giữa Công ty Vận hành hệ thống điện và thị trường điện Quốc gia và các đơn vị. |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_BIEU_MAU_18-16-2025-TT-BCT_chunk_0001",
+            "next_chunk_id": "mauphieu_BIEU_MAU_18-16-2025-TT-BCT_chunk_0003",
+            "char_count": 1289,
+            "source_file": "mauphieu/BIEU MAU 18-16-2025-TT-BCT.doc",
+            "file_name": "BIEU MAU 18-16-2025-TT-BCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:41:29",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_BIEU_MAU_18-16-2025-TT-BCT_chunk_0003",
+        "doc_id": "mauphieu_BIEU_MAU_18-16-2025-TT-BCT",
+        "text": "giá qua trang web và chào giá qua đường FTP. | Trang web phục vụ chào giá và trao đổi thông tin nội bộ thị trường điện giữa Công ty Vận hành hệ thống điện và thị trường điện Quốc gia và các đơn vị. |\n\nChúng tôi xin cam đoan sẽ sử dụng các thông tin và dịch vụ trên hệ thống thông tin thị trường theo đúng quy định hiện hành về thị trường điện và Luật Điện lực. Nếu sử dụng sai quy định chúng tôi xin hoàn toàn chịu trách nhiệm.\n\n|  | Giám đốc<br>(ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_BIEU_MAU_18-16-2025-TT-BCT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 491,
+            "source_file": "mauphieu/BIEU MAU 18-16-2025-TT-BCT.doc",
+            "file_name": "BIEU MAU 18-16-2025-TT-BCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:41:29",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

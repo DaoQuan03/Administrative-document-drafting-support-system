@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC-365-TTYQG-GPQLCL_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC-365-TTYQG-GPQLCL",
+        "text": "PHỤ LỤC\n\nPHIẾU KHẢO SÁT DÀNH CHO CƠ SỞ KHÁM BỆNH, CHỮA BỆNH\n(Ban hành kèm theo Công văn số 365/TTYQG-GPQLCL ngày 06 tháng 6 năm 2025 của Giám đốc Trung tâm Thông tin y tế Quốc gia)\n\nPHẦN I. THÔNG TIN CHUNG\n\nA. THÔNG TIN VỀ ĐƠN VỊ ĐƯỢC KHẢO SÁT\n\nA1. Tên đơn vị:\n\nA2. Địa chỉ:\n\nA3. Điện thoại:\n\nA4. Email:\n\nA5. Website:\n\nA6. Phân nhóm tự chủ: □Nhóm 1 □Nhóm 2 □Nhóm 3 □Nhóm 4\n\nB. THÔNG TIN VỀ CÁN BỘ ĐIỀN PHIẾU KHẢO SÁT\n\nB1. Họ và tên:...\n\nB2. Chức vụ:...\n\nB3. Bộ phận công tác:...\n\nB4. Điện thoại cơ quan:... Di động: ...\n\nB5. Email: ...\n\nPHẦN II. NỘI DUNG KHẢO SÁT\n\nC. PHƯƠNG ÁN TRIỂN KHAI BỆNH ÁN ĐIỆN TỬ\n\nC1. Đơn vị đang sử dụng phần mềm HIS của nhà cung cấp nào?\n\n...\n\n...\n\nC2. Nhà cung cấp HIS có cam kết triển khai EMR?\n\n□ Có\n\n□ Không\n\nC2.1. Phương án triển khai EMR:\n\n□ Là một phân hệ của HIS\n\n□ Phần mềm EMR độc lập\n\nC2.2. Nhà cung cấp HIS có đáp ứng truy xuất dữ liệu liên thông?\n\n□ Có\n\n□ Không\n\nC2.2.1. HIS có đáp ứng kết xuất dữ liệu theo chuẩn HL7 CDA hoặc HL7 FHIR không?\n\n□ Có\n\n□ Không",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC-365-TTYQG-GPQLCL_chunk_0002",
+            "char_count": 997,
+            "source_file": "mauphieu/PHU LUC-365-TTYQG-GPQLCL.doc",
+            "file_name": "PHU LUC-365-TTYQG-GPQLCL.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:52:47",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC-365-TTYQG-GPQLCL_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC-365-TTYQG-GPQLCL",
+        "text": "Phần mềm EMR độc lập\n\nC2.2. Nhà cung cấp HIS có đáp ứng truy xuất dữ liệu liên thông?\n\n□ Có\n\n□ Không\n\nC2.2.1. HIS có đáp ứng kết xuất dữ liệu theo chuẩn HL7 CDA hoặc HL7 FHIR không?\n\n□ Có\n\n□ Không\n\nC2.2.2. HIS có đáp ứng thực hiện API theo yêu cầu cụ thể không?\n\n□ Có\n\n□ Không\n\nC2.3. HIS có hỗ trợ kết xuất dữ liệu kèm mô tả CSDL?\n\n□ Có\n\n□ Không\n\nC2.4. Trong trường hợp cần thiết để triển khai bệnh án điện tử (EMR), đơn vị cân nhắc phương án nào sau đây?\n\n□ Tiếp tục làm việc với nhà cung cấp HIS hiện tại để triển khai EMR\n\n□ Cân nhắc thay đổi nhà cung cấp phần mềm HIS\n\n□ Tìm kiếm giải pháp EMR độc lập với hệ thống HIS\n\n□ Ý kiến khác:\n\nD. HẠ TẦNG VÀ AN TOÀN THÔNG TIN\n\nD1. Hạ tầng triển khai EMR:\n\n□ Tại đơn vị\n\nD1.1. Hạ tầng đã đạt ATTT cấp độ 2[1]?\n\n□ Đáp ứng\n\n□ Chưa đáp ứng\n\nD1.1.1. Nguyên nhân chưa đáp ứng:\n\n□ Chưa có quy chế ATTT\n\n□ Thiếu kinh phí đầu tư\n\n□ Thiếu kinh phí duy trì\n\n□ Thiếu nhân lực\n\n□ Khác: ...\n\n□ Thuê Cloud\n\nD2. Đơn vị có phương án lưu trữ dự phòng dữ liệu?\n\n□ Có",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_PHU_LUC-365-TTYQG-GPQLCL_chunk_0001",
+            "next_chunk_id": "mauphieu_PHU_LUC-365-TTYQG-GPQLCL_chunk_0003",
+            "char_count": 993,
+            "source_file": "mauphieu/PHU LUC-365-TTYQG-GPQLCL.doc",
+            "file_name": "PHU LUC-365-TTYQG-GPQLCL.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:52:47",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC-365-TTYQG-GPQLCL_chunk_0003",
+        "doc_id": "mauphieu_PHU_LUC-365-TTYQG-GPQLCL",
+        "text": "nhân chưa đáp ứng:\n\n□ Chưa có quy chế ATTT\n\n□ Thiếu kinh phí đầu tư\n\n□ Thiếu kinh phí duy trì\n\n□ Thiếu nhân lực\n\n□ Khác: ...\n\n□ Thuê Cloud\n\nD2. Đơn vị có phương án lưu trữ dự phòng dữ liệu?\n\n□ Có\n\nD2.1. Phương án lưu trữ:\n\n□ Lưu tại đơn vị\n\n□ Lưu tại nhà cung cấp\n\n□ Cả hai\n\n□ Không\n\nE. TỔ CHỨC / THỂ CHẾ\n\nE1. Đã ban hành Quy chế lập, cập nhật, quản lý, lưu trữ và sử dụng hồ sơ bệnh án điện tử?\n\n□ Có\n\n□ Không\n\nE2. Có quy định trách nhiệm cá nhân/khoa phòng với từng biểu mẫu hồ sơ?\n\n□ Có\n\n□ Không\n\nE3. Có quy định trách nhiệm cá nhân theo từng tác vụ phần mềm?\n\n□ Có\n\n□ Không\n\nF. LIÊN THÔNG DỮ LIỆU\n\nF1. Đơn vị đã xây dựng kho dữ liệu tích hợp?\n\n□ Có\n\n□ Không\n\nF1.1. Có CSDL độc lập cho BAĐT?\n\n□ Có\n\n□ Không\n\nF2. Đơn vị đang kết nối với hệ thống/CSDL nào?\n\n...\n\n...\n\nPHẦN III. Ý KIẾN ĐỀ XUẤT\n\n(Tất cả các ý kiến đề xuất trong việc triển khai hồ sơ bệnh án điện tử)\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_PHU_LUC-365-TTYQG-GPQLCL_chunk_0002",
+            "next_chunk_id": "mauphieu_PHU_LUC-365-TTYQG-GPQLCL_chunk_0004",
+            "char_count": 906,
+            "source_file": "mauphieu/PHU LUC-365-TTYQG-GPQLCL.doc",
+            "file_name": "PHU LUC-365-TTYQG-GPQLCL.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:52:47",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC-365-TTYQG-GPQLCL_chunk_0004",
+        "doc_id": "mauphieu_PHU_LUC-365-TTYQG-GPQLCL",
+        "text": "Đơn vị đang kết nối với hệ thống/CSDL nào?\n\n...\n\n...\n\nPHẦN III. Ý KIẾN ĐỀ XUẤT\n\n(Tất cả các ý kiến đề xuất trong việc triển khai hồ sơ bệnh án điện tử)\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n| ………, ngày……tháng...năm 2025<br>Người cung cấp thông tin<br>(Ký và ghi rõ họ tên) | ………, ngày …. tháng … năm 2025<br>Xác nhận của đơn vị<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\n[1] Quy định tại Nghị định số 85/2016/NĐ-CP ngày 01/7/2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ; Thông tư số 12/2022/TT-BTTTT ngày 12/8/2022 của Bộ Thông tin và Truyền thông quy định chi tiết và hướng dẫn một số điều của Nghị định số 85/2016/NĐ-CP ngày 01/7/2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ; Tiêu chuẩn Quốc gia 11930:2017 về Công nghệ thông tin - Các kỹ thuật an toàn - Yêu cầu cơ bản về an toàn hệ thống thông tin theo cấp độ.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_PHU_LUC-365-TTYQG-GPQLCL_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 874,
+            "source_file": "mauphieu/PHU LUC-365-TTYQG-GPQLCL.doc",
+            "file_name": "PHU LUC-365-TTYQG-GPQLCL.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:52:47",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

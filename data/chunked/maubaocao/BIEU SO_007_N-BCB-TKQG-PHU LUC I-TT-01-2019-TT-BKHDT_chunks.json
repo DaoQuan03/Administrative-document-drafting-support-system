@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_SO_007_N-BCB-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT_chunk_0001",
+        "doc_id": "maubaocao_BIEU_SO_007_N-BCB-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT",
+        "text": "| Biểu số: 007.N/BCB-TKQG<br>Ban hành theo ………<br>Ngày nhận báo cáo:<br>Chính thức năm: Ngày 31/3 năm sau | BÁO CÁO CHÍNH THỨC SỐ NGƯỜI HƯỞNG BẢO HIỂM XÃ HỘI, BẢO HIỂM Y TẾ, BẢO HIỂM THẤT NGHIỆP<br>Năm……. | - Đơn vị báo cáo: Cục Thống kê ……<br>- Đơn vị nhận báo cáo: Tổng cục Thống kê |\n| --- | --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_BIEU_SO_007_N-BCB-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT_chunk_0002",
+            "char_count": 306,
+            "source_file": "maubaocao/BIEU SO_007_N-BCB-TKQG-PHU LUC I-TT-01-2019-TT-BKHDT.doc",
+            "file_name": "BIEU SO_007_N-BCB-TKQG-PHU LUC I-TT-01-2019-TT-BKHDT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:05:29",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_SO_007_N-BCB-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT_chunk_0002",
+        "doc_id": "maubaocao_BIEU_SO_007_N-BCB-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT",
+        "text": "BÁO CÁO CHÍNH THỨC SỐ NGƯỜI HƯỞNG BẢO HIỂM XÃ HỘI, BẢO HIỂM Y TẾ, BẢO HIỂM THẤT NGHIỆP<br>Năm……. | - Đơn vị báo cáo: Cục Thống kê ……<br>- Đơn vị nhận báo cáo: Tổng cục Thống kê |\n| --- | --- | --- |\n\n|  | Mã số | Đơn vị tính | Số người/ Lượt người |\n| --- | --- | --- | --- |\n| A | B | C | 1 |\n| A. Số người hưởng bảo hiểm xã hội | 01 | Người |  |\n| A.1. Do ngân sách nhà nước trả | 02 | Người |  |\n| 1. Số người hưởng hàng tháng | 03 | Người |  |\n| 2. Số người hưởng một lần | 04 | Người |  |\n| A.2. Do Quỹ bảo hiểm xã hội trả | 05 | Người |  |\n| 1. Số người hưởng hàng tháng | 06 | Người |  |\n| 2. Số người hưởng một lần | 07 | Người |  |\n| 3. Số người hưởng ốm đau, thai sản | 08 | Người |  |\n| B. Số lượt người khám chữa bệnh bảo hiểm y tế | 09 | Lượt người |  |\n| 1. Khám, chữa bệnh ngoại trú | 10 | Lượt người |  |\n| 2. Khám, chữa bệnh nội trú | 11 | Lượt người |  |\n| C. Số người hưởng bảo hiểm thất nghiệp | 12 | Người |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_BIEU_SO_007_N-BCB-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT_chunk_0001",
+            "next_chunk_id": "maubaocao_BIEU_SO_007_N-BCB-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT_chunk_0003",
+            "char_count": 931,
+            "source_file": "maubaocao/BIEU SO_007_N-BCB-TKQG-PHU LUC I-TT-01-2019-TT-BKHDT.doc",
+            "file_name": "BIEU SO_007_N-BCB-TKQG-PHU LUC I-TT-01-2019-TT-BKHDT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:05:29",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_SO_007_N-BCB-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT_chunk_0003",
+        "doc_id": "maubaocao_BIEU_SO_007_N-BCB-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT",
+        "text": "hiểm y tế | 09 | Lượt người |  |\n| 1. Khám, chữa bệnh ngoại trú | 10 | Lượt người |  |\n| 2. Khám, chữa bệnh nội trú | 11 | Lượt người |  |\n| C. Số người hưởng bảo hiểm thất nghiệp | 12 | Người |  |\n\n| Người lập biểu<br>(Ký, họ tên) | Người kiểm tra biểu<br>(Ký, họ tên) | ….., ngày...tháng ... năm ...<br>Cục trưởng<br>(Ký, đóng dấu, họ tên) |\n| --- | --- | --- |\n\nNguồn: Thông tư 01/2019/TT-BKHĐT",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_BIEU_SO_007_N-BCB-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 397,
+            "source_file": "maubaocao/BIEU SO_007_N-BCB-TKQG-PHU LUC I-TT-01-2019-TT-BKHDT.doc",
+            "file_name": "BIEU SO_007_N-BCB-TKQG-PHU LUC I-TT-01-2019-TT-BKHDT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:05:29",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

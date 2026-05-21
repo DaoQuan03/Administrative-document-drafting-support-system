@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_10-22-2019-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_10-22-2019-TT-BTC",
+        "text": "Mẫu số 10\n\n| ĐƠN VỊ CHỦ QUẢN<br>CÔNG TY...<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | …………, ngày …… tháng …… năm …… |\n\nBÁO CÁO TÌNH HÌNH HOẠT ĐỘNG ĐẠI LÝ LÀM THỦ TỤC HẢI QUAN\n\n(Quý .../201...)\n\nKính gửi: Cục Hải quan tỉnh/ thành phố\n\nTên Đại lý Hải quan\n\nMã số thuế:\n\nĐịa chỉ:\n\n| TT | Loại hình XNK | Số lượng DN ký hợp đồng | Số lượng tờ khai | Kim ngạch (USD) | Tiền thuế | Tiền thuế | Tiền thuế |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | Loại hình XNK | Số lượng DN ký hợp đồng | Số lượng tờ khai | Kim ngạch (USD) | XNK | GTGT | Thuế khác |\n| 1 |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n\n1. Các công việc được ủy quyền:\n\n2. Tình hình vi phạm pháp luật thuế, hải quan, pháp luật khác (số vụ, hành vi) (kể cả hành vi vi phạm pháp luật do chủ hàng thực hiện):\n\n3. Thay đổi về điều kiện hoạt động đại lý làm thủ tục hải quan:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_10-22-2019-TT-BTC_chunk_0002",
+            "char_count": 952,
+            "source_file": "maubaocao/MAU SO 10-22-2019-TT-BTC.doc",
+            "file_name": "MAU SO 10-22-2019-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:33:10",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_10-22-2019-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_10-22-2019-TT-BTC",
+        "text": "Tình hình vi phạm pháp luật thuế, hải quan, pháp luật khác (số vụ, hành vi) (kể cả hành vi vi phạm pháp luật do chủ hàng thực hiện):\n\n3. Thay đổi về điều kiện hoạt động đại lý làm thủ tục hải quan:\n\n- Thay đổi tên/ địa chỉ đăng ký kinh doanh: (nếu có)\n\n- Thay đổi về nhân viên đại lý làm thủ tục hải quan: (nếu có)\n\n- Thay đổi về ngành nghề đăng ký kinh doanh; cơ sở hạ tầng công nghệ thông tin: (nếu có)………\n\n4. Vướng mắc và kiến nghị:\n\n- Về chính sách XNK…;\n\n- Về chính sách thuế ...;\n\n- Về thủ tục hải quan ...;\n\n- Về hoạt động đại lý làm thủ tục hải quan…;\n\n- Về phối hợp, hợp tác giữa Hải quan- đại lý làm thủ tục hải quan - chủ hàng: …;\n\n5. Những kiến nghị khác:\n\n| Nơi nhận:<br>- Như trên;<br>- Tổng cục Hải quan (Cục GSQL);<br>- Lưu ……… | GIÁM ĐỐC ĐẠI LÝ<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\nNguồn: Thông tư 22/2019/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_SO_10-22-2019-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 842,
+            "source_file": "maubaocao/MAU SO 10-22-2019-TT-BTC.doc",
+            "file_name": "MAU SO 10-22-2019-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:33:10",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_03b-356-2025-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_03b-356-2025-ND-CP",
+        "text": "Mẫu số 03b\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\n..., ngày ... tháng ... năm ...\n\nTHÔNG BÁO\nTHAY ĐỔI NỘI DUNG HỒ SƠ...1\n\nKính gửi: Cơ quan chuyên trách bảo vệ dữ liệu cá nhân, Bộ Công an\n\nThực hiện quy định về bảo vệ dữ liệu cá nhân, Tôi xin gửi Cơ quan chuyên trách bảo vệ dữ liệu cá nhân, Bộ Công an Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân, như sau:\n\n1. Thông tin về người gửi hồ sơ\n\n- Tên cá nhân:...\n\n- Địa chỉ:...\n\nSố CMTND/Thẻ căn cước công dân/Hộ chiếu...\ncấp ngày .../.../... tại ...\n\n- Số điện thoại:...\n\n- Email:...\n\n- Đơn vị công tác (nếu có):...\n\n2. Mô tả tóm tắt thay đổi nội dung hồ sơ\n\n- Nội dung thay đổi:...\n\n- Lý do thay đổi:...\n\n3. Tài liệu kèm theo\n\na) ...\n\nb) ...\n\n4. Cam kết\n\nTôi xin cam kết chịu trách nhiệm về tính chính xác và tính hợp pháp của nội dung thay đổi cùng các tài liệu kèm theo và cam kết thực hiện đúng các quy định của pháp luật.\n\n|  | NGƯỜI NỘP HỒ SƠ<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\n___",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_03b-356-2025-ND-CP_chunk_0002",
+            "char_count": 983,
+            "source_file": "thongbao/MAU SO 03b-356-2025-ND-CP.doc",
+            "file_name": "MAU SO 03b-356-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:42:50",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_03b-356-2025-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_03b-356-2025-ND-CP",
+        "text": "chính xác và tính hợp pháp của nội dung thay đổi cùng các tài liệu kèm theo và cam kết thực hiện đúng các quy định của pháp luật.\n\n|  | NGƯỜI NỘP HỒ SƠ<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\n___\n\n1 Tên hồ sơ: Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân hoặc Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân xuyên biên giới.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_03b-356-2025-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 324,
+            "source_file": "thongbao/MAU SO 03b-356-2025-ND-CP.doc",
+            "file_name": "MAU SO 03b-356-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:42:50",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

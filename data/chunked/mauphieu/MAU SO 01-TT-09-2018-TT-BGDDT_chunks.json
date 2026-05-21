@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-TT-09-2018-TT-BGDDT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_01-TT-09-2018-TT-BGDDT",
+        "text": "Mẫu 1. Phiếu đề xuất chương trình KH&CN cấp bộ\n\n| Tổ chức đề xuất:...<br>-------- |  |\n| --- | --- |\n\nPHIẾU ĐỀ XUẤT CHƯƠNG TRÌNH KH&CN CẤP BỘ NĂM...\n\n1. Tên chương trình KH&CN:\n\n2. Lĩnh vực nghiên cứu:\n\n| Khoa học tự nhiên | □ | Khoa học nông nghiệp | □ |\n| --- | --- | --- | --- |\n| Khoa học kỹ thuật và công nghệ | □ | Khoa học xã hội | □ |\n| Khoa học y, dược | □ | Khoa học nhân văn | □ |\n\n3. Căn cứ đề xuất chương trình: (Nêu rõ căn cứ)\n\n4. Cơ sở khoa học và thực tiễn đối với việc xây dựng chương trình KH&CN: (Nêu rõ tính cấp thiết; tầm quan trọng phải thực hiện chương trình; mức độ tác động đến phát triển ngành, lĩnh vực v.v...)\n\n5. Mục tiêu: (Nêu cả mục tiêu tổng quát và mục tiêu cụ thể)\n\n6. Nội dung KHCN chủ yếu: (nêu rõ các nội dung KH&CN chủ yếu cần phải nghiên cứu, giải quyết để đạt được mục tiêu của chương trình)\n\n7. Thời gian thực hiện:\n\n8. Kế hoạch và giải pháp tổ chức thực hiện chương trình:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_01-TT-09-2018-TT-BGDDT_chunk_0002",
+            "char_count": 916,
+            "source_file": "mauphieu/MAU SO 01-TT-09-2018-TT-BGDDT.doc",
+            "file_name": "MAU SO 01-TT-09-2018-TT-BGDDT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:38:22",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-TT-09-2018-TT-BGDDT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_01-TT-09-2018-TT-BGDDT",
+        "text": "chủ yếu: (nêu rõ các nội dung KH&CN chủ yếu cần phải nghiên cứu, giải quyết để đạt được mục tiêu của chương trình)\n\n7. Thời gian thực hiện:\n\n8. Kế hoạch và giải pháp tổ chức thực hiện chương trình:\n\n9. Sản phẩm và kết quả dự kiến của chương trình: (Nêu rõ sản phẩm và kết quả dự kiến của chương trình, khả năng ứng dụng vào thực tiễn...):\n\n10. Tiềm lực của đơn vị: (Nêu rõ tiềm lực của đơn vị về nhân lực, cơ sở vật chất, khả năng huy động các nguồn lực cần thiết khác để thực hiện chương trình, khả năng phối hợp với các tổ chức KH&CN khác, với doanh nghiệp hoặc địa phương,...)\n\n11. Hiệu quả dự kiến: (Nêu rõ hiệu quả đối với khoa học và công nghệ, đối với phát triển ngành, phát triển kinh tế - xã hội,...):\n\n|  | ..., ngày... tháng... năm...<br>THỦ TRƯỞNG ĐƠN VỊ<br>(Họ, tên và chữ ký - đóng dấu) |\n| --- | --- |\n\nNguồn: Thông tư 09/2018/TT-BGDĐT",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-TT-09-2018-TT-BGDDT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 850,
+            "source_file": "mauphieu/MAU SO 01-TT-09-2018-TT-BGDDT.doc",
+            "file_name": "MAU SO 01-TT-09-2018-TT-BGDDT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:38:22",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

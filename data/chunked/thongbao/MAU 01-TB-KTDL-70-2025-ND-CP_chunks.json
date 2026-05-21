@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_01-TB-KTDL-70-2025-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_01-TB-KTDL-70-2025-ND-CP",
+        "text": "Mẫu số: 01/TB-KTDL\n\n| TÊN CƠ QUAN THUẾ <br>CẤP TRÊN<br>TÊN CƠ QUAN BAN HÀNH <br>VĂN BẢN<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: … …/TB-HĐĐT | ……., ngày … tháng … năm …… |\n\nTHÔNG BÁO\n\nVề việc kết quả kiểm tra dữ liệu hóa đơn điện tử\n\n| Kính gửi: | <Tên người nộp thuế:...><br><Mã số thuế của NNT:...> |\n| --- | --- |\n\n<Trường hợp 1: Thông báo hóa đơn không đủ điều kiện cấp mã>\n\nCăn cứ <Thông điệp gửi hóa đơn tới cơ quan thuế để cấp mã> của người nộp thuế (NNT)/Tổ chức cung cấp dịch vụ hóa đơn điện tử gửi tới cơ quan thuế lúc... giờ... phút ngày ... tháng... năm..., cơ quan thuế thông báo hóa đơn không đủ điều kiện cấp mã của NNT, cụ thể như sau:\n\nKý hiệu hóa đơn:\n\nKý hiệu mẫu hóa đơn:\n\nSố hóa đơn:\n\nThời điểm lập hóa đơn:\n\nMã giao dịch điện tử:\n\nLý do không cấp mã:\n\n| STT | Mô tả lỗi | Hướng dẫn xử lý | Ghi chú |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 1 | <nhóm lỗi>(<tên lỗi>) |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_01-TB-KTDL-70-2025-ND-CP_chunk_0002",
+            "char_count": 989,
+            "source_file": "thongbao/MAU 01-TB-KTDL-70-2025-ND-CP.doc",
+            "file_name": "MAU 01-TB-KTDL-70-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:11:52",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_01-TB-KTDL-70-2025-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_01-TB-KTDL-70-2025-ND-CP",
+        "text": "điểm lập hóa đơn:\n\nMã giao dịch điện tử:\n\nLý do không cấp mã:\n\n| STT | Mô tả lỗi | Hướng dẫn xử lý | Ghi chú |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 1 | <nhóm lỗi>(<tên lỗi>) |  |  |\n\n<Trường hợp 2: Thông báo kết quả kiểm tra sơ bộ tính hợp lệ của gói dữ liệu HĐĐT>\n\nCăn cứ <Thông điệp chuyển dữ liệu hóa đơn điện tử không mã đến CQT/Thông điệp thông báo hủy/giải trình HĐĐT có mã/không mã đã lập sai /Thông điệp chuyển bảng tổng hợp dữ liệu HĐĐT không mã đến CQT...> của người nộp thuế (NNT)/Tổ chức cung cấp dịch vụ hóa đơn điện tử gửi tới cơ quan thuế lúc... giờ... phút ngày ... tháng ... năm..., cơ quan thuế đã tiếp nhận gói dữ liệu hóa đơn điện tử:\n\nMã giao dịch điện tử: ...\n\nMã số thuế: ...\n\nSố lượng dữ liệu trong gói: ...\n\nCơ quan thuế thông báo kết quả kiểm tra sơ bộ tính hợp lệ của gói dữ liệu HĐĐT như sau:\n\n< Trường hợp kết quả kiểm tra gói dữ liệu hợp lệ>",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "thongbao_MAU_01-TB-KTDL-70-2025-ND-CP_chunk_0001",
+            "next_chunk_id": "thongbao_MAU_01-TB-KTDL-70-2025-ND-CP_chunk_0003",
+            "char_count": 888,
+            "source_file": "thongbao/MAU 01-TB-KTDL-70-2025-ND-CP.doc",
+            "file_name": "MAU 01-TB-KTDL-70-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:11:52",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_01-TB-KTDL-70-2025-ND-CP_chunk_0003",
+        "doc_id": "thongbao_MAU_01-TB-KTDL-70-2025-ND-CP",
+        "text": "tử: ...\n\nMã số thuế: ...\n\nSố lượng dữ liệu trong gói: ...\n\nCơ quan thuế thông báo kết quả kiểm tra sơ bộ tính hợp lệ của gói dữ liệu HĐĐT như sau:\n\n< Trường hợp kết quả kiểm tra gói dữ liệu hợp lệ>\n\nKết quả kiểm tra sơ bộ gói dữ liệu của người nộp thuế (NNT)/Tổ chức cung cấp dịch vụ hóa đơn điện tử gửi tới cơ quan thuế là hợp lệ.\n\nTrong trường hợp cơ quan thuế kiểm tra và phát hiện dữ liệu chi tiết đã gửi/đã lập sai, cơ quan thuế sẽ có thông báo đến người nộp thuế.\n\n<Trường hợp kết quả kiểm tra gói dữ liệu không hợp lệ>\n\nKết quả kiểm tra sơ bộ gói dữ liệu của người nộp thuế (NNT)/Tổ chức cung cấp dịch vụ hóa đơn điện tử gửi tới cơ quan thuế là không hợp lệ.\n\nLý do: ...\n\n| STT | Mô tả lỗi | Hướng dẫn xử lý | Ghi chú |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 1 | <nhóm lỗi>(<tên lỗi>) |  |  |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "thongbao_MAU_01-TB-KTDL-70-2025-ND-CP_chunk_0002",
+            "next_chunk_id": "thongbao_MAU_01-TB-KTDL-70-2025-ND-CP_chunk_0004",
+            "char_count": 814,
+            "source_file": "thongbao/MAU 01-TB-KTDL-70-2025-ND-CP.doc",
+            "file_name": "MAU 01-TB-KTDL-70-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:11:52",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_01-TB-KTDL-70-2025-ND-CP_chunk_0004",
+        "doc_id": "thongbao_MAU_01-TB-KTDL-70-2025-ND-CP",
+        "text": "đơn điện tử gửi tới cơ quan thuế là không hợp lệ.\n\nLý do: ...\n\n| STT | Mô tả lỗi | Hướng dẫn xử lý | Ghi chú |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 1 | <nhóm lỗi>(<tên lỗi>) |  |  |\n\nTrường hợp NNT/Quý đơn vị cần biết thêm thông tin chi tiết, xin vui lòng truy cập theo đường dẫn <http://www.xxx.gdt.gov.vn> hoặc liên hệ với <tên cơ quan thuế giải quyết hồ sơ> để được hỗ trợ.\n\nCơ quan thuế thông báo để người nộp thuế biết và thực hiện.\n\n|  | <Chữ ký số của cơ quan thuế> |\n| --- | --- |\n\nGhi chú:\n\nChữ in nghiêng trong dấu <> nhằm mục đích giải thích rõ hoặc đưa ra ví dụ.\n\nNNT chọn trường hợp thông báo theo tương ứng.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "thongbao_MAU_01-TB-KTDL-70-2025-ND-CP_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 638,
+            "source_file": "thongbao/MAU 01-TB-KTDL-70-2025-ND-CP.doc",
+            "file_name": "MAU 01-TB-KTDL-70-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:11:52",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

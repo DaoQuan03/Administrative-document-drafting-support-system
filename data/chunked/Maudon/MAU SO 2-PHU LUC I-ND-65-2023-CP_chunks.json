@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_2-PHU_LUC_I-ND-65-2023-CP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_2-PHU_LUC_I-ND-65-2023-CP",
+        "text": "Mẫu số 02\n\nĐƠN ĐỀ NGHỊ\n\nXÁC NHẬN THỦ TỤC ĐĂNG KÝ LƯU HÀNH\n\nDƯỢC PHẨM LẦN ĐẦU BỊ CHẬM\n\nKính gửi: ……………………………………………\n\nA. Chi tiết về cơ sở đăng ký và cơ sở sản xuất dược phẩm\n\n1. Cơ sở đăng ký\n\n1.1. Tên cơ sở đăng ký:\n\n1.2. Địa chỉ:\n\n1.3. Điện thoại:\n\n1.4. Tên văn phòng đại diện tại Việt Nam (đối với cơ sở đăng ký nước ngoài):\n\nĐịa chỉ:\n\nĐiện thoại:\n\n2. Cơ sở sản xuất\n\n2.1. Tên cơ sở sản xuất:\n\n2.2. Địa chỉ:\n\n2.3. Điện thoại:\n\n2.4. Các cơ sở sản xuất khác (nếu có):\n\nB. Chi tiết dược phẩm\n\n1. Tên dược phẩm:\n\n2. Số đăng ký:                        Ngày tiếp nhận hồ sơ đăng ký:\n\nNgày cấp:                               Ngày hết hạn hiệu lực số đăng ký:\n\nC. Khoảng thời gian thủ tục đăng ký lưu hành dược phẩm lần đầu bị chậm2:\n\nD. Tài liệu nộp kèm theo\n\n- Bản sao giấy phép lưu hành dược phẩm.\n\n- Các tài liệu liên quan khác (nếu có).\n\nCơ sở đăng ký cam kết và chịu trách nhiệm về tính chính xác về các nội dung nêu trong đơn đề nghị và các tài liệu cung cấp kèm theo.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_2-PHU_LUC_I-ND-65-2023-CP_chunk_0002",
+            "char_count": 968,
+            "source_file": "Maudon/MAU SO 2-PHU LUC I-ND-65-2023-CP.doc",
+            "file_name": "MAU SO 2-PHU LUC I-ND-65-2023-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:41:05",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_2-PHU_LUC_I-ND-65-2023-CP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_2-PHU_LUC_I-ND-65-2023-CP",
+        "text": "phép lưu hành dược phẩm.\n\n- Các tài liệu liên quan khác (nếu có).\n\nCơ sở đăng ký cam kết và chịu trách nhiệm về tính chính xác về các nội dung nêu trong đơn đề nghị và các tài liệu cung cấp kèm theo.\n\n|  | Ngày        tháng      năm<br>Đại diện hợp pháp của cơ sở đăng ký<br>(Ký, ghi rõ họ tên, chức danh, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_2-PHU_LUC_I-ND-65-2023-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 331,
+            "source_file": "Maudon/MAU SO 2-PHU LUC I-ND-65-2023-CP.doc",
+            "file_name": "MAU SO 2-PHU LUC I-ND-65-2023-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:41:05",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

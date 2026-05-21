@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_5-TB4B-30-2007-TTLT-BTC-BLDTBXH_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_5-TB4B-30-2007-TTLT-BTC-BLDTBXH",
+        "text": "MẪU SỐ 5- TB4B\n\n| UBND TỈNH, THÀNH PHỐ<br>…………………………….<br>SỞ LAO ĐỘNG - THƯƠNG BINH<br>VÀ XÃ HỘI<br>Số:.../ | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>  ..., ngày... tháng... năm...<br>Số hồ sơ:………………. |\n| --- | --- |\n\nPHIẾU TRỢ CẤP THƯƠNG TẬT\n\nHọ và tên: ……………………………………………Năm sinh……………..\n\nNguyên quán:\n\nTrú quán:\n\nNhập ngũ hoặc tham gia công tác ngày ….. tháng ….. năm ………\n\nCơ quan, đơn vị khi bị thương:\n\nBị thương ngày …… tháng …. năm …… lần 2 ……………… lần 3\n\nNơi bị thương: …………………………...lần 2 ……………… lần 3\n\nGiấy chứng nhận bị thương số: ……… ……..ngày …… tháng …. năm ……\n\ncủa\n\nBiên bản Giám định Y khoa số: …………… ngày…… tháng ……năm…….\n\ncủa Hội đồng Giám định Y khoa\n\nTỷ lệ suy giảm khả năng lao động là: …….%  (…………………………%)\n\nĐược hưởng trợ cấp kể từ ngày ……… tháng ……… năm\n\nTheo Quyết định số ……… ngày …… tháng ……. năm của\n\nChỗ ở khi lập phiếu:\n\nPhần trợ cấp, phụ cấp",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_5-TB4B-30-2007-TTLT-BTC-BLDTBXH_chunk_0002",
+            "char_count": 895,
+            "source_file": "mauphieu/MAU SO 5-TB4B-30-2007-TTLT-BTC-BLDTBXH.doc",
+            "file_name": "MAU SO 5-TB4B-30-2007-TTLT-BTC-BLDTBXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:20:13",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_5-TB4B-30-2007-TTLT-BTC-BLDTBXH_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_5-TB4B-30-2007-TTLT-BTC-BLDTBXH",
+        "text": "lệ suy giảm khả năng lao động là: …….%  (…………………………%)\n\nĐược hưởng trợ cấp kể từ ngày ……… tháng ……… năm\n\nTheo Quyết định số ……… ngày …… tháng ……. năm của\n\nChỗ ở khi lập phiếu:\n\nPhần trợ cấp, phụ cấp\n\n| - Trợ cấp một lần: ………………………………………………… | đ |\n| --- | --- |\n| - Trợ cấp hàng tháng: ……………………………………………... | đ |\n| - Phụ cấp thương tật đặc biệt nặng: ………………………………. | đ |\n| - Phụ cấp cần người phục vụ: ……………………………………... | đ |\n| - Phụ cấp khu vực: ……………………………………………… | đ |\n| - Trợ cấp thương tật được truy lĩnh: ………………………………. | đ |\n| Cộng: | đ |\n\n| Người lập phiếu | Giám đốc<br>(Ký tên, đóng dấu) |\n| --- | --- |\n\nNguồn: Thông tư liên tịch 30/2007/TTLT-BTC-BLĐTBXH",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_5-TB4B-30-2007-TTLT-BTC-BLDTBXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 662,
+            "source_file": "mauphieu/MAU SO 5-TB4B-30-2007-TTLT-BTC-BLDTBXH.doc",
+            "file_name": "MAU SO 5-TB4B-30-2007-TTLT-BTC-BLDTBXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:20:13",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

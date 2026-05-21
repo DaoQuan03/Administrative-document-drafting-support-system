@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_02-PAXL-TSXL-48-2023-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_02-PAXL-TSXL-48-2023-TT-BTC",
+        "text": "| Bộ, tỉnh: ………………………………………….……………….<br>Cơ quan quản lý cấp trên: ……………………………………..<br>Đơn vị chủ trì quản lý tài sản được XLSHTD:……….…….<br>Mã đơn vị: …………………….….…………………………..…..<br>Loại hình đơn vị:……………………………………….………. | Mẫu số 02-PAXL/TSXL |\n| --- | --- |\n\nBÁO CÁO KÊ KHAI PHƯƠNG ÁN XỬ LÝ TÀI SẢN TỊCH THU/XÁC LẬP QUYỀN SỞ HỮU TOÀN DÂN(1)\n\nQuyết định phê duyệt phương án xử lý tài sản tịch thu/xác lập số ……./…-….. ngày …../……/……...của ……... về việc ……………………….",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_02-PAXL-TSXL-48-2023-TT-BTC_chunk_0002",
+            "char_count": 461,
+            "source_file": "maubaocao/MAU SO 02-PAXL-TSXL-48-2023-TT-BTC.doc",
+            "file_name": "MAU SO 02-PAXL-TSXL-48-2023-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:26:19",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_02-PAXL-TSXL-48-2023-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_02-PAXL-TSXL-48-2023-TT-BTC",
+        "text": "CÁO KÊ KHAI PHƯƠNG ÁN XỬ LÝ TÀI SẢN TỊCH THU/XÁC LẬP QUYỀN SỞ HỮU TOÀN DÂN(1)\n\nQuyết định phê duyệt phương án xử lý tài sản tịch thu/xác lập số ……./…-….. ngày …../……/……...của ……... về việc ……………………….\n\n| TÊN TÀI SẢN | THEO QUYẾT ĐỊNH TỊCH THU/ XÁC LẬP | THEO QUYẾT ĐỊNH TỊCH THU/ XÁC LẬP | THEO QUYẾT ĐỊNH PHƯƠNG ÁN XỬ LÝ | THEO QUYẾT ĐỊNH PHƯƠNG ÁN XỬ LÝ |\n| --- | --- | --- | --- | --- |\n| TÊN TÀI SẢN | SỐ, NGÀY QUYẾT ĐỊNH TỊCH THU/XÁC LẬP | SỐ LƯỢNG/KHỐI LƯỢNG/DIỆN TÍCH/THỂ TÍCH TỊCH THU/XÁC LẬP | PHƯƠNG ÁN XỬ LÝ | SỐ LƯỢNG/KHỐI LƯỢNG/DIỆN TÍCH/THỂ TÍCH XỬ LÝ |\n| 1 | 2 | 3 | 4 | 5 |\n| I- Đất... |  |  |  |  |\n| 1 - Đất 1 |  |  |  |  |\n| … |  |  |  |  |\n| II Nhà ... |  |  |  |  |\n| 1 - Nhà 1 |  |  |  |  |\n| … |  |  |  |  |\n| III- Xe ô tô ... |  |  |  |  |\n| 1- Xe ô tô  1 |  |  |  |  |\n| … |  |  |  |  |\n| IV - Tài sản khác |  |  |  |  |\n| 1- Tài sản 1 |  |  |  |  |\n| … |  |  |  |  |\n| Tổng cộng: |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_MAU_SO_02-PAXL-TSXL-48-2023-TT-BTC_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_SO_02-PAXL-TSXL-48-2023-TT-BTC_chunk_0003",
+            "char_count": 918,
+            "source_file": "maubaocao/MAU SO 02-PAXL-TSXL-48-2023-TT-BTC.doc",
+            "file_name": "MAU SO 02-PAXL-TSXL-48-2023-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:26:19",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_02-PAXL-TSXL-48-2023-TT-BTC_chunk_0003",
+        "doc_id": "maubaocao_MAU_SO_02-PAXL-TSXL-48-2023-TT-BTC",
+        "text": "|  |  |  |\n| III- Xe ô tô ... |  |  |  |  |\n| 1- Xe ô tô  1 |  |  |  |  |\n| … |  |  |  |  |\n| IV - Tài sản khác |  |  |  |  |\n| 1- Tài sản 1 |  |  |  |  |\n| … |  |  |  |  |\n| Tổng cộng: |  |  |  |  |\n\n| ………, ngày …… tháng ……năm ………<br>XÁC NHẬN CỦA CƠ QUAN QUẢN LÝ CẤP TRÊN (nếu có)<br>(Ký, họ tên và đóng dấu) | ………, ngày …… tháng ……năm ………<br> THỦ TRƯỞNG ĐƠN VỊ CHỦ TRÌ QUẢN LÝ TÀI SẢN XLSHTD<br>(Ký, họ tên và đóng dấu) |\n| --- | --- |\n\n___\n\nGhi chú:\n\n(1) Mỗi Quyết định phê duyệt phương án xử lý tài sản tịch thu/xác lập lập riêng một báo cáo kê khai, mỗi phương án xử lý tài sản có thể gộp nhiều tài sản của nhiều Quyết định tịch thu/xác lập tài sản.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_MAU_SO_02-PAXL-TSXL-48-2023-TT-BTC_chunk_0002",
+            "next_chunk_id": "maubaocao_MAU_SO_02-PAXL-TSXL-48-2023-TT-BTC_chunk_0004",
+            "char_count": 654,
+            "source_file": "maubaocao/MAU SO 02-PAXL-TSXL-48-2023-TT-BTC.doc",
+            "file_name": "MAU SO 02-PAXL-TSXL-48-2023-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:26:19",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_02-PAXL-TSXL-48-2023-TT-BTC_chunk_0004",
+        "doc_id": "maubaocao_MAU_SO_02-PAXL-TSXL-48-2023-TT-BTC",
+        "text": "Quyết định phê duyệt phương án xử lý tài sản tịch thu/xác lập lập riêng một báo cáo kê khai, mỗi phương án xử lý tài sản có thể gộp nhiều tài sản của nhiều Quyết định tịch thu/xác lập tài sản.\n\n- Cột 4: Ghi rõ phương án xử lý tài sản tịch thu/xác lập: Giao, điều chuyển; Bán; Chuyển giao cho cơ quan chuyên ngành; Giao cho doanh nghiệp ghi tăng vốn nhà nước; Tiêu hủy; Nộp ngân sách nhà nước; Xử lý khác (Đối với 1 loại tài sản có nhiều phương án xử lý khác nhau thì ghi rõ số lượng/khối lượng/diện tích/thể tích xử lý theo từng phương án tại cột 5).\n\nNguồn: Thông tư 48/2023/TT-BTC",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_MAU_SO_02-PAXL-TSXL-48-2023-TT-BTC_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 582,
+            "source_file": "maubaocao/MAU SO 02-PAXL-TSXL-48-2023-TT-BTC.doc",
+            "file_name": "MAU SO 02-PAXL-TSXL-48-2023-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:26:19",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

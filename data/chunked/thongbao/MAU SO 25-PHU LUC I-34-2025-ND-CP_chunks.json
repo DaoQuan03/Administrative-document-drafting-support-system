@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_25-PHU_LUC_I-34-2025-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_25-PHU_LUC_I-34-2025-ND-CP",
+        "text": "Mẫu số 25\n\n| CỤC HÀNG HẢI VIỆT NAM<br>CẢNG VỤ HÀNG HẢI…….<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: …./TBHH-………. | ……, ngày …. tháng … năm …. |\n\nTHÔNG BÁO HÀNG HẢI\n\nVề chướng ngại vật nguy hiểm mới phát hiện ……………….\n\nVùng biển: …………………………………………………………………..\n\nTên luồng: …………………………………………………………………….(nếu có).\n\nCăn cứ: ……………………………………………………………………………………..\n\nCảng vụ Hàng hải …………………………….thông \tbáo tồn tại chướng ngại vật nguy hiểm mới phát hiện………………………………… tại vị trí có tọa độ địa lý:\n\n| Hệ VN-2000 | Hệ VN-2000 | Hệ WGS-84 | Hệ WGS-84 |\n| --- | --- | --- | --- |\n| Vĩ độ | Kinh độ | Vĩ độ | Kinh độ |\n|  |  |  |  |\n\n- Vị trí chướng ngại vật nằm cách ………………..về phía…………………….\n\n- Cao độ của chướng ngại vật……………………. m tính đến mực nước “số 0 hải đồ” (nếu có).\n\nHƯỚNG DẪN HÀNG HẢI (NẾU CẦN)\n\n…………………………………………………………………………………………………..…",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_25-PHU_LUC_I-34-2025-ND-CP_chunk_0002",
+            "char_count": 903,
+            "source_file": "thongbao/MAU SO 25-PHU LUC I-34-2025-ND-CP.doc",
+            "file_name": "MAU SO 25-PHU LUC I-34-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:07:09",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_25-PHU_LUC_I-34-2025-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_25-PHU_LUC_I-34-2025-ND-CP",
+        "text": "ngại vật nằm cách ………………..về phía…………………….\n\n- Cao độ của chướng ngại vật……………………. m tính đến mực nước “số 0 hải đồ” (nếu có).\n\nHƯỚNG DẪN HÀNG HẢI (NẾU CẦN)\n\n…………………………………………………………………………………………………..…\n\n| Nơi nhận:<br>- Cục Hàng hải Việt Nam (để b/c);<br>- Các Cảng vụ hàng hải;<br>- Tổng Công ty Bảo đảm An toàn hàng hải...;<br>- Tổ chức hoa tiêu hàng hải...;<br>- Công ty TNHH MTV Thông tin điện tử hàng hải Việt Nam;<br>- Website Cảng vụ hàng hải...;<br>- ……………………………….. | ……………………….<br>Người có thẩm quyền ký, đóng dấu |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_25-PHU_LUC_I-34-2025-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 534,
+            "source_file": "thongbao/MAU SO 25-PHU LUC I-34-2025-ND-CP.doc",
+            "file_name": "MAU SO 25-PHU LUC I-34-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:07:09",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_02_PNXDX-QD-389-2019-QD-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_02_PNXDX-QD-389-2019-QD-BTC",
+        "text": "Mẫu 02.PNXĐX\n\n389/2019/QĐ-BTC\n\nPHIẾU NHẬN XÉT VÀ ĐÁNH GIÁ ĐỀ XUẤT NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ CẤP BỘ\n\n| Chuyên gia/Ủy viên phản biện |  |\n| --- | --- |\n| Ủy viên Hội đồng |  |\n\nHọ và tên thành viên hội đồng/chuyên gia:\n\nTên nhiệm vụ khoa học và công nghệ đề xuất:\n\nI. Ý KIẾN NHẬN XÉT VÀ ĐÁNH GIÁ\n\n1. Tính cấp thiết, tính mới của nhiệm vụ khoa học và công nghệ\n\nNhận xét:\n\nĐánh giá: Đạt yêu cầu ; Không đạt yêu cầu\n\n2. Khả năng không trùng lặp của nhiệm vụ đề xuất với các nhiệm vụ khoa học và công nghệ đã và đang thực hiện\n\nNhận xét:\n\nĐánh giá: Đạt yêu cầu ; Không đạt yêu cầu\n\n3. Tính hợp lý của dự kiến nội dung chính và các kết quả của nhiệm vụ khoa học và công nghệ đề xuất\n\nNhận xét:\n\nĐánh giá: Đạt yêu cầu ; Không đạt yêu cầu\n\n4. Tính khả thi và địa chỉ ứng dụng\n\nNhận xét:\n\nĐánh giá: Đạt yêu cầu ; Không đạt yêu cầu\n\nKiến nghị của thành viên hội đồng/chuyên gia: (đánh dấu X vào 1 trong 3 ô dưới đây)\n\nĐề nghị không thực hiện\n\nĐề nghị thực hiện",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_02_PNXDX-QD-389-2019-QD-BTC_chunk_0002",
+            "char_count": 955,
+            "source_file": "mauphieu/MAU SO 02_PNXDX-QD-389-2019-QD-BTC.doc",
+            "file_name": "MAU SO 02_PNXDX-QD-389-2019-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:49:12",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_02_PNXDX-QD-389-2019-QD-BTC_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_02_PNXDX-QD-389-2019-QD-BTC",
+        "text": "địa chỉ ứng dụng\n\nNhận xét:\n\nĐánh giá: Đạt yêu cầu ; Không đạt yêu cầu\n\nKiến nghị của thành viên hội đồng/chuyên gia: (đánh dấu X vào 1 trong 3 ô dưới đây)\n\nĐề nghị không thực hiện\n\nĐề nghị thực hiện\n\nĐề nghị thực hiện với các điều chỉnh nêu dưới đây:\n\nII. CÁC KIẾN NGHỊ ĐIỀU CHỈNH\n\nTên nhiệm vụ khoa học và công nghệ:\n\nĐịnh hướng mục tiêu:\n\nYêu cầu đối với kết quả:\n\n|  | ….., ngày….tháng….năm 20…<br>(Chuyên gia đánh giá ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_02_PNXDX-QD-389-2019-QD-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 457,
+            "source_file": "mauphieu/MAU SO 02_PNXDX-QD-389-2019-QD-BTC.doc",
+            "file_name": "MAU SO 02_PNXDX-QD-389-2019-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:49:12",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-VT-132-2018-TT-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_01-VT-132-2018-TT-BTC",
+        "text": "| Đơn vị:...<br>Bộ phận:... | Mẫu số 01 - VT<br>(Ban hành theo Thông tư số 132/2018/TT-BTC<br>ngày 28/12/2018 của Bộ Tài chính) |\n| --- | --- |\n\n|  | PHIẾU NHẬP KHO |  |\n| --- | --- | --- |\n|  | Ngày...tháng...năm ... | Nợ ... |\n|  | Số: ... | Có ... |\n\n- Họ và tên người giao: ...\n\n- Theo ... số ... ngày ... tháng ... năm ... của ...\n\nNhập tại kho: ...địa điểm...\n\n| S<br>T<br>T | Tên, nhãn hiệu, quy cách, phẩm chất vật tư, sản phẩm, hàng hoá | Mã<br>số | Đơn<br>vị<br>tính | Số lượng | Số lượng | Đơn<br>giá | Thành<br>tiền |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| S<br>T<br>T | Tên, nhãn hiệu, quy cách, phẩm chất vật tư, sản phẩm, hàng hoá | Mã<br>số | Đơn<br>vị<br>tính | Theo<br>chứng từ | Thực<br>nhập | Đơn<br>giá | Thành<br>tiền |\n| A | B | C | D | 1 | 2 | 3 | 4 |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  | Cộng | x | x | X | x | x |  |\n\n- Tổng số tiền (viết bằng chữ):...\n\n- Số chứng từ gốc kèm theo:...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_01-VT-132-2018-TT-BTC_chunk_0002",
+            "char_count": 943,
+            "source_file": "mauphieu/MAU SO 01-VT-132-2018-TT-BTC.doc",
+            "file_name": "MAU SO 01-VT-132-2018-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:38:59",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-VT-132-2018-TT-BTC_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_01-VT-132-2018-TT-BTC",
+        "text": "|\n| A | B | C | D | 1 | 2 | 3 | 4 |\n|  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n|  | Cộng | x | x | X | x | x |  |\n\n- Tổng số tiền (viết bằng chữ):...\n\n- Số chứng từ gốc kèm theo:...\n\n| Người giao hàng<br>(Ký, họ tên) | Thủ kho<br>(Ký, họ tên) | Ngày ... tháng...  năm...<br>Kế toán trưởng <br>(Hoặc bộ phận có nhu cầu nhập)<br>(Ký, họ tên) |\n| --- | --- | --- |\n\nNguồn: Thông tư 132/2018/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-VT-132-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 403,
+            "source_file": "mauphieu/MAU SO 01-VT-132-2018-TT-BTC.doc",
+            "file_name": "MAU SO 01-VT-132-2018-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:38:59",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

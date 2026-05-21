@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_20-NTXD-DNCX-GSQL-PHU_LUC_V-39-2018-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_20-NTXD-DNCX-GSQL-PHU_LUC_V-39-2018-TT-BTC",
+        "text": "Mẫu số 20/NTXD-DNCX/GSQL\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nBÁO CÁO HÀNG HÓA NHẬP KHẨU THEO HỢP ĐỒNG XÂY DỰNG\n\nKính gửi: Hải quan...\n\n| Tên nhà thầu:...<br>Mã số:...<br>Địa chỉ:... | Tên DNCX:...<br>Mã số thuế:...<br>Địa chỉ:... |\n| --- | --- |\n| Số, ngày hợp đồng:... | Số, ngày hợp đồng:... |\n| Giá trúng thầu:... | Giá trúng thầu:... |\n\n| STT | Tên hàng hóa | ĐVT | Số lượng | Trị giá ghi trên tờ khai | Số, ngày tờ khai nhập khẩu |\n| --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |\n| 2 |  |  |  |  |  |\n| 3 | ... |  |  |  |  |\n| Tổng cộng: | Tổng cộng: | Tổng cộng: | Tổng cộng: |  |  |\n\n| ĐẠI DIỆN THEO PHÁP LUẬT <br>CỦA DNCX<br>(Ký tên, đóng dấu) | ĐẠI DIỆN THEO PHÁP LUẬT <br>CỦA NHÀ THẦU<br> (Ký tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 774,
+            "source_file": "maubaocao/MAU SO 20-NTXD-DNCX-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+            "file_name": "MAU SO 20-NTXD-DNCX-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:35:24",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

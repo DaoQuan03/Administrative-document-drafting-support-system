@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_04_2-PL9-02-2022-TT-BTNMT_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_04_2-PL9-02-2022-TT-BTNMT",
+        "text": "| TÊN NHÀ SẢN XUẤT, NHẬP KHẨU<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | (Địa danh), ngày … tháng … năm … |\n\nBẢN KÊ KHAI\n\nSỐ TIỀN ĐÓNG GÓP HỖ TRỢ HOẠT ĐỘNG XỬ LÝ CHẤT THẢI\n\nNĂM …\n\n(Dùng cho pin dùng một lần các loại; tã lót, bỉm, băng vệ sinh, khăn ướt dùng một lần; kẹo cao su)\n\nKính gửi: Bộ Nông nghiệp và Môi trường\n\nTên nhà sản xuất, nhập khẩu: …………………………………………………….\n\nNgười đại diện theo pháp luật: …………………………………………………...\n\nChức vụ: ………………………………………………………………………….\n\nMã số thuế: ……………………………………………………………………….\n\nĐịa chỉ trụ sở chính: ……………………………………………………………...\n\nSố điện thoại: ... Email: ……………………………………\n\n| TT | Tên sản phẩm, hàng hóa | Doanh thu thuần năm trước (đồng) | Mức đóng góp (%) | Số tiền phải đóng góp (đồng) |\n| --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) = (3) x (4) |\n| 1 | Ví dụ: Sản phẩm, hàng hóa nhãn A |  |  |  |\n| … |  |  |  |  |\n| TỐNG | TỐNG | TỐNG | TỐNG |  |\n\nGhi chú:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_04_2-PL9-02-2022-TT-BTNMT_chunk_0002",
+            "char_count": 981,
+            "source_file": "tokhai/MAU SO 04.2-PL9-02-2022-TT-BTNMT.doc",
+            "file_name": "MAU SO 04.2-PL9-02-2022-TT-BTNMT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:54:07",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_04_2-PL9-02-2022-TT-BTNMT_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_04_2-PL9-02-2022-TT-BTNMT",
+        "text": "góp (đồng) |\n| --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) = (3) x (4) |\n| 1 | Ví dụ: Sản phẩm, hàng hóa nhãn A |  |  |  |\n| … |  |  |  |  |\n| TỐNG | TỐNG | TỐNG | TỐNG |  |\n\nGhi chú:\n\n- Cột (3): Kê khai chi tiết doanh thu thuần của từng sản phẩm, hàng hóa sản xuất, nhập khẩu đưa ra thị trường;\n\n- Cột (4): Kê khai tương ứng cột (5) Phụ lục XXIII ban hành kèm theo Nghị định số 08/2022/NĐ-CP được sửa đổi, bổ sung tại Nghị định số 05/2025/NĐ-CP.\n\nTài liệu kèm theo:\n\nBản kê khai danh mục sản phẩm, hàng hóa sản xuất, nhập khẩu đưa ra thị trường (theo Mẫu số 05 Phụ lục IX ban hành kèm theo Thông tư này).\n\n(Tên nhà sản xuất, nhập khẩu) cam kết chịu trách nhiệm trước pháp luật về thông tin trong Bản kê khai này./.\n\n|  | Người đại diện theo pháp luật <br>(Chữ ký, ghi họ tên, chức vụ và đóng dấu/Ký điện tử) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "tokhai_MAU_SO_04_2-PL9-02-2022-TT-BTNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 840,
+            "source_file": "tokhai/MAU SO 04.2-PL9-02-2022-TT-BTNMT.doc",
+            "file_name": "MAU SO 04.2-PL9-02-2022-TT-BTNMT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:54:07",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

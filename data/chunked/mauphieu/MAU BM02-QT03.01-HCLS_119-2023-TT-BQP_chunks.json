@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_BM02-QT03_01-HCLS_119-2023-TT-BQP_chunk_0001",
+        "doc_id": "mauphieu_MAU_BM02-QT03_01-HCLS_119-2023-TT-BQP",
+        "text": "Biểu mẫu BM02-QT03.01/HCLS: Phiếu tách chiết ADN từ mẫu hài cốt liệt sĩ bằng phương pháp hữu cơ\n\nPHIẾU TÁCH CHIẾT ADN TỪ MẪU HÀI CỐT LIỆT SĨ BẰNG PHƯƠNG PHÁP HỮU CƠ\n\nKý hiệu mẫu:\n\nThời gian thực hiện:\n\nNgười thực hiện:\n\n1. Loại hóa chất\n\n| Bộ kít sử dụng | Lot No: | Hạn sử dụng: |\n| --- | --- | --- |\n| Phenol | Lot No: | Hạn sử dụng: |\n| Cloroform | Lot No: | Hạn sử dụng |\n| Cồn (Ethanol) | Lot No: | Hạn sử dụng: |\n| Sodium Acetat | Lot No: | Hạn sử dụng: |\n\n2. Chuẩn bị hóa chất\n\n| Thành phần | Ngày pha | Người pha | Ghi chú |\n| --- | --- | --- | --- |\n| Javen 10% |  |  |  |\n| EDTA |  |  |  |\n| Đệm |  |  |  |\n| Phenol |  |  |  |\n| Cloroform |  |  |  |\n| Nước |  |  |  |\n| Cồn 100° |  |  |  |\n| Cồn 70° |  |  |  |\n| Sodium Acetat |  |  |  |\n| Bộ kít lựa chọn |  |  |  |\n| Dung dịch rửa |  |  |  |\n\n3. Các bước thực hiện\n\nLượng mẫu tách chiết:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_BM02-QT03_01-HCLS_119-2023-TT-BQP_chunk_0002",
+            "char_count": 849,
+            "source_file": "mauphieu/MAU BM02-QT03.01-HCLS_119-2023-TT-BQP.doc",
+            "file_name": "MAU BM02-QT03.01-HCLS_119-2023-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:16:24",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_BM02-QT03_01-HCLS_119-2023-TT-BQP_chunk_0002",
+        "doc_id": "mauphieu_MAU_BM02-QT03_01-HCLS_119-2023-TT-BQP",
+        "text": "|  |  |\n| Nước |  |  |  |\n| Cồn 100° |  |  |  |\n| Cồn 70° |  |  |  |\n| Sodium Acetat |  |  |  |\n| Bộ kít lựa chọn |  |  |  |\n| Dung dịch rửa |  |  |  |\n\n3. Các bước thực hiện\n\nLượng mẫu tách chiết:\n\n| Bước | Thành phần | Lượng hóa chất | Ngày thực hiện | Người thực hiện | Ghi chú |\n| --- | --- | --- | --- | --- | --- |\n| Xử lý mẫu | Javen 10% |  |  |  |  |\n| Xử lý mẫu | Nước khử ion |  |  |  |  |\n| Xử lý mẫu | Cồn |  |  |  |  |\n| Khử khoáng | EDTA |  |  |  |  |\n| Khử khoáng | Đệm |  |  |  |  |\n| Loại Protein, tạp chất | Phenol:Chloroform:Isoamyl 25:24:1 |  |  |  |  |\n| Loại Protein, tạp chất | Chloroform:Isoamyl 24:1 |  |  |  |  |\n| Tủa cồn | Sodium Acetat |  |  |  |  |\n| Tủa cồn | Cồn 100° |  |  |  |  |\n| Tủa cồn | Cồn 70° |  |  |  |  |\n| Tinh sạch thu ADN | Đệm gắn |  |  |  |  |\n| Tinh sạch thu ADN | Nước |  |  |  |  |\n| Tinh sạch thu ADN | Đệm rửa |  |  |  |  |\n| Tinh sạch thu ADN | Đệm ly giải |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_BM02-QT03_01-HCLS_119-2023-TT-BQP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 924,
+            "source_file": "mauphieu/MAU BM02-QT03.01-HCLS_119-2023-TT-BQP.doc",
+            "file_name": "MAU BM02-QT03.01-HCLS_119-2023-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:16:24",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

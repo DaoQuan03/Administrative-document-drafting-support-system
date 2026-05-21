@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_SO_12-29-2019-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_SO_12-29-2019-TT-BYT",
+        "text": "Phụ lục số 12\n\nPHIẾU LẤY Ý KIẾN LÃNH ĐẠO BỘ\n\n(Ban hành kèm theo Thông tư số 29/2019/TT-BYT ngày 29 tháng 11 năm 2019\n\ncủa Bộ trưởng Bộ Y tế)\n\n| BỘ Y TẾ<br>... | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- | --- |\n| Số:            /... | Hà Nội, ngày     tháng    năm 20 |\n\nPHIẾU LẤY Ý KIẾN LÃNH ĐẠO BỘ\n\nTên văn bản ...\n\nKính gửi:  ………………..\n\nĐơn vị chủ trì soạn thảo: …\n\nNgày Vụ Pháp chế trình lấy ý kiến: …\n\nI. MỘT SỐ NỘI DUNG CỤ THỂ CẦN XIN Ý KIẾN VỀ DỰ THẢO\n\n(Nếu đồng ý phương án nào, đánh dấu X vào ô bên cạnh)\n\n1. Vấn đề 1:\n\nPhương án 1: …                                                           □\n\nPhương án 2: …                                                           □\n\nPhương án...: …                                                          □\n\n2. Vấn đề ...:\n\nPhương án 1: …                                                           □\n\nPhương án 2: …                                                           □",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_SO_12-29-2019-TT-BYT_chunk_0002",
+            "char_count": 954,
+            "source_file": "mauphieu/PHU LUC SO 12-29-2019-TT-BYT.doc",
+            "file_name": "PHU LUC SO 12-29-2019-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:48:03",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_SO_12-29-2019-TT-BYT_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_SO_12-29-2019-TT-BYT",
+        "text": "□\n\n2. Vấn đề ...:\n\nPhương án 1: …                                                           □\n\nPhương án 2: …                                                           □\n\nPhương án...: …                                                          □\n\nII. Ý KIẾN (KHÁC) VỀ DỰ THẢO (nếu có): …\n\nIII. BIỂU QUYẾT ĐỐI VỚI TOÀN BỘ NỘI DUNG DỰ THẢO\n\n(Đánh dấu X vào một trong hai ô ở bên cạnh)\n\n1. Thông qua (sau khi các ý kiến trên được tiếp thu)       □\n\n2. Không thông qua (nêu rõ lý do)                                 □\n\n3. Ý kiến khác nếu có:……………………………………………………..\n\n|  | Hà Nội, ngày... tháng ... năm ...<br>(Chữ ký của Lãnh đạo Bộ) |\n| --- | --- |\n\n(Đề nghị đồng chí cho ý kiến trong thời hạn 05 ngày kể từ ngày Vụ Pháp chế trình lấy ý kiến.)\n\nNguồn: Thông tư 29/2019/TT-BYT",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_SO_12-29-2019-TT-BYT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 770,
+            "source_file": "mauphieu/PHU LUC SO 12-29-2019-TT-BYT.doc",
+            "file_name": "PHU LUC SO 12-29-2019-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:48:03",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

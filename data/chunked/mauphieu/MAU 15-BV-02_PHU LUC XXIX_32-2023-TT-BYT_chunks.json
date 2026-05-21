@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_15-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_15-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "Sở Y tế: ...\n\nBV: ...\n\nPhiếu đo chức năng hô hấp\n\n(lần thứ ...)\n\nMS: 15/BV-02\n\nSố ...\n\n- Họ tên người bệnh: ...                        Tuổi: ...  Nam/Nữ\n\n- Địa chỉ: ... ...\n\n- Khoa: ... Buồng: ...Giường: ...\n\n- Chẩn đoán: ...\n\n|  | Dung tích sống | DT.thở ra<br><br>Tối đa/giây | Tỉ số Tiffenau | Thông khí<br><br>Phút/ tối đa | Khí<br><br>dự trữ |\n| --- | --- | --- | --- | --- | --- |\n| - Dự kiến |  |  |  |  |  |\n| - Thực tế |  |  |  |  |  |\n| - Tỷ lệ giảm % |  |  |  |  |  |\n| - |  |  |  |  |  |\n| - |  |  |  |  |  |\n\nNgày ... tháng ... năm ...                                                                   Ngày ... tháng ... năm ...\n\nBáC Sĩ Điều trị                                                                                               Bác sĩ chuyên khoa\n\nHọ tên ...                                                                  Họ tên ...\n\n...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 864,
+            "source_file": "mauphieu/MAU 15-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 15-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:57:34",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

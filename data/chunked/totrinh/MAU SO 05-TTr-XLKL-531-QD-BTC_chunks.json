@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_SO_05-TTr-XLKL-531-QD-BTC_chunk_0001",
+        "doc_id": "totrinh_MAU_SO_05-TTr-XLKL-531-QD-BTC",
+        "text": "Mẫu 05/TTr-XLKL\n\n| TÊN ĐƠN VỊ (cấp trên)<br>TÊN ĐƠN VỊ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>------------------ |\n| --- | --- |\n| Số:    /TTr-(tên viết tắt ĐV) | (Địa danh), ngày... tháng... năm ... |\n\nTỜ TRÌNH\n\nV/v đề nghị xử lý kỷ luật đối với công chức (viên chức)\n\nKính gửi: Hội đồng kỷ luật\n\nCăn cứ chỉ đạo của ... tại Thông báo số ... ngày ... tháng... năm ...\n\nCăn cứ kết luận tại Kết luận số... của... về... hoặc kết luận tại Bản án...\n\nNgày ... Đơn vị tổ chức cuộc họp để công chức (viên chức) có hành vi vi phạm tự kiểm điểm trước tập thể, với thành phần tham gia dự cuộc họp:\n\n- Cuộc họp thứ nhất:\n\nCó mặt...; vắng mặt…, lý do:...\n\n- Cuộc họp thứ 2:...\n\nSau khi người vi phạm tự kiểm điểm và tự nhận hình thức kỷ luật trước tập thể (hình thức kỷ luật). Đơn vị đã tiến hành kiểm điểm quá trình công tác và hành vi vi phạm đối với công chức (viên chức)...\n\nKết quả đề nghị hình thức kỷ luật: ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_SO_05-TTr-XLKL-531-QD-BTC_chunk_0002",
+            "char_count": 948,
+            "source_file": "totrinh/MAU SO 05-TTr-XLKL-531-QD-BTC.doc",
+            "file_name": "MAU SO 05-TTr-XLKL-531-QD-BTC.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:22:21",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_SO_05-TTr-XLKL-531-QD-BTC_chunk_0002",
+        "doc_id": "totrinh_MAU_SO_05-TTr-XLKL-531-QD-BTC",
+        "text": "nhận hình thức kỷ luật trước tập thể (hình thức kỷ luật). Đơn vị đã tiến hành kiểm điểm quá trình công tác và hành vi vi phạm đối với công chức (viên chức)...\n\nKết quả đề nghị hình thức kỷ luật: ...\n\n(Đơn vị) trình HĐKL làm căn cứ xem xét, xử lý kỷ luật đối với công chức, viên chức (họ và tên).\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu:...<br>Hồ sơ đính kèm: | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký và đóng dấu đơn vị nếu có) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_SO_05-TTr-XLKL-531-QD-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 425,
+            "source_file": "totrinh/MAU SO 05-TTr-XLKL-531-QD-BTC.doc",
+            "file_name": "MAU SO 05-TTr-XLKL-531-QD-BTC.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:22:21",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

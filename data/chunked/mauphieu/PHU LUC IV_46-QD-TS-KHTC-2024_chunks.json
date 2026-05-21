@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_IV_46-QD-TS-KHTC-2024_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_IV_46-QD-TS-KHTC-2024",
+        "text": "PHỤ LỤC IV.\n\nMẪU PHIẾU PHẨM ĐỊNH ĐỀ CƯƠNG, DỰ TOÁN DỰ ÁN ĐIỀU TRA CƠ BẢN(1)\n\n| BỘ NÔNG NGHIỆP<br>VÀ PHÁT TRIỂN NÔNG THÔN<br>CỤC THỦY SẢN<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | Hà Nội, ngày     tháng …. năm 20… |\n\nPHIẾU ĐÁNH GIÁ\n\nĐề cương dự toán Dự án điều tra cơ bản\n\n- Tên dự án: ...\n\n- Đơn vị xây dựng đề cương: ...\n\n- Họ và tên thành viên Hội đồng thẩm định: ...\n\n- Đơn vị công tác: ...\n\nI. ĐÁNH GIÁ CHI TIẾT\n\n1. Tính cấp thiết, cơ sở pháp lý\n\n...\n\n...\n\n2. Mục tiêu dự án, tổng quan tài liệu\n\n...\n\n...\n\n3. Phương pháp nghiên cứu\n\n...\n\n...\n\n4. Tổ chức, tiến độ thực hiện\n\n...\n\n...\n\n5. Sản phẩm giao nộp\n\n...\n\n...\n\n6. Dự toán kinh phí thực hiện\n\n...\n\n...\n\n7. Đề nghị, lưu ý\n\n...\n\n...\n\nĐánh giá chung\n\n|  | Đạt yêu cầu |\n| --- | --- |\n|  | Đạt yêu cầu, cần bổ sung |\n|  | Không đạt yêu cầu |\n\n|  | Người thẩm định<br>(Ký, ghi rõ họ và tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_IV_46-QD-TS-KHTC-2024_chunk_0002",
+            "char_count": 937,
+            "source_file": "mauphieu/PHU LUC IV_46-QD-TS-KHTC-2024.doc",
+            "file_name": "PHU LUC IV_46-QD-TS-KHTC-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:44:36",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_IV_46-QD-TS-KHTC-2024_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_IV_46-QD-TS-KHTC-2024",
+        "text": "Đề nghị, lưu ý\n\n...\n\n...\n\nĐánh giá chung\n\n|  | Đạt yêu cầu |\n| --- | --- |\n|  | Đạt yêu cầu, cần bổ sung |\n|  | Không đạt yêu cầu |\n\n|  | Người thẩm định<br>(Ký, ghi rõ họ và tên) |\n| --- | --- |\n\n(1) Có thể sửa đổi, bổ sung phù hợp với từng nội dung của dự án",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_IV_46-QD-TS-KHTC-2024_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 260,
+            "source_file": "mauphieu/PHU LUC IV_46-QD-TS-KHTC-2024.doc",
+            "file_name": "PHU LUC IV_46-QD-TS-KHTC-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:44:36",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

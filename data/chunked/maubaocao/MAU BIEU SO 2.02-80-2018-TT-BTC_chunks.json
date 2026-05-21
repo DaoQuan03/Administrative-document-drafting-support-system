@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_2_02-80-2018-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_BIEU_SO_2_02-80-2018-TT-BTC",
+        "text": "Mẫu biểu số: 2.02\n\nBÁO CÁO TÌNH HÌNH TÀI CHÍNH CỦA BÊN VAY LẠI VỚI CÁC CHỦ NỢ\n\nCơ quan thực hiện: ... (Doanh nghiệp/đơn vị sự nghiệp công lập)\n\nKỳ báo cáo : từ ngày…….. Đến ngày...\n\nI. Tình hình vay nợ\n\nĐơn vị: Nguyên tệ\n\n| STT | TÊN CHỦ NỢ | Dư nợ đầu kỳ | Dư nợ đầu kỳ | Dư nợ cuối kỳ | Dư nợ cuối kỳ | Dư nợ quá hạn cuối kỳ | Dư nợ quá hạn cuối kỳ |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | TÊN CHỦ NỢ | Nguyên tệ | Quy VNĐ | Nguyên tệ | Quy VNĐ | Nguyên tệ | Quy VNĐ |\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n| I<br>II<br>III | Chủ nợ A<br>Chủ nợ B<br>Chủ nợ C<br>Tổng dư nợ (quy VND) |  |  |  |  |  |  |\n\nGhi chú:\n\n- Cột 4: Áp dụng tỷ giá hạch toán ngân sách nhà nước do Bộ tài chính công bố tại thời điểm đầu kỳ báo cáo\n\n- Cột 6,8: Áp dụng tỷ giá hạch toán ngân sách nhà nước do Bộ Tài chính công bố tại thời điểm cuối kỳ báo cáo\n\n2. Tình hình tài chính\n\nA. Đối với Doanh nghiệp",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_BIEU_SO_2_02-80-2018-TT-BTC_chunk_0002",
+            "char_count": 895,
+            "source_file": "maubaocao/MAU BIEU SO 2.02-80-2018-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 2.02-80-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:20:34",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_2_02-80-2018-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_BIEU_SO_2_02-80-2018-TT-BTC",
+        "text": "công bố tại thời điểm đầu kỳ báo cáo\n\n- Cột 6,8: Áp dụng tỷ giá hạch toán ngân sách nhà nước do Bộ Tài chính công bố tại thời điểm cuối kỳ báo cáo\n\n2. Tình hình tài chính\n\nA. Đối với Doanh nghiệp\n\n| STT | Hệ số | Tỷ lệ | Ghi chú |\n| --- | --- | --- | --- |\n| 1 | Hệ số thanh toán nợ ngắn hạn |  |  |\n| 2. | Hệ số thanh toán nợ dài hạn |  |  |\n| 3 | Nợ phải trả/Vốn chủ sở hữu |  |  |\n| 4 | Nợ phải trả/Tổng tài sản |  |  |\n\nB. Đối với đơn vị sự nghiệp công lập\n\n| STT | Hệ số | Tỷ lệ | Ghi chú |\n| --- | --- | --- | --- |\n| 1 | Hệ số thanh toán nợ ngắn hạn |  |  |\n| 2 | Hệ số thanh toán nợ dài hạn |  |  |\n| 3 | Nợ phải trả/Tổng tài sản |  |  |\n\n|  | ……, Ngày …… tháng …… năm …… |\n| --- | --- |\n| NGƯỜI LẬP BIỂU | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký tên, đóng dấu) |\n\nNguồn: Thông tư 80/2018/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_BIEU_SO_2_02-80-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 788,
+            "source_file": "maubaocao/MAU BIEU SO 2.02-80-2018-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 2.02-80-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:20:34",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

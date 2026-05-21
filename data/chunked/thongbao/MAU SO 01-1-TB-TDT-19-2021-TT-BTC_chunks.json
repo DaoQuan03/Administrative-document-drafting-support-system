@@ -1,0 +1,326 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "|  |  | Mẫu số: 01-1/TB-TĐT<br>(Ban hành kèm theo Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính) |\n| --- | --- | --- |\n| BỘ TÀI CHÍNH<br>TỔNG CỤC THUẾ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| Số: …./TB-TĐT | ……, ngày…  tháng…  năm… | ……, ngày…  tháng…  năm… |\n|  |  |  |\n\nTHÔNG BÁO\n\nVề việc tiếp nhận <chứng từ điện tử>\n\nCăn cứ quy định tại Luật Quản lý thuế ngày 13/6/2019;\n\nCăn cứ quy định tại Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế.\n\n<Trường hợp 1: tiếp nhận chứng từ điện tử thì ghi:>\n\nCăn cứ <chứng từ điện tử> của <người nộp thuế/người nộp thuế do <tên đại lý thuế, mã số thuế> gửi tới cơ quan thuế/người nộp thuế do <Tên cơ quan nhà nước có thẩm quyền> chuyển sang cơ quan thuế> lúc...giờ...phút ngày ... tháng ... năm..., cụ thể như sau:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 18,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0002",
+            "char_count": 996,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "thuế do <tên đại lý thuế, mã số thuế> gửi tới cơ quan thuế/người nộp thuế do <Tên cơ quan nhà nước có thẩm quyền> chuyển sang cơ quan thuế> lúc...giờ...phút ngày ... tháng ... năm..., cụ thể như sau:\n\n<Trường hợp tiếp nhận chứng từ điện tử là hồ sơ đăng ký thuế thì ghi>:\n\n- Tên hồ sơ <…>, mẫu <...> và các tài liệu đính kèm.\n\n- Mã giao dịch điện tử: ………………….\n\nHồ sơ đăng ký thuế của người nộp thuế đã được cơ quan thuế tiếp nhận vào lúc...giờ...phút ngày...tháng...năm...\n\nHồ sơ đăng ký thuế sẽ được cơ quan thuế tiếp tục kiểm tra và trả Thông báo không chấp nhận hồ sơ trong thời hạn 02 (hai) ngày làm việc kể từ ngày cơ quan thuế tiếp nhận hồ sơ của người nộp thuế ghi trên Thông báo này đối với hồ sơ không đầy đủ theo quy định. Trường hợp qua kiểm tra hồ sơ của người nộp thuế đã đầy đủ theo quy định, cơ quan thuế sẽ trả kết quả cho người nộp thuế như sau:\n\n- Tên kết quả: <ghi kết quả tương ứng của từng loại hồ sơ>.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0003",
+            "char_count": 923,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0003",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "định. Trường hợp qua kiểm tra hồ sơ của người nộp thuế đã đầy đủ theo quy định, cơ quan thuế sẽ trả kết quả cho người nộp thuế như sau:\n\n- Tên kết quả: <ghi kết quả tương ứng của từng loại hồ sơ>.\n\n- Thời hạn trả kết quả: <ghi thời hạn trả kết quả tương ứng của từng loại hồ sơ>.\n\n- Địa điểm nhận kết quả: <ghi địa điểm nhận kết quả tương ứng của từng loại hồ sơ>.\n\n<Trường hợp tiếp nhận chứng từ điện tử là hồ sơ khai thuế/BCTC/BCAC/hồ sơ khai thuế đối với trường hợp cơ quan quản lý thuế tính thuế, thông báo thuế thì ghi:>\n\n- Tên tờ khai/Phụ lục: ……………………………\n\n- Loại tờ khai: …………………………………….\n\n- Kỳ tính thuế: ……………………………………\n\n- Lần nộp hoặc lần bổ sung: ……………………\n\n- Mã giao dịch điện tử:…………………………..\n\nHồ sơ khai thuế của người nộp thuế đã được cơ quan thuế tiếp nhận vào lúc... giờ...phút ngày...tháng… năm …",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0002",
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0004",
+            "char_count": 810,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0004",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "……………………………………\n\n- Lần nộp hoặc lần bổ sung: ……………………\n\n- Mã giao dịch điện tử:…………………………..\n\nHồ sơ khai thuế của người nộp thuế đã được cơ quan thuế tiếp nhận vào lúc... giờ...phút ngày...tháng… năm …\n\nHồ sơ khai thuế sẽ được cơ quan thuế tiếp tục kiểm tra và trả Thông báo chấp nhận hoặc không chấp nhận hồ sơ trong thời gian 01 (một) ngày làm việc kể từ ngày cơ quan thuế tiếp nhận hồ sơ của người nộp thuế ghi trên Thông báo này.\n\n<Trường hợp tiếp nhận chứng từ điện tử là chứng từ nộp NSNN thì ghi:>\n\n- Tên chứng từ nộp NSNN: …………………………\n\n- Số tham chiếu: ...\n\n- Tài khoản trích nợ: ………. mở tại <tên ngân hàng/tổ chức cung ứng dịch vụ trung gian thanh toán)\n\n- Tên Kho bạc Nhà nước hạch toán thu:...\n\n- Tên cơ quan thuế quản lý thu: ……\n\n- Tổng số khoản: ……\n\n- Loại tiền: ...\n\n- Tổng số tiền nộp NSNN:...\n\nChứng từ nộp NSNN của người nộp thuế đã được cơ quan thuế tiếp nhận vào lúc...giờ...phút ngày...tháng… năm….\n\n<Trường hợp tiếp nhận chứng từ điện tử là hồ sơ đề nghị tra soát thì ghi:>",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0003",
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0005",
+            "char_count": 990,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0005",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "nộp NSNN:...\n\nChứng từ nộp NSNN của người nộp thuế đã được cơ quan thuế tiếp nhận vào lúc...giờ...phút ngày...tháng… năm….\n\n<Trường hợp tiếp nhận chứng từ điện tử là hồ sơ đề nghị tra soát thì ghi:>\n\n- Tên hồ sơ đề nghị tra soát: ……………………\n\n- Mã giao dịch điện tử: …………………………….\n\nHồ sơ đề nghị tra soát của người nộp thuế đã được cơ quan thuế tiếp nhận vào lúc ...giờ...phút ngày...tháng… năm ….\n\nHồ sơ đề nghị tra soát sẽ được cơ quan thuế tiếp tục kiểm tra và trả Thông báo chấp nhận hoặc không chấp nhận trong thời gian 01 (một) ngày làm việc kể từ ngày cơ quan thuế tiếp nhận hồ sơ của người nộp thuế ghi trên Thông báo này.\n\n<Trường hợp tiếp nhận chứng từ điện tử là hồ sơ đề nghị xác nhận việc thực hiện nghĩa vụ thuế thì ghi:>\n\n- Tên hồ sơ <...>: …………………………\n\n- Mã giao dịch điện tử: ………………….\n\nHồ sơ <đề nghị xác nhận việc thực hiện nghĩa vụ thuế> của người nộp thuế đã được cơ quan thuế tiếp nhận vào lúc...giờ...phút ngày...tháng …năm…",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0004",
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0006",
+            "char_count": 941,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0006",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "sơ <...>: …………………………\n\n- Mã giao dịch điện tử: ………………….\n\nHồ sơ <đề nghị xác nhận việc thực hiện nghĩa vụ thuế> của người nộp thuế đã được cơ quan thuế tiếp nhận vào lúc...giờ...phút ngày...tháng …năm…\n\nHồ sơ <đề nghị xác nhận việc thực hiện nghĩa vụ thuế> sẽ được cơ quan thuế tiếp tục kiểm tra và trả Thông báo chấp nhận hoặc không chấp nhận trong thời hạn 05 (năm) ngày làm việc kể từ ngày cơ quan thuế tiếp nhận hồ sơ của người nộp thuế ghi trên Thông báo này.\n\n<Trường hợp tiếp nhận chứng từ điện tử là văn bản đề nghị xử lý khoản nộp thừa thì ghi:>\n\n- Tên hồ sơ <...>: ……………….\n\n- Mã giao dịch điện tử: …………\n\nHồ sơ <đề nghị xử lý khoản nộp thừa> của người nộp thuế đã được cơ quan thuế tiếp nhận vào lúc...giờ...phút ngày...tháng… năm …\n\nHồ sơ <đề nghị xử lý khoản nộp thừa> sẽ được cơ quan thuế tiếp tục kiểm tra và trả Thông báo chấp nhận hoặc không chấp nhận trong thời hạn 03 (ba) ngày làm việc kể từ ngày cơ quan thuế tiếp nhận hồ sơ của người nộp thuế ghi trên Thông báo này.",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0005",
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0007",
+            "char_count": 984,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0007",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "cơ quan thuế tiếp tục kiểm tra và trả Thông báo chấp nhận hoặc không chấp nhận trong thời hạn 03 (ba) ngày làm việc kể từ ngày cơ quan thuế tiếp nhận hồ sơ của người nộp thuế ghi trên Thông báo này.\n\n<Trường hợp tiếp nhận chứng từ điện tử là hồ sơ miễn, giảm thuế thì ghi:>\n\n- Tên hồ sơ < ……>, mẫu <...> và các tài liệu đính kèm.\n\n- Mã giao dịch điện tử: …………………..\n\nHồ sơ <miễn, giảm thuế> của người nộp thuế đã được cơ quan thuế tiếp nhận vào lúc...giờ...phút ngày...tháng …năm… Hồ sơ <miễn, giảm thuế...> sẽ được cơ quan thuế tiếp tục kiểm tra và trả Thông báo chấp nhận hoặc không chấp nhận trong thời gian 03 (ba) ngày làm việc kể từ ngày cơ quan thuế tiếp nhận hồ sơ của người nộp thuế ghi trên Thông báo này.\n\n<Trường hợp tiếp nhận chứng từ điện tử là hồ sơ xử lý nợ thì ghi:>\n\n+ Tên hồ sơ <xử lý nợ>:……………….\n\n+ Mã giao dịch điện tử: ……………….",
+        "metadata": {
+            "chunk_index": 7,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0006",
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0008",
+            "char_count": 847,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0008",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "thuế tiếp nhận hồ sơ của người nộp thuế ghi trên Thông báo này.\n\n<Trường hợp tiếp nhận chứng từ điện tử là hồ sơ xử lý nợ thì ghi:>\n\n+ Tên hồ sơ <xử lý nợ>:……………….\n\n+ Mã giao dịch điện tử: ……………….\n\nHồ sơ <xử lý nợ> đã được cơ quan thuế tiếp nhận vào lúc...giờ...phút ngày...tháng… năm… Hồ sơ <xử lý nợ> sẽ được cơ quan thuế tiếp tục kiểm tra và trả Thông báo chấp nhận hoặc không chấp nhận trong thời gian <nêu thời gian trả thông báo theo từng hồ sơ> kể từ ngày cơ quan thuế tiếp nhận hồ sơ <xử lý nợ> của người nộp thuế ghi trên Thông báo này.\n\n<Trường hợp tiếp nhận chứng từ điện tử là hồ sơ thuế khác thì ghi:>\n\n+ Tên hồ sơ: …………………..\n\n+ Mã giao dịch điện tử: ……………………\n\nHồ sơ <Tên hồ sơ thuế> đã được cơ quan thuế tiếp nhận vào lúc ... giờ... phút ngày... tháng ... năm ...",
+        "metadata": {
+            "chunk_index": 8,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0007",
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0009",
+            "char_count": 777,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0009",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "điện tử là hồ sơ thuế khác thì ghi:>\n\n+ Tên hồ sơ: …………………..\n\n+ Mã giao dịch điện tử: ……………………\n\nHồ sơ <Tên hồ sơ thuế> đã được cơ quan thuế tiếp nhận vào lúc ... giờ... phút ngày... tháng ... năm ...\n\n<<Hồ sơ thuế ...> sẽ được cơ quan thuế tiếp tục kiểm tra và trả Thông báo chấp nhận hoặc không chấp nhận trong trong thời gian <nêu thời gian trả thông báo theo từng hồ sơ> kể từ ngày cơ quan thuế tiếp nhận hồ sơ < …> của người nộp thuế ghi trên Thông báo này>.\n\n<Hoặc hồ sơ <Tên hồ sơ thuế> sẽ được cơ quan thuế tiếp tục kiểm tra và trả kết quả cho người nộp thuế như sau:\n\n- Tên kết quả: <ghi kết quả tương ứng của từng loại hồ sơ>.\n\n- Thời hạn trả kết quả: <ghi thời hạn trả kết quả tương ứng của từng loại hồ sơ>.\n\n- Địa điểm nhận kết quả: <ghi địa điểm nhận kết quả tương ứng của từng loại hồ sơ>>.",
+        "metadata": {
+            "chunk_index": 9,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0008",
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0010",
+            "char_count": 804,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0010",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "ứng của từng loại hồ sơ>.\n\n- Thời hạn trả kết quả: <ghi thời hạn trả kết quả tương ứng của từng loại hồ sơ>.\n\n- Địa điểm nhận kết quả: <ghi địa điểm nhận kết quả tương ứng của từng loại hồ sơ>>.\n\n<Trường hợp tiếp nhận chứng từ điện tử là hồ sơ xác định nghĩa vụ tài chính, hồ sơ khai thuế theo cơ chế một cửa liên thông của người nộp thuế nộp qua <Tên cơ quan nhà nước có thẩm quyền> thì ghi:>\n\n+ Tên hồ sơ: <Liệt kê tất cả thành phần hồ sơ>\n\n+ Mã hồ sơ thủ tục hành chính theo cơ chế một cửa liên thông <theo Nghị định số 61/2018/NĐ-CP ngày 23/4/2018>: ……\n\n+ Mã giao dịch điện tử: ………….",
+        "metadata": {
+            "chunk_index": 10,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0009",
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0011",
+            "char_count": 587,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0011",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "ghi:>\n\n+ Tên hồ sơ: <Liệt kê tất cả thành phần hồ sơ>\n\n+ Mã hồ sơ thủ tục hành chính theo cơ chế một cửa liên thông <theo Nghị định số 61/2018/NĐ-CP ngày 23/4/2018>: ……\n\n+ Mã giao dịch điện tử: ………….\n\n<Hồ sơ xác định nghĩa vụ tài chính, hồ sơ khai thuế theo cơ chế một cửa liên thông> của người nộp thuế nộp tại <Tên cơ quan nhà nước có thẩm quyền> đã được cơ quan thuế tiếp nhận vào lúc...giờ...phút ngày...tháng… năm…. Hồ sơ sẽ được cơ quan thuế tiếp tục kiểm tra và trả Thông báo chấp nhận hoặc không chấp nhận trong thời gian 01 (một) ngày làm việc kể từ ngày cơ quan thuế tiếp nhận hồ sơ của người nộp thuế do <Tên cơ quan nhà nước có thẩm quyền> chuyển sang.\n\n<Trường hợp tiếp nhận chứng từ điện tử là hồ sơ đề nghị miễn, giảm thuế điện tử theo cơ chế một cửa liên thông của người nộp thuế nộp qua <Tên cơ quan nhà nước có thẩm quyền> thì ghi:>\n\n- Tên hồ sơ: <Liệt kê tất cả thành phần hồ sơ>",
+        "metadata": {
+            "chunk_index": 11,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0010",
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0012",
+            "char_count": 898,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0012",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "tử là hồ sơ đề nghị miễn, giảm thuế điện tử theo cơ chế một cửa liên thông của người nộp thuế nộp qua <Tên cơ quan nhà nước có thẩm quyền> thì ghi:>\n\n- Tên hồ sơ: <Liệt kê tất cả thành phần hồ sơ>\n\n- Mã hồ sơ thủ tục hành chính theo cơ chế một cửa liên thông <theo Nghị định số 61/2018/NĐ-CP ngày 23/4/2018>: ………………..\n\n- Mã giao dịch điện tử: ……………………..\n\nHồ sơ <miễn, giảm thuế> điện tử theo cơ chế một cửa liên thông của người nộp thuế nộp tại <Tên cơ quan nhà nước có thẩm quyền> đã được cơ quan thuế tiếp nhận vào lúc...giờ...phút ngày...tháng… năm… Hồ sơ sẽ được cơ quan thuế tiếp tục kiểm tra và trả Thông báo chấp nhận hoặc không chấp nhận trong thời gian 03 (ba) ngày làm việc kể từ ngày cơ quan thuế tiếp nhận hồ sơ của người nộp thuế do <Tên cơ quan nhà nước có thẩm quyền> chuyển sang.\n\n<Trường hợp 2: không tiếp nhận chứng từ điện tử thì ghi:>",
+        "metadata": {
+            "chunk_index": 12,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0011",
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0013",
+            "char_count": 854,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0013",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "gian 03 (ba) ngày làm việc kể từ ngày cơ quan thuế tiếp nhận hồ sơ của người nộp thuế do <Tên cơ quan nhà nước có thẩm quyền> chuyển sang.\n\n<Trường hợp 2: không tiếp nhận chứng từ điện tử thì ghi:>\n\nCăn cứ <chứng từ điện tử> của <người nộp thuế/người nộp thuế do <tên đại lý thuế, mã số thuế> gửi tới cơ quan thuế/người nộp thuế do <Tên cơ quan nhà nước có thẩm quyền> chuyển sang cơ quan thuế> lúc...giờ...phút ngày ... tháng ... năm... Cơ quan thuế thông báo về việc không tiếp nhận <chứng từ điện tử> của người nộp thuế, cụ thể như sau:\n\n<Trường hợp không tiếp nhận hồ sơ khai thuế/BCTC/BCAC/hồ sơ khai thuế điện tử đối với trường hợp cơ quan quản lý thuế tính thuế, thông báo thuế thì ghi:>\n\n- Tên tờ khai/Phụ lục/hồ sơ khai thuế: …………………..\n\n- Loại tờ khai: ……………………\n\n- Kỳ tính thuế: ……………………\n\n- Lần nộp hoặc lần bổ sung: …………………\n\n- Lý do không tiếp nhận:\n\n| STT | Mô tả lỗi | Hướng dẫn xử lý | Ghi chú |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 1 | <nhóm lỗi>(<tên lỗi>) |  |  |",
+        "metadata": {
+            "chunk_index": 13,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0012",
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0014",
+            "char_count": 996,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0014",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "Lần nộp hoặc lần bổ sung: …………………\n\n- Lý do không tiếp nhận:\n\n| STT | Mô tả lỗi | Hướng dẫn xử lý | Ghi chú |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 1 | <nhóm lỗi>(<tên lỗi>) |  |  |\n\n<Trường hợp không tiếp nhận chứng từ điện tử là chứng từ nộp NSNN điện tử thì ghi:>\n\n- Tên chứng từ nộp NSNN: ………………….\n\n- Tài khoản trích nợ: …… mở tại <tên ngân hàng/tổ chức cung ứng dịch vụ trung gian thanh toán>\n\n- Tên Kho bạc Nhà nước hạch toán thu:...\n\n- Tên cơ quan thuế quản lý thu: ………\n\n- Tổng số khoản: ……\n\n- Loại tiền: ...\n\n- Tổng số tiền nộp NSNN:...\n\n- Lý do không tiếp nhận cụ thể như sau:\n\n| STT | Mô tả lỗi | Hướng dẫn xử lý | Ghi chú |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 1 | <nhóm lỗi>(<tên lỗi>) |  |  |\n\n<Trường hợp không tiếp nhận hồ sơ đề nghị tra soát/hồ sơ đề nghị xác nhận việc thực hiện nghĩa vụ thuế/văn bản đề nghị xử lý khoản nộp thừa/hồ sơ miễn, giảm thuế/hồ sơ xử lý nợ/hồ sơ thuế khác:>\n\n- Tên hồ sơ thuế điện tử: …………………..\n\n- Lý do không tiếp nhận:",
+        "metadata": {
+            "chunk_index": 14,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0013",
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0015",
+            "char_count": 996,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0015",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "nghị xác nhận việc thực hiện nghĩa vụ thuế/văn bản đề nghị xử lý khoản nộp thừa/hồ sơ miễn, giảm thuế/hồ sơ xử lý nợ/hồ sơ thuế khác:>\n\n- Tên hồ sơ thuế điện tử: …………………..\n\n- Lý do không tiếp nhận:\n\n| STT | Mô tả lỗi | Hướng dẫn xử lý | Ghi chú |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 1 | <nhóm lỗi>(<tên lỗi>) |  |  |\n\n<Trường hợp không tiếp nhận hồ sơ khai thuế cùng với hồ sơ xác định nghĩa vụ tài chính/hồ sơ miễn, giảm thuế điện tử theo cơ chế một cửa liên thông của người nộp thuế nộp qua <Tên cơ quan nhà nước có thẩm quyền> thì ghi:>\n\n- Tên hồ sơ: <Liệt kê tất cả thành phần hồ sơ>\n\n- Mã hồ sơ thủ tục hành chính theo cơ chế một cửa liên thông <theo Nghị định số 61/2018/NĐ-CP ngày 23/4/2018>: …………….\n\n- Lý do không tiếp nhận:\n\n| STT | Mô tả lỗi | Hướng dẫn xử lý | Ghi chú |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 1 | <nhóm lỗi>(<tên lỗi>) |  |  |",
+        "metadata": {
+            "chunk_index": 15,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0014",
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0016",
+            "char_count": 887,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0016",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "ngày 23/4/2018>: …………….\n\n- Lý do không tiếp nhận:\n\n| STT | Mô tả lỗi | Hướng dẫn xử lý | Ghi chú |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 1 | <nhóm lỗi>(<tên lỗi>) |  |  |\n\nĐề nghị <Tên người nộp thuế> điều chỉnh và gửi lại <chứng từ điện tử> theo hướng dẫn nêu trên để được <ghi nhận nghĩa vụ nộp NSNN> theo quy định.\n\nNếu có vướng mắc, xin vui lòng truy cập theo đường dẫn http://www.xxx.gdt.gov.vn hoặc liên hệ với <tên cơ quan thuế giải quyết hồ sơ> để được hỗ trợ.\n\nCơ quan thuế thông báo để <Tên người nộp thuế/Tên cơ quan nhà nước có thẩm quyền> biết và thực hiện./.\n\n| Nơi nhận:<br>- <Người nộp thuế>;<br>- Lưu: Cổng thông tin điện tử của TCT. | TỔNG CỤC THUẾ<br><Chữ ký số của Tổng cục Thuế> |\n| --- | --- |\n\nGhi chú:\n\n- Chữ in nghiêng trong dấu < > chỉ là giải thích hoặc ví dụ.\n\n- Chọn trường hợp 1 hoặc 2 theo kết quả xử lý.\n\n- “<Chứng từ điện tử>” tại mẫu biểu này là một trong các hồ sơ sau:",
+        "metadata": {
+            "chunk_index": 16,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0015",
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0017",
+            "char_count": 920,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0017",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "| --- |\n\nGhi chú:\n\n- Chữ in nghiêng trong dấu < > chỉ là giải thích hoặc ví dụ.\n\n- Chọn trường hợp 1 hoặc 2 theo kết quả xử lý.\n\n- “<Chứng từ điện tử>” tại mẫu biểu này là một trong các hồ sơ sau:\n\n+ Hồ sơ đăng ký thuế <đăng ký thuế lần đầu/hồ sơ thay đổi thông tin đăng ký thuế/hồ sơ tạm ngừng hoạt động, kinh doanh hoặc tiếp tục hoạt động tạm ngừng, kinh doanh trước thời hạn>;\n\n+ Hồ sơ khai thuế <hồ sơ khai thuế/BCTC/BCAC/hồ sơ khai thuế điện tử đối với trường hợp cơ quan quản lý thuế tính thuế, thông báo thuế>;\n\n+ Chứng từ nộp NSNN;\n\n+ Hồ sơ miễn, giảm thuế;\n\n+ Hồ sơ đề nghị tra soát/hồ sơ đề nghị xác nhận việc thực hiện nghĩa vụ thuế/văn bản đề nghị xử lý khoản nộp thừa;\n\n+ Hồ sơ xử lý nợ <hồ sơ miễn tiền chậm nộp/không tính tiền chậm nộp/hồ sơ khoanh tiền thuế nợ/xóa nợ tiền thuế, tiền chậm nộp, tiền phạt/gia hạn nộp thuế/nộp dần tiền thuế nợ>;\n\n+ Hồ sơ thuế điện tử khác;\n\n+ Hồ sơ xác định nghĩa vụ tài chính, hồ sơ khai thuế/hồ sơ miễn, giảm theo cơ chế một cửa liên thông.",
+        "metadata": {
+            "chunk_index": 17,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0016",
+            "next_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0018",
+            "char_count": 990,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0018",
+        "doc_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC",
+        "text": "tiền chậm nộp, tiền phạt/gia hạn nộp thuế/nộp dần tiền thuế nợ>;\n\n+ Hồ sơ thuế điện tử khác;\n\n+ Hồ sơ xác định nghĩa vụ tài chính, hồ sơ khai thuế/hồ sơ miễn, giảm theo cơ chế một cửa liên thông.\n\nNguồn: Thông tư 19/2021/TT-BTC",
+        "metadata": {
+            "chunk_index": 18,
+            "total_chunks": 18,
+            "prev_chunk_id": "thongbao_MAU_SO_01-1-TB-TDT-19-2021-TT-BTC_chunk_0017",
+            "next_chunk_id": null,
+            "char_count": 227,
+            "source_file": "thongbao/MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01-1-TB-TDT-19-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:30:40",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

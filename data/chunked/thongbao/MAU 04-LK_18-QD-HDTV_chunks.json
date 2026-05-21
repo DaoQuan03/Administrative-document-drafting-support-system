@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_04-LK_18-QD-HDTV_chunk_0001",
+        "doc_id": "thongbao_MAU_04-LK_18-QD-HDTV",
+        "text": "### Bảng tính: TB",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_04-LK_18-QD-HDTV_chunk_0002",
+            "char_count": 17,
+            "source_file": "thongbao/MAU 04-LK_18-QD-HDTV.xls",
+            "file_name": "MAU 04-LK_18-QD-HDTV.xls",
+            "folder": "thongbao",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-20T23:15:15",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_04-LK_18-QD-HDTV_chunk_0002",
+        "doc_id": "thongbao_MAU_04-LK_18-QD-HDTV",
+        "text": "Bảng tính: TB\n\n| (Ban hành kèm theo Quy chế hoạt động Lưu ký Chứng khoán) |  |  |  |\n| --- | --- | --- | --- |\n|  |  |  | Mẫu 04/LK |\n| TỔNG CÔNG TY LƯU KÝ |  | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM |  |\n| VÀ BÙ TRỪ CHỨNG KHOÁN VIỆT NAM |  | Độc lập - Tự do - Hạnh phúc |  |\n| THÔNG BÁO |  |  |  |\n| (Về việc kiểm tra thông tin của nhà đầu tư) |  |  |  |\n| Kính gửi: Công ty…………….. |  |  |  |\n| Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam (VSDC) xin thông báo đến Quý công ty về việc xác định lại chính xác thông tin của nhà đầu tư, cụ thể: |  |  |  |\n| STT | Thông tin <br>nhà đầu tư | Thông tin tổ chức khác đăng ký | Thông tin Quý Công ty đăng ký tại VSDC |\n| 1 | Họ tên |  |  |\n|  | Số đăng ký sở hữu |  |  |\n|  | Ngày cấp |  |  |\n|  | Loại hình |  |  |\n|  | Quốc tịch |  |  |\n|  | Số hiệu TK |  |  |\n| 2 |  |  |  |\n| …. |  |  |  |\n| Đề nghị Quý công ty kiểm tra lại thông tin có sai lệch của những nhà đầu tư nêu trên và gửi hồ sơ xác nhận thông tin sở hữu chứng khoán của nhà đầu tư cho VSDC trước ngày ……. |  |  |  |\n|  |  | ……, ngày ... tháng ... năm ... |  |\n|  |  | TL. TỔNG GIÁM ĐỐC |  |\n|  | Nơi nhận:<br>- Như trên; | TRƯỞNG PHÒNG LKCK&QLTV<br>(Ký, đóng dấu, ghi rõ họ tên) |  |\n|  | Xác nhận của Thành viên lưu ký: |  |  |\n| Sau khi kiểm tra, đối chiếu các thông tin, chúng tôi xác nhận những nhà đầu tư theo số thứ tự…..là chính xác so với thông tin chúng tôi đã đăng ký với Quý trung tâm. |  |  |  |\n| Đối với các trường hợp còn lại, chúng tôi sẽ liên hệ với nhà đầu tư trong thời gian sớm nhất để gửi Hồ sơ điều chỉnh thông tin tới Quý trung tâm. |  |  |  |\n|  |  | GIÁM ĐỐC/TỔNG GIÁM ĐỐC |  |\n|  |  | (Ký, đóng dấu, ghi rõ họ tên) |  |\n| Tài liệu gửi kèm: |  |  |  |\n| * Bản sao giấy tờ thể hiện thông tin nhận diện người sở hữu CK như: Hộ chiếu/Giấy chứng nhận ĐKKD/Giấy phép thành lập/Giấy chứng nhận đầu tư/Bản sao hợp đồng mở TK của nhà đầu tư. |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_04-LK_18-QD-HDTV_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 1881,
+            "source_file": "thongbao/MAU 04-LK_18-QD-HDTV.xls",
+            "file_name": "MAU 04-LK_18-QD-HDTV.xls",
+            "folder": "thongbao",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-20T23:15:15",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

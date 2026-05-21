@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_33-TDPTVT-GSQL-PHU_LUC_V-39-2018-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_33-TDPTVT-GSQL-PHU_LUC_V-39-2018-TT-BTC",
+        "text": "Mẫu số 33/TĐPTVT/GSQL\n\n| TÊN CHỦ PHƯƠNG TIỆN VẬN TẢI | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT <br>Độc lập - Tự do - Hạnh phúc<br><br>..., ngày... tháng... năm... |\n| --- | --- |\n\nTHÔNG BÁO\n\nthay đổi tên phương tiện vận tải xuất cảnh\n\nKính gửi: Hải quan...\n\n1. Doanh nghiệp đề nghị thay đổi phương tiện xuất cảnh:\n\n- Tên doanh nghiệp:... Mã số thuế:\n\n- Trụ sở chính tại:\n\n- Số điện thoại:... Số fax:\n\n2. Do có thay đổi trong kế hoạch chạy tàu, chúng tôi đề nghị được thay đổi thông tin phương tiện vận tải xuất cảnh như sau:\n\n| STT | Nội dung | PTVT ban đầu | PTVT mới |\n| --- | --- | --- | --- |\n| 1 | Tên phương tiện vận tải |  |  |\n| 2 | Số IMO |  |  |\n| 3 | Số chuyến |  |  |\n| 4 | Ngày dự kiến xuất cảnh |  |  |\n| 5 | Cảng xếp hàng |  |  |\n\n3. Danh sách tờ khai hàng hóa được xếp lên phương tiện vận tải mới\n\n| STT | Số tờ khai | Mã người xuất khẩu |  |\n| --- | --- | --- | --- |\n| 1 | 30... |  |  |\n| 2 | 30... |  |  |\n| .. | ... |  |  |\n|  | Tổng số |  |  |\n\n3. Nội dung cam đoan:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_33-TDPTVT-GSQL-PHU_LUC_V-39-2018-TT-BTC_chunk_0002",
+            "char_count": 978,
+            "source_file": "thongbao/MAU SO 33-TDPTVT-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+            "file_name": "MAU SO 33-TDPTVT-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:11:09",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_33-TDPTVT-GSQL-PHU_LUC_V-39-2018-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_33-TDPTVT-GSQL-PHU_LUC_V-39-2018-TT-BTC",
+        "text": "phương tiện vận tải mới\n\n| STT | Số tờ khai | Mã người xuất khẩu |  |\n| --- | --- | --- | --- |\n| 1 | 30... |  |  |\n| 2 | 30... |  |  |\n| .. | ... |  |  |\n|  | Tổng số |  |  |\n\n3. Nội dung cam đoan:\n\nChúng tôi cam kết chịu trách nhiệm trước pháp luật về các nội dung khai báo theo đúng quy định./.\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: VT, tên DN viết tắt. | GIÁM ĐỐC DOANH NGHIỆP<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_33-TDPTVT-GSQL-PHU_LUC_V-39-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 429,
+            "source_file": "thongbao/MAU SO 33-TDPTVT-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+            "file_name": "MAU SO 33-TDPTVT-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:11:09",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

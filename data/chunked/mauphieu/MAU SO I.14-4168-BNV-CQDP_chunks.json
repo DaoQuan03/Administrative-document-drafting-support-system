@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_I_14-4168-BNV-CQDP_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_I_14-4168-BNV-CQDP",
+        "text": "Mẫu số 14 - Mẫu phiếu chuyển văn bản\n\n| ỦY BAN NHÂN DÂN ……1<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số:    /PC-UBND | …...2, ngày... tháng... năm... |\n\nPHIẾU CHUYỂN\n\nVề việc ...3\n\n...\n\n...\n\n...\n\n... 4/.\n\n| Nơi nhận:<br>- ...;<br>- ...;<br>- Lưu: VT,...6...7. | TM. ỦY BAN NHÂN DÂN<br>CHỦ TỊCH 5<br>(Chữ ký của người có thẩm quyền, đóng dấu của UBND)<br><br><br><br><br>Họ và tên |\n| --- | --- |\n\nGhi chú:\n\n1 Tên xã, phường, đặc khu ban hành phiếu chuyển.\n\n2 Địa danh xã, phường, đặc khu.\n\n3 Trích yếu nội dung phiếu chuyển.\n\n4 Nội dung phiếu chuyển.\n\n5 Trường hợp Phó Chủ tịch UBND cấp xã được Chủ tịch UBND cấp xã phân công ký thay hoặc Chánh Văn phòng HĐND và UBND cấp xã, Trưởng Phòng chuyên môn thuộc UBND cấp xã được Chủ tịch UBND cấp xã phân công ký thừa lệnh thì thực hiện như Mẫu số 09.\n\n6 Chữ viết tắt tên đơn vị soạn thảo và số lượng bản lưu (nếu cần).",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_I_14-4168-BNV-CQDP_chunk_0002",
+            "char_count": 972,
+            "source_file": "mauphieu/MAU SO I.14-4168-BNV-CQDP.doc",
+            "file_name": "MAU SO I.14-4168-BNV-CQDP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:23:56",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_I_14-4168-BNV-CQDP_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_I_14-4168-BNV-CQDP",
+        "text": "Trưởng Phòng chuyên môn thuộc UBND cấp xã được Chủ tịch UBND cấp xã phân công ký thừa lệnh thì thực hiện như Mẫu số 09.\n\n6 Chữ viết tắt tên đơn vị soạn thảo và số lượng bản lưu (nếu cần).\n\n7 Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_I_14-4168-BNV-CQDP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 272,
+            "source_file": "mauphieu/MAU SO I.14-4168-BNV-CQDP.doc",
+            "file_name": "MAU SO I.14-4168-BNV-CQDP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:23:56",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

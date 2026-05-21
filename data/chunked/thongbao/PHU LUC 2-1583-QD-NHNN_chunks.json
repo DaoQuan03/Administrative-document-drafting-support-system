@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "thongbao_PHU_LUC_2-1583-QD-NHNN_chunk_0001",
+        "doc_id": "thongbao_PHU_LUC_2-1583-QD-NHNN",
+        "text": "PHỤ LỤC 2\n\nTHÔNG BÁO KẾT QUẢ THANH TOÁN TIỀN GIAO DỊCH TRÁI PHIẾU CHÍNH PHỦ\n\nNgày: …………….\n\n| STT | Mã định danh giao dịch | Ngày giao dịch | Ngày thanh toán | Mã TPCP giao dịch | NH TVTT bên mua/Tổ chức (bên) mua thanh toán tiền trực tiếp | NH TVTT bên bán/Tổ chức (bên) bán thanh toán tiền trực tiếp | Số tiền thanh toán | Loại tiền | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) |\n|  |  |  |  |  |  |  |  |  |  |\n\n|  | SỞ GIAO DỊCH NHNN<br>(Đã ký chữ ký điện tử) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 568,
+            "source_file": "thongbao/PHU LUC 2-1583-QD-NHNN.doc",
+            "file_name": "PHU LUC 2-1583-QD-NHNN.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:24:21",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

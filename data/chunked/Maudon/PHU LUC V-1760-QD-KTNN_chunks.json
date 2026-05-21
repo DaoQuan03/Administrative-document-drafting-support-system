@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_PHU_LUC_V-1760-QD-KTNN_chunk_0001",
+        "doc_id": "Maudon_PHU_LUC_V-1760-QD-KTNN",
+        "text": "PHỤ LỤC 05\n\nMẪU ĐƠN ĐỀ NGHỊ ĐỔI THẺ/CẤP LẠI THẺ KIỂM TOÁN VIÊN NHÀ NƯỚC\n(Ban hành kèm theo Quyết định 1760/QĐ-KTNN ngày 24 tháng 11 năm 2025 của Tổng Kiểm toán nhà nước)\n\n| KIỂM TOÁN NHÀ NƯỚC <br>KTNN/KHU VỰC/VỤ... | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n\nĐƠN ĐỀ NGHỊ\n\nĐổi thẻ/cấp lại thẻ Kiểm toán viên nhà nước\n\n| Kính gửi: | - Tổng Kiểm toán nhà nước;<br>- Vụ Tổ chức cán bộ ;<br>- Lãnh đạo…………., |\n| --- | --- |\n\nTên tôi là:  ………….………….………….\n\nNgày, tháng, năm sinh: ………….\n\nChức vụ:\n\nĐơn vị công tác:\n\nĐược bổ nhiệm (xếp ngạch) ngạch…………. theo Quyết định số ……….ngày…... tháng……. năm……. ; Mã ngạch công chức: …….…….\n\nĐược cấp thẻ Kiểm toán viên nhà nước ngạch…….……. , mã số thẻ :…….…….\n\nTôi làm đơn này xin đề nghị được đổi thẻ/cấp lại thẻ Kiểm toán viên nhà nước do …….…….…….",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_PHU_LUC_V-1760-QD-KTNN_chunk_0002",
+            "char_count": 843,
+            "source_file": "Maudon/PHU LUC V-1760-QD-KTNN.doc",
+            "file_name": "PHU LUC V-1760-QD-KTNN.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T05:05:00",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_PHU_LUC_V-1760-QD-KTNN_chunk_0002",
+        "doc_id": "Maudon_PHU_LUC_V-1760-QD-KTNN",
+        "text": "năm……. ; Mã ngạch công chức: …….…….\n\nĐược cấp thẻ Kiểm toán viên nhà nước ngạch…….……. , mã số thẻ :…….…….\n\nTôi làm đơn này xin đề nghị được đổi thẻ/cấp lại thẻ Kiểm toán viên nhà nước do …….…….…….\n\nTôi xin cam kết và chịu trách nhiệm về những thông tin khai báo và cam kết sử dụng Thẻ Kiểm toán viên nhà nước được cấp đúng quy định. Kính đề nghị Tổng Kiểm toán nhà nước, Vụ Tổ chức cán bộ, lãnh đạo…….……. xem xét giải quyết.\n\nTôi xin trân trọng cảm ơn./.\n\n| XÁC NHẬN CỦA THỦ TRƯỞNG ĐƠN VỊ | ……., ngày     tháng     năm 20….<br>NGƯỜI LÀM ĐƠN |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_PHU_LUC_V-1760-QD-KTNN_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 556,
+            "source_file": "Maudon/PHU LUC V-1760-QD-KTNN.doc",
+            "file_name": "PHU LUC V-1760-QD-KTNN.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T05:05:00",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

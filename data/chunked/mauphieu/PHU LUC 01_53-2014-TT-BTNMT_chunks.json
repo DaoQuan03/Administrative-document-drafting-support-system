@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_01_53-2014-TT-BTNMT_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_01_53-2014-TT-BTNMT",
+        "text": "PHỤ LỤC 1.\n\nPHIẾU GHI MẪU VẬT ĐỊA CHẤT\n\n| ĐƠN VỊ LẬP PHIẾU<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | Địa danh, ngày     tháng    năm 20 |\n\nPHIẾU MẪU VẬT ĐỊA CHẤT, KHOÁNG SẢN\n\nSố:\n\n1. Thông tin chung về mẫu vật:\n\n1.1. Số hiệu mẫu:\n\n1.2. Tên mẫu:\n\n1.3. Vị trí lấy mẫu:\n\n- Mô tả đặc điểm địa hình, địa vật nơi lấy mẫu;\n\n- Vị trí địa lý, địa danh: thôn, xã, huyện, tỉnh; tọa độ địa lý, danh pháp tờ bản đồ.\n\n1.4. Người lấy mẫu:\n\n1.5. Thời gian lấy mẫu:\n\n2. Đặc điểm mẫu vật:\n\n2.1. Loại mẫu: đá (trầm tích, magma, biến chất, khoáng vật); hóa thạch, khoáng sản.\n\n2.2. Đặc điểm nhận dạng: hình dạng, màu sắc, đặc điểm, tính chất vật lý.\n\n2.3. Kích thước, số lượng, khối lượng: đối với mẫu cục ghi rõ chiều dài, rộng, cao, số lượng mẫu; đối với mẫu bở rời ghi rõ khối lượng.\n\n2.4. Đặc điểm, thành phần (ghi theo kết quả phân tích):\n\n- Khoáng vật:\n\n- Hóa học:\n\n- Cổ sinh:\n\n- Các thành phần, đặc điểm khác:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_01_53-2014-TT-BTNMT_chunk_0002",
+            "char_count": 974,
+            "source_file": "mauphieu/PHU LUC 01_53-2014-TT-BTNMT.doc",
+            "file_name": "PHU LUC 01_53-2014-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:31:52",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_01_53-2014-TT-BTNMT_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_01_53-2014-TT-BTNMT",
+        "text": "dài, rộng, cao, số lượng mẫu; đối với mẫu bở rời ghi rõ khối lượng.\n\n2.4. Đặc điểm, thành phần (ghi theo kết quả phân tích):\n\n- Khoáng vật:\n\n- Hóa học:\n\n- Cổ sinh:\n\n- Các thành phần, đặc điểm khác:\n\n3. Các tư liệu khác kèm theo: ảnh chụp mẫu, vị trí lấy mẫu; phiếu kết quả phân tích (dạng ảnh),...\n\n|  | Thủ trưởng đơn vị<br>(Ký, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_01_53-2014-TT-BTNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 355,
+            "source_file": "mauphieu/PHU LUC 01_53-2014-TT-BTNMT.doc",
+            "file_name": "PHU LUC 01_53-2014-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:31:52",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_BB3_PHU_LUC_III_13-2024-TT-BQP_chunk_0001",
+        "doc_id": "Maudon_MAU_BB3_PHU_LUC_III_13-2024-TT-BQP",
+        "text": "Mẫu BB3/2024\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN ĐỀ NGHỊ\n\nCấp giấy chứng nhận bệnh tật và giải quyết chế độ bệnh binh đối với quân nhân đã xuất ngũ bị bệnh cũ tái phát dẫn đến tâm thần\n(Dùng cho đại diện thân nhân của người bị bệnh tâm thần)\n\nKính gửi: ………………………………………………\n\n1. Phần khai về người bị bệnh tâm thần\n\nHọ và tên: ………………………………………………………………………\n\nSinh ngày … tháng ... năm………………………Nam/Nữ: ………………………\n\nCMND/CCCD số: ……………………… Ngày cấp: ………………………\n\nNơi cấp: ………………………………………………………………………\n\nQuê quán: ………………………………………………………………………\n\nNơi thường trú: ………………………………………………………………………\n\nNhập ngũ, tham gia công tác ngày ... tháng ... năm ...\n\nCơ quan, đơn vị khi bị bệnh: ……………………………………………………………\n\nBị bệnh ngày ... tháng ... năm………………………\n\nNơi bị bệnh: ………………………………………………………………………\n\nCác bệnh chính (ghi theo bệnh án hoặc giấy ra viện): ………………………\n\n………………………………………………………………………………………………\n\nKèm theo các giấy tờ : ……………………… (2) ………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_BB3_PHU_LUC_III_13-2024-TT-BQP_chunk_0002",
+            "char_count": 963,
+            "source_file": "Maudon/MAU BB3_PHU LUC III_13-2024-TT-BQP.doc",
+            "file_name": "MAU BB3_PHU LUC III_13-2024-TT-BQP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:10:15",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_BB3_PHU_LUC_III_13-2024-TT-BQP_chunk_0002",
+        "doc_id": "Maudon_MAU_BB3_PHU_LUC_III_13-2024-TT-BQP",
+        "text": "bị bệnh: ………………………………………………………………………\n\nCác bệnh chính (ghi theo bệnh án hoặc giấy ra viện): ………………………\n\n………………………………………………………………………………………………\n\nKèm theo các giấy tờ : ……………………… (2) ………………………\n\n2. Phần khai đối với đại diện thân nhân người bị bệnh tâm thần\n\nHọ và tên: ………………………………………………\n\nSinh ngày ... tháng ... năm………………………Nam/Nữ: ………………………\n\nCMND/CCCD số: ………………………Ngày cấp: ………………………\n\nNơi cấp: ………………………………………………………………………\n\nQuê quán: ………………………………………………………………………\n\nNơi thường trú: ………………………………………………………………………\n\nMối quan hệ với người bị bệnh tâm thần: ………………………………………………\n\nTôi đề nghị cấp giấy chứng nhận bệnh tật và giải quyết chế độ bệnh binh cho ông (bà) ………………/.\n\n|  | …, ngày ... tháng ...năm ...<br>Người làm đơn<br>(Ký, ghi rõ họ và tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_BB3_PHU_LUC_III_13-2024-TT-BQP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 751,
+            "source_file": "Maudon/MAU BB3_PHU LUC III_13-2024-TT-BQP.doc",
+            "file_name": "MAU BB3_PHU LUC III_13-2024-TT-BQP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:10:15",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

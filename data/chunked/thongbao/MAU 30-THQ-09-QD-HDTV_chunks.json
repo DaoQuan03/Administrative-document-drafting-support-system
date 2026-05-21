@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_30-THQ-09-QD-HDTV_chunk_0001",
+        "doc_id": "thongbao_MAU_30-THQ-09-QD-HDTV",
+        "text": "(Ban hành kèm theo Quy chế thực hiện quyền cho người sở hữu chứng khoán)\n\nMẫu 30/THQ\n\n| TÊN THÀNH VIÊN | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM |\n| --- | --- |\n| Trụ sở chính:     <br>Điện thoại/Fax: | Độc lập - Tự do - Hạnh phúc |\n| Số: |  |\n|  | ..., ngày... tháng... năm... |\n\nTHÔNG BÁO\n\nVề việc thực hiện chuyển đổi trái phiếu\n\nKính gửi: ……………………………………\n\nCăn cứ vào danh sách phân bổ quyền trái phiếu chuyển đổi của VSDC,\n\nCông ty…./Ngân hàng lưu ký….xác nhận:\n\nTên khách hàng:\n\nĐịa chỉ:\n\nĐiện thoại:\n\nSố ĐKSH:\t\t\t   Ngày cấp:\t\t\t Nơi cấp:\n\nSố tài khoản:\t\t    tại Thành viên:\n\nĐã sở hữu số lượng trái phiếu chuyển đổi như sau:\n\nTên trái phiếu:\n\nMã trái phiếu:\n\nMệnh giá:\n\nNgày đăng ký cuối cùng:\n\nTỷ lệ chuyển đổi trái phiếu thành cổ phiếu:\n\nTỷ lệ thanh toán trái phiếu bằng tiền:\n\nSố lượng trái phiếu sở hữu:\n\nSố lượng trái phiếu được tham gia thực hiện chuyển đổi thành cổ phiếu hoặc thanh toán trái phiếu bằng tiền:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_30-THQ-09-QD-HDTV_chunk_0002",
+            "char_count": 915,
+            "source_file": "thongbao/MAU 30-THQ-09-QD-HDTV.doc",
+            "file_name": "MAU 30-THQ-09-QD-HDTV.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:25:47",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_30-THQ-09-QD-HDTV_chunk_0002",
+        "doc_id": "thongbao_MAU_30-THQ-09-QD-HDTV",
+        "text": "phiếu thành cổ phiếu:\n\nTỷ lệ thanh toán trái phiếu bằng tiền:\n\nSố lượng trái phiếu sở hữu:\n\nSố lượng trái phiếu được tham gia thực hiện chuyển đổi thành cổ phiếu hoặc thanh toán trái phiếu bằng tiền:\n\nNgười sở hữu có thể làm thủ tục chuyển đổi số lượng trái phiếu chuyển đổi trên thành cổ phiếu/thanh toán trái phiếu bằng tiền tại Công ty/Ngân hàng...trong thời gian từ ngày…đến ngày…\n\n|  |  |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_30-THQ-09-QD-HDTV_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 407,
+            "source_file": "thongbao/MAU 30-THQ-09-QD-HDTV.doc",
+            "file_name": "MAU 30-THQ-09-QD-HDTV.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:25:47",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

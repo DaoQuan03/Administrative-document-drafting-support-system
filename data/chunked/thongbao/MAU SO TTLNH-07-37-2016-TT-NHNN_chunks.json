@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_TTLNH-07-37-2016-TT-NHNN_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_TTLNH-07-37-2016-TT-NHNN",
+        "text": "| THANH TOÁN ĐIỆN TỬ LIÊN NGÂN HÀNG<br>------- | Mẫu số TTLNH-07 |\n| --- | --- |\n\nTHÔNG BÁO\nTỪ CHỐI YÊU CẦU HOÀN TRẢ LỆNH THANH TOÁN\n\nLoại đồng tiền: ……………….\n\nSố hiệu giao dịch:                                                                                              Ngày, giờ lập:\n\nNgân hàng gửi lệnh:\n\nLý do\n\nCác thông tin của giao dịch gốc\n\nSố hiệu giao dịch:                   Ngày giao dịch:                                               Ngày, giờ lập:\n\nNgân hàng gửi:\n\nNgân hàng nhận:\n\nNgười phát lệnh:\n\nĐịa chỉ:\n\nTài khoản:\n\nTại ngân hàng:\n\nNgười nhận lệnh:\n\nĐịa chỉ:\n\nTài khoản:\n\nTại ngân hàng:\n\nSố tiền bằng số:\n\nSố tiền bằng chữ:\n\n| KẾ TOÁN | KIỂM SOÁT | CHỦ TÀI KHOẢN |\n| --- | --- | --- |\n\nNguồn: Thông tư 37/2016/TT-NHNN",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 737,
+            "source_file": "thongbao/MAU SO TTLNH-07-37-2016-TT-NHNN.doc",
+            "file_name": "MAU SO TTLNH-07-37-2016-TT-NHNN.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:18:59",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

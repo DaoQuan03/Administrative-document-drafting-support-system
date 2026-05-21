@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_Mau_so_07_18_2021_ND-CP_chunk_0001",
+        "doc_id": "mauphieu_Mau_so_07_18_2021_ND-CP",
+        "text": "Mẫu số 07\n\nTờ số.../Tổng số tờ\n\nPHIẾU THEO DÕI,\nTRỪ LÙI HÀNG HÓA MIỄN THUẾ XUẤT KHẨU, THUẾ NHẬP KHẨU\n\n1. Danh mục hàng hóa miễn thuế dự kiến xuất khẩu, nhập khẩu số... ngày... tháng ... năm...\n\n2. Tên tổ chức/cá nhân...\n\nMã số thuế: ...\n\nCMND/Căn cước công dân/Hộ chiếu số: ... Ngày cấp: .../.../...\n\nNơi cấp: ... Quốc tịch: ...\n\nSố điện thoại: ... Số Fax: ...\n\n3. Địa chỉ trụ sở tổ chức/cá nhân: ...\n\n4. Tên dự án đầu tư: ...\n\n| STT | Số, ngày tờ khai hải quan | Tên hàng, quy cách phẩm chất | Đơn vị tính | Số lượng hàng hóa xuất khẩu, nhập khẩu theo tờ khai hải quan | Số lượng hàng hóa còn lại chưa xuất khẩu, nhập khẩu | Công chức hải quan trừ lùi, ký tên, đóng dấu công chức |\n| --- | --- | --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) | (6) | (7) |\n|  |  |  |  |  |  |  |\n\n|  | CƠ QUAN HẢI QUAN<br>TIẾP NHẬN PHIẾU THEO DÕI TRỪ LÙI<br>(Ký ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\nGhi chú:\n\nĐối với trường hợp thông báo Danh mục miễn thuế bằng giấy.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_Mau_so_07_18_2021_ND-CP_chunk_0002",
+            "char_count": 970,
+            "source_file": "mauphieu/Mau so 07_18_2021_ND-CP.doc",
+            "file_name": "Mau so 07_18_2021_ND-CP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:03:55",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_Mau_so_07_18_2021_ND-CP_chunk_0002",
+        "doc_id": "mauphieu_Mau_so_07_18_2021_ND-CP",
+        "text": "|  |  |  |  |  |  |\n\n|  | CƠ QUAN HẢI QUAN<br>TIẾP NHẬN PHIẾU THEO DÕI TRỪ LÙI<br>(Ký ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\nGhi chú:\n\nĐối với trường hợp thông báo Danh mục miễn thuế bằng giấy.\n\n- Cơ quan hải quan nơi tiếp nhận phiếu theo dõi trừ lùi ghi các tiêu chí tại các mục 1, 2, 3, 4, tờ số/tổng số tờ; (Trường hợp Phiếu theo dõi trừ lùi gồm nhiều tờ, cơ quan hải quan đóng dấu treo lên tất cả các tờ).\n\n- Cơ quan hải quan nơi làm thủ tục xuất khẩu, nhập khẩu hàng hóa ghi số liệu các cột từ 1 đến 7 của Phiếu theo dõi trừ lùi.\n\n- Khi tổ chức/cá nhân đã xuất khẩu, nhập khẩu hết hàng hóa theo Danh mục đã thông báo, Chi cục Hải quan nơi làm thủ tục cuối cùng xác nhận lên bản chính “đã xuất khẩu/nhập khẩu hết hàng hóa miễn thuế” và gửi 01 bản sao y bản chính cho Cục Hải quan nơi tiếp nhận thông báo Danh mục hàng hóa miễn thuế dự kiến xuất khẩu, nhập khẩu.\n\nNguồn: Nghị định 18/2021/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_Mau_so_07_18_2021_ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 900,
+            "source_file": "mauphieu/Mau so 07_18_2021_ND-CP.doc",
+            "file_name": "Mau so 07_18_2021_ND-CP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:03:55",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    }
+]

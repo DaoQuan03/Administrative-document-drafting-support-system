@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_04-SS-HDDT-70-2025-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_04-SS-HDDT-70-2025-ND-CP",
+        "text": "Mẫu số: 04/SS-HĐĐT\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n-------------\n\nTHÔNG BÁO HÓA ĐƠN ĐIỆN TỬ ĐÃ LẬP SAI\n\nKính gửi: (Cơ quan thuế)\n\nTên người nộp thuế: ………………………………………………………………………………\n\nMã số thuế: ……………………………………………………………………………………………\n\nNgười nộp thuế thông báo về việc hóa đơn điện tử đã lập sai như sau:\n\n| STT | Mã CQT cấp | Ký hiệu mẫu hóa đơn | Ký hiệu hóa đơn | Số hóa đơn điện tử | Ngày lập hóa đơn | Loại hóa đơn điện tử | Thông báo/ Giải trình | Lý do/Thông báo của CQT |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n\nGhi chú:\n\n(2): Mã CQT cấp đối với hóa đơn có mã của CQT, hóa đơn không có mã của CQT để trống.\n\n(8) Trường hợp HĐĐT đã lập sai và người bán thực hiện Thông báo\n\nTrường hợp CQT thông báo NNT giải trình",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_04-SS-HDDT-70-2025-ND-CP_chunk_0002",
+            "char_count": 878,
+            "source_file": "thongbao/MAU 04-SS-HDDT-70-2025-ND-CP.doc",
+            "file_name": "MAU 04-SS-HDDT-70-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:15:36",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_04-SS-HDDT-70-2025-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_04-SS-HDDT-70-2025-ND-CP",
+        "text": "chú:\n\n(2): Mã CQT cấp đối với hóa đơn có mã của CQT, hóa đơn không có mã của CQT để trống.\n\n(8) Trường hợp HĐĐT đã lập sai và người bán thực hiện Thông báo\n\nTrường hợp CQT thông báo NNT giải trình\n\n| NGƯỜI MUA<br>(Chữ ký số của người mua nếu có) | …….., ngày……..tháng…….năm……..<br>NGƯỜI NỘP THUẾ hoặc<br>ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ<br>(Chữ ký số, chữ ký điện tử của người nộp thuế) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_04-SS-HDDT-70-2025-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 406,
+            "source_file": "thongbao/MAU 04-SS-HDDT-70-2025-ND-CP.doc",
+            "file_name": "MAU 04-SS-HDDT-70-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:15:36",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

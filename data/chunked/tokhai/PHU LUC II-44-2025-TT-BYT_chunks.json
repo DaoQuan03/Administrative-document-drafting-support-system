@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "tokhai_PHU_LUC_II-44-2025-TT-BYT_chunk_0001",
+        "doc_id": "tokhai_PHU_LUC_II-44-2025-TT-BYT",
+        "text": "PHỤ LỤC II\n\nMẪU BẢN KÊ KHAI NHÂN SỰ\n(Kèm theo Thông tư số 44/2025/TT-BYT ngày 22 tháng 11 năm 2025 của Bộ trưởng Bộ Y tế)\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\n…...1..., ngày...tháng...năm 20...\n\nBẢN KÊ KHAI NHÂN SỰ\n\nTên cơ sở: ...\n\nĐịa chỉ: ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_PHU_LUC_II-44-2025-TT-BYT_chunk_0002",
+            "char_count": 288,
+            "source_file": "tokhai/PHU LUC II-44-2025-TT-BYT.doc",
+            "file_name": "PHU LUC II-44-2025-TT-BYT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:08:03",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_PHU_LUC_II-44-2025-TT-BYT_chunk_0002",
+        "doc_id": "tokhai_PHU_LUC_II-44-2025-TT-BYT",
+        "text": "năm 2025 của Bộ trưởng Bộ Y tế)\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\n…...1..., ngày...tháng...năm 20...\n\nBẢN KÊ KHAI NHÂN SỰ\n\nTên cơ sở: ...\n\nĐịa chỉ: ...\n\n| TT | Họ và tên | Chức vụ | Trình độ chuyên môn | Quá trình công tác trong lĩnh vực thiết bị y tế | Quá trình công tác trong lĩnh vực thiết bị y tế | Quá trình công tác trong lĩnh vực thiết bị y tế | Quá trình công tác trong lĩnh vực thiết bị y tế | Quá trình đào tạo | Quá trình đào tạo | Quá trình đào tạo | Quá trình đào tạo | Quá trình đào tạo |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | Họ và tên | Chức vụ | Trình độ chuyên môn | Đơn vị công tác | Thời gian công tác | Vị trí đảm nhiệm | Công việc chính được giao | Tên cơ sở đào tạo | Chuyên ngành đào tạo | Văn bằng chứng chỉ, trình độ | Hình thức đào tạo | Thời gian đào tạo |\n| 1 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "tokhai_PHU_LUC_II-44-2025-TT-BYT_chunk_0001",
+            "next_chunk_id": "tokhai_PHU_LUC_II-44-2025-TT-BYT_chunk_0003",
+            "char_count": 1007,
+            "source_file": "tokhai/PHU LUC II-44-2025-TT-BYT.doc",
+            "file_name": "PHU LUC II-44-2025-TT-BYT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:08:03",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_PHU_LUC_II-44-2025-TT-BYT_chunk_0003",
+        "doc_id": "tokhai_PHU_LUC_II-44-2025-TT-BYT",
+        "text": "| Văn bằng chứng chỉ, trình độ | Hình thức đào tạo | Thời gian đào tạo |\n| 1 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |  |  |  |  |  |\n\n|  | Người đại diện hợp pháp của cơ sở <br>(Ký tên, ghi họ tên đầy đủ, chức danh) <br>Xác nhận bằng dấu hoặc chữ ký số |\n| --- | --- |\n\n___\n\n1 Địa danh.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "tokhai_PHU_LUC_II-44-2025-TT-BYT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 352,
+            "source_file": "tokhai/PHU LUC II-44-2025-TT-BYT.doc",
+            "file_name": "PHU LUC II-44-2025-TT-BYT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:08:03",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_15-PHU_LUC_IV-112-2025-TT-BQP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_15-PHU_LUC_IV-112-2025-TT-BQP",
+        "text": "Mẫu số 15. Thông báo về việc tạm dừng/hủy tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử cảng biển\n\n| BAN CHỈ HUY BĐBP(1)<br>BAN CHỈ HUY/ĐỒN<br>BPCK... (2)<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số:       /TB-BPCK ...(3) | ...(4)..., ngày   tháng   năm 20... |\n\nTHÔNG BÁO\n\nV/v tạm dừng/hủy tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử cảng biển\n\nCăn cứ Quyết định số 10/2016/QĐ-TTg ngày 03/03/2016 của Thủ tướng Chính phủ về thực hiện thủ tục biên phòng điện tử cảng biển;\n\nBan chỉ huy/Đồn Biên phòng cửa khẩu cảng..(5)..thông báo:\n\nTạm dừng/hủy tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử cảng biển của ông (bà) ... (6)...\n\nLý do tạm dừng/hủy tài khoản:...\n\n...\n\n...\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: ... | CHỈ HUY TRƯỞNG/ĐỒN TRƯỞNG (7)<br>(Ký tên, đóng dấu)<br><br>Cấp bậc, họ tên |\n| --- | --- |\n\nGhi chú:\n\n- (1) Tên cơ quan chủ quản;",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_15-PHU_LUC_IV-112-2025-TT-BQP_chunk_0002",
+            "char_count": 965,
+            "source_file": "thongbao/MAU SO 15-PHU LUC IV-112-2025-TT-BQP.doc",
+            "file_name": "MAU SO 15-PHU LUC IV-112-2025-TT-BQP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:00:16",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_15-PHU_LUC_IV-112-2025-TT-BQP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_15-PHU_LUC_IV-112-2025-TT-BQP",
+        "text": "tài khoản:...\n\n...\n\n...\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: ... | CHỈ HUY TRƯỞNG/ĐỒN TRƯỞNG (7)<br>(Ký tên, đóng dấu)<br><br>Cấp bậc, họ tên |\n| --- | --- |\n\nGhi chú:\n\n- (1) Tên cơ quan chủ quản;\n\n- (2) Tên cơ quan ban hành văn bản;\n\n- (3) Ký hiệu văn bản;\n\n- (4) Địa danh;\n\n- (5) Tên Ban Chỉ huy Biên phòng cửa khẩu cảng hoặc Đồn Biên phòng cửa khẩu cảng thông báo;\n\n- (6) Tên người làm thủ tục bị tạm dừng/hủy tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử cảng biển;\n\n- (7) Tên chức danh chỉ huy Ban Chỉ huy Biên phòng cửa khẩu cảng hoặc Đồn Biên phòng cửa khẩu cảng.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_15-PHU_LUC_IV-112-2025-TT-BQP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 586,
+            "source_file": "thongbao/MAU SO 15-PHU LUC IV-112-2025-TT-BQP.doc",
+            "file_name": "MAU SO 15-PHU LUC IV-112-2025-TT-BQP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:00:16",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

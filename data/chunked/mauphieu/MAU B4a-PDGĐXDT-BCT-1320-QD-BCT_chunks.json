@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_B4a-PDG_XDT-BCT-1320-QD-BCT_chunk_0001",
+        "doc_id": "mauphieu_MAU_B4a-PDG_XDT-BCT-1320-QD-BCT",
+        "text": "B4a-PĐGĐXĐT-BCT\n\n| BỘ CÔNG THƯƠNG<br>HỘI ĐỒNG TƯ VẤN XÁC ĐỊNH NHIỆM VỤ KH&CN CẤP BỘ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n\nPHIẾU ĐÁNH GIÁ\nĐỀ XUẤT ĐỀ TÀI KH&CN/ĐỀ ÁN KHOA HỌC CẤP BỘ\n\nTên nhiệm vụ đề xuất: ...\n\n...\n\n...\n\nI. Đánh giá của thành viên Hội đồng tư vấn: (đánh dấu X vào ô lựa chọn)\n\n1. Sự phù hợp về căn cứ đề xuất nhiệm vụ\n\nĐánh giá:                         Đạt yêu cầu □                        Không đạt yêu cầu □\n\n2. Tính cấp thiết, tầm quan trọng của việc thực hiện nhiệm vụ\n\nĐánh giá:                         Đạt yêu cầu □                        Không đạt yêu cầu □\n\n3. Sự phù hợp về ngành, lĩnh vực của nhiệm vụ đề xuất\n\nĐánh giá:                         Đạt yêu cầu □                        Không đạt yêu cầu □\n\n4. Khả năng không trùng lặp của nhiệm vụ đề xuất với các nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước đã và đang thực hiện",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_B4a-PDG_XDT-BCT-1320-QD-BCT_chunk_0002",
+            "char_count": 940,
+            "source_file": "mauphieu/MAU B4a-PDGĐXDT-BCT-1320-QD-BCT.doc",
+            "file_name": "MAU B4a-PDGĐXDT-BCT-1320-QD-BCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:14:28",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_B4a-PDG_XDT-BCT-1320-QD-BCT_chunk_0002",
+        "doc_id": "mauphieu_MAU_B4a-PDG_XDT-BCT-1320-QD-BCT",
+        "text": "Đạt yêu cầu □                        Không đạt yêu cầu □\n\n4. Khả năng không trùng lặp của nhiệm vụ đề xuất với các nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước đã và đang thực hiện\n\nĐánh giá:                         Đạt yêu cầu □                        Không đạt yêu cầu □\n\n5. Khả năng ứng dụng hoặc sử dụng kết quả nghiên cứu vào thực tiễn\n\nĐánh giá:                         Đạt yêu cầu □                        Không đạt yêu cầu □\n\nII. Kết luận chung[1]\n\n□ Đề nghị không thực hiện                  □ Đề nghị thực hiện\n\n|  | ..., ngày ... tháng ... năm 20...<br>(Thành viên Hội đồng tư vấn ký, ghi rõ họ tên) |\n| --- | --- |\n\n___\n\n[1] Đề xuất nhiệm vụ được thành viên hội đồng đề nghị “Thực hiện” khi tất cả các nội dung tại mục I được đánh giá “Đạt yêu cầu” và đề nghị “Không thực hiện” khi một trong các nội dung trên được đánh giá “Không đạt yêu cầu”.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_B4a-PDG_XDT-BCT-1320-QD-BCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 868,
+            "source_file": "mauphieu/MAU B4a-PDGĐXDT-BCT-1320-QD-BCT.doc",
+            "file_name": "MAU B4a-PDGĐXDT-BCT-1320-QD-BCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:14:28",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

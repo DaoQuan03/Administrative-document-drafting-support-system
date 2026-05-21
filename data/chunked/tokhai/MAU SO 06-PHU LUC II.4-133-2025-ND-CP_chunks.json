@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_06-PHU_LUC_II_4-133-2025-ND-CP_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_06-PHU_LUC_II_4-133-2025-ND-CP",
+        "text": "6. Bản khai đề nghị cấp đổi, gia hạn giấy phép sử dụng tần số và thiết bị vô tuyến điện\n\nBẢN KHAI ĐỀ NGHỊ CẤP ĐỔI, GIA HẠN\nGIẤY PHÉP SỬ DỤNG TẦN SỐ VÀ THIẾT BỊ VÔ TUYẾN ĐIỆN\n\n1. GIA HẠN\n\n| Số giấy phép(1) | Mẫu giấy phép(2) | Thời gian đề nghị gia hạn(3) | Số giấy phép viễn thông/ Số giấy phép hoạt động báo chí(4) |\n| --- | --- | --- | --- |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n| ... | ... | ... |  |\n\n2. CẤP ĐỔI\n\n| Số giấy phép(1) | Mẫu giấy phép(2) | Lý do cấp đổi(5) |\n| --- | --- | --- |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n| … |  |  |\n\nBản khai đề nghị gia hạn, cấp đổi giấy phép\n\n(1). Số giấy phép: kê khai số giấy phép cụ thể đề nghị gia hạn, cấp đổi.\n\n(2). Mẫu giấy phép: là mẫu theo quy định trên giấy phép đã được cấp (ví dụ: Mẫu 1a; Mẫu 1b, Mẫu 1c,...).\n\n(3). Thời gian đề nghị gia hạn: kê khai thời gian gia hạn giấy phép theo năm (01 năm,...) hoặc theo ngày tháng cụ thể (ngày/tháng/năm).",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_06-PHU_LUC_II_4-133-2025-ND-CP_chunk_0002",
+            "char_count": 956,
+            "source_file": "tokhai/MAU SO 06-PHU LUC II.4-133-2025-ND-CP.doc",
+            "file_name": "MAU SO 06-PHU LUC II.4-133-2025-ND-CP.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:55:52",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_06-PHU_LUC_II_4-133-2025-ND-CP_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_06-PHU_LUC_II_4-133-2025-ND-CP",
+        "text": "giấy phép đã được cấp (ví dụ: Mẫu 1a; Mẫu 1b, Mẫu 1c,...).\n\n(3). Thời gian đề nghị gia hạn: kê khai thời gian gia hạn giấy phép theo năm (01 năm,...) hoặc theo ngày tháng cụ thể (ngày/tháng/năm).\n\n(4). Số giấy phép viễn thông/số giấy phép hoạt động báo chí: kê khai số giấy phép viễn thông/số giấy phép hoạt động báo chí nếu giấy phép viễn thông/giấy phép hoạt động được cấp trước đây có thay đổi.\n\n(5). Ghi lý do/nguyên nhân cấp đổi giấy phép (ví dụ: do giấy phép cũ bị mất, thất lạc, cháy, rách,...).",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "tokhai_MAU_SO_06-PHU_LUC_II_4-133-2025-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 502,
+            "source_file": "tokhai/MAU SO 06-PHU LUC II.4-133-2025-ND-CP.doc",
+            "file_name": "MAU SO 06-PHU LUC II.4-133-2025-ND-CP.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:55:52",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_07-PHU_LUC_II-06-2026-TT-BTC_chunk_0001",
+        "doc_id": "Maudon_MAU_07-PHU_LUC_II-06-2026-TT-BTC",
+        "text": "Mẫu 07\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n----------------\n\n…., ngày... tháng... năm\n\nĐƠN ĐỀ NGHỊ CẬP NHẬT, BỔ SUNG HÀNG HÓA XUẤT KHẨU, NHẬP KHẨU LIÊN QUAN ĐẾN QUYỀN SỞ HỮU TRÍ TUỆ\n\nKính gửi: …………….……………………\n\nCăn cứ quy định tại Điều 216, 217, 219 Luật Sở hữu trí tuệ số 50/2005/QH11 được sửa đổi, bổ sung bởi Luật số 36/2009/QH12, Luật số 42/2019/QH14 và Luật số 07/2022/QH15;\n\nCăn cứ quy định tại Điều 73, Điều 74 Luật Hải quan 54/2014/QH13 được sửa đổi, bổ sung bởi Luật số 90/2025/QH15;\n\nCăn cứ văn bản (số/ngày) của (cơ quan hải quan) về việc chấp nhận bảo hộ quyền sở hữu trí tuệ đối với hàng hóa xuất khẩu, nhập khẩu và văn bản (số/ngày) gia hạn, sửa đổi, bổ sung (nếu có)\n\n...(Người nộp đơn)... đề nghị cơ quan hải quan thay đổi/bổ sung hồ sơ đề nghị kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu theo tài liệu gửi kèm như sau (Đánh dấu x vào loại giấy tờ nộp kèm):\n\n□ Thông tin Đơn đề nghị\n\n□ Văn bằng bảo hộ/Giấy chứng nhận",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_07-PHU_LUC_II-06-2026-TT-BTC_chunk_0002",
+            "char_count": 964,
+            "source_file": "Maudon/MAU 07-PHU LUC II-06-2026-TT-BTC.doc",
+            "file_name": "MAU 07-PHU LUC II-06-2026-TT-BTC.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:04:53",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_07-PHU_LUC_II-06-2026-TT-BTC_chunk_0002",
+        "doc_id": "Maudon_MAU_07-PHU_LUC_II-06-2026-TT-BTC",
+        "text": "sung hồ sơ đề nghị kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu theo tài liệu gửi kèm như sau (Đánh dấu x vào loại giấy tờ nộp kèm):\n\n□ Thông tin Đơn đề nghị\n\n□ Văn bằng bảo hộ/Giấy chứng nhận\n\n□ Mô tả chi tiết hàng hóa xâm phạm quyền sở hữu trí tuệ\n\n□ Ảnh chụp\n\n□ Các đặc điểm phân biệt hàng thật với hàng hóa xâm phạm quyền sở hữu trí tuệ\n\n□ Danh sách tổ chức hoặc cá nhân xuất khẩu, nhập khẩu hợp pháp hàng hóa\n\n□ Danh sách tổ chức hoặc cá nhân xuất khẩu, nhập khẩu có khả năng xâm phạm quyền sở hữu trí tuệ\n\n□ Văn bản ủy quyền\n\n□ Thông tin khác\n\nHọ tên, chữ ký của người nộp đơn và đóng dấu (nếu có)",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_07-PHU_LUC_II-06-2026-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 607,
+            "source_file": "Maudon/MAU 07-PHU LUC II-06-2026-TT-BTC.doc",
+            "file_name": "MAU 07-PHU LUC II-06-2026-TT-BTC.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:04:53",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

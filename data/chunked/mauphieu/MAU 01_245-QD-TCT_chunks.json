@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_01_245-QD-TCT_chunk_0001",
+        "doc_id": "mauphieu_MAU_01_245-QD-TCT",
+        "text": "MẪU SỐ 01\n\n(Kèm theo Quyết định số 245/QĐ-TCT ngày 30 tháng 3 năm 2023 của Tổng cục Thuế)\n\n| ………………… (1)<br>………………… (2)<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n\nPHIẾU XÁC ĐỊNH ĐỘ MẬT CỦA TÀI LIỆU CHỨA BÍ MẬT NHÀ NƯỚC\n\n1. Tài liệu chứa bí mật nhà nước số:         /BTC-TCT ngày      /     /2023 của Bộ Tài chính\n\n2. Người đề xuất độ mật: Họ và tên, chức vụ, đơn vị công tác\n\n3. Số lượng bản:\n\n4. Nơi nhận: (liệt kê đơn vị nhận văn bản, tài liệu)\n\n5. Được phép sao chụp (hoặc không được phép sao chụp)\n\n6. Độ mật: TUYỆT MẬT □      TỐI MẬT □      MẬT □\n\n7. Căn cứ xác định: Theo điểm ... khoản ... điều ... Quyết định số ... ngày      tháng      năm        của Thủ tướng Chính phủ quy định Danh mục bí mật nhà nước của ngành ... (Hoặc Căn cứ theo khoản 2 điều 10 Luật Bảo vệ Bí mật Nhà nước)\n\n|  | KT. TỔNG CỤC TRƯỞNG (3)<br>PHÓ TỔNG CỤC TRƯỞNG |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_01_245-QD-TCT_chunk_0002",
+            "char_count": 931,
+            "source_file": "mauphieu/MAU 01_245-QD-TCT.doc",
+            "file_name": "MAU 01_245-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:45:12",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01_245-QD-TCT_chunk_0002",
+        "doc_id": "mauphieu_MAU_01_245-QD-TCT",
+        "text": "Thủ tướng Chính phủ quy định Danh mục bí mật nhà nước của ngành ... (Hoặc Căn cứ theo khoản 2 điều 10 Luật Bảo vệ Bí mật Nhà nước)\n\n|  | KT. TỔNG CỤC TRƯỞNG (3)<br>PHÓ TỔNG CỤC TRƯỞNG |\n| --- | --- |\n\nGhi chú: Mẫu này được áp dụng đối với tài liệu chứa bí mật nhà nước có đóng dấu độ mật.\n\n(1) Tên cơ quan chủ quản.\n\n(2) Tên cơ quan, tổ chức xác định bí mật nhà nước.\n\n(3) Lãnh đạo Tổng cục ký phiếu đề xuất đối với các văn bản trình Bộ ký ban hành; Lãnh đạo Vụ/đơn vị ký phiếu đề xuất đối với các văn bản trình Lãnh đạo Tổng cục ký ban hành.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_01_245-QD-TCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 542,
+            "source_file": "mauphieu/MAU 01_245-QD-TCT.doc",
+            "file_name": "MAU 01_245-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:45:12",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_02-XOANO-80-2021-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_02-XOANO-80-2021-TT-BTC",
+        "text": "| TÊN CƠ QUAN CẤP TRÊN<br>TÊN CƠ QUAN <br>BAN HÀNH VĂN BẢN | TÊN CƠ QUAN CẤP TRÊN<br>TÊN CƠ QUAN <br>BAN HÀNH VĂN BẢN | TÊN CƠ QUAN CẤP TRÊN<br>TÊN CƠ QUAN <br>BAN HÀNH VĂN BẢN | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- | --- | --- | --- |\n| Số: ……… | ..., ngày ... tháng ...năm... | ..., ngày ... tháng ...năm... | ..., ngày ... tháng ...năm... |\n| V/v không thuộc trường hợp được xóa nợ tiền thuế, tiền chậm nộp, tiền phạt |  |  |  |\n|  |  |  |  |\n\nKính gửi: …(Tên cơ quan thuế đề nghị) ...\n\nCăn cứ Luật Quản lý thuế;\n\nCăn cứ Điều … Thông tư số …/…/TT-BTC ngày … tháng … năm … của Bộ trưởng Bộ Tài chính;\n\nSau khi xem xét hồ sơ đề nghị xóa nợ tiền thuế, tiền chậm nộp, tiền phạt kèm theo công văn số ... ngày … tháng … năm … của (tên cơ quan thuế đề nghị)...\n\n… (Cơ quan ban hành văn bản) … thông báo:\n\nTrường hợp của ...(tên người nộp thuế) ... không đủ điều kiện được xóa nợ tiền thuế, tiền chậm nộp, tiền phạt. Lý do:\n\n1...\n\n2...\n\n...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_02-XOANO-80-2021-TT-BTC_chunk_0002",
+            "char_count": 972,
+            "source_file": "thongbao/MAU SO 02-XOANO-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 02-XOANO-80-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:38:55",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_02-XOANO-80-2021-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_02-XOANO-80-2021-TT-BTC",
+        "text": "thuế đề nghị)...\n\n… (Cơ quan ban hành văn bản) … thông báo:\n\nTrường hợp của ...(tên người nộp thuế) ... không đủ điều kiện được xóa nợ tiền thuế, tiền chậm nộp, tiền phạt. Lý do:\n\n1...\n\n2...\n\n...\n\n…(Tên cơ quan thuế đề nghị) ... có trách nhiệm đôn đốc người nộp thuế nộp đầy đủ số tiền thuế nợ vào ngân sách nhà nước theo quy định của pháp luật.\n\n…(Cơ quan ban hành văn bản)… thông báo để …(tên cơ quan thuế đề nghị) … được biết./.\n\n| Nơi nhận:\t                                <br>- Như trên; <br>- ...(tên người nộp thuế)...;<br>- …;<br>- Lưu: VT, …. | THỦ TRƯỞNG CƠ QUAN BAN HÀNH VĂN BẢN<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\nNguồn: Thông tư 80/2021/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_02-XOANO-80-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 670,
+            "source_file": "thongbao/MAU SO 02-XOANO-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 02-XOANO-80-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:38:55",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_16-49-2017-TT-BQP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_16-49-2017-TT-BQP",
+        "text": "Mẫu số 16. Đơn đề nghị tạm dừng/hủy tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử cảng biển\n\n| TÊN CƠ QUAN<br>DOANH NGHIỆP<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số:      / | ...(1)..., ngày    tháng    năm 20... |\n\nĐƠN ĐỀ NGHỊ\n\nTạm dừng/hủy tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử cảng biển\n\nTên doanh nghiệp: …...\n\nĐịa chỉ: …...\n\nĐiện thoại: …...Fax: …...E-mail: …...\n\nNgành nghề đăng ký kinh doanh: …...\n\nSố giấy phép đăng ký kinh doanh: …...Ngày cấp: …...Cơ quan cấp:...\n\n…...\n\nĐề nghị Biên phòng cửa khẩu cảng...(2)... tạm dừng (hủy) tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử cảng biển đối với:\n\n- Ông (bà): …...\n\n- Chức vụ: …...\n\n- Số CMND/Hộ chiếu: …...\n\nLà cán bộ thuộc: …...(3) …...\n\n- Tên truy cập Cổng thông tin thủ tục biên phòng điện tử cảng biển:...\n\n...\n\nLý do:...\n\n.../.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_16-49-2017-TT-BQP_chunk_0002",
+            "char_count": 919,
+            "source_file": "Maudon/MAU SO 16-49-2017-TT-BQP.doc",
+            "file_name": "MAU SO 16-49-2017-TT-BQP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:39:27",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_16-49-2017-TT-BQP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_16-49-2017-TT-BQP",
+        "text": "đối với:\n\n- Ông (bà): …...\n\n- Chức vụ: …...\n\n- Số CMND/Hộ chiếu: …...\n\nLà cán bộ thuộc: …...(3) …...\n\n- Tên truy cập Cổng thông tin thủ tục biên phòng điện tử cảng biển:...\n\n...\n\nLý do:...\n\n.../.\n\n| Nơi nhận:<br>- BPCK cảng (4);<br>- Lưu: | GIÁM ĐỐC<br>(Ký tên, đóng dấu) |\n| --- | --- |\n\nGhi chú:\n\n- (1) Địa danh;\n\n- (2) Tên đơn vị BPCK cảng thực hiện thủ tục biên phòng điện tử cảng biển.\n\n- (3) tên doanh nghiệp đề nghị tạm dừng (hủy) tài khoản truy cập Cổng thông tin.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_16-49-2017-TT-BQP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 472,
+            "source_file": "Maudon/MAU SO 16-49-2017-TT-BQP.doc",
+            "file_name": "MAU SO 16-49-2017-TT-BQP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:39:27",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

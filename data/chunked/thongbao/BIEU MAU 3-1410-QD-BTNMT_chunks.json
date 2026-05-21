@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "thongbao_BIEU_MAU_3-1410-QD-BTNMT_chunk_0001",
+        "doc_id": "thongbao_BIEU_MAU_3-1410-QD-BTNMT",
+        "text": "Biểu mẫu 3\n\n| MẪU THÔNG BÁO CHẤP THUẬN<br>Quy chế thực hành tốt trong xây dựng, chấp nhận và áp dụng tiêu chuẩn |\n| --- |\n\n…….., ngày      tháng        năm\n\n| Tên quốc gia: |\n| --- |\n| Tên của cơ quan tiêu chuẩn hóa: |\n| Địa chỉ: |\n| Điện thoại: Fax: Email: |\n| Loại hình cơ quan tiêu chuẩn hóa: |\n| Phạm vi hoạt động hiện tại và dự kiến: |\n| Các hoạt động về tiêu chuẩn hóa dự kiến tham gia: <br> <br> <br>Chúng tôi thông báo sẽ chấp thuận việc tuân thủ Quy chế Thực hành tốt trong việc xây dựng, chấp nhận và áp dụng tiêu chuẩn trong Phụ lục 3 của Hiệp định về hàng rào kỹ thuật trong thương mại của WTO. |\n| (Họ và tên, chức vụ, dấu và chữ ký của người có thẩm quyền) |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 672,
+            "source_file": "thongbao/BIEU MAU 3-1410-QD-BTNMT.doc",
+            "file_name": "BIEU MAU 3-1410-QD-BTNMT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:10:29",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

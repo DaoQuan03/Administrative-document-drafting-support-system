@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_PHU_LUC_II-253-2025-ND-CP_chunk_0001",
+        "doc_id": "thongbao_PHU_LUC_II-253-2025-ND-CP",
+        "text": "PHỤ LỤC II\n\nMẪU BIỂU THÔNG BÁO TẠM NGỪNG HOẠT ĐỘNG/ TIẾP TỤC HOẠT ĐỘNG TRỞ LẠI CỦA QUỸ HỢP TÁC XÃ ĐỊA PHƯƠNG HOẠT ĐỘNG THEO MÔ HÌNH HỢP TÁC XÃ\n(Kèm theo Nghị định số 253/2025/NĐ-CP ngày 26 tháng 9 năm 2025 của Chính phủ)\n\n| TÊN QUỸ HỖ TRỢ PHÁT TRIỂN HỢP TÁC XÃ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ... | ..., ngày ... tháng ... năm ... |\n\nTHÔNG BÁO\n\nVề việc tạm ngừng hoạt động/tiếp tục hoạt động trở lại của Quỹ hỗ trợ phát triển hợp tác xã địa phương hoạt động theo mô hình hợp tác xã\n\nKính gửi: (Tên Cơ quan đăng ký kinh doanh) …………………\n\nTên Quỹ (ghi bằng chữ in hoa): …………………………………………………………\n\nMã số Quỹ/Mã số thuế: ……………………………………………………………………\n\nThông báo tạm ngừng hoạt động/tiếp tục hoạt động trở lại như sau:\n\n1. Trường hợp tạm ngừng hoạt động thì ghi:\n\nThời gian tạm ngừng hoạt động: kể từ ngày .../.../…. đến hết ngày .../.../...\n\nLý do tạm ngừng hoạt động: ………………………………………………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_PHU_LUC_II-253-2025-ND-CP_chunk_0002",
+            "char_count": 969,
+            "source_file": "thongbao/PHU LUC II-253-2025-ND-CP.doc",
+            "file_name": "PHU LUC II-253-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:27:30",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_PHU_LUC_II-253-2025-ND-CP_chunk_0002",
+        "doc_id": "thongbao_PHU_LUC_II-253-2025-ND-CP",
+        "text": "động trở lại như sau:\n\n1. Trường hợp tạm ngừng hoạt động thì ghi:\n\nThời gian tạm ngừng hoạt động: kể từ ngày .../.../…. đến hết ngày .../.../...\n\nLý do tạm ngừng hoạt động: ………………………………………………………………\n\n2. Trường hợp tiếp tục hoạt động trở lại thì ghi:\n\nThời gian tiếp tục hoạt động: kể từ ngày….. tháng ……năm………….\n\nLý do tiếp tục hoạt động: ………………………………………………………………\n\nQuỹ cam kết:\n\n- Thông tin kê khai trong Thông báo này là hợp pháp, chính xác, trung thực và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung của Thông báo;\n\n- Người ký tại Thông báo này là người có quyền và nghĩa vụ thực hiện thủ tục theo quy định của pháp luật và Điều lệ Quỹ.\n\n|  | NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT<br>(Ký, ghi họ, chữ đệm và tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_PHU_LUC_II-253-2025-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 731,
+            "source_file": "thongbao/PHU LUC II-253-2025-ND-CP.doc",
+            "file_name": "PHU LUC II-253-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:27:30",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

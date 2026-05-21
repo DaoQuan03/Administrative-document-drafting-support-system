@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_05-QD-3519-QD-KBNN_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_05-QD-3519-QD-KBNN",
+        "text": "Mẫu số 05\n\n| KHO BẠC NHÀ NƯỚC<br>KHO BẠC NHÀ NƯỚC …..<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số : ……../PXL-KB… | …….., ngày ….. tháng …. năm ….. |\n\nPHIẾU XIN LỖI VÀ HẸN LẠI NGÀY TRẢ KẾT QUẢ\n\nKính gửi: …………………………………………………………………\n\nNgày...tháng...năm ..., KBNN...tiếp nhận giải quyết hồ sơ đề nghị giải quyết thủ tục hành chính (tên thủ tục hành chính) của Ông/Bà/Tổ chức); mã số: ……….\n\nThời gian hẹn trả kết quả giải quyết hồ sơ: ………. giờ..., ngày...tháng...năm...\n\nTuy nhiên đến nay, (tên cơ quan, đơn vị) chưa trả kết quả giải quyết hồ sơ của Ông/Bà/Tổ chức đúng thời hạn quy định ghi trên Giấy tiếp nhận hồ sơ và trả kết quả/Biên nhận hồ sơ. Lý do: …..\n\nSự chậm trễ này đã gây phiền hà, tốn kém chi phí, công sức của Ông/Bà/Tổ chức.\n\nKBNN ………. xin lỗi Ông/Bà/Tổ chức và sẽ trả kết quả giải quyết hồ sơ cho Ông/Bà/Tổ chức vào ngày ….. tháng ... năm ……\n\nMong nhận được sự thông cảm của Ông/Bà/Tổ chức vì sự chậm trễ này./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_05-QD-3519-QD-KBNN_chunk_0002",
+            "char_count": 997,
+            "source_file": "mauphieu/MAU SO 05-QD-3519-QD-KBNN.doc",
+            "file_name": "MAU SO 05-QD-3519-QD-KBNN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:59:42",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_05-QD-3519-QD-KBNN_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_05-QD-3519-QD-KBNN",
+        "text": "chức.\n\nKBNN ………. xin lỗi Ông/Bà/Tổ chức và sẽ trả kết quả giải quyết hồ sơ cho Ông/Bà/Tổ chức vào ngày ….. tháng ... năm ……\n\nMong nhận được sự thông cảm của Ông/Bà/Tổ chức vì sự chậm trễ này./.\n\n| Nơi nhận:<br>- ………..;<br>- ………..;<br>- Lưu: VT, (viết tắt đơn vị soạn thảo) ( … bản). | GIÁM ĐỐC<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_05-QD-3519-QD-KBNN_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 342,
+            "source_file": "mauphieu/MAU SO 05-QD-3519-QD-KBNN.doc",
+            "file_name": "MAU SO 05-QD-3519-QD-KBNN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:59:42",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    }
+]

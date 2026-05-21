@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_04-TTrT-80-2021-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_04-TTrT-80-2021-TT-BTC",
+        "text": "| TÊN CƠ QUAN RA QUYẾT  ĐỊNH THANH TRA<br>ĐOÀN THANH TRA THEO QUYẾT ĐỊNH... | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- | --- |\n|  |  |\n| Số: ……/TB-...…. | ..., ngày... tháng ... năm ... |\n\nTHÔNG BÁO\n\nVề việc cung cấp thông tin, tài liệu phục vụ công tác thanh tra thuế\n\nKính gửi:...(tên tổ chức, cá nhân)...\n\nMã số thuế:...\n\nĐịa chỉ :...\n\nThực hiện Quyết định số … ngày ...tháng...năm... của ………về việc thanh tra tại … (Tên người nộp thuế). Đoàn thanh tra đề nghị (Tên người nộp thuế) cung cấp các thông tin, tài liệu, bản giải trình,... sau:\n\n1...\n\n2...\n\nvà gửi cho Đoàn thanh tra  trước ...giờ, ngày ... tháng ... năm ...\n\nNếu có vướng mắc hoặc trường hợp không thể cung cấp được, đề nghị nêu rõ lý do.\n\nĐoàn thanh tra thông báo để...(Tên người nộp thuế) được biết và thực hiện./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_04-TTrT-80-2021-TT-BTC_chunk_0002",
+            "char_count": 817,
+            "source_file": "thongbao/MAU SO 04-TTrT-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 04-TTrT-80-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:45:26",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_04-TTrT-80-2021-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_04-TTrT-80-2021-TT-BTC",
+        "text": "trước ...giờ, ngày ... tháng ... năm ...\n\nNếu có vướng mắc hoặc trường hợp không thể cung cấp được, đề nghị nêu rõ lý do.\n\nĐoàn thanh tra thông báo để...(Tên người nộp thuế) được biết và thực hiện./.\n\n| Nơi nhận:\t\t\t                                <br>- Như trên;<br>- Lưu: ... | Nơi nhận:\t\t\t                                <br>- Như trên;<br>- Lưu: ... | CHỨC DANH NGƯỜI RA THÔNG BÁO <br>(Ký, ghi rõ họ tên) | CHỨC DANH NGƯỜI RA THÔNG BÁO <br>(Ký, ghi rõ họ tên) |\n| --- | --- | --- | --- |\n| NGƯỜI ĐƯỢC YÊU CẦU CUNG CẤP <br>            NHẬN THÔNG BÁO | NGƯỜI ĐƯỢC YÊU CẦU CUNG CẤP <br>            NHẬN THÔNG BÁO |  |  |\n| Ngày ... tháng ... năm ... | Ngày ... tháng ... năm ... |  |  |\n| (Ký tên, đóng dấu (ghi rõ họ tên và chức vụ)) | (Ký tên, đóng dấu (ghi rõ họ tên và chức vụ)) |  |  |\n\nNguồn: Thông tư 80/2021/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_04-TTrT-80-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 822,
+            "source_file": "thongbao/MAU SO 04-TTrT-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 04-TTrT-80-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:45:26",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

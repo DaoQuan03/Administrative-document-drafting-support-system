@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_06_DKCN-32-2026-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_06_DKCN-32-2026-ND-CP",
+        "text": "Mẫu số 06.ĐKCN\n\n| CƠ QUAN CẤP GIẤY<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ... | ..., ngày ...tháng... năm... |\n\nTHÔNG BÁO\n\nVề việc kết quả đánh giá giám sát điều kiện chăn nuôi đối với chăn nuôi trang trại quy mô lớn\n\nKính gửi: ...(1)\n\nCăn cứ Nghị định số 13/2020/NĐ-CP ngày 21 tháng 01 năm 2020 của Chính phủ hướng dẫn chi tiết Luật Chăn nuôi; Nghị định số 46/2022/NĐ-CP ngày 13 tháng 7 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 13/2020/NĐ-CP ngày 21 tháng 01 năm 2020 của Chính phủ hướng dẫn chi tiết Luật Chăn nuôi;\n\nCăn cứ kết quả đánh giá giám sát tại Biên bản đánh giá điều kiện chăn nuôi ngày ... và báo cáo khắc phục của ...(1) (nếu có);\n\n...(2) thông báo kết quả đánh giá giám sát điều kiện chăn nuôi đối với chăn nuôi trang trại quy mô lớn của ...(1), có Giấy chứng nhận đủ điều kiện chăn nuôi với mã số ... như sau:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_06_DKCN-32-2026-ND-CP_chunk_0002",
+            "char_count": 934,
+            "source_file": "thongbao/MAU SO 06.DKCN-32-2026-ND-CP.doc",
+            "file_name": "MAU SO 06.DKCN-32-2026-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:49:29",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_06_DKCN-32-2026-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_06_DKCN-32-2026-ND-CP",
+        "text": "...(1) (nếu có);\n\n...(2) thông báo kết quả đánh giá giám sát điều kiện chăn nuôi đối với chăn nuôi trang trại quy mô lớn của ...(1), có Giấy chứng nhận đủ điều kiện chăn nuôi với mã số ... như sau:\n\n- Cơ sở đã duy trì điều kiện chăn nuôi và được tiếp tục hoạt động chăn nuôi theo quy định (đối với trường hợp kết quả đánh giá giám sát đạt).\n\n- Cơ sở bị thu hồi Giấy chứng nhận đủ điều kiện chăn nuôi (đối với trường hợp không khắc phục các chỉ tiêu không đạt ghi trong biên bản đánh giá trong thời gian đã cam kết).\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: VT, ... | QUYỀN HẠN, CHỨC VỤ CỦA<br>NGƯỜI KÝ<br>(Ký, ghi rõ họ tên và đóng dấu - nếu có) |\n| --- | --- |\n\n(1): Tên cơ sở được đánh giá giám sát.\n\n(2): Tên cơ quan cấp Giấy chứng nhận đủ điều kiện chăn nuôi.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_06_DKCN-32-2026-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 760,
+            "source_file": "thongbao/MAU SO 06.DKCN-32-2026-ND-CP.doc",
+            "file_name": "MAU SO 06.DKCN-32-2026-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:49:29",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

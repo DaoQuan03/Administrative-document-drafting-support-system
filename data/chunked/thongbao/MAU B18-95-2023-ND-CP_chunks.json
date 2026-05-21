@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_B18-95-2023-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_B18-95-2023-ND-CP",
+        "text": "Mẫu B18\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n--------------------\n\n…(1)…., ngày … tháng …. năm….\n\nTHÔNG BÁO\n\nNgười được phong phẩm hoặc suy cử làm chức sắc\n\nKính gửi: …………(2)…………\n\nTên tổ chức tôn giáo (chữ in hoa):...\n\nTrụ sở: ...\n\nThông báo việc phong phẩm hoặc suy cử chức sắc với các nội dung sau:\n\n| TT | Họ và tên | Tên gọi trong tôn giáo | Năm sinh | Nơi cư trú | Phẩm vị trước và sau khi được phong phẩm hoặc suy cử | Phẩm vị trước và sau khi được phong phẩm hoặc suy cử | Địa bàn hoạt động tôn giáo trước và sau khi được phong phẩm hoặc suy cử | Địa bàn hoạt động tôn giáo trước và sau khi được phong phẩm hoặc suy cử |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | Họ và tên | Tên gọi trong tôn giáo | Năm sinh | Nơi cư trú | Trước | Sau | Trước | Sau |\n| 1 |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |\n| ... |  |  |  |  |  |  |  |  |\n| n |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_B18-95-2023-ND-CP_chunk_0002",
+            "char_count": 928,
+            "source_file": "thongbao/MAU B18-95-2023-ND-CP.doc",
+            "file_name": "MAU B18-95-2023-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:28:21",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_B18-95-2023-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_B18-95-2023-ND-CP",
+        "text": "Tên gọi trong tôn giáo | Năm sinh | Nơi cư trú | Trước | Sau | Trước | Sau |\n| 1 |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |\n| ... |  |  |  |  |  |  |  |  |\n| n |  |  |  |  |  |  |  |  |\n\nVăn bản kèm theo gồm: Tóm tắt quá trình hoạt động tôn giáo; sơ yếu lý lịch của chức sắc.\n\n|  | TM. TỔ CHỨC TÔN GIÁO<br>(Chữ ký, dấu) |\n| --- | --- |\n\n(1) Địa danh nơi có trụ sở của tổ chức tôn giáo.\n\n(2) Cơ quan quản lý nhà nước về tín ngưỡng, tôn giáo ở trung ương đối với trường hợp phong phẩm hoặc suy cử phẩm vị theo quy định tại khoản 1 Điều 33 của Luật tín ngưỡng, tôn giáo; cơ quan chuyên môn về tín ngưỡng, tôn giáo cấp tỉnh đối với trường hợp phong phẩm hoặc suy cử phẩm vị theo quy định tại khoản 2 Điền 33 của Luật tín ngưỡng, tôn giáo.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_B18-95-2023-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 747,
+            "source_file": "thongbao/MAU B18-95-2023-ND-CP.doc",
+            "file_name": "MAU B18-95-2023-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:28:21",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_244-TT-119-2021-BCA_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_244-TT-119-2021-BCA",
+        "text": "| ... <br>... |  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- | --- | --- |\n| Số: .../TB-………….……… |  | ..., ngày ... tháng ... năm... |\n\nTHÔNG BÁO\n\nVỀ VIỆC ĐĂNG KÝ BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP (1)\n\nKính gửi: Ông/bà\n\n……………………………………………………………………………………………….\n\nSau khi cơ quan có thẩm quyền tiến hành tố tụng kiểm tra giấy tờ và thấy đủ điều kiện đăng ký người bảo vệ quyền và lợi ích hợp pháp, đã vào sổ đăng ký bảo vệ quyền và lợi ích hợp pháp và thông báo:\n\nÔng/bà: ...\n\nSinh năm: ...\n\nNghề nghiệp: ...\n\nThẻ luật sư/CMND/Thẻ CCCD số: ...\n\ncấp ngày …… tháng ……. năm …….. Nơi cấp: ...\n\nLà(2): ...\n\nđủ điều kiện bảo vệ quyền và lợi ích hợp pháp cho ông/bà(3): ...\n\n………………………………………………………………………………………………………………………………………..……………\n\nLà(4): ...\n\nThuộc vụ án/vụ việc: ...\n\n...\n\n...\n\nCơ quan ...\n\nthông báo cho ông/bà biết.\n\n| Nơi nhận:<br>- Như trên;<br>- Hồ sơ 02 bản. | ………………………………………………………………….. |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_244-TT-119-2021-BCA_chunk_0002",
+            "char_count": 937,
+            "source_file": "thongbao/MAU SO 244-TT-119-2021-BCA.doc",
+            "file_name": "MAU SO 244-TT-119-2021-BCA.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:06:45",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_244-TT-119-2021-BCA_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_244-TT-119-2021-BCA",
+        "text": "...\n\nThuộc vụ án/vụ việc: ...\n\n...\n\n...\n\nCơ quan ...\n\nthông báo cho ông/bà biết.\n\n| Nơi nhận:<br>- Như trên;<br>- Hồ sơ 02 bản. | ………………………………………………………………….. |\n| --- | --- |\n\n(1) Giấy tờ liên quan đến việc đăng ký bảo vệ quyền và lợi ích hợp pháp lưu vào hồ sơ vụ án, vụ việc;\n\n(2) Ghi rõ người bảo vệ quyền và lợi ích hợp pháp là luật sư/người đại diện của người bị tố giác, người bị kiến nghị khởi tố, bị hại, đương sự/bào chữa viên nhân dân/trợ giúp viên pháp lý.\n\n(3) Ghi rõ họ tên người bị tố giác, người bị kiến nghị khởi tố, bị hại, đương sự.\n\n(4) Ghi rõ tư cách tham gia tố tụng của người bị tố giác, người bị kiến nghị khởi tố, bị hại, đương sự",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_244-TT-119-2021-BCA_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 658,
+            "source_file": "thongbao/MAU SO 244-TT-119-2021-BCA.doc",
+            "file_name": "MAU SO 244-TT-119-2021-BCA.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:06:45",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

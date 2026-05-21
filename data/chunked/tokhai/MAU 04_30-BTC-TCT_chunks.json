@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_04_30-BTC-TCT_chunk_0001",
+        "doc_id": "tokhai_MAU_04_30-BTC-TCT",
+        "text": "MẪU SỐ 4\n\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n\nNgày.. tháng... năm\n\nTỜ KHAI\n\nTHANH TOÁN THUẾ TÀI NGUYÊN\n\nSố:...\n\nKính gửi cơ quan thuế (nơi đăng ký KD):\n\n- Tên cơ sở khai thác thuỷ sản...\n\n- Địa chỉ trụ sở chính...\n\n- Nơi mở tài khoản... Số hiệu tài khoản...\n\n- Đã nộp thuế tại nơi đăng ký kinh doanh đến hết tháng... năm... số thuế là...\n\n- Từ ngày... tháng... năm... đến ngày... tháng... năm... đến khai thác thuỷ sản tại...\n\n- Đã nộp thuế tài nguyên tại cơ quan thuế...\n\nsố tiền là... biên lai thu thuế số... ngày...\n\nĐề nghị cơ quan thuế trừ số thuế tài nguyên đã nộp tại... vào số tiền thuế phải nộp kỳ sau của cơ sở.\n\nXin cam đoan số liệu kê khai trên đây là đúng sự thực, nếu không đúng sẽ chịu phạt theo quy định của các luật thuế.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_04_30-BTC-TCT_chunk_0002",
+            "char_count": 766,
+            "source_file": "tokhai/MAU 04_30-BTC-TCT.doc",
+            "file_name": "MAU 04_30-BTC-TCT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:37:38",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_04_30-BTC-TCT_chunk_0002",
+        "doc_id": "tokhai_MAU_04_30-BTC-TCT",
+        "text": "trừ số thuế tài nguyên đã nộp tại... vào số tiền thuế phải nộp kỳ sau của cơ sở.\n\nXin cam đoan số liệu kê khai trên đây là đúng sự thực, nếu không đúng sẽ chịu phạt theo quy định của các luật thuế.\n\n|  |  |  | Ngày... tháng... năm... |\n| --- | --- | --- | --- |\n| Duyệt của thủ trưởng Cơ quan thuế | Xác nhận của CB Thuế quản lý cơ sở | Kế toán trưởng | Giám đốc<br>(chủ hộ) |\n| (Ký tên, đóng dấu) |  | (Ký tên) | (Ký tên, đóng dấu) |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "tokhai_MAU_04_30-BTC-TCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 434,
+            "source_file": "tokhai/MAU 04_30-BTC-TCT.doc",
+            "file_name": "MAU 04_30-BTC-TCT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:37:38",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

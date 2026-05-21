@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_03-BCKP-_PHU_LUC_II-TT-09-2022-TT-BTTTT_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_03-BCKP-_PHU_LUC_II-TT-09-2022-TT-BTTTT",
+        "text": "| NHÀ THẦU:………… | Mẫu số 03/BCKP-MTB, Phụ lục II<br>(Ban hành kèm theo Thông tư số …/2022/TT-BTTTT) |\n| --- | --- |\n\nBÁO CÁO TỔNG HỢP KINH PHÍ THỰC HIỆN GÓI THẦU CUNG CẤP MÁY TÍNH BẢNG\n\nTên gói thầu: ………..\n\n| STT | Mã tỉnh, huyện, xã | Tên tỉnh, huyện, xã | Số lượng hộ được cung cấp máy tính bảng theo Danh sách UBND tỉnh phê duyệt<br>(hộ) | Số lượng thiết bị đã bàn giao<br>(máy) | Đơn giá<br>(đồng/máy) | Giá trị thực hiện<br>(đồng) | Số thiết bị chưa bàn giao<br>(máy) | Giá trị chưa thực hiện<br>(đồng) | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| A | B | C | 1 | 2 | 3 | 4=2x3 | 5 | 6 =5x3 | 7 |\n| 1 |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |  |  |\n|  |  | Cộng | x | x |  | x | x | x |  |\n\n| LẬP BIỂU<br>(Ký, ghi rõ họ và tên) | ……., ngày … tháng … năm ...<br>ĐẠI DIỆN NHÀ THẦU(1)<br>(Ký, đóng dấu, ghi rõ họ và tên) |\n| --- | --- |\n\nGhi chú:\n\n- Cột (A): Ghi số thứ tự.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_03-BCKP-_PHU_LUC_II-TT-09-2022-TT-BTTTT_chunk_0002",
+            "char_count": 953,
+            "source_file": "maubaocao/MAU SO 03-BCKP- PHU LUC II-TT-09-2022-TT-BTTTT.doc",
+            "file_name": "MAU SO 03-BCKP- PHU LUC II-TT-09-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:27:19",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_03-BCKP-_PHU_LUC_II-TT-09-2022-TT-BTTTT_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_03-BCKP-_PHU_LUC_II-TT-09-2022-TT-BTTTT",
+        "text": "| x | x | x |  |\n\n| LẬP BIỂU<br>(Ký, ghi rõ họ và tên) | ……., ngày … tháng … năm ...<br>ĐẠI DIỆN NHÀ THẦU(1)<br>(Ký, đóng dấu, ghi rõ họ và tên) |\n| --- | --- |\n\nGhi chú:\n\n- Cột (A): Ghi số thứ tự.\n\n- Cột (B): Ghi mã tỉnh, mã huyện, mã xã theo quy định tại Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004. Trường hợp địa phương sáp nhập hoặc chia tách đơn vị hành chính (không thuộc phạm vi của Quyết định số 124/2004/QĐ-TTg) thì ghi mã đơn vị hành chính chia tách, sáp nhập theo quy định tại các Quyết định bổ sung.\n\n- Cột (C): Ghi tên tỉnh, mã huyện, mã xã theo quy định tại Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004. Trường hợp địa phương sáp nhập hoặc chia tách đơn vị hành chính (không thuộc phạm vi của Quyết định số 124/2004/QĐ-TTg) thì ghi tên đơn vị hành chính chia tách, sáp nhập theo quy định tại các Quyết định bổ sung.\n\n- Cột (1): Là người đại diện nhà thầu theo quy định của pháp luật tại Hợp đồng cung cấp máy tính bảng.\n\n- Cột (2): Ghi số lượng máy tính bảng đã bàn giao.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_03-BCKP-_PHU_LUC_II-TT-09-2022-TT-BTTTT_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_SO_03-BCKP-_PHU_LUC_II-TT-09-2022-TT-BTTTT_chunk_0003",
+            "char_count": 987,
+            "source_file": "maubaocao/MAU SO 03-BCKP- PHU LUC II-TT-09-2022-TT-BTTTT.doc",
+            "file_name": "MAU SO 03-BCKP- PHU LUC II-TT-09-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:27:19",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_03-BCKP-_PHU_LUC_II-TT-09-2022-TT-BTTTT_chunk_0003",
+        "doc_id": "maubaocao_MAU_SO_03-BCKP-_PHU_LUC_II-TT-09-2022-TT-BTTTT",
+        "text": "theo quy định tại các Quyết định bổ sung.\n\n- Cột (1): Là người đại diện nhà thầu theo quy định của pháp luật tại Hợp đồng cung cấp máy tính bảng.\n\n- Cột (2): Ghi số lượng máy tính bảng đã bàn giao.\n\n- Cột (3): Ghi đơn giá máy tính bảng.\n\n- Cột (4): Ghi giá trị máy tính bảng đã thực hiện bàn giao.\n\n- Cột (5): Ghi số lượng máy tính bảng chưa thực hiện bàn giao.\n\n- Cột (6): Ghi giá trị máy tính bảng chưa thực hiện bàn giao.\n\n- Cột (7): Ghi nguyên nhân/Lý do chưa thực hiện bàn giao máy tính bảng.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_03-BCKP-_PHU_LUC_II-TT-09-2022-TT-BTTTT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 497,
+            "source_file": "maubaocao/MAU SO 03-BCKP- PHU LUC II-TT-09-2022-TT-BTTTT.doc",
+            "file_name": "MAU SO 03-BCKP- PHU LUC II-TT-09-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:27:19",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

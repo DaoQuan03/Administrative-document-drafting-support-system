@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_SO_03-QD-1526-QD-BYT_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_SO_03-QD-1526-QD-BYT",
+        "text": "PHỤ LỤC 3: Phiếu thu thập dữ liệu kháng sinh đồ\n\nHọ tên NB:………………………………….. ; Mã số NB/số bệnh án: …………………………..\n\n| Vi sinh vật và nhạy cảm kháng sinh |\n| --- |\n| Nhập vào bảng dưới đây ngày lấy Mẫu và vi sinh vật xác định được cho TẤT CẢ các kết quả cấy dương tính của bệnh phẩm từ VẾT THƯƠNG, MỦ (tiết ra từ vết mổ) hoặc MÁU của NB trong thời gian theo dõi.<br>Đính kèm một bản sao kết quả kháng sinh đồ của phòng xét nghiệm cho mỗi vi sinh vật phân lập được của NB này vào phiếu giám sát. Nếu không thể đính kèm, hãy nhập kết quả kháng sinh đồ của phòng xét nghiệm vào bảng bên dưới.<br>(Kết quả khánh sinh đồ: S=nhạy, I=trung bình, R=kháng, S-DD= nhạy cảm, nhưng phụ thuộc vào liều lượng kháng sinh) |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_SO_03-QD-1526-QD-BYT_chunk_0002",
+            "char_count": 703,
+            "source_file": "mauphieu/PHU LUC SO 03-QD-1526-QD-BYT.doc",
+            "file_name": "PHU LUC SO 03-QD-1526-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:46:47",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_SO_03-QD-1526-QD-BYT_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_SO_03-QD-1526-QD-BYT",
+        "text": "đính kèm, hãy nhập kết quả kháng sinh đồ của phòng xét nghiệm vào bảng bên dưới.<br>(Kết quả khánh sinh đồ: S=nhạy, I=trung bình, R=kháng, S-DD= nhạy cảm, nhưng phụ thuộc vào liều lượng kháng sinh) |\n\n| Ngày thu thập bệnh phẩm | Loại bệnh phẩm | Tên vi trùng phân lập được | Kết quả kháng sinh đồ |\n| --- | --- | --- | --- |\n| ___/___<br>/___ | □ Vết thương<br>□ Mủ<br>□ Máu | ___ |  |\n| ___/___<br>/___ | □ Vết thương<br>□ Mủ<br>□ Máu | ___ |  |\n| ___/___<br>/___ | □ Vết thương<br>□ Mủ<br>□ Máu | ___ |  |\n| ___/___<br>/___ | □ Vết thương<br>□ Mủ<br>□ Máu | ___ |  |\n\nNguồn: Quyết định 1526/QĐ-BYT năm 2023",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_SO_03-QD-1526-QD-BYT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 608,
+            "source_file": "mauphieu/PHU LUC SO 03-QD-1526-QD-BYT.doc",
+            "file_name": "PHU LUC SO 03-QD-1526-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:46:47",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

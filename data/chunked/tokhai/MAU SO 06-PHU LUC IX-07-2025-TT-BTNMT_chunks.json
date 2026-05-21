@@ -1,0 +1,110 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT",
+        "text": "Mẫu số 06. Bản kê khai quy cách sản phẩm, bao bì phải tái chế\n\n| TÊN NHÀ SẢN XUẤT, NHẬP KHẨU<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | (Địa danh), ngày … tháng … năm … |\n\nKÊ KHAI QUY CÁCH SẢN PHẨM, BAO BÌ PHẢI TÁI CHẾ\n\nNĂM…",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 6,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT_chunk_0002",
+            "char_count": 301,
+            "source_file": "tokhai/MAU SO 06-PHU LUC IX-07-2025-TT-BTNMT.doc",
+            "file_name": "MAU SO 06-PHU LUC IX-07-2025-TT-BTNMT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:55:56",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT",
+        "text": "| CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | (Địa danh), ngày … tháng … năm … |\n\nKÊ KHAI QUY CÁCH SẢN PHẨM, BAO BÌ PHẢI TÁI CHẾ\n\nNĂM…\n\n| TT | Danh mục | Đơn vị tính | Quy cách | Số lượng đưa ra thị trường | Khối lượng (kg) | Tổng khối lượng (kg) |\n| --- | --- | --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) | (6) | (7) = (5) × (6) |\n| I | Sản phẩm |  |  |  |  |  |\n| 1 | Tên sản phẩm, hàng hóa nhãn… <br>Ví dụ: Ắc quy chì 12V nhãn A |  |  |  |  |  |\n| 1.1 | Danh mục a <br>Ví dụ: B.1.1. Ắc quy chì |  |  |  |  |  |\n| II | Bao bì |  |  |  |  |  |\n| 1 | Tên sản phẩm, hàng hóa nhãn… <br>Ví dụ: Nước tinh khiết 350 ml nhãn B |  |  |  |  |  |\n| 1.1 | Bao bì trực tiếp |  |  |  |  |  |\n|  | Danh mục b <br>Ví dụ: A.3.1 Bao bì PET cứng |  |  |  |  |  |\n|  | … |  |  |  |  |  |\n| 1.2 | Bao bì ngoài |  |  |  |  |  |\n|  | Danh mục c <br>Ví dụ: A.1.1. Bao bì giấy, carton |  |  |  |  |  |\n| … |  |  |  |  |  |  |\n| Tổng | Tổng | Tổng | Tổng | Tổng | Tổng |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 6,
+            "prev_chunk_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT_chunk_0001",
+            "next_chunk_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT_chunk_0003",
+            "char_count": 1029,
+            "source_file": "tokhai/MAU SO 06-PHU LUC IX-07-2025-TT-BTNMT.doc",
+            "file_name": "MAU SO 06-PHU LUC IX-07-2025-TT-BTNMT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:55:56",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT_chunk_0003",
+        "doc_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT",
+        "text": "… |  |  |  |  |  |\n| 1.2 | Bao bì ngoài |  |  |  |  |  |\n|  | Danh mục c <br>Ví dụ: A.1.1. Bao bì giấy, carton |  |  |  |  |  |\n| … |  |  |  |  |  |  |\n| Tổng | Tổng | Tổng | Tổng | Tổng | Tổng |  |\n\nGhi chú:\n\n- Cột (2): Nhà sản xuất, nhập khẩu kê khai tên sản phẩm, hàng hóa theo Cột (2) mục I Mẫu số 05 Phụ lục IX ban hành kèm theo Thông tư này. Danh mục a,b,c,… ghi đầy đủ ký hiệu và tên theo danh mục sản phẩm, bao bì quy định tại Cột 3 Phụ lục XXII ban hành kèm theo Nghị định số 08/2022/NĐ-CP được sửa đổi, bổ sung tại Nghị định số 05/2025/NĐ-CP. Ví dụ: A.1.1 Bao bì giấy, carton;\n\n- Cột (5):\n\n+ Tại dòng “Tên sản phẩm, hàng hóa nhãn…” kê khai theo số lượng tại cột (4) Mẫu số 05 Phụ lục IX ban hành kèm theo Thông tư này;\n\n+ Tại dòng “Danh mục a, b,c,…” kê khai số lượng thực tế đưa ra thị trường tương ứng với đơn vị tính và quy cách của sản phẩm.\n\n- Cột (6): Khối lượng của sản phẩm, bao bì được xác định làm tròn đến hàng phần nghìn. Ví dụ: 1,12305 kg làm tròn thành 1,123 kg;",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 6,
+            "prev_chunk_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT_chunk_0002",
+            "next_chunk_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT_chunk_0004",
+            "char_count": 986,
+            "source_file": "tokhai/MAU SO 06-PHU LUC IX-07-2025-TT-BTNMT.doc",
+            "file_name": "MAU SO 06-PHU LUC IX-07-2025-TT-BTNMT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:55:56",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT_chunk_0004",
+        "doc_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT",
+        "text": "ra thị trường tương ứng với đơn vị tính và quy cách của sản phẩm.\n\n- Cột (6): Khối lượng của sản phẩm, bao bì được xác định làm tròn đến hàng phần nghìn. Ví dụ: 1,12305 kg làm tròn thành 1,123 kg;\n\n- Đối với bao bì, kê khai loại vật liệu như sau:\n\nCách 1: Nhà sản xuất, nhập khẩu kê khai quy cách khối lượng bao bì theo cùng 01 loại vật liệu có khối lượng lớn nhất cấu thành bao bì;\n\nCách 2: Nhà sản xuất, nhập khẩu kê khai chi tiết các loại vật liệu nhưng tối đa không quá 03 loại vật liệu có khối lượng lớn nhất cấu thành bao bì;\n\nKhối lượng bao bì kê khai là tổng khối lượng của các loại vật liệu cấu thành bao bì (bao gồm cả vật liệu không được kê khai). Trường hợp gộp các loại vật liệu để kê khai chung thì phải kê khai theo loại vật liệu có khối lượng lớn nhất.\n\nVí dụ:",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 6,
+            "prev_chunk_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT_chunk_0003",
+            "next_chunk_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT_chunk_0005",
+            "char_count": 776,
+            "source_file": "tokhai/MAU SO 06-PHU LUC IX-07-2025-TT-BTNMT.doc",
+            "file_name": "MAU SO 06-PHU LUC IX-07-2025-TT-BTNMT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:55:56",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT_chunk_0005",
+        "doc_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT",
+        "text": "của các loại vật liệu cấu thành bao bì (bao gồm cả vật liệu không được kê khai). Trường hợp gộp các loại vật liệu để kê khai chung thì phải kê khai theo loại vật liệu có khối lượng lớn nhất.\n\nVí dụ:\n\nBao bì trực tiếp của sản phẩm chai nước 350 ml nhãn A được cấu tạo thân chai là nhựa PET cứng khối lượng 0,03 kg (khối lượng lớn nhất), nắp chai là nhựa PP với khối lượng là 0,01 kg, nhãn là bao bì đa vật liệu mềm với khối lượng là 0,01 kg. Tổng khối lượng bao bì là 0,05 kg thì nhà sản xuất, nhập khẩu có thể kê khai bao bì trực tiếp của sản phẩm chai nước 350 ml nhãn A theo một trong các cách sau:\n\nKê khai cách 1:\n\n1. Sản phẩm chai nước 350 ml nhãn A, khối lượng bao bì: 0,05 kg\n\n1.1 Bao bì trực tiếp:\n\nA.3.1 Bao bì PET cứng với khối lượng: 0,05 kg.\n\nKê khai cách 2:\n\n1. Sản phẩm chai nước 350 ml nhãn A, khối lượng bao bì: 0,05 kg\n\n1.1 Bao bì trực tiếp:\n\nA.3.1 Bao bì PET cứng, khối lượng: 0,03 kg; A.3.2 Bao bì PP cứng, khối lượng: 0,01 kg; A.3.4 Bao bì nhựa mềm, khối lượng: 0,01 kg.",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 6,
+            "prev_chunk_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT_chunk_0004",
+            "next_chunk_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT_chunk_0006",
+            "char_count": 990,
+            "source_file": "tokhai/MAU SO 06-PHU LUC IX-07-2025-TT-BTNMT.doc",
+            "file_name": "MAU SO 06-PHU LUC IX-07-2025-TT-BTNMT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:55:56",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT_chunk_0006",
+        "doc_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT",
+        "text": "350 ml nhãn A, khối lượng bao bì: 0,05 kg\n\n1.1 Bao bì trực tiếp:\n\nA.3.1 Bao bì PET cứng, khối lượng: 0,03 kg; A.3.2 Bao bì PP cứng, khối lượng: 0,01 kg; A.3.4 Bao bì nhựa mềm, khối lượng: 0,01 kg.\n\nKê khai cách 3:\n\n1. Sản phẩm chai nước 350ml nhãn A, khối lượng bao bì: 0,05 kg\n\n1.1 Bao bì trực tiếp:\n\nA.3.1 Bao bì PET cứng, khối lượng: 0,04 kg; A.3.2 Bao bì PP cứng, khối lượng: 0,01 kg.",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 6,
+            "prev_chunk_id": "tokhai_MAU_SO_06-PHU_LUC_IX-07-2025-TT-BTNMT_chunk_0005",
+            "next_chunk_id": null,
+            "char_count": 388,
+            "source_file": "tokhai/MAU SO 06-PHU LUC IX-07-2025-TT-BTNMT.doc",
+            "file_name": "MAU SO 06-PHU LUC IX-07-2025-TT-BTNMT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:55:56",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

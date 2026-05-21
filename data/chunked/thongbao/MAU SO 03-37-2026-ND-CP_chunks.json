@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_03-37-2026-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_03-37-2026-ND-CP",
+        "text": "Mẫu số 3\n\n| (TÊN CƠ QUAN CHỦ QUẢN)<br>TÊN CƠ QUAN KIỂM TRA<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: …./TB-……. | ……., ngày … tháng … năm 20… |\n\nTHÔNG BÁO\n\nKết quả kiểm tra nhà nước về chất lượng hàng hóa nhập khẩu\n\n| STT | Tên hàng hóa, nhãn hiệu, kiểu loại | Đặc tính kỹ thuật | Xuất xứ | Nhà sản xuất | Khối lượng/ số lượng | Đơn vị tính | Ghi chú1 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |\n\n- Cửa khẩu nhập: ………………………………………………………………………….\n\n- Thời gian nhập khẩu: …………………………………………………………………….\n\n- Thuộc lô hàng có Giấy đăng ký kiểm tra số:... ngày ... tháng ... năm 20….\n\n- Giấy chứng nhận hợp quy hoặc Chứng thư giám định chất lượng lô hàng hóa nhập khẩu số ……………. do...(tên đơn vị cấp)...cấp ngày: …/…/….\n\n- Tổ chức, cá nhân nhập khẩu: ……………………………………………………………..\n\n- Căn cứ kiểm tra:\n\n+ Tiêu chuẩn công bố áp dụng: ………………………………………………………..",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_03-37-2026-ND-CP_chunk_0002",
+            "char_count": 951,
+            "source_file": "thongbao/MAU SO 03-37-2026-ND-CP.doc",
+            "file_name": "MAU SO 03-37-2026-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:40:08",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_03-37-2026-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_03-37-2026-ND-CP",
+        "text": "hóa nhập khẩu số ……………. do...(tên đơn vị cấp)...cấp ngày: …/…/….\n\n- Tổ chức, cá nhân nhập khẩu: ……………………………………………………………..\n\n- Căn cứ kiểm tra:\n\n+ Tiêu chuẩn công bố áp dụng: ………………………………………………………..\n\n+ Quy chuẩn kỹ thuật: ……………………………………………………………………..\n\n+ Quy định khác: ………………………………………………………………………\n\nKẾT QUẢ KIỂM TRA\n\nGhi một trong các nội dung:\n\nĐáp ứng yêu cầu chất lượng hàng hóa nhập khẩu\n\nHoặc Không đáp ứng yêu cầu chất lượng hàng hóa nhập khẩu thì nêu lý do và các yêu cầu khác nếu có\n\nHoặc Lô hàng không đáp ứng yêu cầu về nhãn\n\nHoặc Lô hàng không hoàn thiện đầy đủ hồ sơ\n\n| Nơi nhận:<br>- Tổ chức, cá nhân nhập khẩu;<br>- Hải quan cửa khẩu;<br>- Lưu: VT, (Viết tắt tên CQKT). | CƠ QUAN KIỂM TRA |\n| --- | --- |\n\n___\n\n1 Các nội dung nêu tại bảng này được ghi theo Giấy chứng nhận hợp quy hoặc Chứng thư giám định chất lượng lô hàng hóa nhập khẩu.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_03-37-2026-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 850,
+            "source_file": "thongbao/MAU SO 03-37-2026-ND-CP.doc",
+            "file_name": "MAU SO 03-37-2026-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:40:08",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

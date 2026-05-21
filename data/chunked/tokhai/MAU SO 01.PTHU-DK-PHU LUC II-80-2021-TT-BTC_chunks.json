@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_01_PTHU-DK-PHU_LUC_II-80-2021-TT-BTC_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_01_PTHU-DK-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTỜ KHAI PHỤ THU TẠM TÍNH\n\n[01] Dầu thô: □      [02] Condensate: □\n\n[03] Kỳ tính thuế: Quý thứ ... năm …\n\n[03a] Lần đầu □          [03b] Bổ sung lần thứ: ...\n\n[04] Tên người nộp thuế: ...\n\n[05] Mã số thuế:\n\n[06] Địa chỉ: ... [07] Xã/phường/đặc khu: ... [08] Tỉnh/Thành phố: ...\n\n[09] Điện thoại: ... [10] Fax:  ... [11] E-mail: ...\n\n[12] Hợp đồng dầu khí lô: ...\n\n[13] Tên đơn vị được uỷ quyền [   ] hoặc Đại lý thuế [   ]: ...\n\n[14] Mã số thuế:\n\n[15] Địa chỉ: ... [16] Xã/phường/đặc khu: ... [17] Tỉnh/Thành phố: ...\n\n[18] Điện thoại: ... [19] Fax:  ... [20] E-mail: ...\n\n[21] Hợp đồng uỷ quyền hoặc Hợp đồng đại lý thuế, số: ... [22] Ngày ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_01_PTHU-DK-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+            "char_count": 708,
+            "source_file": "tokhai/MAU SO 01.PTHU-DK-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01.PTHU-DK-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:14",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_01_PTHU-DK-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_01_PTHU-DK-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "Địa chỉ: ... [16] Xã/phường/đặc khu: ... [17] Tỉnh/Thành phố: ...\n\n[18] Điện thoại: ... [19] Fax:  ... [20] E-mail: ...\n\n[21] Hợp đồng uỷ quyền hoặc Hợp đồng đại lý thuế, số: ... [22] Ngày ...\n\n| STT | Chỉ tiêu | Mã chỉ tiêu | Đơn vị tính | Giá trị |\n| --- | --- | --- | --- | --- |\n| 1 | Sản lượng dầu lãi được chia tạm tính | [23] | Thùng |  |\n| 2 | Giá cơ sở của năm | [24] | USD/thùng |  |\n| 3 | Giá bán dầu thô trung bình | [25] | USD/thùng |  |\n| 4 | Xác định số phụ thu tạm tính: |  |  |  |\n| 4.1 | Đối với dự án dầu khí khuyến khích đầu tư: | [26] | USD |  |\n|  | [26] = 30%*{[25]–1,2*[24]}*[23] |  |  |  |\n| 4.2 | Đối với các dự án dầu khí không thuộc khoản 4.1: |  |  |  |\n|  | a) Trường hợp {1,2*[24]} < [25] ≤ {1,5*[24]}: | [27] | USD |  |\n|  | [27] = 50%*{[25]–1,2*[24]}*[23] |  |  |  |\n|  | b) Trường hợp [25] > {1,5*[24]}: |  |  |  |\n|  | - Phụ thu theo mức 50% <br>[28] = 50%*{1,5*[24]–1,2*[24]}*[23] | [28] | USD |  |\n|  | - Phụ thu theo mức 60% <br>[29] = 60%*{[25]–1,5*[24]}*[23] | [29] | USD |  |\n| 5 | Số phụ thu tạm tính phải nộp: | [30] | USD |  |\n|  | a) Đối với trường hợp thuộc khoản 4.1: [30] = [26] |  |  |  |\n|  | b) Đối với trường hợp thuộc điểm a khoản 4.2: <br>[30] = [27] |  |  |  |\n|  | c) Đối với trường hợp thuộc điểm b khoản 4.2: <br>[30] = [28]+[29] |  |  |  |\n| 6 | Tỷ giá quy đổi | [31] | USD/VNĐ |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "tokhai_MAU_SO_01_PTHU-DK-PHU_LUC_II-80-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": "tokhai_MAU_SO_01_PTHU-DK-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+            "char_count": 1341,
+            "source_file": "tokhai/MAU SO 01.PTHU-DK-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01.PTHU-DK-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:14",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_01_PTHU-DK-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+        "doc_id": "tokhai_MAU_SO_01_PTHU-DK-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "b) Đối với trường hợp thuộc điểm a khoản 4.2: <br>[30] = [27] |  |  |  |\n|  | c) Đối với trường hợp thuộc điểm b khoản 4.2: <br>[30] = [28]+[29] |  |  |  |\n| 6 | Tỷ giá quy đổi | [31] | USD/VNĐ |  |\n\nTôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về số liệu đã khai./.\n\n| NHÂN VIÊN ĐẠI LÝ THUẾ<br>Họ và tên:...<br>Chứng chỉ hành nghề số:... | ..., ngày... tháng... năm...<br>NGƯỜI NỘP THUẾ hoặc <br>ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ<br>(Chữ ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có)/Ký điện tử) |\n| --- | --- |\n\nGhi chú:\n\n- Chỉ tiêu [23] do người nộp phụ thu tự xác định.\n\n- Trường hợp dầu thô, condensate bán tại thị trường Việt Nam hoặc Chính phủ có quy định khác thì đồng tiền nộp phụ thu là đồng Việt Nam; tỷ giá quy đổi thực hiện theo quy định pháp luật về kế toán.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "tokhai_MAU_SO_01_PTHU-DK-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 807,
+            "source_file": "tokhai/MAU SO 01.PTHU-DK-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01.PTHU-DK-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:14",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

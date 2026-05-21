@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_06-DV-PHU_BIEU_5-08-2016-TT-BTTTT_chunk_0001",
+        "doc_id": "Maudon_MAU_06-DV-PHU_BIEU_5-08-2016-TT-BTTTT",
+        "text": "| Doanh nghiệp:... |  |  |  |  | MẪU 06/DV Phụ biểu 05 |\n| --- | --- | --- | --- | --- | --- |\n|  |  |  |  | (Ban hành theo Thông tư số 08/2016/TT-BTTTT) | (Ban hành theo Thông tư số 08/2016/TT-BTTTT) |\n| SẢN LƯỢNG VÀ KINH PHÍ THỰC HIỆN HỖ TRỢ CUNG CẤP DỊCH VỤ VIỄN THÔNG CÔNG ÍCH <br>Dịch vụ:... | SẢN LƯỢNG VÀ KINH PHÍ THỰC HIỆN HỖ TRỢ CUNG CẤP DỊCH VỤ VIỄN THÔNG CÔNG ÍCH <br>Dịch vụ:... | SẢN LƯỢNG VÀ KINH PHÍ THỰC HIỆN HỖ TRỢ CUNG CẤP DỊCH VỤ VIỄN THÔNG CÔNG ÍCH <br>Dịch vụ:... | SẢN LƯỢNG VÀ KINH PHÍ THỰC HIỆN HỖ TRỢ CUNG CẤP DỊCH VỤ VIỄN THÔNG CÔNG ÍCH <br>Dịch vụ:... | SẢN LƯỢNG VÀ KINH PHÍ THỰC HIỆN HỖ TRỢ CUNG CẤP DỊCH VỤ VIỄN THÔNG CÔNG ÍCH <br>Dịch vụ:... | SẢN LƯỢNG VÀ KINH PHÍ THỰC HIỆN HỖ TRỢ CUNG CẤP DỊCH VỤ VIỄN THÔNG CÔNG ÍCH <br>Dịch vụ:... |\n| Năm... | Năm... | Năm... | Năm... | Năm... | Năm... |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_06-DV-PHU_BIEU_5-08-2016-TT-BTTTT_chunk_0002",
+            "char_count": 824,
+            "source_file": "Maudon/MAU 06-DV-PHU BIEU 5-08-2016-TT-BTTTT.doc",
+            "file_name": "MAU 06-DV-PHU BIEU 5-08-2016-TT-BTTTT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:04:19",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_06-DV-PHU_BIEU_5-08-2016-TT-BTTTT_chunk_0002",
+        "doc_id": "Maudon_MAU_06-DV-PHU_BIEU_5-08-2016-TT-BTTTT",
+        "text": "CẤP DỊCH VỤ VIỄN THÔNG CÔNG ÍCH <br>Dịch vụ:... | SẢN LƯỢNG VÀ KINH PHÍ THỰC HIỆN HỖ TRỢ CUNG CẤP DỊCH VỤ VIỄN THÔNG CÔNG ÍCH <br>Dịch vụ:... |\n| Năm... | Năm... | Năm... | Năm... | Năm... | Năm... |\n\n| STT | Tỉnh/Thành phố | Số liệu đề nghị nghiệm thu | Số liệu đề nghị nghiệm thu | Số liệu nghiệm thu | Số liệu nghiệm thu | Số liệu chênh lệch | Số liệu chênh lệch | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Tỉnh/Thành phố | Sản lượng (lượt thuê bao) | Kinh phí (đồng) | Sản lượng (lượt thuê bao) | Kinh phí (đồng) | Sản lượng (lượt thuê bao) | Kinh phí (đồng) | Ghi chú |\n| A | B | 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n| 1 |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |  |\n| 4 |  |  |  |  |  |  |  |  |\n| 5 |  |  |  |  |  |  |  |  |\n| 6 |  |  |  |  |  |  |  |  |\n| 7 |  |  |  |  |  |  |  |  |\n| ... |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_06-DV-PHU_BIEU_5-08-2016-TT-BTTTT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 886,
+            "source_file": "Maudon/MAU 06-DV-PHU BIEU 5-08-2016-TT-BTTTT.doc",
+            "file_name": "MAU 06-DV-PHU BIEU 5-08-2016-TT-BTTTT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:04:19",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

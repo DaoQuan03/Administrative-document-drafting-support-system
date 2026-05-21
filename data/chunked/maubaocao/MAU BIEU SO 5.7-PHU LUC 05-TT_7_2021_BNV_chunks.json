@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_5_7-PHU_LUC_05-TT_7_2021_BNV_chunk_0001",
+        "doc_id": "maubaocao_MAU_BIEU_SO_5_7-PHU_LUC_05-TT_7_2021_BNV",
+        "text": "Biểu số 5.7 Báo cáo kết quả xác nhận phiên hiệu đơn vị thanh niên xung phong\n\nUBND TỈNH/THÀNH PHỐ...\n\nKẾT QUẢ XÁC NHẬN PHIÊN HIỆU ĐƠN VỊ THANH NIÊN XUNG PHONG NĂM ...\n\n| TT | Cơ quan/đơn vị xác nhận phiên hiệu | Văn bản xác nhận phiên hiệu | Đơn vị TNXP được xác nhận phiên hiệu | Chủ trương thành lập | Cơ quan quyết định thành lập | Hình thức tổ chức | Nhiệm vụ của đơn vị | Thời gian hoạt động của đơn vị | Số lượng cán bộ quản lý và đội viên | Chế độ, chính sách tại thời điểm thực hiện nhiệm vụ và khi hoàn thành nhiệm vụ | Chế độ sinh hoạt, trang bị của cán bộ quản lý, đội viên | Chế độ tiền công, tiền lương của cán bộ quản lý, đội viên |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) | (11) | (12) | (13) |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |\n\nGhi chú:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_BIEU_SO_5_7-PHU_LUC_05-TT_7_2021_BNV_chunk_0002",
+            "char_count": 943,
+            "source_file": "maubaocao/MAU BIEU SO 5.7-PHU LUC 05-TT_7_2021_BNV.doc",
+            "file_name": "MAU BIEU SO 5.7-PHU LUC 05-TT_7_2021_BNV.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:22:15",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_5_7-PHU_LUC_05-TT_7_2021_BNV_chunk_0002",
+        "doc_id": "maubaocao_MAU_BIEU_SO_5_7-PHU_LUC_05-TT_7_2021_BNV",
+        "text": "| (4) | (5) | (6) | (7) | (8) | (9) | (10) | (11) | (12) | (13) |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |\n\nGhi chú:\n\n1. Chế độ, chính sách tại thời điểm thực hiện nhiệm vụ và khi hoàn thành nhiệm vụ: Là chế độ tiền công, tiền lương, phụ cấp của đội viên TNXP, cán bộ phụ trách, quản lý TNXP được trả khi thực hiện nhiệm vụ tại đơn vị và chế độ trợ cấp, phụ cấp sau khi hoàn thành nhiệm vụ, xuất ngũ.\n\n2. Chế độ sinh hoạt, trang bị: Là kinh phí trợ cấp một lần ban đầu để trang bị quần áo, dép, chăn, màn, ba lô, mũ, bảo hộ lao động; các khoản kinh phí về tiền thuốc, bồi dưỡng khi ốm đau; chi phí sinh hoạt văn hóa...\n\n| Người lập biểu | …, ngày … tháng … năm …<br>Thủ trưởng đơn vị |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_BIEU_SO_5_7-PHU_LUC_05-TT_7_2021_BNV_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 781,
+            "source_file": "maubaocao/MAU BIEU SO 5.7-PHU LUC 05-TT_7_2021_BNV.doc",
+            "file_name": "MAU BIEU SO 5.7-PHU LUC 05-TT_7_2021_BNV.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:22:15",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

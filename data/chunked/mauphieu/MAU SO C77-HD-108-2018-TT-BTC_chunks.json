@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_C77-HD-108-2018-TT-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_C77-HD-108-2018-TT-BTC",
+        "text": "| ĐƠN VỊ:... | Mẫu số C77-HD |\n| --- | --- |\n| Mã QHNS:... | (Ban hành kèm theo Thông tư số 108/2018/TT-BTC |\n|  | ngày 15/11/2018 của Bộ Tài chính) |\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nPHIẾU KIỂM TRA CHẤT LƯỢNG\n\nHÀNG DỰ TRỮ QUỐC GIA NHẬP KHO\n\nSố:...\n\nNgười bán hàng:...\n\nĐịa chỉ:...\n\nTheo Hợp đồng số... ngày... tháng... năm... (nếu có)\n\nLoại hàng nhập kho... (ghi đầy đủ chủng loại, năm sản xuất)\n\nKhối lượng hàng dự trữ quốc gia kiểm tra theo chứng từ...\n\nĐịa điểm bảo quản: tên ngăn/lô kho... Loại kho... Vùng kho...\n\nCHỈ SỐ CHẤT LƯỢNG\n\n| Kết quả kiểm tra | Phương pháp xác định |\n| --- | --- |\n|  |  |\n\nÝ kiến kết luận: Hàng đủ tiêu chuẩn chất lượng nhập kho dự trữ quốc gia (hoặc hàng không đủ tiêu chuẩn chất lượng nhập kho dự trữ quốc gia)\n\nPhiếu kiểm tra được lập thành 03 bản, có giá trị pháp lý như nhau:\n\n- 01 bản bộ phận kỹ thuật;\n\n- 01 bản kế toán đơn vị;\n\n- 01 bản gửi người bán hàng.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_C77-HD-108-2018-TT-BTC_chunk_0002",
+            "char_count": 930,
+            "source_file": "mauphieu/MAU SO C77-HD-108-2018-TT-BTC.doc",
+            "file_name": "MAU SO C77-HD-108-2018-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:23:32",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_C77-HD-108-2018-TT-BTC_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_C77-HD-108-2018-TT-BTC",
+        "text": "tiêu chuẩn chất lượng nhập kho dự trữ quốc gia)\n\nPhiếu kiểm tra được lập thành 03 bản, có giá trị pháp lý như nhau:\n\n- 01 bản bộ phận kỹ thuật;\n\n- 01 bản kế toán đơn vị;\n\n- 01 bản gửi người bán hàng.\n\n|  |  |  | Ngày... tháng... năm... | Ngày... tháng... năm... |\n| --- | --- | --- | --- | --- |\n| NGƯỜI BÁN HÀNG<br>(Ký, ghi rõ họ tên) | KTV BẢO QUẢN<br>(Ký, ghi rõ họ tên) | THỦ KHO<br>(Ký, ghi rõ họ tên) | THỦ KHO<br>(Ký, ghi rõ họ tên) | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký, ghi rõ họ tên, đóng dấu) |\n\nNguồn: Thông tư 108/2018/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_C77-HD-108-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 527,
+            "source_file": "mauphieu/MAU SO C77-HD-108-2018-TT-BTC.doc",
+            "file_name": "MAU SO C77-HD-108-2018-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:23:32",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

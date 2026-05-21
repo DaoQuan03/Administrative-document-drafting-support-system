@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_2-PHU_LUC_VI-36-2025-TT-BCA_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_2-PHU_LUC_VI-36-2025-TT-BCA",
+        "text": "| PHIẾU CHIẾN THUẬT CHỮA CHÁY, CỨU NẠN, CỨU HỘ<br>Trích từ phương án chữa cháy, cứu nạn, cứu hộ của cơ quan Công an số: …<br>1. Tên cơ sở: ………………………………………………..<br>2. Địa chỉ: ………………………………….………………...<br>3. Điện thoại …………………………………………………<br>4. Đơn vị được phân công thực hiện nhiệm vụ chữa cháy, cứu nạn, cứu hộ: ……………………………………………<br>5. Công an cấp xã nơi xảy ra cháy: …………. điện thoại: ………<br>6. Tuyến đường từ đơn vị được phân công thực hiện nhiệm vụ chữa cháy, cứu nạn, cứu hộ đến cơ sở:<br>a) ………………………………………………………………<br>…………………………………………………………………<br>b) ………………………………………………………………<br>…………………………………………………………………<br>7. Đặc điểm chiến, kỹ thuật chữa cháy, cứu nạn, cứu hộ | 8. Huy động lực lượng, phương tiện tham gia chữa cháy, cứu nạn, cứu hộ<br>9. Nguồn nước phục vụ chữa cháy:<br><br>Ghi chú:<br>(1) Tên cơ quan chủ quản cấp trên;<br>(2) Tên cơ quan ban hành Phiếu chiến thuật chữa cháy, cứu nạn, cứu hộ. |\n| --- | --- |\n\nSƠ ĐỒ TỔNG MẶT BẰNG CƠ SỞ",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_2-PHU_LUC_VI-36-2025-TT-BCA_chunk_0002",
+            "char_count": 946,
+            "source_file": "mauphieu/MAU SO 2-PHU LUC VI-36-2025-TT-BCA.doc",
+            "file_name": "MAU SO 2-PHU LUC VI-36-2025-TT-BCA.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:14:11",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_2-PHU_LUC_VI-36-2025-TT-BCA_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_2-PHU_LUC_VI-36-2025-TT-BCA",
+        "text": "nước phục vụ chữa cháy:<br><br>Ghi chú:<br>(1) Tên cơ quan chủ quản cấp trên;<br>(2) Tên cơ quan ban hành Phiếu chiến thuật chữa cháy, cứu nạn, cứu hộ. |\n| --- | --- |\n\nSƠ ĐỒ TỔNG MẶT BẰNG CƠ SỞ\n\n(Thể hiện giao thông, nguồn nước phục vụ chữa cháy, cứu nạn, cứu hộ, các hạng mục công trình của cơ sở)\n\n|  |\n| --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_2-PHU_LUC_VI-36-2025-TT-BCA_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 313,
+            "source_file": "mauphieu/MAU SO 2-PHU LUC VI-36-2025-TT-BCA.doc",
+            "file_name": "MAU SO 2-PHU LUC VI-36-2025-TT-BCA.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:14:11",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    }
+]

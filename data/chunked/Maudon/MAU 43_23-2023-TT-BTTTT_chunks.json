@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_43_23-2023-TT-BTTTT_chunk_0001",
+        "doc_id": "Maudon_MAU_43_23-2023-TT-BTTTT",
+        "text": "Mẫu số 43\n\n| TÊN CQ, TC CHỦ QUẢN <br>(NẾU CÓ)<br>TÊN CƠ QUAN, ĐƠN VỊ/<br>CÁ NHÂN<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ….../…… (nếu có) | …., ngày….tháng….năm… |\n\nĐƠN ĐĂNG KÝ\n\nHoạt động xuất bản/phát hành xuất bản phẩm điện tử\n\nKính gửi: Cục Xuất bản, In và Phát hành\n\n- Căn cứ văn bản số ... ngày …… tháng ….. năm … của Cục Xuất bản, In và Phát hành về việc thẩm định Đề án hoạt động xuất bản/phát hành xuất bản phẩm điện tử;\n\n- Trên cơ sở kết quả triển khai thực hiện Đề án hoạt động xuất bản/phát hành xuất bản phẩm điện tử theo ý kiến thẩm định của Cục Xuất bản, In và Phát hành;\n\n………………………... (tên nhà xuất bản, tên tổ chức hoặc cá nhân đăng ký hoạt động phát hành xuất bản phẩm) trân trọng đề nghị Cục Xuất bản, In và Phát hành xác nhận đăng ký để được chính thức hoạt động xuất bản/ phát hành xuất bản phẩm điện tử.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_43_23-2023-TT-BTTTT_chunk_0002",
+            "char_count": 904,
+            "source_file": "Maudon/MAU 43_23-2023-TT-BTTTT.doc",
+            "file_name": "MAU 43_23-2023-TT-BTTTT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:09:08",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_43_23-2023-TT-BTTTT_chunk_0002",
+        "doc_id": "Maudon_MAU_43_23-2023-TT-BTTTT",
+        "text": "chức hoặc cá nhân đăng ký hoạt động phát hành xuất bản phẩm) trân trọng đề nghị Cục Xuất bản, In và Phát hành xác nhận đăng ký để được chính thức hoạt động xuất bản/ phát hành xuất bản phẩm điện tử.\n\n... (tên nhà xuất bản, tên tổ chức hoặc cá nhân đăng ký hoạt động phát hành xuất bản phẩm) cam kết tuân thủ quy định của Luật Xuất bản, Nghị định số 195/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xuất bản, các quy định của pháp luật có liên quan trong quá trình hoạt động xuất bản/ phát hành xuất bản phẩm điện tử và chịu trách nhiệm trước pháp luật về hoạt động của mình./.\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu:…….. | NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT<br>(Chữ ký của người có thẩm quyền, dấu/<br>chữ ký số của cơ quan, tổ chức) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_43_23-2023-TT-BTTTT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 805,
+            "source_file": "Maudon/MAU 43_23-2023-TT-BTTTT.doc",
+            "file_name": "MAU 43_23-2023-TT-BTTTT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:09:08",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

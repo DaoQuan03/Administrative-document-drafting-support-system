@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_01-SBL-35-QD-HDTV_chunk_0001",
+        "doc_id": "thongbao_MAU_01-SBL-35-QD-HDTV",
+        "text": "Mẫu 01/SBL\n\n(Ban hành kèm theo Quy chế Tổ chức hoạt động vay và cho vay chứng khoán)\n\n| TỔNG CÔNG TY LƯU KÝ<br>VÀ BÙ TRỪ CHỨNG KHOÁN VIỆT NAM<br>------- | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ……../VSDC-SBL | Hà Nội, Ngày……. tháng ……. năm …… |\n\nTHÔNG BÁO\n\nPHONG TỎA TÀI KHOẢN TIỀN GỬI\n\nKính gửi: Ngân hàng thanh toán\n\nCăn cứ thỏa thuận vay và cho vay chứng khoán được xác lập trên hệ thống SBL của VSDC, VSDC đề nghị Quý Ngân hàng thực hiện phong tỏa tài khoản tiền gửi của …….. (tên TVLK bên vay) mở tại Quý Ngân hàng, cụ thể như sau:\n\n1. Tên tài khoản: ……………………………………………………………\n\n2. Số hiệu tài khoản: ………………………………………………………..\n\n3. Số dư phong tỏa: …………………………………………………………\n\n4. Ngày phong tỏa: ………………………………………………………….\n\nViệc giải tỏa số dư phong tỏa trên tài khoản tiền gửi này chỉ được thực hiện khi có thông báo của VSDC.\n\nTrân trọng!",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_01-SBL-35-QD-HDTV_chunk_0002",
+            "char_count": 900,
+            "source_file": "thongbao/MAU 01-SBL-35-QD-HDTV.doc",
+            "file_name": "MAU 01-SBL-35-QD-HDTV.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:11:45",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_01-SBL-35-QD-HDTV_chunk_0002",
+        "doc_id": "thongbao_MAU_01-SBL-35-QD-HDTV",
+        "text": "dư phong tỏa: …………………………………………………………\n\n4. Ngày phong tỏa: ………………………………………………………….\n\nViệc giải tỏa số dư phong tỏa trên tài khoản tiền gửi này chỉ được thực hiện khi có thông báo của VSDC.\n\nTrân trọng!\n\n| Nơi nhận:<br>- Như trên<br>- Lưu LK. | ĐẠI DIỆN VSDC<br>(Ký, đóng dấu, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_01-SBL-35-QD-HDTV_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 303,
+            "source_file": "thongbao/MAU 01-SBL-35-QD-HDTV.doc",
+            "file_name": "MAU 01-SBL-35-QD-HDTV.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:11:45",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

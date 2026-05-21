@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_73-TT-119-2021-BCA_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_73-TT-119-2021-BCA",
+        "text": "| ... <br>... |  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- | --- | --- |\n| Số: ... /TB- ……………. |  | ..., ngày ... tháng ... năm... |\n\nTHÔNG BÁO\n\nVề việc (1) ...\n\nKính gửi(2): - ...\n\n...\n\n- Ông/bà...\n\n...\n\nCơ quan\n\nthông báo về việc(1) ...đối với:\n\nHọ tên: ... Giới tính:\n\nTên gọi khác:\n\nSinh ngày ... tháng ... năm ... tại:\n\nQuốc tịch: ...; Dân tộc: ...; Tôn giáo:\n\nNghề nghiệp:\n\nSố CMND/Thẻ CCCD/Hộ chiếu:\n\ncấp ngày... tháng ... năm ... Nơi cấp:\n\nNơi thường trú:\n\nNơi tạm trú:\n\nNơi ở hiện tại:\n\nđã có hành vi:\n\nphạm vào Điều ... Bộ luật Hình sự, hiện đang bị(3)\n\ntại:\n\nKhi cần thiết liên hệ với Điều tra viên, Cán bộ điều tra thụ lý\n\nSố điện thoại liên hệ:\n\n| Nơi nhận:<br>- Như trên;<br>- ...;<br>- ... ;<br>- Hồ sơ 02 bản. | ... |\n| --- | --- |\n\n(1) Ghi rõ các trường hợp: Giữ người trong trường hợp khẩn cấp, bắt người bị giữ trong trường hợp khẩn cấp, bắt người phạm tội quả tang, bắt người đang bị truy nã, bắt bị can để tạm giam hoặc tạm giữ, tạm giam bị can;",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_73-TT-119-2021-BCA_chunk_0002",
+            "char_count": 1000,
+            "source_file": "thongbao/MAU SO 73-TT-119-2021-BCA.doc",
+            "file_name": "MAU SO 73-TT-119-2021-BCA.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:15:47",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_73-TT-119-2021-BCA_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_73-TT-119-2021-BCA",
+        "text": "hợp: Giữ người trong trường hợp khẩn cấp, bắt người bị giữ trong trường hợp khẩn cấp, bắt người phạm tội quả tang, bắt người đang bị truy nã, bắt bị can để tạm giam hoặc tạm giữ, tạm giam bị can;\n\n(2) Gia đình người bị giữ, bị bắt, bị tạm giữ, tạm giam; UBND xã/phường/thị trấn nơi người bị bắt, bị giữ, bị tạm giữ, tạm giam cư trú hoặc cơ quan, tổ chức nơi người đó làm việc, học tập hoặc cơ quan ngoại giao của Việt Nam. Trường hợp bắt người đang bị truy nã phải thông báo cho Cơ quan điều tra đã ra quyết định truy nã;\n\n(3) Giữ trong trường hợp khẩn cấp/tạm giữ/tạm giam.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_73-TT-119-2021-BCA_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 574,
+            "source_file": "thongbao/MAU SO 73-TT-119-2021-BCA.doc",
+            "file_name": "MAU SO 73-TT-119-2021-BCA.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:15:47",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

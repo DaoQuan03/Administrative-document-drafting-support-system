@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_02_TNDN-VSP-PHU_LUC_II-80-2021-TT-BTC_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_02_TNDN-VSP-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTỜ KHAI QUYẾT TOÁN THUẾ THU NHẬP DOANH NGHIỆP\n\n[01] Dầu thô: □      [02] Condensate: □    [03] Khí thiên nhiên: □\n\n[04] Kỳ tính thuế: Năm ...\n\n[05] Lần đầu □          [06] Bổ sung lần thứ: ...\n\n[07] Tên người nộp thuế: ...\n\n[08] Mã số thuế:\n\n[09] Địa chỉ: ... [10] Xã/phường/đặc khu: ... [11] Tỉnh/Thành phố: ...\n\n[12] Điện thoại: ... [13] Fax:  ... [14] E-mail: ...\n\n[15] Hợp đồng dầu khí lô: ...\n\n[16] Mã số thuế nhà điều hành hợp đồng dầu khí:\n\n[17] Tên đơn vị được uỷ quyền [   ] hoặc Đại lý thuế [   ]: ...\n\n[18] Mã số thuế:\n\n[19] Địa chỉ: ... [20] Xã/phường/đặc khu: ... [21] Tỉnh/Thành phố: ...\n\n[22] Điện thoại: ... [23] Fax:  ... [24] E-mail: ...\n\n[25] Hợp đồng uỷ quyền hoặc Hợp đồng đại lý thuế, số: ... ngày ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_02_TNDN-VSP-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+            "char_count": 788,
+            "source_file": "tokhai/MAU SO 02.TNDN-VSP-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 02.TNDN-VSP-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:51:24",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02_TNDN-VSP-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_02_TNDN-VSP-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "thuế:\n\n[19] Địa chỉ: ... [20] Xã/phường/đặc khu: ... [21] Tỉnh/Thành phố: ...\n\n[22] Điện thoại: ... [23] Fax:  ... [24] E-mail: ...\n\n[25] Hợp đồng uỷ quyền hoặc Hợp đồng đại lý thuế, số: ... ngày ...\n\n| STT | Chỉ tiêu | Mã số | Đơn vị | Giá trị |\n| --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) |\n| I | Thuế TNDN đối với dầu khí xuất bán |  |  |  |\n| 1 | Tổng doanh thu chịu thuế TNDN trong kỳ tính thuế | [26] | USD; VND |  |\n| 2 | Tổng chi phí được trừ khi xác định thu nhập chịu thuế trong kỳ tính thuế | [27] | USD; VND |  |\n| 3 | Tổng thu nhập chịu thuế trong kỳ tính thuế [28]=[26]-[27] | [28] | USD; VND |  |\n| 4 | Thuế suất thuế TNDN (50%) | [29] | % |  |\n| 5 | Số tiền thuế thu nhập doanh nghiệp từ hoạt động dầu khí<br>[30]=[28]x[29] | [30] | USD; VND |  |\n| II | Thuế TNDN đối với thu nhập từ tiền kết dư của phần dầu để lại |  |  |  |\n| 1 | Thu nhập chịu thuế trong kỳ tính thuế | [31] | USD; VND |  |\n| 2 | Thuế suất thuế TNDN (50%) | [32] | % |  |\n| STT | Chỉ tiêu | Mã số | Đơn vị | Giá trị |\n| (1) | (2) | (3) | (4) | (5) |\n| 3 | Số tiền thuế thu nhập doanh nghiệp đối với thu nhập từ tiền kết dư của phần dầu để lại [33]=[31]x[32] | [33] | USD; VND |  |\n| III | Số tiền thuế TNDN phải nộp trong kỳ tính thuế [34]=[30]+[33] | [34] | USD; VND |  |\n| IV | Số tiền thuế TNDN tạm tính đã kê khai trong kỳ tính thuế | [35] | USD; VND |  |\n| V | Chênh lệch giữa số tiền phải nộp theo quyết toán với số đã kê khai trong kỳ tính thuế [36]=[34]-[35] | [36] | USD; VND |  |\n|  | Tỷ giá quy đổi | [37] | VND/USD |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "tokhai_MAU_SO_02_TNDN-VSP-PHU_LUC_II-80-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": "tokhai_MAU_SO_02_TNDN-VSP-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+            "char_count": 1535,
+            "source_file": "tokhai/MAU SO 02.TNDN-VSP-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 02.TNDN-VSP-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:51:24",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_02_TNDN-VSP-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+        "doc_id": "tokhai_MAU_SO_02_TNDN-VSP-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "thuế | [35] | USD; VND |  |\n| V | Chênh lệch giữa số tiền phải nộp theo quyết toán với số đã kê khai trong kỳ tính thuế [36]=[34]-[35] | [36] | USD; VND |  |\n|  | Tỷ giá quy đổi | [37] | VND/USD |  |\n\nTôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về số liệu đã khai./.\n\n| NHÂN VIÊN ĐẠI LÝ THUẾ<br>Họ và tên:...<br>Chứng chỉ hành nghề số:... | ..., ngày... tháng... năm...<br>NGƯỜI NỘP THUẾ hoặc <br>ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ<br>(Chữ ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có)/Ký điện tử) |\n| --- | --- |\n\nGhi chú:\n\n- Trường hợp Liên doanh khai thác đồng thời dầu thô, condensate, khí thiên nhiên thì kê khai thành từng tờ khai riêng biệt.\n\n- Trường hợp dầu thô, condensate, khí thiên nhiên bán tại thị trường Việt Nam hoặc Chính phủ có quy định khác thì đồng tiền nộp thuế là đồng Việt Nam; tỷ giá quy đổi thực hiện theo quy định pháp luật về kế toán.\n\n- USD: đô la Mỹ; VND: đồng Việt Nam.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "tokhai_MAU_SO_02_TNDN-VSP-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 934,
+            "source_file": "tokhai/MAU SO 02.TNDN-VSP-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 02.TNDN-VSP-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:51:24",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

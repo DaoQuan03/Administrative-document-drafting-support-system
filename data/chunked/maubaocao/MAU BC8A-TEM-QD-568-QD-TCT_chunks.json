@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_BC8A-TEM-QD-568-QD-TCT_chunk_0001",
+        "doc_id": "maubaocao_MAU_BC8A-TEM-QD-568-QD-TCT",
+        "text": "| Mẫu: BC8A/TEM |\n| --- |\n\nCƠ QUAN THUẾ\n\nBÁO CÁO TỔNG HỢP SỬ DỤNG TEM ĐIỆN TỬ CỦA TỔ CHỨC CÁ NHÂN\n\nTừ ngày ... tháng ... năm… đến ngày ... tháng ... năm ...\n\nĐơn vị tính: Tem\n\n| STT | Tên tem | Ký hiệu mẫu tem | Số lượng tổ chức, cá nhân đăng ký sử dụng tem | Số lượng tổ chức, cá nhân nộp bảng tổng hợp | Số lượng tem sử dụng (số) | Số lượng tem mất, cháy (số) | Số lượng tem hủy (số) | Tổng cộng | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9=6+7+8 | 10 |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n| Tổng cộng | Tổng cộng | Tổng cộng |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 675,
+            "source_file": "maubaocao/MAU BC8A-TEM-QD-568-QD-TCT.doc",
+            "file_name": "MAU BC8A-TEM-QD-568-QD-TCT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:18:44",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

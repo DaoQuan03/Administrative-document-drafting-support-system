@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-TTHT-TH-745-QD-TCT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_03-TTHT-TH-745-QD-TCT",
+        "text": "Mẫu số 03/TTHT-TH\n\nTỔNG CỤC THUẾ/CỤC THUẾ\nCỤC THUẾ/CHI CỤC THUẾ\n\n……, ngày …. tháng … năm ……\n\nPHIẾU ĐÁNH GIÁ\n\n(Dùng trong hội nghị tập huấn, đối thoại)\n\nĐể ngày càng nâng cao chất lượng công tác tập huấn, đối thoại, hướng dẫn các vấn đề về thuế cho NNT, Cơ quan Thuế rất mong nhận được ý kiến của Ông/Bà.\n\nXin Ông/Bà đánh dấu vào ô cho là phù hợp:\n\n1. Thông tin cho cung cấp trong hội nghị, tập huấn/đối thoại:\n\n| Rất đầy đủ chi tiết | £ | Khá đầy đủ | £ | Chấp nhận được | £ | Thông tin chưa đầy đủ | £ |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n\n2. Cách thức trình bày của giảng viên/cán bộ giải đáp:\n\n| Rất rõ ràng dễ hiểu | £ | Khá rõ ràng dễ hiểu | £ | Chấp nhận được | £ | Không rõ ràng, khó hiểu | £ |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n\n3. Chất lượng giải đáp vướng mắc của giảng viên/cán bộ giải đáp:\n\n| Rất rõ ràng đầy đủ | £ | Khá rõ ràng đầy đủ | £ | Chấp nhận được | £ | Không rõ ràng, không thỏa đáng | £ |\n| --- | --- | --- | --- | --- | --- | --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_03-TTHT-TH-745-QD-TCT_chunk_0002",
+            "char_count": 993,
+            "source_file": "mauphieu/MAU SO 03-TTHT-TH-745-QD-TCT.doc",
+            "file_name": "MAU SO 03-TTHT-TH-745-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:53:16",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-TTHT-TH-745-QD-TCT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_03-TTHT-TH-745-QD-TCT",
+        "text": "mắc của giảng viên/cán bộ giải đáp:\n\n| Rất rõ ràng đầy đủ | £ | Khá rõ ràng đầy đủ | £ | Chấp nhận được | £ | Không rõ ràng, không thỏa đáng | £ |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n\n4. Thời gian tổ chức:\n\n| Vừa đủ | £ | Quá dài | £ | Thiếu thời gian | £ |\n| --- | --- | --- | --- | --- | --- |\n\n5. Các ý kiến khác:\n\n...\n\n...\n\nCơ quan Thuế trân trọng cảm ơn những ý kiến đóng góp của Ông/Bà.\n\nXin vui lòng gửi lại phiếu này cho ban tổ chức hoặc gửi về Tổng cục Thuế/Cục Thuế/Chi cục Thuế theo địa chỉ:\n\nVụ/Phòng/Đội Tuyên truyền và Hỗ trợ NNT\n\nTổng cục Thuế/Cục Thuế/Chi cục Thuế...",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_03-TTHT-TH-745-QD-TCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 597,
+            "source_file": "mauphieu/MAU SO 03-TTHT-TH-745-QD-TCT.doc",
+            "file_name": "MAU SO 03-TTHT-TH-745-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:53:16",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

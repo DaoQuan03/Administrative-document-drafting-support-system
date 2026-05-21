@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_SO_03-13796-BTC-TCCB_chunk_0001",
+        "doc_id": "totrinh_MAU_SO_03-13796-BTC-TCCB",
+        "text": "Mẫu số 03\n\n| TÊN CƠ QUAN TỔ CHỨC<br>…………..<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ………/TTr-... | ……., ngày... tháng... năm 20... |\n\nTỜ TRÌNH\n\nVề việc đề nghị xét tặng Kỷ niệm chương “Vì sự nghiệp Tài chính Việt Nam”\n\nKính gửi: Bộ Tài chính\n(qua Vụ Tổ chức cán bộ)\n\nCăn cứ Luật Thi đua, Khen thưởng ngày 15/6/2022;\n\nCăn cứ Nghị định số 98/2023/NĐ-CP ngày 31/12/2023 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng;\n\nCăn cứ Thông tư số 79/2023/TT-BTC ngày 29/12/2023 của Bộ Tài chính quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng trong lĩnh vực tài chính;\n\nCăn cứ Quyết định số .../QĐ-... của ...quy định chức năng, nhiệm vụ, quyền hạn của…….",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_SO_03-13796-BTC-TCCB_chunk_0002",
+            "char_count": 778,
+            "source_file": "totrinh/MAU SO 03-13796-BTC-TCCB.doc",
+            "file_name": "MAU SO 03-13796-BTC-TCCB.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:19:28",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_SO_03-13796-BTC-TCCB_chunk_0002",
+        "doc_id": "totrinh_MAU_SO_03-13796-BTC-TCCB",
+        "text": "của Bộ Tài chính quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng trong lĩnh vực tài chính;\n\nCăn cứ Quyết định số .../QĐ-... của ...quy định chức năng, nhiệm vụ, quyền hạn của…….\n\nXét quá trình công tác và đóng góp của ……… cá nhân, ………. trình Bộ Tài chính xem xét, tặng Kỷ niệm chương “Vì sự nghiệp Tài chính Việt Nam” cho …….. cá nhân đảm bảo điều kiện, tiêu chuẩn xem xét theo quy định (danh sách tổng hợp kèm theo).\n\nKính trình Bộ Tài chính xem xét, quyết định./.\n\n(Kèm theo Bản Tóm tắt quá trình công tác của từng cá nhân).\n\n| Nơi nhận:<br>- Như trên; <br>- …..;<br>- …………;<br>- Lưu: VT, (…..b). | THỦ TRƯỞNG ĐƠN VỊ<br>(Chữ ký của người có thẩm quyền, dấu của cơ quan, tổ chức)<br>……….. |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_SO_03-13796-BTC-TCCB_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 726,
+            "source_file": "totrinh/MAU SO 03-13796-BTC-TCCB.doc",
+            "file_name": "MAU SO 03-13796-BTC-TCCB.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:19:28",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

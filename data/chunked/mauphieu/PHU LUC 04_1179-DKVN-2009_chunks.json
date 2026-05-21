@@ -1,0 +1,92 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009",
+        "text": "| CỤC ĐĂNG KIỂM VIỆT NAM<br>ĐƠN VỊ KIỂM ĐỊNH :...<br>Số: ... / ... |  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập – Tự do – Hạnh phúc |\n| --- | --- | --- |\n\nPHIẾU LẬP SỔ KIỂM ĐỊNH\n\nTHÔNG TIN HÀNH CHÍNH\n\nBiển số đăng ký: ...   - Ngày đăng ký: …………………..  - Ngày đăng ký lần đầu: …………….….\n\nTên chủ xe:\n\nĐịa chỉ thường trú:\n\nTHÔNG TIN KỸ THUẬT",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 5,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009_chunk_0002",
+            "char_count": 343,
+            "source_file": "mauphieu/PHU LUC 04_1179-DKVN-2009.doc",
+            "file_name": "PHU LUC 04_1179-DKVN-2009.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:33:37",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009",
+        "text": "| --- | --- |\n\nPHIẾU LẬP SỔ KIỂM ĐỊNH\n\nTHÔNG TIN HÀNH CHÍNH\n\nBiển số đăng ký: ...   - Ngày đăng ký: …………………..  - Ngày đăng ký lần đầu: …………….….\n\nTên chủ xe:\n\nĐịa chỉ thường trú:\n\nTHÔNG TIN KỸ THUẬT\n\n| - Tình trạng phương tiện:         Chưa qua sử dụng  ⁮                               Đã qua sử dụng   ⁮ | - Tình trạng phương tiện:         Chưa qua sử dụng  ⁮                               Đã qua sử dụng   ⁮ |\n| --- | --- |\n| - Loại phương tiện:\t……………………………………..……………………………………………...………... | - Loại phương tiện:\t……………………………………..……………………………………………...………... |\n| - Nhãn hiệu: | - Số loại:: ………………………………………..………… |\n| - Số máy: | - Vị trí đóng số máy: ………………………….….……….. |\n| - Số khung:\t…… | - Vị trí đóng số khung: …………………………..………… |\n| - Năm sản xuất: | - Nơi sản xuất: \t…………………………………………….. |\n| - Năm hết niên hạn sử dụng: ………………………………………………………………………………………………….. | - Năm hết niên hạn sử dụng: ………………………………………………………………………………………………….. |\n| - Công thức bánh xe:\t………………………………………… | - Vết bánh xe trước/ sau: .../…...….…  (mm) |\n| - Kích thước bao (Dài X Rộng X Cao):...\t    (mm) | - Kích thước bao (Dài X Rộng X Cao):...\t    (mm) |\n| - Kích thước lòng thùng hàng (Dài X Rộng X Cao): ...\t  (mm) | - Kích thước lòng thùng hàng (Dài X Rộng X Cao): ...\t  (mm) |\n| - Chiều dài cơ sở: ... + ... + ...+ ………………………………………………... (mm) | - Chiều dài cơ sở: ... + ... + ...+ ………………………………………………... (mm) |\n| - Trọng lượng bản thân:...\t...(kG) | - Trọng lượng toàn bộ: ...\t...(kG) |\n| - Trọng tải thiết kế:...\t...(kG) | - Trọng lượng kéo theo: ...(kG) |\n| - Trọng tải cho phép tham gia GT:...\t...(kG) | - Trọng lượng toàn bộ cho phép tham gia GT: ...(kG) |\n| - Số người cho phép chở (kể cả người lái):...(ngồi)+ ...(đứng)+...(nằm) | - Số người cho phép chở (kể cả người lái):...(ngồi)+ ...(đứng)+...(nằm) |\n| - Kiểu động cơ: | - Thể tích làm việc của động cơ: ……...…………….\t(cm3) |\n| - Loại nhiên liệu sử dụng: | - Loại nhiên liệu sử dụng: |\n| - Công suất lớn nhất của động cơ/vòng quay: ... / ... (Ps,Mã lực, kW/ v/ph) | - Công suất lớn nhất của động cơ/vòng quay: ... / ... (Ps,Mã lực, kW/ v/ph) |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009_chunk_0001",
+            "next_chunk_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009_chunk_0003",
+            "char_count": 2070,
+            "source_file": "mauphieu/PHU LUC 04_1179-DKVN-2009.doc",
+            "file_name": "PHU LUC 04_1179-DKVN-2009.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:33:37",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009_chunk_0003",
+        "doc_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009",
+        "text": "sử dụng: | - Loại nhiên liệu sử dụng: |\n| - Công suất lớn nhất của động cơ/vòng quay: ... / ... (Ps,Mã lực, kW/ v/ph) | - Công suất lớn nhất của động cơ/vòng quay: ... / ... (Ps,Mã lực, kW/ v/ph) |\n\n- Hệ thống lái:\n\n- Hệ thống phanh chính:\n\n- Hệ thống phanh đỗ:\n\n| - Lốp xe: | + Trục 1: ……………………………………….….. | + Trục 2: ……………………………………….….. |\n| --- | --- | --- |\n|  | + Trục 3: ……………………………………….….. | + Trục 4: ……………………………………….….. |\n|  | + Trục 5: ……………………………………….….. | + Trục 6: ……………………………………….….. |\n|  | + Trục 7: ……………………………………….….. | + Trục 8: ……………………………………….….. |\n|  |  |  |\n\nSố sổ: ... \t\t\t\t...,ngày . . . . . . tháng . .. . năm  . . . . . .\n\nNGƯỜI LẬP PHIẾU\t       THỦ TRƯỞNG ĐƠN VỊ\n\n(Ký, ghi họ tên)                          \t   (Ký, ghi họ tên)",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009_chunk_0002",
+            "next_chunk_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009_chunk_0004",
+            "char_count": 751,
+            "source_file": "mauphieu/PHU LUC 04_1179-DKVN-2009.doc",
+            "file_name": "PHU LUC 04_1179-DKVN-2009.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:33:37",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009_chunk_0004",
+        "doc_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009",
+        "text": "|\n|  |  |  |\n\nSố sổ: ... \t\t\t\t...,ngày . . . . . . tháng . .. . năm  . . . . . .\n\nNGƯỜI LẬP PHIẾU\t       THỦ TRƯỞNG ĐƠN VỊ\n\n(Ký, ghi họ tên)                          \t   (Ký, ghi họ tên)\n\n| CÁC THAY ĐỔI HÀNH CHÍNH | CÁC THAY ĐỔI HÀNH CHÍNH | CÁC THAY ĐỔI HÀNH CHÍNH | CÁC THAY ĐỔI HÀNH CHÍNH |\n| --- | --- | --- | --- |\n| Ngày | Biển số ĐK<br>Ngày đăng ký | Chủ xe<br>Địa chỉ | Đơn vị QL <br>Số quản lý |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n\nCẤP LẠI SỔ CHỨNG NHẬN KIỂM ĐỊNH\n\n|  | Số sổ | Ngày cấp | Chủ xe ký | Lãnh đạo đơn vị |\n| --- | --- | --- | --- | --- |\n| Cấp Sổ lần 2 |  |  |  |  |\n| Cấp Sổ lần 3 |  |  |  |  |\n| Cấp Sổ lần 4 |  |  |  |  |\n| Cấp Sổ lần 5 |  |  |  |  |\n| Cấp Sổ lần 6 |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009_chunk_0003",
+            "next_chunk_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009_chunk_0005",
+            "char_count": 780,
+            "source_file": "mauphieu/PHU LUC 04_1179-DKVN-2009.doc",
+            "file_name": "PHU LUC 04_1179-DKVN-2009.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:33:37",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009_chunk_0005",
+        "doc_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009",
+        "text": "ký | Lãnh đạo đơn vị |\n| --- | --- | --- | --- | --- |\n| Cấp Sổ lần 2 |  |  |  |  |\n| Cấp Sổ lần 3 |  |  |  |  |\n| Cấp Sổ lần 4 |  |  |  |  |\n| Cấp Sổ lần 5 |  |  |  |  |\n| Cấp Sổ lần 6 |  |  |  |  |\n\n| XÁC NHẬN DI CHUYỂN | XÁC NHẬN DI CHUYỂN | XÁC NHẬN DI CHUYỂN | XÁC NHẬN DI CHUYỂN |\n| --- | --- | --- | --- |\n| Ngày | Nơi đến | Hồ sơ kèm theo | Xác nhận của<br>Đơn vị KĐ |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n\nTÀI LIỆU KÈM THEO (cách ghi):\n\n| Số TT | Tài liệu | Số trang |\n| --- | --- | --- |\n| 1 | (Giấy chứng nhận chất lượng ô tô nhập khẩu số CK/000001 cấp ngày …) |  |\n| 2 | (Giấy chứng nhận ATKT và BVMT xe cơ giới cải tạo số ……..ngày …) |  |\n| 3 | (Tài liệu xác định năm sản xuất của ……………) |  |\n|  | ………………………………………………….. |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_PHU_LUC_04_1179-DKVN-2009_chunk_0004",
+            "next_chunk_id": null,
+            "char_count": 861,
+            "source_file": "mauphieu/PHU LUC 04_1179-DKVN-2009.doc",
+            "file_name": "PHU LUC 04_1179-DKVN-2009.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:33:37",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_D11c-TH-TT-490-QD-BHXH_chunk_0001",
+        "doc_id": "maubaocao_MAU_D11c-TH-TT-490-QD-BHXH",
+        "text": "### Bảng tính: Sheet1",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_D11c-TH-TT-490-QD-BHXH_chunk_0002",
+            "char_count": 21,
+            "source_file": "maubaocao/MAU D11c-TH-TT-490-QD-BHXH.xls",
+            "file_name": "MAU D11c-TH-TT-490-QD-BHXH.xls",
+            "folder": "maubaocao",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-21T03:22:34",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_D11c-TH-TT-490-QD-BHXH_chunk_0002",
+        "doc_id": "maubaocao_MAU_D11c-TH-TT-490-QD-BHXH",
+        "text": "Bảng tính: Sheet1\n\n| BẢO HIỂM XÃ HỘI VIỆT NAM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| BẢO HIỂM XÃ HỘI …. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| BÁO CÁO TỔNG HỢP TRÍCH THÙ LAO CHO TỔ CHỨC DỊCH VỤ THU BHXH, BHYT |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Quý (Năm)….. năm …... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  | Đơn vị tính: lượt người, đồng |  |  |  |  |\n| STT | Tên đơn vị | Mã đơn vị | Số phải chi thù lao theo phương thức đóng |  |  |  |  |  |  |  | Số phải chi bổ sung thù lao do xác định lại | Số phải thu hồi thù lao |  |  | Tổng cộng |  |\n|  |  |  | Đối tượng khai thác thu mới |  |  | Đối tượng khai thác thu thường kỳ |  |  | Số tiền NTG đóng | Số  tiền phải chi thù lao |  | Số người | Số tiền phải trả NTG | Số tiền thù lao đã chi phải thu hồi | Số tiền NTG đóng | Số phải chi thù lao |\n|  |  |  | Số người | Số tiền NTG đóng | Số tiền phải chi thù lao | Số người | Số tiền NTG đóng | Số tiền phải chi thù lao |  |  |  |  |  |  |  |  |\n| A | B | C | 1 | 2 | 3 | 4 | 5 | 6 | 7=2+5 | 8=3+6 | 9 | 10 | 11 | 12 | 13=7-11 | 14=8+9-12 |\n| I. BHYT Hộ gia đình |  |  | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. |\n| 1 | BHXH huyện A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 | BHXH huyện B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| … | …... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| II. BHXH tự nguyện |  |  | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. |\n| … | …... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| III. BHYT người thuộc hộ gia đình cận nghèo; hộ nghèo đa chiều |  |  |  |  |  | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. |  | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. |\n| … | …... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| IV. BHYT hộ NLNDN có mức sống trung bình |  |  |  |  |  | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. |  | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. |\n| … | …... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| V. BHYT học sinh sinh viên |  |  |  |  |  | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. | 1+2+.. |\n| 1 | BHXH huyện A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 | BHXH huyện B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| … | …... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Tổng cộng |  |  | I+II+.. | I+II+.. | I+II+.. | I+II+.. | I+II+.. | I+II+.. | I+II+.. | I+II+.. | I+II+.. | I+II+.. | I+II+.. | I+II+.. | I+II+.. | I+II+.. |\n|  |  |  |  |  |  |  |  |  |  |  | Ngày       tháng    năm |  |  |  |  |  |\n|  | TP QL Thu - Sổ, Thẻ |  |  |  |  |  |  |  |  |  | Giám đốc BHXH tỉnh |  |  |  |  |  |\n|  | (Ký, ghi rõ họ tên) |  |  |  |  |  |  |  |  |  | (Ký, ghi rõ họ tên) |  |  |  |  |  |\n|  | Nguồn: Quyết định 490/QĐ-BHXH năm 2023 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_D11c-TH-TT-490-QD-BHXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 3077,
+            "source_file": "maubaocao/MAU D11c-TH-TT-490-QD-BHXH.xls",
+            "file_name": "MAU D11c-TH-TT-490-QD-BHXH.xls",
+            "folder": "maubaocao",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-21T03:22:34",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

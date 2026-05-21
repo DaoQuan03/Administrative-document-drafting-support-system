@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_PHU_LUC_IV-103-2025-TT-BQP_chunk_0001",
+        "doc_id": "Maudon_PHU_LUC_IV-103-2025-TT-BQP",
+        "text": "PHỤ LỤC IV\n\n(Kèm theo Thông tư số 103/2025/TT-BQP ngày 26 tháng 9 năm 2025 của Bộ trưởng Bộ Quốc phòng sửa đổi, bổ sung một số điều của các Thông tư liên tịch, Thông tư, Quyết định của Bộ trưởng Bộ Quốc phòng về lĩnh vực chính sách)\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n--------------------\n\nĐƠN ĐỀ NGHỊ\n\nĐăng ký khám bệnh, chữa bệnh\n\nKính gửi: Bộ Chỉ huy quân sự tỉnh (thành phố) …………….\n\nHọ và tên: …………………………………………………………………………………\n\nNgày tháng năm sinh: ………………………………………………… Nam/Nữ: ……….\n\nSố CCCD/CC: ……………….. Ngày cấp …………………….. Nơi cấp ……………….\n\nQuê quán: …………………………………………………………………………………\n\nNơi thường trú: ………………….………………………………………………………..\n\nSố điện thoại: ……………………………………………………………………………..\n\nNgày, tháng, năm nhập ngũ: ………………………………………………………………\n\nQuyết định phục viên số: …………………. Ngày cấp ………… Nơi cấp ……………….\n\nCấp bậc khi phục viên: …………………………………………………………………….\n\nĐơn vị khi phục viên: ………………………………………………………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_PHU_LUC_IV-103-2025-TT-BQP_chunk_0002",
+            "char_count": 932,
+            "source_file": "Maudon/PHU LUC IV-103-2025-TT-BQP.doc",
+            "file_name": "PHU LUC IV-103-2025-TT-BQP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T05:02:24",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_PHU_LUC_IV-103-2025-TT-BQP_chunk_0002",
+        "doc_id": "Maudon_PHU_LUC_IV-103-2025-TT-BQP",
+        "text": "ngũ: ………………………………………………………………\n\nQuyết định phục viên số: …………………. Ngày cấp ………… Nơi cấp ……………….\n\nCấp bậc khi phục viên: …………………………………………………………………….\n\nĐơn vị khi phục viên: ………………………………………………………………………\n\nĐề nghị được đăng ký khám bệnh, chữa bệnh tại bệnh viện quân đội theo quy định./.\n\n|  | ... ngày... tháng... năm ...<br>Người khai<br>(Ký, ghi rõ họ và tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_PHU_LUC_IV-103-2025-TT-BQP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 371,
+            "source_file": "Maudon/PHU LUC IV-103-2025-TT-BQP.doc",
+            "file_name": "PHU LUC IV-103-2025-TT-BQP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T05:02:24",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

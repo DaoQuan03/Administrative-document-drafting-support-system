@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_02-HUY-BLG_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_02-HUY-BLG",
+        "text": "Mẫu số: 02/HUY-BLG\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTHÔNG BÁO KẾT QUẢ TIÊU HỦY BIÊN LAI GIẤY\n\nKính gửi:...\n\nTên tổ chức, cá nhân:...\n\nMã số thuế:...\n\nĐịa chỉ:...\n\nPhương pháp hủy hóa đơn:...\n\nHồi... giờ... ngày... tháng... năm..., (tổ chức, cá nhân) thông báo hủy biên lai như sau:\n\n| STT | Tên loại biên lai | Mẫu số | Ký hiệu biên lai | Từ số | Đến số | Số lượng |\n| --- | --- | --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) | (6) | (7) |\n|  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |\n\n| NGƯỜI LẬP BIỂU<br>(Ký, ghi rõ họ tên) | Ngày……… tháng……… năm………<br>THỦ TRƯỞNG ĐƠN VỊ<br>(Ký, ghi rõ họ, tên và đóng dấu) |\n| --- | --- |\n\nNguồn: Nghị định 123/2020/NĐ-CP",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 706,
+            "source_file": "thongbao/MAU SO 02-HUY-BLG.doc",
+            "file_name": "MAU SO 02-HUY-BLG.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:36:36",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

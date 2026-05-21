@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_08-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_08-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "Sở Y tế: ...\n\nBV: ...\n\nPhiếu chiếu/ chụp X-Quang\n\n(lần thứ ...)\n\nMS:08/BV-02\n\nSố: ...\n\n- Họ tên người bệnh: ...                        Tuổi: ...  Nam/Nữ\n\n- Địa chỉ: ... ...\n\n- Khoa: ... Buồng: ...Giường: ...\n\n- Chẩn đoán: ...\n\nYêu cầu chiếu/ chụp\n\n...\n\n...\n\n...\n\n...\n\n...\n\nNgày ... tháng ... năm ...\n\nBác sĩ điều trị\n\nKết quả chiếu/ chụp\n\nHọ tên: ...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\nNgày ... tháng ... năm ...\n\nLời dặn của BS chuyên khoa:                                                                                   Bác sĩ chuyên khoa\n\nHọ tên: ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 591,
+            "source_file": "mauphieu/MAU 08-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 08-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:53:36",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

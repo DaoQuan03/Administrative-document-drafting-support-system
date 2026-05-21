@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_VNNIC-03-TT-04-2022-TT-BTTTT_chunk_0001",
+        "doc_id": "maubaocao_BIEU_VNNIC-03-TT-04-2022-TT-BTTTT",
+        "text": "| Biểu VNNIC-03 | TỔNG HỢP CẢ NƯỚC <br>SỐ LƯỢNG TÊN MIỀN, <br>ĐỊA CHỈ INTERNET | Đơn vị báo cáo: VNNIC | Đơn vị báo cáo: VNNIC |  |\n| --- | --- | --- | --- | --- |\n| Ban hành kèm theo TT số .../2022/TT-BTTTT | TỔNG HỢP CẢ NƯỚC <br>SỐ LƯỢNG TÊN MIỀN, <br>ĐỊA CHỈ INTERNET | Đơn vị báo cáo: VNNIC | Đơn vị báo cáo: VNNIC |  |\n| Ban hành kèm theo TT số .../2022/TT-BTTTT | TỔNG HỢP CẢ NƯỚC <br>SỐ LƯỢNG TÊN MIỀN, <br>ĐỊA CHỈ INTERNET |  |  |  |\n| Ngày nhận báo cáo: Trước ngày 15 tháng tiếp theo |  | Đơn vị nhận báo cáo:<br>Vụ KHTC, VP Bộ | Đơn vị nhận báo cáo:<br>Vụ KHTC, VP Bộ |  |\n| Ngày nhận báo cáo: Trước ngày 15 tháng tiếp theo |  | Đơn vị nhận báo cáo:<br>Vụ KHTC, VP Bộ | Đơn vị nhận báo cáo:<br>Vụ KHTC, VP Bộ |  |\n| Ngày nhận báo cáo: Trước ngày 15 tháng tiếp theo | Tháng .../20... |  |  |  |\n|  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_BIEU_VNNIC-03-TT-04-2022-TT-BTTTT_chunk_0002",
+            "char_count": 820,
+            "source_file": "maubaocao/BIEU VNNIC-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU VNNIC-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:08:30",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_VNNIC-03-TT-04-2022-TT-BTTTT_chunk_0002",
+        "doc_id": "maubaocao_BIEU_VNNIC-03-TT-04-2022-TT-BTTTT",
+        "text": "tiếp theo |  | Đơn vị nhận báo cáo:<br>Vụ KHTC, VP Bộ | Đơn vị nhận báo cáo:<br>Vụ KHTC, VP Bộ |  |\n| Ngày nhận báo cáo: Trước ngày 15 tháng tiếp theo | Tháng .../20... |  |  |  |\n|  |  |  |  |  |\n\n| 1. Tổng số tên miền quốc gia \".VN\": | 1. Tổng số tên miền quốc gia \".VN\": |  | (Tên miền) |\n| --- | --- | --- | --- |\n| Trong đó (1=1.1+1.5+1.6): | Trong đó (1=1.1+1.5+1.6): |  |  |\n| 1.1. Tên miền đã kích hoạt, sử dụng IPv6: | 1.1. Tên miền đã kích hoạt, sử dụng IPv6: |  |  |\n| 1.2. Tên miền có sử dụng dịch vụ: | 1.2. Tên miền có sử dụng dịch vụ: |  |  |\n| 1.3. Tên miền có website sử dụng IPv6: | 1.3. Tên miền có website sử dụng IPv6: |  |  |\n| 1.4. Tên miền có máy chủ DNS sử dụng IPv6: | 1.4. Tên miền có máy chủ DNS sử dụng IPv6: |  |  |\n| 1.5. Tên miền đã kích hoạt, sử dụng IPv4: | 1.5. Tên miền đã kích hoạt, sử dụng IPv4: |  |  |\n| 1.6. Tên miền chưa kích hoạt: | 1.6. Tên miền chưa kích hoạt: |  |  |\n|  |  |  |  |\n| 2. Tỷ lệ ứng dụng IPv6 trên mạng Internet của Việt Nam: | 2. Tỷ lệ ứng dụng IPv6 trên mạng Internet của Việt Nam: |  | (%) |\n| Trong đó, tỷ lệ ứng dụng của một số doanh nghiệp viễn thông | Trong đó, tỷ lệ ứng dụng của một số doanh nghiệp viễn thông | Trong đó, tỷ lệ ứng dụng của một số doanh nghiệp viễn thông |  |\n| 2.1. Tập đoàn Công nghiệp viễn thông quân đội (Viettel): | 2.1. Tập đoàn Công nghiệp viễn thông quân đội (Viettel): |  |  |\n| 2.2. Tập đoàn Bưu chính - Viễn thông Việt Nam (VNPT): | 2.2. Tập đoàn Bưu chính - Viễn thông Việt Nam (VNPT): |  |  |\n| 2.3. Tổng công ty thông tin di động (Mobifone): | 2.3. Tổng công ty thông tin di động (Mobifone): |  |  |\n| 2.4. Công ty cổ phần viễn thông FPT: | 2.4. Công ty cổ phần viễn thông FPT: |  |  |\n|  |  |  |  |\n| 3. Tổng số tên miền quốc tế [báo cáo quý]: | 3. Tổng số tên miền quốc tế [báo cáo quý]: |  | (Tên miền) |\n| 3.1. Trong đó, chủ thể sử dụng là tổ chức, cá nhân Việt Nam: | 3.1. Trong đó, chủ thể sử dụng là tổ chức, cá nhân Việt Nam: |  |  |\n| 4. Tên miền quốc tế biến động trong kỳ [báo cáo quý]: | 4. Tên miền quốc tế biến động trong kỳ [báo cáo quý]: |  | (Tên miền) |\n| Trong đó | Trong đó |  |  |\n| 4.1. Tăng trong kỳ: | 4.1. Tăng trong kỳ: |  |  |\n| 4.2. Giảm trong kỳ: | 4.2. Giảm trong kỳ: |  |  |\n| 4.3. Tăng trong kỳ, và giảm trước khi kết thúc kỳ: | 4.3. Tăng trong kỳ, và giảm trước khi kết thúc kỳ: |  |  |\n|  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_BIEU_VNNIC-03-TT-04-2022-TT-BTTTT_chunk_0001",
+            "next_chunk_id": "maubaocao_BIEU_VNNIC-03-TT-04-2022-TT-BTTTT_chunk_0003",
+            "char_count": 2333,
+            "source_file": "maubaocao/BIEU VNNIC-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU VNNIC-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:08:30",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_VNNIC-03-TT-04-2022-TT-BTTTT_chunk_0003",
+        "doc_id": "maubaocao_BIEU_VNNIC-03-TT-04-2022-TT-BTTTT",
+        "text": "trong kỳ: |  |  |\n| 4.2. Giảm trong kỳ: | 4.2. Giảm trong kỳ: |  |  |\n| 4.3. Tăng trong kỳ, và giảm trước khi kết thúc kỳ: | 4.3. Tăng trong kỳ, và giảm trước khi kết thúc kỳ: |  |  |\n|  |  |  |  |\n\n| 4. Số lượng địa chỉ IPv4 [báo cáo quý]: |  |  | (Địa chỉ v4) |\n| --- | --- | --- | --- |\n| 5. Số lượng địa chỉ IPv6 [báo cáo quý]: |  |  | (Khối /64) |\n| 6. Số lượng số hiệu mạng [báo cáo quý]: |  |  | (Số hiệu) |\n\n| TỔNG HỢP, LẬP BIỂU<br>(Thông tin người thực hiện) | KIỂM TRA BIỂU<br>(Thông tin người thực hiện) | Hà Nội, ngày ... tháng ... năm 20...<br>GIÁM ĐỐC<br>(Ký điện tử) |\n| --- | --- | --- |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_BIEU_VNNIC-03-TT-04-2022-TT-BTTTT_chunk_0002",
+            "next_chunk_id": "maubaocao_BIEU_VNNIC-03-TT-04-2022-TT-BTTTT_chunk_0004",
+            "char_count": 603,
+            "source_file": "maubaocao/BIEU VNNIC-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU VNNIC-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:08:30",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_VNNIC-03-TT-04-2022-TT-BTTTT_chunk_0004",
+        "doc_id": "maubaocao_BIEU_VNNIC-03-TT-04-2022-TT-BTTTT",
+        "text": "hiệu) |\n\n| TỔNG HỢP, LẬP BIỂU<br>(Thông tin người thực hiện) | KIỂM TRA BIỂU<br>(Thông tin người thực hiện) | Hà Nội, ngày ... tháng ... năm 20...<br>GIÁM ĐỐC<br>(Ký điện tử) |\n| --- | --- | --- |\n\n| a) Khái niệm, phương pháp tính | a) Khái niệm, phương pháp tính |\n| --- | --- |\n|  | Số lượng tên miền quốc gia: Là tổng số tên miền quốc gia Việt Nam \".vn\" (bao gồm tên miền không dấu và tên miền tiếng Việt) đang được quản lý, duy trì trên hệ thống tại thời điểm cuối kỳ báo cáo. |\n|  | Số lượng tên miền quốc gia có sử dụng dịch vụ: Là số lượng tên miền quốc gia có sử dụng dịch vụ website tại thời điểm cuối kỳ báo cáo. |\n|  | Số lượng tên miền quốc tế: Là tổng số tên miền quốc tế đã đăng ký sử dụng tính đến thời điểm cuối kỳ báo cáo - theo báo cáo định kỳ của các Nhà đăng ký (NĐK) tên miền quốc tế tại Việt Nam. |\n|  | Số lượng địa chỉ Internet IPv4: Là tổng số địa chỉ IPv4 mà quốc gia Việt Nam được cấp và được Bộ TT&TT quản lý tính đến thời điểm cuối kỳ báo cáo. Địa chỉ IPv4 là địa chỉ giao thức Internet phiên bản 4. |\n|  | Số lượng địa chỉ Internet IPv6: Là tổng số địa chỉ IPv6 mà quốc gia Việt Nam được cấp và được Bộ TT&TT quản lý tính đến thời điểm cuối kỳ báo cáo. (Địa chỉ IPv6 là địa chỉ giao thức Internet phiên bản 6. 01 khối /64 địa chỉ IPv6 bằng 2^(128-64) địa chỉ IPv6). |\n|  | Số lượng số hiệu mạng: Là số lượng số hiệu mạng mà các tổ chức/doanh nghiệp Việt Nam được cấp và sử dụng tính đến thời điểm cuối kỳ báo cáo. Số hiệu mạng là số được sử dụng để định danh một mạng máy tính (hoặc một tập hợp địa chỉ IP) tham gia vào hoạt động định tuyến chung trên Internet. |\n|  | Tỷ lệ ứng dụng IPv6 trên mạng Internet của Việt Nam: Là tỷ lệ % ứng dụng IPv6 của Việt Nam theo số liệu thống kê của các tổ chức quốc tế uy tín trên thế giới (Ví dụ: Trung tâm thông tin mạng châu Á - Thái Bình Dương (APNIC), Tập đoàn Internet cấp số và tên miền (ICANN) tại thời điểm khảo sát. (Là tỷ lệ giữa số lượng địa chỉ IPv6 đã sử dụng và tổng số địa chỉ IPv6 đã được phân bổ). |\n| b) Cách ghi biểu | b) Cách ghi biểu |\n|  | Ghi thông tin, số liệu theo hướng dẫn cụ thể tại biểu mẫu. |\n| c) Nguồn số liệu | c) Nguồn số liệu |\n|  | Biểu được lập từ dữ liệu hành chính của VNNIC, báo cáo từ các thành viên địa chỉ Internet (biểu mẫu VNNIC-06), và báo cáo của các nhà đăng ký tên miền quốc tế tại Việt Nam (biểu mẫu VNNIC-07, VNNIC-07B) đã gửi VNNIC. |",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_BIEU_VNNIC-03-TT-04-2022-TT-BTTTT_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 2354,
+            "source_file": "maubaocao/BIEU VNNIC-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU VNNIC-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:08:30",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

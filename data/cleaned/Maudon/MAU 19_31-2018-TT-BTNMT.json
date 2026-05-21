@@ -1,0 +1,10 @@
+{
+    "content": "19. Biểu mẫu số 19: Tổng hợp kết quả thanh tra trong lĩnh vực tài nguyên nước\n\n| TT | Tỉnh | Số lượng các cuộc thanh tra, kiểm tra | Số lượng các cuộc thanh tra, kiểm tra | Số lượng các cuộc thanh tra, kiểm tra | Số lượng đối tượng thanh tra, kiểm tra | Số lượng đối tượng thanh tra, kiểm tra | Số lượng đối tượng thanh tra, kiểm tra | Số lượng tổ chức, cá nhân bị xử phạt | Số lượng tổ chức, cá nhân bị xử phạt | Số lượng tổ chức, cá nhân bị xử phạt | Tổng số tiền xử phạt vi phạm hành chính | Tổng số tiền xử phạt vi phạm hành chính | Tổng số tiền xử phạt vi phạm hành chính |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | Tỉnh | Kỳ trước | Kỳ báo cáo | Thay đổi | Kỳ trước | Kỳ báo cáo | Thay đổi | Kỳ trước | Kỳ báo cáo | Thay đổi | Kỳ trước | Kỳ báo cáo | Thay đổi |\n| TT | Tỉnh | (1) | (2) | (3)=(2)-(1) | (4) | (5) | (6)=(5)-(4) | (7) | (8) | (9)=(8)-(7) | (10) | (11) | (12)=(11)-(10) |\n|  | Tổng |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1 | Tỉnh A |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 | Tỉnh B |  |  |  |  |  |  |  |  |  |  |  |  |\n| ... | ... |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "metadata": {
+        "source_file": "Maudon/MAU 19_31-2018-TT-BTNMT.doc",
+        "file_name": "MAU 19_31-2018-TT-BTNMT.doc",
+        "folder": "Maudon",
+        "original_extension": ".doc",
+        "cleaned_at": "2026-05-21T04:07:12"
+    }
+}

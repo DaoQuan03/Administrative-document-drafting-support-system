@@ -1,0 +1,110 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTỜ KHAI THUẾ THU NHẬP CÁ NHÂN\n\n(Áp dụng đối với cá nhân có thu nhập từ chuyển nhượng vốn góp,\n\ncá nhân chuyển nhượng chứng khoán khai trực tiếp với cơ quan thuế\n\nvà tổ chức, cá nhân khai thuế thay, nộp thuế thay cho cá nhân)\n\n| [01] Kỳ tính thuế: | [01a] Lần phát sinh ngày … tháng … năm ...<br>[01b] Tháng ... năm ... /Quý... năm ... |\n| --- | --- |\n\n[02] Lần đầu:                                 [03] Bổ sung lần thứ: …\n\nCá nhân được miễn, giảm thuế theo Hiệp định tránh đánh thuế hai lần (*)\n\nKhai thay cho nhiều cá nhân chuyển nhượng vốn góp\n\nKhai thay cho nhiều cá nhân chuyển nhượng chứng khoán\n\nI. THÔNG TIN CÁ NHÂN CHUYỂN NHƯỢNG VỐN GÓP, CHUYỂN NHƯỢNG CHỨNG KHOÁN\n\n[04] Tên người nộp thuế:……………..……………………...\n\n| [05] Mã số thuế: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[05a] Số định danh cá nhân...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 6,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+            "char_count": 968,
+            "source_file": "tokhai/MAU SO 04.CNV-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 04.CNV-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:54:22",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "[05] Mã số thuế: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[05a] Số định danh cá nhân...\n\n[06] Địa chỉ: ………………………………...………...…………….…………………\n\n[07] Xã/phường/đặc khu: ... [08] Tỉnh/thành phố: ...\n\n[09] Điện thoại:……...…..[10] Fax:….….……... [11] Email:…..…...………..\n\n[12] Tên tổ chức, cá nhân khai thay (nếu  có):………………………...\n\n| [13] Mã số thuế: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[14] Địa chỉ: ……………………..………………………………………………….\n\n[15] Xã/phường/đặc khu: ... [16] Tỉnh/Thành phố: ...\n\n[17] Điện thoại: ...  [18] Fax: ... [19] Email: ...\n\n[20] Tên đại lý thuế (nếu có):………………………………...\n\n| [21] Mã số thuế: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[22] Hợp đồng đại lý thuế: Số...ngày:...",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 6,
+            "prev_chunk_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+            "char_count": 969,
+            "source_file": "tokhai/MAU SO 04.CNV-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 04.CNV-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:54:22",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+        "doc_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "[21] Mã số thuế: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[22] Hợp đồng đại lý thuế: Số...ngày:...\n\nII. THÔNG TIN TỔ CHỨC, CÁ NHÂN NHẬN CHUYỂN NHƯỢNG VỐN GÓP, NHẬN CHUYỂN NHƯỢNG CHỨNG KHOÁN\n\n| STT | Họ và tên | Mã số thuế | Số CMND/CCCD/Định danh cá nhân/Hộ chiếu | Hợp đồng chuyển nhượng | Hợp đồng chuyển nhượng |\n| --- | --- | --- | --- | --- | --- |\n| STT | Họ và tên | Mã số thuế | Số CMND/CCCD/Định danh cá nhân/Hộ chiếu | Số | Ngày/tháng/năm |\n| [23] | [24] | [25] | [26] | [27] | [28] |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n\nIII. THÔNG TIN TỔ CHỨC PHÁT HÀNH CHỨNG KHOÁN HOẶC TỔ CHỨC NƠI CÁ NHÂN CÓ VỐN GÓP\n\n[29] Tên tổ chức phát hành:………………………...\n\n| [30] Mã số thuế: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[31] Địa chỉ: ……………………..………………………………………………….",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 6,
+            "prev_chunk_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+            "next_chunk_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0004",
+            "char_count": 955,
+            "source_file": "tokhai/MAU SO 04.CNV-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 04.CNV-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:54:22",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0004",
+        "doc_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "[30] Mã số thuế: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[31] Địa chỉ: ……………………..………………………………………………….\n\n[32] Xã/phường/đặc khu: ... [33] Tỉnh/Thành phố: ...\n\n[34] Điện thoại: ... [35] Fax: ... [36] Email: ...\n\nIV. CHI TIẾT TÍNH THUẾ\n\nĐơn vị tiền: Đồng Việt Nam",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 6,
+            "prev_chunk_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+            "next_chunk_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0005",
+            "char_count": 356,
+            "source_file": "tokhai/MAU SO 04.CNV-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 04.CNV-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:54:22",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0005",
+        "doc_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "Địa chỉ: ……………………..………………………………………………….\n\n[32] Xã/phường/đặc khu: ... [33] Tỉnh/Thành phố: ...\n\n[34] Điện thoại: ... [35] Fax: ... [36] Email: ...\n\nIV. CHI TIẾT TÍNH THUẾ\n\nĐơn vị tiền: Đồng Việt Nam\n\n| STT | Chỉ tiêu | Mã chỉ tiêu | Số tiền |\n| --- | --- | --- | --- |\n| I | Thu nhập từ chuyển nhượng vốn góp | Thu nhập từ chuyển nhượng vốn góp | Thu nhập từ chuyển nhượng vốn góp |\n| 1 | Giá chuyển nhượng | [37] |  |\n| 2 | Giá vốn của phần vốn góp chuyển nhượng | [38] |  |\n| 3 | Chi phí chuyển nhượng | [39] |  |\n| 4 | Thu nhập tính thuế từ chuyển nhượng vốn góp [40]=[37]-[38]-[39] | [40] |  |\n| 5 | Số thuế phải nộp | [41] |  |\n| 6 | Số thuế được miễn giảm theo Hiệp định tránh đánh thuế hai lần | [42] |  |\n| 7 | Số thuế còn phải nộp [43]=[41]-[42] | [43] |  |\n| II | Thu nhập từ chuyển nhượng chứng khoán | Thu nhập từ chuyển nhượng chứng khoán | Thu nhập từ chuyển nhượng chứng khoán |\n| 1 | Giá chuyển nhượng | [44] |  |\n| 2 | Số thuế phải nộp | [45] |  |\n| 3 | Số thuế được miễn giảm theo Hiệp định tránh đánh thuế hai lần | [46] |  |\n| 4 | Số thuế còn phải nộp [47]=[45]-[46] | [47] |  |",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 6,
+            "prev_chunk_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0004",
+            "next_chunk_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0006",
+            "char_count": 1097,
+            "source_file": "tokhai/MAU SO 04.CNV-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 04.CNV-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:54:22",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0006",
+        "doc_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "Giá chuyển nhượng | [44] |  |\n| 2 | Số thuế phải nộp | [45] |  |\n| 3 | Số thuế được miễn giảm theo Hiệp định tránh đánh thuế hai lần | [46] |  |\n| 4 | Số thuế còn phải nộp [47]=[45]-[46] | [47] |  |\n\nTôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về những số liệu đã khai./.\n\n| NHÂN VIÊN ĐẠI LÝ THUẾ<br>Họ và tên: …………………..<br>Chứng chỉ hành nghề số:... |  |\n| --- | --- |\n\nGhi chú:\n\n- (*) Trường hợp cá nhân được miễn, giảm thuế theo Hiệp định tránh đánh thuế hai lần thì nộp hồ sơ khai thuế của lần khai thuế đầu tiên cùng với Hồ sơ thông báo miễn, giảm thuế theo Hiệp định theo quy định.\n\n- Cá nhân chuyển nhượng chứng khoán khai trực tiếp với cơ quan thuế  là cá nhân có chứng khoán chuyển nhượng chưa được tổ chức khấu trừ theo quy định tại điểm đ Khoản 1 Điều 25 Thông tư số 111/2013/TT-BTC ngày 15/8/20132 và điểm 2 Khoản 16 Điều 2 Nghị định số 12/2015/NĐ-CP ngày 12/2/2015.",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 6,
+            "prev_chunk_id": "tokhai_MAU_SO_04_CNV-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0005",
+            "next_chunk_id": null,
+            "char_count": 909,
+            "source_file": "tokhai/MAU SO 04.CNV-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 04.CNV-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:54:22",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

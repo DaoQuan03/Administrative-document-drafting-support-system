@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-05-2020-TT-TTCP_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_03-05-2020-TT-TTCP",
+        "text": "Mẫu số 03- Phiếu chuyển đơn tố cáo\n\n| ……………. (1)<br>…………….. (2) | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: .../...(3)-…(4)<br>V/v chuyển đơn tố cáo | ………., ngày ... tháng ... năm ..…... |\n\nPHIẾU CHUYỂN ĐƠN TỐ CÁO\n\nKính gửi: ...(5)\n\nNgày ... tháng ... năm ...(2) ...nhận được đơn tố cáo ghi ngày ... tháng ... năm ... của công dân về ... (6)\n\nCăn cứ quy định của Luật Tố cáo, Nghị định số 31/2019/NĐ-CP ngày 10/4/2019 của Chính phủ Quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo, Thông tư số 05/2021/TT-TTCP ngày 01 tháng 10 năm 2021 của Thanh tra Chính phủ quy định quy trình xử lý đơn khiếu nại, đơn tố cáo, đơn kiến nghị, phản ánh, ……………………. (2) chuyển đơn của công dân ………… đến ……… (5) để xem xét, giải quyết theo quy định của pháp luật và thông báo kết quả đến ... (2)\n\n| Nơi nhận:<br>- Như trên;<br>- ….;<br>- Lưu: VT; ... (4). | ……………….. (7)<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\nGhi chú:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_03-05-2020-TT-TTCP_chunk_0002",
+            "char_count": 1000,
+            "source_file": "mauphieu/MAU SO 03-05-2020-TT-TTCP.doc",
+            "file_name": "MAU SO 03-05-2020-TT-TTCP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:49:20",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-05-2020-TT-TTCP_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_03-05-2020-TT-TTCP",
+        "text": "theo quy định của pháp luật và thông báo kết quả đến ... (2)\n\n| Nơi nhận:<br>- Như trên;<br>- ….;<br>- Lưu: VT; ... (4). | ……………….. (7)<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\nGhi chú:\n\n(1) Tên cơ quan, tổ chức, đơn vị cấp trên trực tiếp (nếu có).\n\n(2) Tên cơ quan, tổ chức, đơn vị ban hành văn bản chuyển đơn tố cáo.\n\n(3) Chữ viết tắt tên cơ quan, tổ chức, đơn vị ban hành văn bản chuyển đơn.\n\n(4) Chữ viết tắt tên đơn vị soạn thảo văn bản chuyển đơn.\n\n(5) Chức danh người đứng đầu cơ quan, tổ chức, đơn vị có thẩm quyền giải quyết tố cáo.\n\n(6) Tóm tắt nội dung tố cáo.\n\n(7) Chức vụ người có thẩm quyền ký văn bản chuyển đơn tố cáo.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_03-05-2020-TT-TTCP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 645,
+            "source_file": "mauphieu/MAU SO 03-05-2020-TT-TTCP.doc",
+            "file_name": "MAU SO 03-05-2020-TT-TTCP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:49:20",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_07-PHU_LUC_IV-10-2025-TT-BTP_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_07-PHU_LUC_IV-10-2025-TT-BTP",
+        "text": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTỜ KHAI ĐĂNG KÝ LẠI VIỆC NUÔI CON NUÔI\n\nKính gửi:...\n\nHọ, chữ đệm, tên người yêu cầu:\n\nNgày, tháng, năm sinh:...\n\nSố định danh cá nhân/Hộ chiếu:\n\nNơi cư trú:\n\nĐề nghị đăng ký lại việc nuôi con nuôi cho những người có tên dưới đây:\n\nI. Thông tin của con nuôi\n\nHọ, chữ đệm, tên:\t Giới tính3:\n\nNgày, tháng, năm sinh:...\n\nSố định danh cá nhân/Hộ chiếu2::\n\n...\n\nNơi sinh3:...\n\nNơi cư trú3:\n\nII. Thông tin cha, mẹ nuôi\n\n| Họ, chữ đệm, tên cha nuôi: <br>... | Họ, chữ đệm, tên mẹ nuôi: ... |\n| --- | --- |\n| Ngày, tháng, năm sinh:... | Ngày, tháng, năm sinh:... |\n| Quốc tịch:... | Quốc tịch4:... |\n| Số định danh/Hộ chiếu2:...<br>... | Số định danh/Hộ chiếu2:...<br>... |\n| Nơi cư  trú3:...<br>... | Nơi cư  trú3...<br>... |\n\nĐã đăng ký nuôi con nuôi tại:\n\nGiấy chứng nhận nuôi con nuôi trong nước/Quyết định nuôi con nuôi có yếu tố nước ngoài số... ngày ... tháng ... năm... do...cấp.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_07-PHU_LUC_IV-10-2025-TT-BTP_chunk_0002",
+            "char_count": 944,
+            "source_file": "tokhai/MAU SO 07-PHU LUC IV-10-2025-TT-BTP.doc",
+            "file_name": "MAU SO 07-PHU LUC IV-10-2025-TT-BTP.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:56:34",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_07-PHU_LUC_IV-10-2025-TT-BTP_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_07-PHU_LUC_IV-10-2025-TT-BTP",
+        "text": "| Nơi cư  trú3...<br>... |\n\nĐã đăng ký nuôi con nuôi tại:\n\nGiấy chứng nhận nuôi con nuôi trong nước/Quyết định nuôi con nuôi có yếu tố nước ngoài số... ngày ... tháng ... năm... do...cấp.\n\nTôi cam đoan việc nuôi con nuôi trước đây đã được đăng ký tại cơ quan có thẩm quyền và những nội dung khai trên đây là đúng sự thật. Tôi chịu trách nhiệm trước pháp luật về việc cam đoan của mình.\n\nLàm tại ..., ngày ...tháng...năm...\n\nNgười yêu cầu\n\n(Ký, ghi rõ họ, chữ đệm, tên)",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "tokhai_MAU_SO_07-PHU_LUC_IV-10-2025-TT-BTP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 468,
+            "source_file": "tokhai/MAU SO 07-PHU LUC IV-10-2025-TT-BTP.doc",
+            "file_name": "MAU SO 07-PHU LUC IV-10-2025-TT-BTP.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:56:34",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

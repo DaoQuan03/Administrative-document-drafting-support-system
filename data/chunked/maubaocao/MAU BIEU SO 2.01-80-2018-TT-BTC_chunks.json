@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_2_01-80-2018-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_BIEU_SO_2_01-80-2018-TT-BTC",
+        "text": "Mẫu biểu số 2.01\n\nCơ quan thực hiện: ... (Doanh nghiệp/đơn vị sự nghiệp công)\n\nBÁO CÁO TÌNH HÌNH VAY LẠI VỐN VAY ODA, VAY ƯU ĐÃI NƯỚC NGOÀI CỦA CHÍNH PHỦ\n\nKỳ báo cáo : từ ngày…….. Đến ngày...\n\nĐơn vị: Nguyên tệ",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_BIEU_SO_2_01-80-2018-TT-BTC_chunk_0002",
+            "char_count": 210,
+            "source_file": "maubaocao/MAU BIEU SO 2.01-80-2018-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 2.01-80-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:20:30",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_2_01-80-2018-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_BIEU_SO_2_01-80-2018-TT-BTC",
+        "text": "2.01\n\nCơ quan thực hiện: ... (Doanh nghiệp/đơn vị sự nghiệp công)\n\nBÁO CÁO TÌNH HÌNH VAY LẠI VỐN VAY ODA, VAY ƯU ĐÃI NƯỚC NGOÀI CỦA CHÍNH PHỦ\n\nKỳ báo cáo : từ ngày…….. Đến ngày...\n\nĐơn vị: Nguyên tệ\n\n| STT | TÊN ĐƠN VỊ | Nguồn vốn cho vay lại | Nguyên tệ | Dư nợ đầu kỳ | Rút vốn trong kỳ | Trả nợ trong kỳ | Trả nợ trong kỳ | Trả nợ trong kỳ | Trả nợ trong kỳ | Trả nợ trong kỳ | Trả nợ trong kỳ | Dư nợ cuối kỳ | Nợ quá hạn | Nợ quá hạn | Nợ quá hạn | Nợ quá hạn | Nợ quá hạn |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | TÊN ĐƠN VỊ | Nguồn vốn cho vay lại | Nguyên tệ | Dư nợ đầu kỳ | Rút vốn trong kỳ | Gốc | Lãi | Phí theo Hiệp định vay | Phí QLCVL | Dự phòng RRCVL | Cộng | Dư nợ cuối kỳ | Gốc | Lãi | Phí vay nước ngoài | Phí QLCVL | Dự phòng RRCVL |\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |\n| I | Dự án. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| II | Dự án |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| III | Dự án . |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Tổng cộng |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Tổng USD |  |  | - | - | - | - | - | - | - | - | - | - | - | - | - | - |\n|  | Tổng EUR |  |  | - | - | - | - | - | - | - | - | - | - | - | - | - | - |\n|  | Tổng JPY |  |  | - | - | - | - | - | - | - | - | - | - | - | - | - | - |\n|  | Tổng KRW |  |  | - | - | - | - | - | - | - | - | - | - | - |  | - | - |\n|  | Tổng ... |  |  | - | - | - | - | - | - | - | - | - | - | - | - | - | - |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Tổng quy USD |  |  | - | - | - | - | - | - | - | - | - | - | - | - | - | - |\n|  | Tổng quy VND |  |  | - | - | - | - | - | - | - | - | - | - | - | - | - | - |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_BIEU_SO_2_01-80-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_BIEU_SO_2_01-80-2018-TT-BTC_chunk_0003",
+            "char_count": 1780,
+            "source_file": "maubaocao/MAU BIEU SO 2.01-80-2018-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 2.01-80-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:20:30",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_2_01-80-2018-TT-BTC_chunk_0003",
+        "doc_id": "maubaocao_MAU_BIEU_SO_2_01-80-2018-TT-BTC",
+        "text": "|  |  |  |  |  |  |  |  |  |  |  |\n|  | Tổng quy USD |  |  | - | - | - | - | - | - | - | - | - | - | - | - | - | - |\n|  | Tổng quy VND |  |  | - | - | - | - | - | - | - | - | - | - | - | - | - | - |\n\nGhi chú:\n\n- Cột 5, 13, 14, 15, 16, 17, 18: Áp dụng tỷ giá hạch toán ngân sách nhà nước quy đổi sang USD và VNĐ do Bộ tài chính công bố vào ngày cuối cùng của tháng cuối cùng của kỳ báo cáo\n\n- Cột 6: Áp dụng tỷ giá hạch toán ngân sách nhà nước quy đổi sang USD và VNĐ do Bộ tài chính công bố tại thời điểm phát sinh giao dịch\n\n- Cột 7, 8, 9, 10, 11, 12: Áp dụng tỷ giá hạch toán ngân sách nhà nước quy đổi sang USD và VNĐ do Ngân hàng thương mại cổ phần Ngoại thương công bố tại thời điểm trả nợ\n\n|  | ……, Ngày …… tháng …… năm …… |\n| --- | --- |\n| NGƯỜI LẬP BIỂU | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký tên, đóng dấu) |\n\nNguồn: Thông tư 80/2018/TT-BTC",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_BIEU_SO_2_01-80-2018-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 837,
+            "source_file": "maubaocao/MAU BIEU SO 2.01-80-2018-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 2.01-80-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:20:30",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

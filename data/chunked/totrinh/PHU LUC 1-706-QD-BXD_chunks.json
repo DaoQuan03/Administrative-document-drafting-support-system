@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_PHU_LUC_1-706-QD-BXD_chunk_0001",
+        "doc_id": "totrinh_PHU_LUC_1-706-QD-BXD",
+        "text": "PHỤ LỤC 1\n\nMẪU TỜ TRÌNH ĐĂNG KÝ CHƯƠNG TRÌNH XÂY DỰNG VĂN BẢN QPPL CỦA BỘ\n(Kèm theo Quy chế soạn thảo, ban hành và tổ chức thi hành văn bản QPPL thuộc phạm vi chức năng quản lý nhà nước của Bộ Xây dựng)\n\n| BỘ XÂY DỰNG<br>...(Tên cơ quan đăng ký)...<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số:... | Hà Nội, ngày  tháng  năm |\n\nTỜ TRÌNH\nĐĂNG KÝ CHƯƠNG TRÌNH XÂY DỰNG VĂN BẢN QPPL\n\nKính gửi: Bộ Xây dựng\n\n1. Tên văn bản\n\n2. Sự cần thiết ban hành văn bản\n\n- Cơ sở chính trị, pháp lý.\n\n- Cơ sở thực tiễn.\n\n3. Mục đích ban hành\n\n4. Phạm vi điều chỉnh, đối tượng áp dụng\n\n5. Định hướng nội dung; các vấn đề cụ thể để xử lý mâu thuẫn, chồng chéo, bất cập có nguyên nhân từ pháp luật; vấn đề mới, xu hướng mới và các nội dung cần thiết khác (nếu có)\n\n6. Nguồn lực thực hiện\n\n- Cơ quan chủ trì soạn thảo;\n\n- Cơ quan tham mưu trình;\n\n- Cơ quan, đơn vị phối hợp;\n\n- Lãnh đạo Bộ phụ trách.\n\n7. Kế hoạch soạn thảo văn bản:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_PHU_LUC_1-706-QD-BXD_chunk_0002",
+            "char_count": 985,
+            "source_file": "totrinh/PHU LUC 1-706-QD-BXD.doc",
+            "file_name": "PHU LUC 1-706-QD-BXD.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:30:49",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_PHU_LUC_1-706-QD-BXD_chunk_0002",
+        "doc_id": "totrinh_PHU_LUC_1-706-QD-BXD",
+        "text": "dung cần thiết khác (nếu có)\n\n6. Nguồn lực thực hiện\n\n- Cơ quan chủ trì soạn thảo;\n\n- Cơ quan tham mưu trình;\n\n- Cơ quan, đơn vị phối hợp;\n\n- Lãnh đạo Bộ phụ trách.\n\n7. Kế hoạch soạn thảo văn bản:\n\n- Thời gian trình dự thảo: tháng .../năm ...\n\n- Thời gian gửi thẩm định: tháng .../năm ...\n\n- Thời gian trình ban hành: tháng .../năm ...\n\n| Nơi nhận:<br>- Như trên;<br>- ... | THỦ TRƯỞNG CƠ QUAN<br>(Ký tên, đóng dấu, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_PHU_LUC_1-706-QD-BXD_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 446,
+            "source_file": "totrinh/PHU LUC 1-706-QD-BXD.doc",
+            "file_name": "PHU LUC 1-706-QD-BXD.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:30:49",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

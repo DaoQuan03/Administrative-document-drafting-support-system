@@ -1,0 +1,290 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT",
+        "text": "| Phiếu P0/CTV (tờ 1)<br>(Ban hành kèm theo Thông tư số 01/2022/TT-BYT)<br>Thời điểm lập: Ngày 01 của tháng sau tháng báo cáo | Người báo cáo…..<br>Nơi nhận báo cáo …… |\n| --- | --- |\n\n| Phiếu P0/CTV (tờ 1)<br>(Ban hành kèm theo Thông tư số       /2022/TT-BYT)<br>Thời điểm lập: Ngày 01 của tháng sau tháng báo cáo | Người báo cáo……………………………………..<br>Nơi nhận báo cáo …………………………………. |\n| --- | --- |\n\nPHIẾU THU TIN VỀ DÂN SỐ THÁNG…… NĂM……………\n\nĐịa bàn\tThôn\t Xã\n\n1. Danh sách trẻ sinh ra",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 16,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0002",
+            "char_count": 483,
+            "source_file": "mauphieu/MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "file_name": "MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0002",
+        "doc_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT",
+        "text": "01 của tháng sau tháng báo cáo | Người báo cáo……………………………………..<br>Nơi nhận báo cáo …………………………………. |\n| --- | --- |\n\nPHIẾU THU TIN VỀ DÂN SỐ THÁNG…… NĂM……………\n\nĐịa bàn\tThôn\t Xã\n\n1. Danh sách trẻ sinh ra\n\n| Hộ số | Họ và tên con | Ngày sinh của con | Ngày sinh của con | Dân tộc | Họ và tên mẹ | Số thẻ BHYT của mẹ | Ngày sinh của mẹ | Nơi đẻ | Là con thứ mấy của mẹ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Hộ số | Họ và tên con | Nam | Nữ | Dân tộc | Họ và tên mẹ | Số thẻ BHYT của mẹ | Ngày sinh của mẹ | Nơi đẻ | Là con thứ mấy của mẹ |\n|  |  | .../.../... | .../.../... |  |  |  | .../.../... |  |  |\n|  |  | .../.../... | .../.../... |  |  |  | .../.../... |  |  |\n|  |  | .../.../... | .../.../... |  |  |  | .../.../... |  |  |\n|  |  | .../.../... | .../.../... |  |  |  | .../.../... |  |  |\n|  |  | .../.../... | .../.../... |  |  |  | .../.../... |  |  |\n|  |  | .../.../... | .../.../... |  |  |  | .../.../... |  |  |\n|  |  | .../.../... | .../.../... |  |  |  | .../.../... |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 16,
+            "prev_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0003",
+            "char_count": 1016,
+            "source_file": "mauphieu/MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "file_name": "MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0003",
+        "doc_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT",
+        "text": "|  |\n|  |  | .../.../... | .../.../... |  |  |  | .../.../... |  |  |\n|  |  | .../.../... | .../.../... |  |  |  | .../.../... |  |  |\n|  |  | .../.../... | .../.../... |  |  |  | .../.../... |  |  |\n\n2. Danh sách người chết\n\n| Hộ số | Họ và tên người chết | Số thẻ BHYT | Quan hệ với chủ hộ | Giới tính | Ngày sinh | Ngày chết | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  | .../.../... | .../.../... |  |\n|  |  |  |  |  | .../.../... | .../.../... |  |\n|  |  |  |  |  | .../.../... | .../.../... |  |\n|  |  |  |  |  | .../.../... | .../.../... |  |\n|  |  |  |  |  | .../.../... | .../.../... |  |\n\n| Phiếu P0/CTV (tờ 2) | Người báo cáo……………………………………. |\n| --- | --- |\n\nPHIẾU THU TIN VỀ DÂN SỐ THÁNG……… NĂM………\n\n3. Danh sách người chuyển đến từ xã khác (Nếu chuyển đến cả hộ thì lập Phiếu hộ dân cư mới)",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 16,
+            "prev_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0004",
+            "char_count": 833,
+            "source_file": "mauphieu/MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "file_name": "MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0004",
+        "doc_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT",
+        "text": "P0/CTV (tờ 2) | Người báo cáo……………………………………. |\n| --- | --- |\n\nPHIẾU THU TIN VỀ DÂN SỐ THÁNG……… NĂM………\n\n3. Danh sách người chuyển đến từ xã khác (Nếu chuyển đến cả hộ thì lập Phiếu hộ dân cư mới)\n\n| Hộ số | Họ và tên người đến | Số thẻ BHYT | Quan hệ với chủ hộ | Giới tính | Ngày sinh | Dân tộc | Trình độ học vấn | Tình trạng hôn nhân | Ngày đến | Nơi đi |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  | .../.../... |  |  |  | .../.../... |  |\n|  |  |  |  |  | .../.../... |  |  |  | .../.../... |  |\n|  |  |  |  |  | .../.../... |  |  |  | .../.../... |  |\n|  |  |  |  |  | .../.../... |  |  |  | .../.../... |  |\n\n4. Danh sách người chuyển đi khỏi xã (Nếu chuyển đi cả hộ thì chuyển kèm theo Phiếu hộ dân cư)",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 16,
+            "prev_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0003",
+            "next_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0005",
+            "char_count": 749,
+            "source_file": "mauphieu/MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "file_name": "MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0005",
+        "doc_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT",
+        "text": "|  | .../.../... |  |  |  | .../.../... |  |\n|  |  |  |  |  | .../.../... |  |  |  | .../.../... |  |\n\n4. Danh sách người chuyển đi khỏi xã (Nếu chuyển đi cả hộ thì chuyển kèm theo Phiếu hộ dân cư)\n\n| Hộ số | Họ và tên người đi | Số thẻ BHYT | Quan hệ với chủ hộ | Giới tính | Ngày sinh | Ngày đi | Nơi đến | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  | .../.../... | .../.../... |  |  |\n|  |  |  |  |  | .../.../... | .../.../... |  |  |\n|  |  |  |  |  | .../.../... | .../.../... |  |  |\n|  |  |  |  |  | .../.../... | .../.../... |  |  |\n\n5. Danh sách người thay đổi thông tin cơ bản (Nếu thay đổi cả hộ thì chuyển Phiếu hộ dân cư có sửa)",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 16,
+            "prev_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0004",
+            "next_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0006",
+            "char_count": 679,
+            "source_file": "mauphieu/MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "file_name": "MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0006",
+        "doc_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT",
+        "text": "|  |  |  |  | .../.../... | .../.../... |  |  |\n|  |  |  |  |  | .../.../... | .../.../... |  |  |\n\n5. Danh sách người thay đổi thông tin cơ bản (Nếu thay đổi cả hộ thì chuyển Phiếu hộ dân cư có sửa)\n\n| Hộ số | Họ và tên người có thay đổi thông tin | Số thẻ BHYT | Giới tính | Ngày sinh | Thông tin cũ | Thông tin mới | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  | .../.../... |  |  |  |\n|  |  |  |  | .../.../... |  |  |  |\n|  |  |  |  | .../.../... |  |  |  |\n|  |  |  |  | .../.../... |  |  |  |\n\n| Phiếu P0/CTV (tờ 3) | Người báo cáo……………………………………. |\n| --- | --- |\n\nPHIẾU THU TIN VỀ DÂN SỐ THÁNG……. NĂM…….\n\n| 6. Danh sách cặp vợ chồng mới sử dụng BPTT |  | 7. Danh sách vợ chồng thôi sử dụng BPTT |\n| --- | --- | --- |\n|  |  |  |\n\n8. Danh sách phụ nữ có thông tin mới về sự kiện thai sản (mang thai, sảy thai, phá thai)",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 16,
+            "prev_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0005",
+            "next_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0007",
+            "char_count": 852,
+            "source_file": "mauphieu/MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "file_name": "MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0007",
+        "doc_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT",
+        "text": "cặp vợ chồng mới sử dụng BPTT |  | 7. Danh sách vợ chồng thôi sử dụng BPTT |\n| --- | --- | --- |\n|  |  |  |\n\n8. Danh sách phụ nữ có thông tin mới về sự kiện thai sản (mang thai, sảy thai, phá thai)\n\n| Hộ số | Họ và tên phụ nữ | Số thẻ BHYT | Ngày sinh | Ngày có sự kiện | Sự kiện thai sản | Mang thai<br>lần thứ | Cộng số người có sự kiện thai sản |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  | .../.../... | .../.../... |  |  | Số phụ nữ mang thai đến cuối tháng (T): ….. |\n|  |  |  | .../.../... | .../.../... |  |  | Số phụ nữ phá thai/sảy thai trong tháng (N): |\n|  |  |  | .../.../... | .../.../... |  |  |  |\n|  |  |  | .../.../... | .../.../... |  |  |  |\n\n| Cán bộ dân số xã thẩm định<br>(ký ghi rõ họ và tên) | ………….. Ngày... tháng…… năm 20...<br>Cộng tác viên dân số lập phiếu<br>(Ký ghi rõ họ và tên) |\n| --- | --- |\n\nHƯỚNG DẪN GHI PHIẾU THU TIN VỀ DÂN SỐ (P0/CTV)",
+        "metadata": {
+            "chunk_index": 7,
+            "total_chunks": 16,
+            "prev_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0006",
+            "next_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0008",
+            "char_count": 891,
+            "source_file": "mauphieu/MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "file_name": "MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0008",
+        "doc_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT",
+        "text": "số xã thẩm định<br>(ký ghi rõ họ và tên) | ………….. Ngày... tháng…… năm 20...<br>Cộng tác viên dân số lập phiếu<br>(Ký ghi rõ họ và tên) |\n| --- | --- |\n\nHƯỚNG DẪN GHI PHIẾU THU TIN VỀ DÂN SỐ (P0/CTV)\n\nPhiếu thu tin sử dụng để ghi chép các thông tin cập nhật của hộ dân cư tại địa bàn. Các thông tin ghi chép vào Phiếu thu tin được chiết suất từ Sổ A0.\n\nNgười báo cáo: Ghi họ và tên cộng tác viên dân số\n\nNơi nhận: Ghi tên Trạm y tế xã hoặc Ban chỉ đạo công tác dân số cấp xã\n\nTháng ... năm……: Ghi tháng, năm báo cáo\n\nĐịa bàn... thôn ... xã.. Ghi tên địa danh địa bàn cộng tác viên dân số được phân công quản lý\n\nVí dụ: Báo cáo là tháng 8 năm 2022 của cộng tác viên dân số Nguyễn Văn An tại địa bàn 101 thôn La Tiến xã Nguyên Hoà, huyện Phù Cừ, tỉnh Hưng Yên như sau:",
+        "metadata": {
+            "chunk_index": 8,
+            "total_chunks": 16,
+            "prev_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0007",
+            "next_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0009",
+            "char_count": 765,
+            "source_file": "mauphieu/MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "file_name": "MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0009",
+        "doc_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT",
+        "text": "cộng tác viên dân số được phân công quản lý\n\nVí dụ: Báo cáo là tháng 8 năm 2022 của cộng tác viên dân số Nguyễn Văn An tại địa bàn 101 thôn La Tiến xã Nguyên Hoà, huyện Phù Cừ, tỉnh Hưng Yên như sau:\n\n| Phiếu P0/CTV (tờ 1)\t<br>(Ban hành kèm theo Thông tư số      /2022/TT-BYT)\t<br>Thời điểm lập: ngày 01 của tháng sau tháng báo cáo | Người báo cáo: Nguyễn Văn An<br>Nơi nhận:<br>Trạm Y tế xã Nguyên Hòa, huyện Phù Cừ |\n| --- | --- |\n| PHIẾU THU TIN VỀ DÂN SỐ THÁNG 8 NĂM 2022<br>Địa bàn 101.. Thôn LA TIẾN.. Xã NGUYÊN HÒA | PHIẾU THU TIN VỀ DÂN SỐ THÁNG 8 NĂM 2022<br>Địa bàn 101.. Thôn LA TIẾN.. Xã NGUYÊN HÒA |\n\nLưu ý: Báo cáo tháng 8 năm 2022, ngày gửi báo cáo là ngày 01 tháng 9 năm 2022.\n\n1. Danh sách trẻ sinh ra\n\nCách ghi: Ghi lần lượt các thông tin của từng trẻ sinh ra trên địa bàn.\n\nNguồn: Các thông tin tại Khoản 1 Mục III và Mục I (đã bổ sung thông tin của trẻ mới sinh) của Phiếu A0/CTV.",
+        "metadata": {
+            "chunk_index": 9,
+            "total_chunks": 16,
+            "prev_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0008",
+            "next_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0010",
+            "char_count": 900,
+            "source_file": "mauphieu/MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "file_name": "MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0010",
+        "doc_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT",
+        "text": "sách trẻ sinh ra\n\nCách ghi: Ghi lần lượt các thông tin của từng trẻ sinh ra trên địa bàn.\n\nNguồn: Các thông tin tại Khoản 1 Mục III và Mục I (đã bổ sung thông tin của trẻ mới sinh) của Phiếu A0/CTV.\n\nLưu ý: Để tránh nhầm lẫn, bỏ sót khi ghi trẻ mới sinh vào Phiếu P0/CTV, cộng tác viên dân số ghi tháng năm báo cáo vào bên cạnh họ và tên trẻ trong Phiếu A0/CTV.\n\nVí dụ: Ghi 8/2022 vào bên cạnh họ và tên Nguyễn Văn A, ngày sinh 11/7/2022.\n\n2. Danh sách người chết\n\nCách ghi: Ghi lần lượt thông tin của từng người chết trên địa bàn.\n\nNguồn: Các thông tin tại Khoản 2 Mục III và Mục I (đã gạch thông tin của người chết) của Phiếu A0/CTV.\n\nRiêng cột ghi chú để ghi các trường hợp người chết là chủ hộ, trẻ em chết ngay sau khi sinh, chết bà mẹ do thai sản hoặc các trường hợp đặc biệt khác.",
+        "metadata": {
+            "chunk_index": 10,
+            "total_chunks": 16,
+            "prev_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0009",
+            "next_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0011",
+            "char_count": 787,
+            "source_file": "mauphieu/MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "file_name": "MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0011",
+        "doc_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT",
+        "text": "thông tin của người chết) của Phiếu A0/CTV.\n\nRiêng cột ghi chú để ghi các trường hợp người chết là chủ hộ, trẻ em chết ngay sau khi sinh, chết bà mẹ do thai sản hoặc các trường hợp đặc biệt khác.\n\nLưu ý: Trường hợp người chết là chủ hộ, cộng tác viên dân số sửa thông tin cột “Quan hệ với chủ hộ” của Phiếu A0/CTV và gửi kèm theo Phiếu P0/CTV của tháng báo cáo; đối chiếu Mục 5. Danh sách người có thay đổi thông tin cơ bản.\n\n3. Danh sách người chuyển đến từ xã khác\n\nCách ghi: Ghi lần lượt thông tin của từng người chuyển đến hộ từ xã khác.\n\nNguồn: Các thông tin tại Khoản 4 Mục III và Mục I của Phiếu A0/CTV.\n\nLưu ý (1): Trường hợp phải gửi kèm Phiếu A0/CTV như đã hướng dẫn.\n\nLưu ý (2): Trường hợp người chuyển đến trong nội bộ xã, không ghi người chuyển đến vào Phiếu P0/CTV, thực hiện các việc như đã hướng dẫn.\n\nLưu ý (3): Trường hợp phụ nữ 15-49 tuổi có chồng chuyển đến hộ, thực hiện việc tách cặp hoặc tách hộ như đã hướng dẫn.",
+        "metadata": {
+            "chunk_index": 11,
+            "total_chunks": 16,
+            "prev_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0010",
+            "next_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0012",
+            "char_count": 936,
+            "source_file": "mauphieu/MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "file_name": "MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0012",
+        "doc_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT",
+        "text": "ghi người chuyển đến vào Phiếu P0/CTV, thực hiện các việc như đã hướng dẫn.\n\nLưu ý (3): Trường hợp phụ nữ 15-49 tuổi có chồng chuyển đến hộ, thực hiện việc tách cặp hoặc tách hộ như đã hướng dẫn.\n\nLưu ý (4): Trường hợp nhận con nuôi thì ghi như trường hợp chuyển đến.\n\n4. Danh sách người chuyển đi khỏi xã\n\nCách ghi: Ghi lần lượt thông tin của từng người chuyển đi khỏi xã.\n\nNguồn: Các thông tin tại khoản 5 Mục III và Mục I của Phiếu A0/CTV.\n\nLưu ý (1): Trường hợp phải gửi kèm Phiếu A0/CTV cũ như đã hướng dẫn.\n\nLưu ý (2): Trường hợp chuyển đi trong nội bộ xã, không ghi thông tin vào Phiếu P0/CTV, thực hiện các việc như đã hướng dẫn.\n\nLưu ý (3): Trường hợp chủ hộ chuyển đi, cộng tác viên dân số sửa thông tin cột “quan hệ với chủ hộ” của Phiếu A0/CTV và gửi kèm theo Phiếu P0/CTV của tháng báo cáo; đối chiếu Mục 5 danh sách người có thay đổi thông tin cơ bản.\n\n5. Danh sách người có thay đổi thông tin cơ bản",
+        "metadata": {
+            "chunk_index": 12,
+            "total_chunks": 16,
+            "prev_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0011",
+            "next_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0013",
+            "char_count": 914,
+            "source_file": "mauphieu/MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "file_name": "MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0013",
+        "doc_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT",
+        "text": "“quan hệ với chủ hộ” của Phiếu A0/CTV và gửi kèm theo Phiếu P0/CTV của tháng báo cáo; đối chiếu Mục 5 danh sách người có thay đổi thông tin cơ bản.\n\n5. Danh sách người có thay đổi thông tin cơ bản\n\nCách ghi: Ghi lần lượt thông tin của từng người có thay đổi thông tin gồm: Thay đổi họ và tên; ngày sinh; dân tộc; thay đổi tình trạng hôn nhân (kết hôn, ly hôn..); thay đổi tình trạng cư trú; nhận con nuôi; thay đổi quan hệ với chủ hộ; sửa sai, xoá do ghi thừa, thêm do ghi thiếu thông tin.\n\nNguồn: Các thông tin tại khoản 6 Mục III của Phiếu A0/CTV.\n\nLưu ý (1): Nếu sửa thông tin của cả hộ thì gửi Phiếu A0/CTV kèm theo.\n\nLưu ý (2): Trường hợp cặp nam, nữ đã kết hôn trong tháng mà có thông tin cả hai bên đã thực hiện dịch vụ tư vấn, khám sức khỏe trước khi kết hôn (thông tin ghi tại khoản 6 Mục III Sổ A0 hoặc nguồn thông tin tin cậy khác), CTV ghi thông tin “cặp này đã được tư vấn khám sức khỏe trước khi kết hôn) vào cột ghi chú.\n\n6. Danh sách cặp vợ chồng mới sử dụng BPTT",
+        "metadata": {
+            "chunk_index": 13,
+            "total_chunks": 16,
+            "prev_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0012",
+            "next_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0014",
+            "char_count": 979,
+            "source_file": "mauphieu/MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "file_name": "MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0014",
+        "doc_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT",
+        "text": "tại khoản 6 Mục III Sổ A0 hoặc nguồn thông tin tin cậy khác), CTV ghi thông tin “cặp này đã được tư vấn khám sức khỏe trước khi kết hôn) vào cột ghi chú.\n\n6. Danh sách cặp vợ chồng mới sử dụng BPTT\n\nCách ghi: Ghi lần lượt thông tin mới sử dụng theo từng BPTT của cặp vợ, chồng trong độ tuổi sinh đẻ (ghi người vợ từ 15-49 tuổi) tại địa bàn.\n\nNguồn: Các thông tin tại Mục II của Phiếu A0/CTV.\n\nLưu ý: BPTT dài hạn là biện pháp có tác dụng, hiệu quả tránh thai trên 12 tháng (triệt sản nam, triệt sản nữ, thuốc cấy tránh thai, đặt vòng tránh thai); BPTT ngắn hạn là biện pháp có tác dụng, hiệu quả tránh thai dưới 12 tháng (bao cao su, thuốc uống tránh thai, thuốc tiêm tránh thai và biện pháp tránh thai khác).\n\n7. Danh sách cặp vợ chồng thôi sử dụng BPTT\n\nCách ghi: Ghi lần lượt thông tin thôi sử dụng theo từng BPTT của cặp vợ chồng trong độ tuổi sinh đẻ (ghi người vợ tuổi từ 15-49 tuổi) trên địa bàn.\n\nNguồn: Các thông tin tại Mục II của Phiếu A0/CTV.",
+        "metadata": {
+            "chunk_index": 14,
+            "total_chunks": 16,
+            "prev_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0013",
+            "next_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0015",
+            "char_count": 954,
+            "source_file": "mauphieu/MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "file_name": "MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0015",
+        "doc_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT",
+        "text": "ghi: Ghi lần lượt thông tin thôi sử dụng theo từng BPTT của cặp vợ chồng trong độ tuổi sinh đẻ (ghi người vợ tuổi từ 15-49 tuổi) trên địa bàn.\n\nNguồn: Các thông tin tại Mục II của Phiếu A0/CTV.\n\nLưu ý (1): Trường hợp cặp vợ chồng khi chuyển từ BPTT cũ (ví dụ sử dụng thuốc uống tránh thai) để sử dụng BPTT mới (ví dụ đặt vòng tránh thai) thì ghi đồng thời Mục 6 và Mục 7.\n\nLưu ý (2): Trường hợp thay vòng tránh thai hoặc thay que cấp tránh thai thì ghi rõ vào mục 6 theo hướng dẫn.\n\n8. Danh sách phụ nữ có thông tin về sự kiện thai sản\n\nCách ghi: Ghi lần lượt thông tin của từng phụ nữ trên địa bàn có thông tin về sự kiện thai sản như bắt đầu mang thai, sinh con, phá thai, sảy thai/thai chết lưu.\n\nCột. Sự kiện thai sản: Ghi phụ nữ mới xuất hiện các mã sau trong tháng\n\n+ Ghi mã “T”: Trường hợp bà mẹ mang thai (tháng mà thu tin được)\n\n+ Ghi mã “S”: Trường hợp bà mẹ sinh con\n\n+ Ghi mã “N”: Trường hợp phá thai, sảy thai/thai chết lưu (không sinh con)",
+        "metadata": {
+            "chunk_index": 15,
+            "total_chunks": 16,
+            "prev_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0014",
+            "next_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0016",
+            "char_count": 953,
+            "source_file": "mauphieu/MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "file_name": "MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0016",
+        "doc_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT",
+        "text": "sau trong tháng\n\n+ Ghi mã “T”: Trường hợp bà mẹ mang thai (tháng mà thu tin được)\n\n+ Ghi mã “S”: Trường hợp bà mẹ sinh con\n\n+ Ghi mã “N”: Trường hợp phá thai, sảy thai/thai chết lưu (không sinh con)\n\nCột Mang thai lần thứ: Sử dụng khoản 3 Mục III Phiếu A0/CTV để ghi\n\nCột Cộng số người có sự kiện thai sản: Số liệu có được bằng cách đếm các bà mẹ hiện đang có các mã sau đã ghi trong Phiếu A0/CTV.\n\n+ Số phụ nữ mang thai đến cuối tháng: Mã “T”.\n\n+ Số phụ nữ phá thai, sảy thai/thai chết lưu trong tháng: Mã “N”.\n\nNguồn: Các thông tin tại Mục II của Phiếu A0/CTV.",
+        "metadata": {
+            "chunk_index": 16,
+            "total_chunks": 16,
+            "prev_chunk_id": "mauphieu_MAU_P0-CTV_PHU_LUC_01_2022-TT-BYT_chunk_0015",
+            "next_chunk_id": null,
+            "char_count": 562,
+            "source_file": "mauphieu/MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "file_name": "MAU P0-CTV_PHU LUC 01_2022-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:49",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

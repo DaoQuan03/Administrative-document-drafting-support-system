@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "tokhai_PHU_LUC_I-26-2019-TT-BNNPTNT_chunk_0001",
+        "doc_id": "tokhai_PHU_LUC_I-26-2019-TT-BNNPTNT",
+        "text": "PHỤ LỤC I\n\nMẪU TỜ KHAI KỸ THUẬT MẪU GIỐNG CÂY TRỒNG\n(Ban hành kèm theo Thông tư số 26 /2019/TT-BNNPTNT ngày 27 tháng 12 năm 2019 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn)\n\nTỜ KHAI KỸ THUẬT MẪU GIỐNG CÂY TRỒNG\n\n1. Loài cây trồng:\n\n2. Tên giống:\n\n- Tên đăng ký chính thức:\n\n- Tên gốc nếu là giống nhập nội:\n\n- Tên gọi khác (nếu có):\n\n3. Tổ chức, cá nhân có giống:\n\n- Tên tổ chức, cá nhân:\n\n- Địa chỉ:\n\n- Điện thoại:                                          Fax:                              E-mail:\n\n4. Họ và tên, địa chỉ tác giả giống:\n\n1.\n\n2.\n\n5. Nguồn gốc giống: giống nhập nội/giống chọn tạo trong nước.\n\n6. Phương pháp chọn tạo:\n\n- Công thức lai (tên, nguồn gốc dòng/giống bố mẹ kể cả dòng phục hồi, dòng duy trì, ...):\n\n- Xử lí đột biến (ghi tên giống, nguồn gốc giống dùng để xử lý đột biến):\n\n- Phương pháp khác:\n\n7. Phương pháp nhân giống (hữu tính/vô tính):\n\n8. Các tính trạng đặc trưng chính của giống (để phân biệt với các giống khác trong cùng loài):",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_PHU_LUC_I-26-2019-TT-BNNPTNT_chunk_0002",
+            "char_count": 973,
+            "source_file": "tokhai/PHU LUC I-26-2019-TT-BNNPTNT.doc",
+            "file_name": "PHU LUC I-26-2019-TT-BNNPTNT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:07:32",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_PHU_LUC_I-26-2019-TT-BNNPTNT_chunk_0002",
+        "doc_id": "tokhai_PHU_LUC_I-26-2019-TT-BNNPTNT",
+        "text": "gốc giống dùng để xử lý đột biến):\n\n- Phương pháp khác:\n\n7. Phương pháp nhân giống (hữu tính/vô tính):\n\n8. Các tính trạng đặc trưng chính của giống (để phân biệt với các giống khác trong cùng loài):\n\n|  | Ngày          tháng        năm<br>Đại diện tổ chức/cá nhân có mẫu giống<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "tokhai_PHU_LUC_I-26-2019-TT-BNNPTNT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 325,
+            "source_file": "tokhai/PHU LUC I-26-2019-TT-BNNPTNT.doc",
+            "file_name": "PHU LUC I-26-2019-TT-BNNPTNT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:07:32",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

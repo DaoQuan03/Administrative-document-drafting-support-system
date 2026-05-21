@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_01_08-2003-TT-BTC_chunk_0001",
+        "doc_id": "tokhai_MAU_01_08-2003-TT-BTC",
+        "text": "| TỜ KHAI ĐĂNG KÝ CẤP MÃ SỐ THUẾ | Mẫu số: 06-ĐK-TCT |\n| --- | --- |\n| TAX CODE REGISTRATION FORM | Form No:06-ĐK-TCT |\n\n| CƠ QUAN THUẾ GHI<br>FOR TAX OFFICE ONLY | CƠ QUAN THUẾ GHI<br>FOR TAX OFFICE ONLY |\n| --- | --- |\n| Mã số | GTGT |\n|  |  |\n\n| 1. Tên ơ quan đại diện: <br>Name of Mission |\n| --- |\n\n| 2. Trụ sở tại Việt Nam:<br>Address in Vietnam |\n| --- |\n| Số nhà, đường phố:<br>Number, Street name : |\n| Quận/huyện:<br>District |\n| Tỉnh/thành phố:<br>Province/City |\n| Điện thoại:<br>Tel: |\n| Fax: |\n\n| 3. Tài khoản Ngân hàng, Kho bạc:<br>Bank or Treasury Accounts | 3. Tài khoản Ngân hàng, Kho bạc:<br>Bank or Treasury Accounts | 3. Tài khoản Ngân hàng, Kho bạc:<br>Bank or Treasury Accounts |\n| --- | --- | --- |\n| Số:<br>Account number | Tại <br>Name of Bank or Treasury |  |\n| Số: <br>Account number | Tại <br>Name of Bank or Treasury |  |\n\n| 4. Tài liệu kèm theo:<br>Attachments |\n| --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_01_08-2003-TT-BTC_chunk_0002",
+            "char_count": 901,
+            "source_file": "tokhai/MAU 01_08-2003-TT-BTC.doc",
+            "file_name": "MAU 01_08-2003-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:35:41",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_01_08-2003-TT-BTC_chunk_0002",
+        "doc_id": "tokhai_MAU_01_08-2003-TT-BTC",
+        "text": "--- | --- | --- |\n| Số:<br>Account number | Tại <br>Name of Bank or Treasury |  |\n| Số: <br>Account number | Tại <br>Name of Bank or Treasury |  |\n\n| 4. Tài liệu kèm theo:<br>Attachments |\n| --- |\n\n| Trưởng Cơ quan đại diện hoặc <br>Phó trưởng Cơ quan đại diện<br>Head or Deputy Head of Mission | Ngày.../.../...<br>Date.../.../... |\n| --- | --- |\n|  | Chữ ký<br>Signature |\n\n| Vụ Lễ tân Bộ Ngoại giao xác nhận Cơ quan đại diện nêu trên thuộc đối tượng được hoàn thuế GTGT.<br>The Protocol Department - MOFA certifies that the above- mentioned Mission is entitled to VAT refund.<br>Hà Nội, ngày tháng năm <br>HaNoi, date month year<br>Vụ trưởng Vụ Lễ tân<br>Director of Protocol Department |\n| --- |\n\n**************************************************\n\nXÁC NHẬN CỦA CƠ QUAN THUẾ\n\n| Mục lục ngân sách: |  |\n| --- | --- |\n\n| Ngày nhận được tờ khai:.../.../ | Ngày kiểm tra tờ khai:.../.../...<br>Người kiểm tra (ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "tokhai_MAU_01_08-2003-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 944,
+            "source_file": "tokhai/MAU 01_08-2003-TT-BTC.doc",
+            "file_name": "MAU 01_08-2003-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:35:41",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

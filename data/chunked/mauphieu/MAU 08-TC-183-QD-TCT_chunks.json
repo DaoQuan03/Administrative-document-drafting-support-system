@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_08-TC-183-QD-TCT_chunk_0001",
+        "doc_id": "mauphieu_MAU_08-TC-183-QD-TCT",
+        "text": "Mẫu số 08/TC\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\n………., ngày ... tháng ... năm ...\n\nPHIẾU XÁC NHẬN THÔNG TIN\n\n1. Họ và tên1: ………………………………………………………………………..\n\n2. Địa chỉ2: …………………………………………………………………………..\n\n3. Số điện thoại (nếu có): ………………………………………………………….\n\n4. Là người viết đơn3: Đúng □                                    Sai □\n\n5. Phân loại đơn4: Khiếu nại □      Tố cáo □      Kiến nghị □             Phản ánh □\n\n6. Nội dung đơn:\n\nThống nhất với các nội dung đơn đề nghị xác nhận: Có □                      Không □\n\nNội dung đơn5:\n\nNội dung 1: …………………………………………………………………………………..\n\nNội dung 2: …………………………………………………………………………………..\n\n7. Tài liệu, bằng chứng liên quan (nếu có) ………………………………………………..\n\nTrên đây là nội dung xác nhận thông tin của tôi. Kính gửi Quý Cơ quan để làm căn cứ xem xét, giải quyết đơn theo quy định./.\n\n|  | KÝ XÁC NHẬN<br>(ký, ghi rõ họ, tên) |\n| --- | --- |\n\n___\n\n1 Họ và tên người nhận được Phiếu xác nhận thông tin",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_08-TC-183-QD-TCT_chunk_0002",
+            "char_count": 974,
+            "source_file": "mauphieu/MAU 08-TC-183-QD-TCT.doc",
+            "file_name": "MAU 08-TC-183-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:53:43",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_08-TC-183-QD-TCT_chunk_0002",
+        "doc_id": "mauphieu_MAU_08-TC-183-QD-TCT",
+        "text": "tôi. Kính gửi Quý Cơ quan để làm căn cứ xem xét, giải quyết đơn theo quy định./.\n\n|  | KÝ XÁC NHẬN<br>(ký, ghi rõ họ, tên) |\n| --- | --- |\n\n___\n\n1 Họ và tên người nhận được Phiếu xác nhận thông tin\n\n2 Địa chỉ người nhận được Phiếu xác nhận thông tin\n\n3 Điền vào ô phù hợp\n\n4 Điền vào ô phù hợp\n\n5 Trường hợp không thống nhất với các nội dung đề nghị xác nhận thì viết lại ngắn gọn nội dung đề nghị cơ quan thuế xem xét giải quyết.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_08-TC-183-QD-TCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 430,
+            "source_file": "mauphieu/MAU 08-TC-183-QD-TCT.doc",
+            "file_name": "MAU 08-TC-183-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:53:43",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

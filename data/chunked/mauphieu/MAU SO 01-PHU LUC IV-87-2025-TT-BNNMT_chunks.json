@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-PHU_LUC_IV-87-2025-TT-BNNMT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_01-PHU_LUC_IV-87-2025-TT-BNNMT",
+        "text": "Mẫu số 01. Phiếu yêu cầu cung cấp thông tin, dữ liệu địa chất, khoáng sản\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐịa danh, ngày... tháng... năm ...\n\nKính gửi:\n\n1. Tên tổ chức, cá nhân yêu cầu cung cấp thông tin, dữ liệu:\n\nĐại diện là ông (bà):\n\nSố CCCD/Hộ chiếu                    cấp ngày    /     /    Tại\n\n2. Địa chỉ liên hệ:\n\n3. Số điện thoại                                     E-mail:\n\n4. Danh mục và nội dung dữ liệu cần cung cấp:\n\n5. Mục đích sử dụng dữ liệu:\n\n6. Hình thức khai thác, sử dụng:\n\n7. Phương thức nhận kết quả:\n\n8. Cam kết sử dụng thông tin, dữ liệu đúng mục đích, không cung cấp tài liệu cho bên không liên quan đến nhiệm vụ. Nếu vi phạm tôi xin chịu hoàn toàn trách nhiệm trước pháp luật.\n\n| XÁC NHẬN CỦA TỔ CHỨC NƠI ĐANG LÀM VIỆC, HỌC TẬP<br>**(Ký xác nhận, đóng dấu) | NGƯỜI YÊU CẦU<br>*(Ký tên và ghi rõ họ và tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_01-PHU_LUC_IV-87-2025-TT-BNNMT_chunk_0002",
+            "char_count": 898,
+            "source_file": "mauphieu/MAU SO 01-PHU LUC IV-87-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 01-PHU LUC IV-87-2025-TT-BNNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:36:04",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-PHU_LUC_IV-87-2025-TT-BNNMT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_01-PHU_LUC_IV-87-2025-TT-BNNMT",
+        "text": "tôi xin chịu hoàn toàn trách nhiệm trước pháp luật.\n\n| XÁC NHẬN CỦA TỔ CHỨC NƠI ĐANG LÀM VIỆC, HỌC TẬP<br>**(Ký xác nhận, đóng dấu) | NGƯỜI YÊU CẦU<br>*(Ký tên và ghi rõ họ và tên) |\n| --- | --- |\n\n* Trường hợp là cơ quan, tổ chức yêu cầu cung cấp tài liệu thì thủ trưởng cơ quan phải ký, ghi rõ họ tên, đóng dấu; là cá nhân phải ký, ghi rõ họ tên.\n\n** Trường hợp là cá nhân nước ngoài tại Việt Nam thì tổ chức, doanh nghiệp nơi người đó đang làm việc ký xác nhận, đóng dấu; đối với các chuyên gia, thực tập sinh là người nước ngoài đang làm việc cho các chương trình, dự án tại các bộ, ngành, địa phương hoặc học tập tại các cơ sở đào tạo tại Việt Nam thì phải được cơ quan có thẩm quyền của bộ, ngành, địa phương hoặc các cơ sở đào tạo đó ký xác nhận, đóng dấu.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-PHU_LUC_IV-87-2025-TT-BNNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 764,
+            "source_file": "mauphieu/MAU SO 01-PHU LUC IV-87-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 01-PHU LUC IV-87-2025-TT-BNNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:36:04",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

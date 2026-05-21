@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_02-QD-11-2022-QD-TTg_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_02-QD-11-2022-QD-TTg",
+        "text": "Mẫu số 02\n\nNGÂN HÀNG CHÍNH SÁCH XÃ HỘI\n\nBÁO CÁO KẾT QUẢ CHO VAY CƠ SỞ GIÁO DỤC MẦM NON, TIỂU HỌC NGOÀI CÔNG LẬP\n\nTháng ... năm ...\n\nĐơn vị: triệu đồng, khách hàng, HSSV",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_02-QD-11-2022-QD-TTg_chunk_0002",
+            "char_count": 168,
+            "source_file": "maubaocao/MAU SO 02-QD-11-2022-QD-TTg.doc",
+            "file_name": "MAU SO 02-QD-11-2022-QD-TTg.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:26:50",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_02-QD-11-2022-QD-TTg_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_02-QD-11-2022-QD-TTg",
+        "text": "số 02\n\nNGÂN HÀNG CHÍNH SÁCH XÃ HỘI\n\nBÁO CÁO KẾT QUẢ CHO VAY CƠ SỞ GIÁO DỤC MẦM NON, TIỂU HỌC NGOÀI CÔNG LẬP\n\nTháng ... năm ...\n\nĐơn vị: triệu đồng, khách hàng, HSSV\n\n| TT | Đối tượng thụ hưởng | Doanh số cho vay | Doanh số cho vay | Doanh số thu nợ | Doanh số thu nợ | Doanh số xóa nợ | Doanh số xóa nợ | TỔNG DƯ NỢ | Tổng dư nợ phân theo tính chất nợ | Tổng dư nợ phân theo tính chất nợ | Tổng dư nợ phân theo tính chất nợ | Tổng dư nợ phân theo thời hạn | Tổng dư nợ phân theo thời hạn | Tổng dư nợ phân theo thời hạn | Số khách hàng còn dư nợ | Lũy kế số lượt khách hàng vay vốn từ đầu năm |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | Đối tượng thụ hưởng | Trong kỳ | Lũy kế từ đầu năm | Trong kỳ | Lũy kế từ đầu năm | Trong kỳ | Lũy kế từ đầu năm | TỔNG DƯ NỢ | Nợ trong hạn | Nợ quá hạn | Nợ khoanh | Ngắn hạn | Trung hạn | Dài hạn | Số khách hàng còn dư nợ | Lũy kế số lượt khách hàng vay vốn từ đầu năm |\n|  | A | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |\n| 1 | Cơ sở giáo dục mầm non độc lập dân lập, tư thục (gồm: nhóm trẻ độc lập, lớp mẫu giáo độc lập, lớp mầm non độc lập) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 | Trường mầm non dân lập, tư thục (gồm: nhà trẻ; trường mẫu giáo; trường mầm non dân lập, tư thục) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3 | Trường tiểu học tư thục |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Tổng cộng |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_SO_02-QD-11-2022-QD-TTg_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 1511,
+            "source_file": "maubaocao/MAU SO 02-QD-11-2022-QD-TTg.doc",
+            "file_name": "MAU SO 02-QD-11-2022-QD-TTg.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:26:50",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

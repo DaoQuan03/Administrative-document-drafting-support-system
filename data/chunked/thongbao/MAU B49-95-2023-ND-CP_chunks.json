@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_B49-95-2023-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_B49-95-2023-ND-CP",
+        "text": "Mẫu B49\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\n…(1)…., ngày…tháng…năm…\n\nTHÔNG BÁO\n\nVề việc tổ chức quyên góp\n\nKính gửi: …………(2)…………….\n\nTên (chữ in hoa):……………………..…………(3)...\n\nĐịa chỉ:...\n\nNgười đại diện...\n\n- Họ và tên:...\n\n- Tên gọi trong tôn giáo (nếu có):...\n\n- Số CMTND/CCCD:...\n\n- Chức vụ, phẩm vị (nếu có):...\n\nThông báo về việc tổ chức quyên góp với các nội dung sau:\n\nMục đích quyên góp:...\n\nĐịa bàn tổ chức quyên góp:...\n\nCách thức quyên góp:...\n\nThời gian thực hiện quyên góp:...\n\nPhương thức quản lý và sử dụng tài sản được quyên góp:...\n\n...\n\n...\n\n...\n\nHình thức tổ chức (4)...\n\n|  | NGƯỜI ĐẠI DIỆN (3)<br>(Chữ ký, dấu) |\n| --- | --- |\n\n(1) Địa danh nơi có cơ sở tín ngưỡng, tổ chức tôn giáo hoặc tổ chức tôn giáo trực thuộc.\n\n(2) Ủy ban nhân dân cấp tỉnh đối với trường hợp tổ chức quyên góp vượt ra ngoài địa bàn một xã; Ủy ban nhân dân cấp xã đối với trường hợp tổ chức quyên góp trên địa bàn xã.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_B49-95-2023-ND-CP_chunk_0002",
+            "char_count": 952,
+            "source_file": "thongbao/MAU B49-95-2023-ND-CP.doc",
+            "file_name": "MAU B49-95-2023-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:29:00",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_B49-95-2023-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_B49-95-2023-ND-CP",
+        "text": "chức tôn giáo trực thuộc.\n\n(2) Ủy ban nhân dân cấp tỉnh đối với trường hợp tổ chức quyên góp vượt ra ngoài địa bàn một xã; Ủy ban nhân dân cấp xã đối với trường hợp tổ chức quyên góp trên địa bàn xã.\n\n(3) Cơ sở tín ngưỡng, tổ chức tôn giáo hoặc tổ chức tôn giáo trực thuộc. Đối với tổ chức tôn giáo, tổ chức tôn giáo trực thuộc, người đại diện phải ký tên và đóng dấu.\n\n(4) Trực tiếp hoặc trực tuyến; kết hợp cả trực tiếp và trực tuyến.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_B49-95-2023-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 436,
+            "source_file": "thongbao/MAU B49-95-2023-ND-CP.doc",
+            "file_name": "MAU B49-95-2023-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:29:00",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

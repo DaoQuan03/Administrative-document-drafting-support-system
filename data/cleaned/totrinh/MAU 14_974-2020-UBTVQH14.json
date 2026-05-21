@@ -1,0 +1,10 @@
+{
+    "content": "### Bảng tính: Sheet1\n\n|  |  |  |  |  | MẪU BIỂU SỐ 14 |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| DỰ KIẾN DƯ NỢ CÔNG, NỢ NƯỚC NGOÀI CỦA QUỐC GIA GIAI ĐOẠN 03 NĂM … |  |  |  |  |  |  |  |  |\n|  |  |  |  |  | Đơn vị: Tỷ đồng |  |  |  |\n| STT | NỘI DUNG | ƯỚC THỰC HIỆN NĂM <br>N-1 | DỰ TOÁN NGÂN SÁCH NĂM N <br>(1) | DỰ KIẾN NGÂN SÁCH NĂM <br>N+1 | DỰ KIẾN NGÂN SÁCH NĂM <br>N+2 |  |  |  |\n| A | B | 1 | 2 | 3 | 4 |  |  |  |\n| I | Nợ công |  |  |  |  |  |  |  |\n|  | Dư nợ |  |  |  |  |  |  |  |\n|  | Tỷ lệ so với GDP (%) |  |  |  |  |  |  |  |\n|  | Trong đó: |  |  |  |  |  |  |  |\n| 1 | Nợ Chính phủ |  |  |  |  |  |  |  |\n|  | Dư nợ |  |  |  |  |  |  |  |\n|  | Tỷ lệ so với GDP (%) |  |  |  |  |  |  |  |\n| 2 | Nợ được Chính phủ bảo lãnh |  |  |  |  |  |  |  |\n|  | Dư nợ |  |  |  |  |  |  |  |\n|  | Tỷ lệ so với GDP (%) |  |  |  |  |  |  |  |\n| 3 | Nợ Chính quyền địa phương |  |  |  |  |  |  |  |\n|  | Dư nợ |  |  |  |  |  |  |  |\n|  | Tỷ lệ so với GDP (%) |  |  |  |  |  |  |  |\n| II | Nợ nước ngoài của quốc gia |  |  |  |  |  |  |  |\n|  | Dư nợ |  |  |  |  |  |  |  |\n|  | Tỷ lệ so với GDP (%) |  |  |  |  |  |  |  |\n| III | Nghĩa vụ trả nợ trực tiếp của Chính phủ so với thu NSNN (%) |  |  |  |  |  |  |  |\n|  | Ghi chú: |  |  |  |  |  |  |  |\n|  | (1) Năm N là năm dự toán ngân sách; theo đó, các năm N-1, N+1 và N+2 là năm trước, năm sau và năm sau nữa của năm dự toán ngân sách |  |  |  |  |  |  |  |",
+    "metadata": {
+        "source_file": "totrinh/MAU 14_974-2020-UBTVQH14.xls",
+        "file_name": "MAU 14_974-2020-UBTVQH14.xls",
+        "folder": "totrinh",
+        "original_extension": ".xls",
+        "cleaned_at": "2026-05-20T22:12:39"
+    }
+}

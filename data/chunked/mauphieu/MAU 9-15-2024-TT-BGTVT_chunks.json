@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_9-15-2024-TT-BGTVT_chunk_0001",
+        "doc_id": "mauphieu_MAU_9-15-2024-TT-BGTVT",
+        "text": "Mẫu 9. Phiếu nhận xét hồ sơ đề tài khoa học và công nghệ cấp bộ\n\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nPHIẾU NHẬN XÉT\n\nHỒ SƠ ĐỀ TÀI KHOA HỌC VÀ CÔNG NGHỆ CẤP BỘ\n\n1. Họ và tên thành viên Hội đồng:\n\n2. Tên đề tài:\n\n3. Tên tổ chức, cá nhân đăng ký tham gia tuyển chọn:\n\n4. Ý kiến nhận xét của thành viên hội đồng:\n\n4.1. Tổng quan tình hình nghiên cứu thuộc lĩnh vực đề tài\n\n4.2. Tính cấp thiết của đề tài\n\n4.3. Mục tiêu đề tài\n\n4.4. Cách tiếp cận và phương pháp nghiên cứu\n\n4.5. Đối tượng và phạm vi nghiên cứu\n\n4.6. Nội dung nghiên cứu và tiến độ thực hiện\n\n4.7. Sản phẩm của đề tài\n\n4.8. Phương thức chuyển giao, địa chỉ ứng dụng, tác động và lợi ích mang lại của kết quả nghiên cứu:\n\n4.9. Tiềm lực của Tổ chức chủ trì đề tài\n\n4.10. Năng lực của chủ nhiệm đề tài, khả năng đáp ứng của chủ nhiệm đề tài theo quy định tại Điều 5 của Thông tư.\n\n4.11. Năng lực của các thành viên tham gia đề tài, khả năng đáp ứng theo quy định tại Điều 5 của Thông tư.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_9-15-2024-TT-BGTVT_chunk_0002",
+            "char_count": 992,
+            "source_file": "mauphieu/MAU 9-15-2024-TT-BGTVT.doc",
+            "file_name": "MAU 9-15-2024-TT-BGTVT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:08:31",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_9-15-2024-TT-BGTVT_chunk_0002",
+        "doc_id": "mauphieu_MAU_9-15-2024-TT-BGTVT",
+        "text": "nhiệm đề tài, khả năng đáp ứng của chủ nhiệm đề tài theo quy định tại Điều 5 của Thông tư.\n\n4.11. Năng lực của các thành viên tham gia đề tài, khả năng đáp ứng theo quy định tại Điều 5 của Thông tư.\n\n4.12. Tính hợp lý của dự toán kinh phí đề nghị.\n\n5. Kiến nghị của người nhận xét: (đánh dấu X)\n\n□ Đề nghị thực hiện\n\n□ Đề nghị không thực hiện\n\n□ Đề nghị thực hiện với các điều chỉnh nêu dưới đây:\n\n6. Ý kiến khác:\n\n|  | Ngày       tháng      năm ….<br>(ký và ghi rõ họ  tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_9-15-2024-TT-BGTVT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 490,
+            "source_file": "mauphieu/MAU 9-15-2024-TT-BGTVT.doc",
+            "file_name": "MAU 9-15-2024-TT-BGTVT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:08:31",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

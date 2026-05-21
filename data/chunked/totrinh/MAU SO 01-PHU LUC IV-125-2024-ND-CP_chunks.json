@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_SO_01-PHU_LUC_IV-125-2024-ND-CP_chunk_0001",
+        "doc_id": "totrinh_MAU_SO_01-PHU_LUC_IV-125-2024-ND-CP",
+        "text": "Mẫu 01. Tờ trình đề nghị thành lập hoặc cho phép thành lập tổ chức kiểm định chất lượng giáo dục\n\n| ….(1)……<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số:……./….-……. | …., ngày …. tháng ... năm ... |\n\nKính gửi :…………….(2)…………………..\n\n1. Thông tin của tổ chức, cá nhân đề nghị thành lập hoặc cho phép thành lập tổ chức kiểm định chất lượng giáo dục:………..(3)………………\n\n2. Lý do đề nghị thành lập hoặc cho phép thành lập: ………………\n\n3. Thông tin về tổ chức kiểm định chất lượng đề nghị thành lập hoặc cho phép thành lập:\n\n- Tên: ……………………………………………………………\n\nTên giao dịch quốc tế bằng tiếng Anh (nếu có): ………………….\n\n- Địa chỉ trụ sở: ……………………………………………………..\n\nSố điện thoại: ………………………………Fax: ………………\n\nWebsite (nếu có): ………………Email: …………………………\n\n- Chức năng, nhiệm vụ: …………………………………………\n\n- Thông tin về người dự kiến là giám đốc trung tâm: ……………\n\nKính đề nghị……………… (2) ………………xem xét, quyết định.\n\n(Xin gửi kèm theo: ……………… (4) ………………)",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_SO_01-PHU_LUC_IV-125-2024-ND-CP_chunk_0002",
+            "char_count": 984,
+            "source_file": "totrinh/MAU SO 01-PHU LUC IV-125-2024-ND-CP.doc",
+            "file_name": "MAU SO 01-PHU LUC IV-125-2024-ND-CP.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:16:26",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_SO_01-PHU_LUC_IV-125-2024-ND-CP_chunk_0002",
+        "doc_id": "totrinh_MAU_SO_01-PHU_LUC_IV-125-2024-ND-CP",
+        "text": "Chức năng, nhiệm vụ: …………………………………………\n\n- Thông tin về người dự kiến là giám đốc trung tâm: ……………\n\nKính đề nghị……………… (2) ………………xem xét, quyết định.\n\n(Xin gửi kèm theo: ……………… (4) ………………)\n\n| Nơi nhận:<br>- Như trên;<br>- ….<br>- Lưu: | QUYỀN HẠN/ CHỨC VỤ NGƯỜI KÝ<br>(Chữ ký, dấu) |\n| --- | --- |\n\nGhi chú:\n\n(1) Tên tổ chức đề nghị thành lập hoặc cho phép thành lập tổ chức kiểm định chất lượng giáo dục. Nếu là cá nhân thì không cần ghi mục này.\n\n(2) Cơ quan có thẩm quyền thành lập hoặc cho phép thành lập tổ chức kiểm định chất lượng giáo dục.\n\n(3) Ghi rõ thông tin về tổ chức, cá nhân đề nghị thành lập hoặc cho phép thành lập tổ chức kiểm định chất lượng giáo dục.\n\n(4) Các tài liệu gửi kèm theo Tờ trình.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_SO_01-PHU_LUC_IV-125-2024-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 709,
+            "source_file": "totrinh/MAU SO 01-PHU LUC IV-125-2024-ND-CP.doc",
+            "file_name": "MAU SO 01-PHU LUC IV-125-2024-ND-CP.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:16:26",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

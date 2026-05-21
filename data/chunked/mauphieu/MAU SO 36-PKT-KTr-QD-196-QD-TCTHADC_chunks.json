@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_36-PKT-KTr-QD-196-QD-TCTHADC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_36-PKT-KTr-QD-196-QD-TCTHADC",
+        "text": "Mẫu số 36/PKT-KTr\n\n| …………(1) …………<br>ĐOÀN KIỂM TRA | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>   Độc lập - Tự do - Hạnh phúc<br>Địa danh, ngày….. tháng…. năm…… |\n| --- | --- |\n\nPHIẾU KIỂM TRA\n\nĐối với …… (2) theo Quyết định kiểm tra số…../QĐ-TCTHADS/CTHADS/CCTHADS ngày….\n\n1. Họ tên người tiến hành kiểm tra: …………………………………\n\n2. Họ tên người trực tiếp thực hiện công việc được kiểm tra: (ví dụ: Chấp hành viên Nguyễn Văn A)\n\n3. Nội dung kiểm tra:\n\n- Công tác cần kiểm tra: …Công tác tổ chức cán bộ/giải quyết khiếu nại, tố cáo/nghiệp vụ tổ chức thi hành án dân sự/công tác văn phòng…hoặc vụ việc cụ thể hoặc kiểm tra nội bộ.\n\n- Ghi chi tiết nội dung kiểm tra của lĩnh vực.\n\nVí dụ: Nếu kiểm tra nghiệp vụ tổ chức thi hành án dân sự thì nội dung kiểm tra chi tiết là việc ra quyết định thi hành án, việc hoãn thi hành án, …\n\nNếu kiểm tra công tác tổ chức cán bộ thì nội dung kiểm tra chi tiết là: việc tuyển dụng, bổ nhiệm, luân chuyển, ….",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_36-PKT-KTr-QD-196-QD-TCTHADC_chunk_0002",
+            "char_count": 932,
+            "source_file": "mauphieu/MAU SO 36-PKT-KTr-QD-196-QD-TCTHADC.doc",
+            "file_name": "MAU SO 36-PKT-KTr-QD-196-QD-TCTHADC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:18:28",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_36-PKT-KTr-QD-196-QD-TCTHADC_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_36-PKT-KTr-QD-196-QD-TCTHADC",
+        "text": "dung kiểm tra chi tiết là việc ra quyết định thi hành án, việc hoãn thi hành án, …\n\nNếu kiểm tra công tác tổ chức cán bộ thì nội dung kiểm tra chi tiết là: việc tuyển dụng, bổ nhiệm, luân chuyển, ….\n\nĐối với mỗi sổ, hồ sơ, tài liệu được kiểm tra cần nêu khái quát thông tin của hồ sơ, sổ, tài liệu được kiểm tra (ví dụ: tên/loại/ số hồ sơ/ số Quyết định thi hành án; ngày, tháng, năm ban hành; tên đương sự….)\n\n5. Kết quả kiểm tra:\n\n- Đánh giá, nhận xét cụ thể từng nội dung kiểm tra chi tiết nêu trên của từng hồ sơ, sổ, tài liệu được kiểm tra (đánh giá, nhận xét về nội dung, hình thức hồ sơ, tài liệu, sổ được kiểm tra; trình tự, thủ tục thực hiện,…)\n\n- Trường hợp hồ sơ có sai phạm phải nêu rõ vi phạm quy định pháp luật nào.\n\n(Ghi chú: Nội dung kiểm tra, kết quả kiểm tra có thể thể hiện dưới dạng cột, mục)\n\n| ĐƠN VỊ/NGƯỜI ĐƯỢC KIỂM TRA<br>(Ký và ghi rõ họ, tên) | NGƯỜI TIẾN HÀNH KIỂM TRA<br>(Ký và ghi rõ họ, tên) |\n| --- | --- |\n\nTên cơ quan ra quyết định kiểm tra\n\nĐối tượng được kiểm tra",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_36-PKT-KTr-QD-196-QD-TCTHADC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 998,
+            "source_file": "mauphieu/MAU SO 36-PKT-KTr-QD-196-QD-TCTHADC.doc",
+            "file_name": "MAU SO 36-PKT-KTr-QD-196-QD-TCTHADC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:18:28",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "content": "Biểu mẫu BM01-QT03.06/HCLS: Phiếu thực hiện PCR gắn huỳnh quang cho giải trình tự (Cycle Sequencing)\n\nPHIẾU THỰC HIỆN PCR GẮN HUỲNH QUANG CHO GIẢI TRÌNH TỰ (CYCLE SEQUENCING)\n\nKý hiệu mẫu:\n\nNgày thực hiện:\n\nNgười thực hiện:\n\n1. Loại hóa chất\n\nBigDye™ Terminator 3.1 Ready Reaction Mix\n\n|  | Lot No: | Hạn sử dụng: |\n| --- | --- | --- |\n| BigDye™ Terminator v1.1 | Lot No: | Hạn sử dụng: |\n| Dung dịch đệm (v3.1 5X Sequencing Buffer) | Dung dịch đệm (v3.1 5X Sequencing Buffer) |  |\n|  | Lot No: | Hạn sử dụng: |\n| Mồi xuôi | Lot No: | Hạn sử dụng: |\n| Mồi ngược | Lot No: | Hạn sử dụng: |\n| Nước | Lot No: | Hạn sử dụng: |\n\n2. Chuẩn bị hóa chất\n\n| Thành phần | Ngày pha | Người pha | Lượng trên mỗi mẫu | Số lượng mẫu | Tổng cộng | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- |\n| BigDye™ Terminator 3.1 Ready Reaction Mix |  |  |  |  |  |  |\n| BigDye™ Terminator v1.1 |  |  |  |  |  |  |\n| Dung dịch đệm (v3.1 5X Sequencing Buffer) |  |  |  |  |  |  |\n| Mồi xuôi, 10µM |  |  |  |  |  |  |\n| Mồi ngược, 10µM |  |  |  |  |  |  |\n| Nước |  |  |  |  |  |  |\n\n3. Thiết lập PCR\n\n| STT | Ký hiệu mẫu | Lượng mẫu sử dụng | Lượng hóa chất đã chuẩn bị | Ghi chú |\n| --- | --- | --- | --- | --- |\n|  |  |  |  |  |\n\n4. Quy trình PCR\n\n- Chu trình nhiệt:\n\n| Duy trì | 25 chu kỳ | 25 chu kỳ | 25 chu kỳ | Duy trì |\n| --- | --- | --- | --- | --- |\n| Nhiệt độ (°C) | Nhiệt độ (°C) | Nhiệt độ (°C) | Nhiệt độ (°C) | Nhiệt độ (°C) |\n| Thời gian (phút) | Thời gian (giây) | Thời gian (giây) | Thời gian (giây) | ∞ |\n\n- Điều kiện phòng chạy máy:\n\n- Tên máy:\n\n- Thời gian bắt đầu:\n\n- Tên quy trình:\n\n- Lưu ý:",
+    "metadata": {
+        "source_file": "mauphieu/MAU BM01-QT03.06-PCR 02-HCLS_119-2023-TT-BQP.doc",
+        "file_name": "MAU BM01-QT03.06-PCR 02-HCLS_119-2023-TT-BQP.doc",
+        "folder": "mauphieu",
+        "original_extension": ".doc",
+        "cleaned_at": "2026-05-21T01:16:05"
+    }
+}

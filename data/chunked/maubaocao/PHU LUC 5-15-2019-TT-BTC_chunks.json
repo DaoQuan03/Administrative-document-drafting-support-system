@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "maubaocao_PHU_LUC_5-15-2019-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_PHU_LUC_5-15-2019-TT-BTC",
+        "text": "Phụ lục 5\n\nBÁO CÁO TÌNH HÌNH PHÂN PHỐI KẾT QUẢ TÀI CHÍNH VÀ SỬ DỤNG CÁC QUỸ NĂM ...\n\n(Ban hành kèm theo Thông tư số 15/2019/TT-BTC ngày 18/3/2019 của Bộ Tài chính)\n\nĐơn vị tính: ... đồng\n\n| STT | Phân phối thu nhập | Số dư đầu năm | Số phát sinh trong năm | Số phát sinh trong năm | Số dư cuối năm | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- |\n| STT | Phân phối thu nhập | Số dư đầu năm | Phát sinh tăng | Phát sinh giảm |  |  |\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n| 1 | Quỹ đầu tư phát triển |  |  |  |  |  |\n| 2 | Quỹ dự phòng tài chính |  |  |  |  |  |\n| 3 | Quỹ thưởng người quản lý |  |  |  |  |  |\n| 4 | Quỹ khen thưởng |  |  |  |  |  |\n| 5 | Quỹ phúc lợi |  |  |  |  |  |\n|  | Tổng cộng |  |  |  |  |  |\n\n| LẬP BIỂU <br>(Ký và ghi rõ họ tên) | PHỤ TRÁCH BỘ PHẬN <br>(Ký và ghi rõ họ tên) | ... ngày ... tháng...năm...<br>GIÁM ĐỐC<br>(Ký và ghi rõ họ tên, đóng dấu) |\n| --- | --- | --- |\n\nNguồn: Thông tư 15/2019/TT-BTC",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 929,
+            "source_file": "maubaocao/PHU LUC 5-15-2019-TT-BTC.doc",
+            "file_name": "PHU LUC 5-15-2019-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:47:40",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

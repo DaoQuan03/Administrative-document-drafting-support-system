@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-22-2019-TT-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_01-22-2019-TT-BTC",
+        "text": "Mẫu số 01\n\n| CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>PHIẾU ĐĂNG KÝ DỰ THI CẤP CHỨNG CHỈ NGHIỆP VỤ KHAI HẢI QUAN<br>Họ và tên: ………………………………………Nam, nữ:...<br>Ngày sinh: ………/………/………<br>Số định danh cá nhân/CMND/CCCD/:………………………………………………………cấp ngày …/…/……. tại ……………………………………………………..<br>- Đăng ký dự thi môn:<br>+ Pháp luật về Hải quan □<br>+ Kỹ thuật nghiệp vụ ngoại thương □<br>+ Kỹ thuật nghiệp vụ hải quan □<br>- Địa điểm dự thi tại:...<br>- Môn thi đề nghị được miễn:...<br>- Môn thi đề nghị được bảo lưu kết quả thi đã đạt tại các kỳ thi trước:<br>+ Môn………đạt ... điểm lại Thông báo số ... ngày …/…/… của Tổng cục Hải quan.<br>+ Môn………đạt ... điểm tại Thông báo số ... ngày …/…/…của Tổng cục Hải quan.<br>- Địa chỉ nhận Chứng chỉ nghiệp vụ khai hải quan (tại Cục Hải quan nơi tiếp nhận hồ sơ dự thi hoặc tại địa chỉ cụ thể): ……………………………………………………..<br>Tôi xin cam đoan những lời khai trong đơn này là đúng sự thật. Nếu sai tôi xin chịu hoàn toàn trách nhiệm. |\n| --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_01-22-2019-TT-BTC_chunk_0002",
+            "char_count": 997,
+            "source_file": "mauphieu/MAU SO 01-22-2019-TT-BTC.doc",
+            "file_name": "MAU SO 01-22-2019-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:31:07",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-22-2019-TT-BTC_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_01-22-2019-TT-BTC",
+        "text": "nơi tiếp nhận hồ sơ dự thi hoặc tại địa chỉ cụ thể): ……………………………………………………..<br>Tôi xin cam đoan những lời khai trong đơn này là đúng sự thật. Nếu sai tôi xin chịu hoàn toàn trách nhiệm. |\n| --- |\n\nGhi chú: Nếu người dự thi đạt yêu cầu dự thi thì Chủ tịch Hội đồng ký xác nhận, đóng dấu vào phiếu đăng ký dự thi và ảnh của người dự thi. Sau đó gửi phiếu đăng ký dự thi này cho người dự thi để xuất trình khi vào phòng thi./.\n\nNguồn: Thông tư 22/2019/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-22-2019-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 455,
+            "source_file": "mauphieu/MAU SO 01-22-2019-TT-BTC.doc",
+            "file_name": "MAU SO 01-22-2019-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:31:07",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

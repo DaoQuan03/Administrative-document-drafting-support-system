@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_BM02-QT03_04-HCLS_119-2023-TT-BQP_chunk_0001",
+        "doc_id": "mauphieu_MAU_BM02-QT03_04-HCLS_119-2023-TT-BQP",
+        "text": "Biểu mẫu BM02-QT03.04/HCLS: Phiếu thiết lập PCR và quy trình PCR\n\nPHIẾU THIẾT LẬP PCR VÀ QUY TRÌNH PCR\n\nKý hiệu mẫu:\n\nNgày thực hiện:\n\nNgười thực hiện:\n\n1. Thiết lập PCR\n\n| Thành phần | Thể tích mỗi phản ứng (µl) | Số phản ứng | Tổng số (µl) | Ghi chú |\n| --- | --- | --- | --- | --- |\n| PCR master mix 2X hoặc Gotaq®Flexi DNA Polymerase |  |  |  |  |\n| Mồi xuôi, 10pmol |  |  |  |  |\n| Mồi ngược, 10pmol |  |  |  |  |\n| Mẫu (ADN) |  |  |  |  |\n| Nước |  |  |  |  |\n\n2. Quy trình PCR\n\n- Điều kiện phòng chạy máy:\n\n- Tên máy:\n\n- Thời gian bắt đầu:\n\n- Tên quy trình:\n\n- Lưu ý:\n\nBiểu mẫu BM01-QT03.05/HCLS: Phiếu điện di kiểm tra sản phẩm PCR\n\nPHIẾU ĐIỆN DI KIỂM TRA SẢN PHẨM PCR\n\nKý hiệu mẫu:\n\nNgày thực hiện:\n\nNgười thực hiện:\n\n1. Loại hóa chất",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_BM02-QT03_04-HCLS_119-2023-TT-BQP_chunk_0002",
+            "char_count": 743,
+            "source_file": "mauphieu/MAU BM02-QT03.04-HCLS_119-2023-TT-BQP.doc",
+            "file_name": "MAU BM02-QT03.04-HCLS_119-2023-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:16:27",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_BM02-QT03_04-HCLS_119-2023-TT-BQP_chunk_0002",
+        "doc_id": "mauphieu_MAU_BM02-QT03_04-HCLS_119-2023-TT-BQP",
+        "text": "Tên quy trình:\n\n- Lưu ý:\n\nBiểu mẫu BM01-QT03.05/HCLS: Phiếu điện di kiểm tra sản phẩm PCR\n\nPHIẾU ĐIỆN DI KIỂM TRA SẢN PHẨM PCR\n\nKý hiệu mẫu:\n\nNgày thực hiện:\n\nNgười thực hiện:\n\n1. Loại hóa chất\n\n| Dung dịch rửa | Lot No: | Hạn sử dụng: |\n| --- | --- | --- |\n| Cồn | Lot No: | Hạn sử dụng: |\n| Gel Agarose | Lot No: | Hạn sử dụng: |\n| Đệm TBE 1X | Lot No: | Hạn sử dụng: |\n| Dung dịch nhuộm (Staining Solution) | Lot No: | Hạn sử dụng: |\n| Thang ADN (DNA Ladder) | Lot No: | Hạn sử dụng: |\n| Nước cất siêu sạch | Lot No: | Hạn sử dụng: |\n\n2. Chuẩn bị gel\n\n| Đệm TBE 1X (ml) | Gel Agarose (g) | Dung dịch nhuộm (µl) |\n| --- | --- | --- |\n|  |  |  |\n\n3. Điện di và đọc kết quả\n\n| STT | Tên mẫu | Lượng mẫu (µl) | Đệm TBE 1X (ml) | Hiệu điện thế (V) | Kết quả | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_BM02-QT03_04-HCLS_119-2023-TT-BQP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 903,
+            "source_file": "mauphieu/MAU BM02-QT03.04-HCLS_119-2023-TT-BQP.doc",
+            "file_name": "MAU BM02-QT03.04-HCLS_119-2023-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:16:27",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

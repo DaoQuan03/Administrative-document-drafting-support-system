@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_01_LPMB-PHU_LUC_II-80-2021-TT-BTC_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_01_LPMB-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTỜ KHAI LỆ PHÍ MÔN BÀI\n\n[01] Kỳ tính lệ phí: Năm ...\n\n[02] Lần đầu:                [03] Bổ sung lần thứ:...\n\n[04] Người nộp lệ phí: ...\n\n[05] Mã số thuế:\n\n[06] Đại lý thuế (nếu có):...\n\n[07] Mã số thuế:\n\n[08] Hợp đồng đại lý thuế số:...ngày ...\n\n[09] Khai cho địa điểm kinh doanh mới thành lập trong năm\n\nĐơn vị tiền: Đồng Việt Nam",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_01_LPMB-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+            "char_count": 396,
+            "source_file": "tokhai/MAU SO 01.LPMB-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01.LPMB-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:07",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_01_LPMB-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_01_LPMB-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "...\n\n[05] Mã số thuế:\n\n[06] Đại lý thuế (nếu có):...\n\n[07] Mã số thuế:\n\n[08] Hợp đồng đại lý thuế số:...ngày ...\n\n[09] Khai cho địa điểm kinh doanh mới thành lập trong năm\n\nĐơn vị tiền: Đồng Việt Nam\n\n| STT | Tên người nộp lệ phí hoặc tên địa điểm kinh doanh | Địa chỉ<br>(Ghi rõ địa chỉ xã/phường/đặc khu/tỉnh/thành phố) | Mã số thuế người nộp lệ phí hoặc mã số địa điểm kinh doanh | Vốn điều lệ hoặc vốn đầu tư | Mức lệ phí môn bài | Số tiền lệ phí môn bài phải nộp | Số tiền lệ phí môn bài được miễn | Trường hợp miễn lệ phí môn bài<br>(Ghi trường hợp được miễn theo quy định) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) | (6) | (7)=(6)-(8) | (8) | (9) |\n| 1 | Người nộp lệ phí môn bài |  |  |  |  |  |  |  |\n| 2 | Địa điểm kinh doanh<br>(ghi rõ tên) |  |  |  |  |  |  |  |\n|  | ... |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  | Tổng cộng các địa điểm kinh doanh: |  |  |  |  |  |  |  |\n|  | Tổng cộng |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "tokhai_MAU_SO_01_LPMB-PHU_LUC_II-80-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": "tokhai_MAU_SO_01_LPMB-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+            "char_count": 982,
+            "source_file": "tokhai/MAU SO 01.LPMB-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01.LPMB-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:07",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_01_LPMB-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+        "doc_id": "tokhai_MAU_SO_01_LPMB-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "rõ tên) |  |  |  |  |  |  |  |\n|  | ... |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  | Tổng cộng các địa điểm kinh doanh: |  |  |  |  |  |  |  |\n|  | Tổng cộng |  |  |  |  |  |  |  |\n\nTôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về số liệu đã khai./.\n\n| NHÂN VIÊN ĐẠI LÝ THUẾ<br>Họ và tên:...<br>Chứng chỉ hành nghề số:... | ..., ngày... tháng... năm...<br>NGƯỜI NỘP THUẾ hoặc <br>ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ<br>(Chữ ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có)/Ký điện tử) |\n| --- | --- |\n\nGhi chú:\n\nChỉ tiêu [01]: Kê khai năm tính lệ phí môn bài.\n\nChỉ tiêu [02]: Chỉ tích chọn đối với lần đầu kê khai.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "tokhai_MAU_SO_01_LPMB-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+            "next_chunk_id": "tokhai_MAU_SO_01_LPMB-PHU_LUC_II-80-2021-TT-BTC_chunk_0004",
+            "char_count": 655,
+            "source_file": "tokhai/MAU SO 01.LPMB-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01.LPMB-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:07",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_01_LPMB-PHU_LUC_II-80-2021-TT-BTC_chunk_0004",
+        "doc_id": "tokhai_MAU_SO_01_LPMB-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có)/Ký điện tử) |\n| --- | --- |\n\nGhi chú:\n\nChỉ tiêu [01]: Kê khai năm tính lệ phí môn bài.\n\nChỉ tiêu [02]: Chỉ tích chọn đối với lần đầu kê khai.\n\nChỉ tiêu [03]: Chỉ tích chọn đối với trường hợp người nộp lệ phí (sau đây gọi chung là NNT và viết tắt là NNT) đã nộp tờ khai nhưng sau đó phát hiện có thay đổi thông tin về nghĩa vụ kê khai và thực hiện kê khai lại thông tin thuộc kỳ tính lệ phí đã kê khai. Lưu ý, NNT chỉ thực hiện chọn một trong hai chỉ tiêu [02] và [03], không chọn đồng thời cả hai chỉ tiêu.\n\nChỉ tiêu [04] đến chỉ tiêu [05]: Kê khai thông tin theo đăng ký thuế của NNT.\n\nChỉ tiêu [06] đến chỉ tiêu [08]: Kê khai thông tin đại lý thuế (nếu có).\n\nChỉ tiêu [09]: Chỉ tích chọn trong trường hợp NNT đã kê khai LPMB, sau đó thành lập mới địa điểm kinh doanh.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "tokhai_MAU_SO_01_LPMB-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 817,
+            "source_file": "tokhai/MAU SO 01.LPMB-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 01.LPMB-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:48:07",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

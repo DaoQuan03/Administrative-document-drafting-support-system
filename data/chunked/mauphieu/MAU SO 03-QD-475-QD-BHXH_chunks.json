@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-QD-475-QD-BHXH_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_03-QD-475-QD-BHXH",
+        "text": "Mẫu số 03\n\n| Chữ ký số của Tổ chức<br>(nếu là biểu mẫu điện tử) |  |\n| --- | --- |\n\n| BHXH TỈNH ...<br>PHÒNG ... /BHXH HUYỆN...<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số:……/TB | …………, ngày …… tháng …… năm 20.… |\n\nPHIẾU TỪ CHỐI TIẾP NHẬN GIẢI QUYẾT HỒ SƠ\n\nMã hồ sơ (*): ………………..………….\n\nHồ sơ của ông/bà/đơn vị: ...\n\nNội dung yêu cầu giải quyết: …………………….………………………..\n\nĐịa chỉ: …………………………………………….………………………\n\nSố điện thoại…………………………..Email: ……………………………\n\nQua xem xét, Phòng/BHXH huyện …………………. xin thông báo không tiếp nhận, giải quyết hồ sơ này với lý do cụ thể như sau:\n\n……………………………………………………………………………………\n\n……………………………………………………………………………………\n\n……………………………………………………………………………………\n\nXin thông báo cho ông/bà/đơn vị được biết./.\n\n|  | QUYỀN HẠN, CHỨC VỤ NGƯỜI KÝ<br>(Ký và ghi rõ họ tên)<br>(Chữ ký số nếu là biểu mẫu điện tử) |\n| --- | --- |\n\n___",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_03-QD-475-QD-BHXH_chunk_0002",
+            "char_count": 908,
+            "source_file": "mauphieu/MAU SO 03-QD-475-QD-BHXH.doc",
+            "file_name": "MAU SO 03-QD-475-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:52:54",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_03-QD-475-QD-BHXH_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_03-QD-475-QD-BHXH",
+        "text": "thông báo cho ông/bà/đơn vị được biết./.\n\n|  | QUYỀN HẠN, CHỨC VỤ NGƯỜI KÝ<br>(Ký và ghi rõ họ tên)<br>(Chữ ký số nếu là biểu mẫu điện tử) |\n| --- | --- |\n\n___\n\n(*) Trường hợp Phiếu từ chối tiếp nhận giải quyết hồ sơ lập ở giai đoạn Tiếp nhận hồ sơ thì không cần ghi mã hồ sơ; Trường hợp Phiếu từ chối tiếp nhận giải quyết hồ lập ở giai đoạn sau khi đã tiếp nhận, bộ phận nghiệp vụ bổ sung mã hồ sơ.\n\nNguồn: Quyết định 475/QĐ-BHXH năm 2023",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_03-QD-475-QD-BHXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 439,
+            "source_file": "mauphieu/MAU SO 03-QD-475-QD-BHXH.doc",
+            "file_name": "MAU SO 03-QD-475-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:52:54",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

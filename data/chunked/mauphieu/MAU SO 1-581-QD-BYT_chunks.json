@@ -1,0 +1,92 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_1-581-QD-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_1-581-QD-BYT",
+        "text": "| Tên đơn vị:<br>... | Mẫu số 1 ban hành kèm theo Quyết định số      /QĐ-BYT ngày        /02/2012 của Bộ Y tế |\n| --- | --- |\n\nPHIẾU ĐIỀU TRA BỆNH TAY CHÂN MIỆNG\nNgày báo cáo: ………../………./…………\n\n1. Họ và tên bệnh nhân: …………………………. 2. Ngày tháng năm sinh: ……/……../……..\n\n3. Giới tính: Nam £ Nữ £ 4. Dân tộc: …………………\n\n5. Họ tên mẹ (bố, người chăm sóc): ………………………………. 6. Điện thoại: …………………….\n\n7. Địa chỉ: Thôn/xóm/tổ: ………………….. Xã: ……………. Huyện: ………………. Tỉnh: …………..\n\n8. Ngày khởi bệnh: ……../……./…….. 9. Ngày vào viện ……../….../………\n\n10. Tên cơ sở điều trị: …………………………. 11. Địa chỉ cơ sở điều trị: ……………………………\n\n12. Lý do vào viện: ...\n\n13. Những triệu chứng chính từ lúc khởi phát đến khi nhập viện:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 5,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_1-581-QD-BYT_chunk_0002",
+            "char_count": 693,
+            "source_file": "mauphieu/MAU SO 1-581-QD-BYT.doc",
+            "file_name": "MAU SO 1-581-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:06:40",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_1-581-QD-BYT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_1-581-QD-BYT",
+        "text": "9. Ngày vào viện ……../….../………\n\n10. Tên cơ sở điều trị: …………………………. 11. Địa chỉ cơ sở điều trị: ……………………………\n\n12. Lý do vào viện: ...\n\n13. Những triệu chứng chính từ lúc khởi phát đến khi nhập viện:\n\n| - £ Sốt<br>- £ Đau họng<br>- £ Mệt mỏi<br>- £ Chán ăn<br>- £ Tiêu chảy<br>- £ Nôn | - £ Ban dạng phỏng nước<br>+ £ ở tay           + £ ở chân<br>+ £ ở mông       + £ ở đầu gối<br>- £ Loét miệng<br>- £ Ban dạng khác   <br>- £ Rối loạn tim mạch, hô hấp<br>- £ Rối loạn tri giác | - £ Dấu hiệu màng não<br>- £ Quấy khóc<br>- £ Giật mình<br>- £ Co giật<br>- £ Liệt mềm cấp |\n| --- | --- | --- |\n\n14. Phân độ lâm sàng khi nhập viện: £1     £2a     £2b     £3    £4\n\n15. Trẻ có đi học không (mầm non, nhà trẻ, mẫu giáo, nhóm trẻ gia đình): £có   £không\n\n16. Nếu có, tên nơi học: …………………………. 17. Địa chỉ nơi học………………………………….\n\n18. Loại ca bệnh ghi nhận: £ Tản phát       £ ổ dịch cộng đồng         £ ổ dịch trường học\n\n19. Tiền sử tiếp xúc: trong vòng 2 tuần trước khi mắc bệnh, trẻ có:",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_SO_1-581-QD-BYT_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_SO_1-581-QD-BYT_chunk_0003",
+            "char_count": 980,
+            "source_file": "mauphieu/MAU SO 1-581-QD-BYT.doc",
+            "file_name": "MAU SO 1-581-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:06:40",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_1-581-QD-BYT_chunk_0003",
+        "doc_id": "mauphieu_MAU_SO_1-581-QD-BYT",
+        "text": "17. Địa chỉ nơi học………………………………….\n\n18. Loại ca bệnh ghi nhận: £ Tản phát       £ ổ dịch cộng đồng         £ ổ dịch trường học\n\n19. Tiền sử tiếp xúc: trong vòng 2 tuần trước khi mắc bệnh, trẻ có:\n\n£ Tiếp xúc với người mắc bệnh tay chân miệng\n\n£ Đi nhà trẻ/ mẫu giáo/ trường học/ nhóm trẻ gia đình\n\n£ Tiếp xúc với người chăm sóc trẻ có tiếp xúc người mắc bệnh\n\n£ Đến khu đông người (khu vui chơi, siêu thị, chợ…) (ghi rõ): ...\n\n£ Tiếp xúc với yếu tố nghi lây nhiễm khác (ghi rõ): ...\n\n20. Nguồn nước sử dụng (ghi rõ: nước máy, giếng, ao, sông…)...\n\n21. Ăn uống chung với trẻ nghi mắc bệnh TCM: …..£ Có (ghi rõ)………………………….£ Không\n\n22. Dùng đồ chơi chung với trẻ nghi mắc bệnh TCM: £ Có (ghi rõ) ……………………….£ Không\n\n23. Dùng chung vật dụng (cốc, chén, khăn mặt,…) với trẻ nghi mắc bệnh TCM:\n\n£ Có (ghi rõ) ……….………………..£ Không\n\n24. Lấy mẫu và kết quả xét nghiệm:\n\nPhân                           Ngày lấy: ……./……/…….    Kết quả (nơi làm XN điền):...",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_SO_1-581-QD-BYT_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_SO_1-581-QD-BYT_chunk_0004",
+            "char_count": 942,
+            "source_file": "mauphieu/MAU SO 1-581-QD-BYT.doc",
+            "file_name": "MAU SO 1-581-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:06:40",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_1-581-QD-BYT_chunk_0004",
+        "doc_id": "mauphieu_MAU_SO_1-581-QD-BYT",
+        "text": "khăn mặt,…) với trẻ nghi mắc bệnh TCM:\n\n£ Có (ghi rõ) ……….………………..£ Không\n\n24. Lấy mẫu và kết quả xét nghiệm:\n\nPhân                           Ngày lấy: ……./……/…….    Kết quả (nơi làm XN điền):...\n\nDịch ngoáy họng:       Ngày lấy: ……/……/……..     Kết quả (nơi làm XN điền):...\n\n(Nếu bệnh nhân đang điều trị tại bệnh viện, lấy mẫu và điền đến câu 24, phô tô phiếu và gửi phiếu phô tô cùng mẫu bệnh phẩm lên tuyến trên. Khi bệnh nhân ra viện/chuyển viện/tử vong, hoàn thành hết các câu còn lại và gửi phiếu gốc lên tuyến trên)\n\n25. Phân độ lâm sàng nặng nhất trong cả quá trình bị bệnh: £1    £2a    £2b    £3     £4\n\n26. Ngày ra viện/chuyển viện (nếu bệnh nhân tử vong, ghi ngày tử vong): ……../……/………\n\n27. Chẩn đoán khi ra viện/chuyển viện/tử vong:...\n\n28. Tình trạng bệnh nhân khi ra viện: £Khỏi                £Đỡ/ổn định       £Nặng, xin về\n\n£Chuyển viện   £Tử vong           £Trốn viện/mất theo dõi\n\n29. Nếu chuyển viện, tên bệnh viện chuyển đến: ...",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_SO_1-581-QD-BYT_chunk_0003",
+            "next_chunk_id": "mauphieu_MAU_SO_1-581-QD-BYT_chunk_0005",
+            "char_count": 951,
+            "source_file": "mauphieu/MAU SO 1-581-QD-BYT.doc",
+            "file_name": "MAU SO 1-581-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:06:40",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_1-581-QD-BYT_chunk_0005",
+        "doc_id": "mauphieu_MAU_SO_1-581-QD-BYT",
+        "text": "Tình trạng bệnh nhân khi ra viện: £Khỏi                £Đỡ/ổn định       £Nặng, xin về\n\n£Chuyển viện   £Tử vong           £Trốn viện/mất theo dõi\n\n29. Nếu chuyển viện, tên bệnh viện chuyển đến: ...\n\n30. Nếu tử vong, chẩn đoán nguyên nhân tử vong: ...\n\n| Lãnh đạo Đơn vị<br>(Ký, đóng dấu) | Ngày điều tra: ……./……/………..<br>Người điều tra<br>(Ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_MAU_SO_1-581-QD-BYT_chunk_0004",
+            "next_chunk_id": null,
+            "char_count": 374,
+            "source_file": "mauphieu/MAU SO 1-581-QD-BYT.doc",
+            "file_name": "MAU SO 1-581-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:06:40",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    }
+]

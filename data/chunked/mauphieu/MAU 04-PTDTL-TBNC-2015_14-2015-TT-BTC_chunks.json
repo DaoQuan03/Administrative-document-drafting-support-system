@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_04-PTDTL-TBNC-2015_14-2015-TT-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_04-PTDTL-TBNC-2015_14-2015-TT-BTC",
+        "text": "Mẫu số 04/PTDTL-TBNC/2015\n\nSố tờ ………..\nTờ số ……….\n\nPHIẾU THEO DÕI, TRỪ LÙI HÀNG HÓA NHẬP KHẨU\n\n(Theo quy định tại Điều 8 Thông tư số 14/2015/TT-BTC ngày 30/01/2015 của Bộ Tài chính)\n\n1. Danh mục hàng hóa nhập khẩu quy định tại Điều 8 Thông tư số 14/2015/TT-BTC ngày 30 tháng 01 năm 2015 của Bộ Tài chính.\n\n2. Tên người khai hải quan ………………………………; Mã số thuế: ...\n\n3. Tên thiết bị nguyên chiếc ...\n\n4. Mã số theo Danh mục hàng hóa XK, NK Việt Nam ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_04-PTDTL-TBNC-2015_14-2015-TT-BTC_chunk_0002",
+            "char_count": 449,
+            "source_file": "mauphieu/MAU 04-PTDTL-TBNC-2015_14-2015-TT-BTC.doc",
+            "file_name": "MAU 04-PTDTL-TBNC-2015_14-2015-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:49:50",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_04-PTDTL-TBNC-2015_14-2015-TT-BTC_chunk_0002",
+        "doc_id": "mauphieu_MAU_04-PTDTL-TBNC-2015_14-2015-TT-BTC",
+        "text": "ngày 30 tháng 01 năm 2015 của Bộ Tài chính.\n\n2. Tên người khai hải quan ………………………………; Mã số thuế: ...\n\n3. Tên thiết bị nguyên chiếc ...\n\n4. Mã số theo Danh mục hàng hóa XK, NK Việt Nam ...\n\n| Số TT | Số, ký hiệu, ngày tờ khai hải quan | Số lượng hàng làm thủ tục | Số lượng hàng còn lại | Hải quan nơi làm thủ tục thống kê, trừ lùi (ký tên, đóng dấu) | Hải quan nơi làm thủ tục thống kê, trừ lùi (ký tên, đóng dấu) |\n| --- | --- | --- | --- | --- | --- |\n| Số TT | Số, ký hiệu, ngày tờ khai hải quan | Số lượng hàng làm thủ tục | Số lượng hàng còn lại | Công chức hải quan TNTK | Lãnh đạo HQ cửa khẩu |\n| (1) | (2) | (3) | (4) | (5) | (6) |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n\n|  | ……. ngày ... tháng ... năm<br>CƠ QUAN HẢI QUAN CẤP PHIẾU<br>THEO DÕI TRỪ LÙI<br>(Ký, ghi rõ họ, tên, và đóng dấu) |\n| --- | --- |\n\nGhi chú:",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_04-PTDTL-TBNC-2015_14-2015-TT-BTC_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_04-PTDTL-TBNC-2015_14-2015-TT-BTC_chunk_0003",
+            "char_count": 946,
+            "source_file": "mauphieu/MAU 04-PTDTL-TBNC-2015_14-2015-TT-BTC.doc",
+            "file_name": "MAU 04-PTDTL-TBNC-2015_14-2015-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:49:50",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_04-PTDTL-TBNC-2015_14-2015-TT-BTC_chunk_0003",
+        "doc_id": "mauphieu_MAU_04-PTDTL-TBNC-2015_14-2015-TT-BTC",
+        "text": "|  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n\n|  | ……. ngày ... tháng ... năm<br>CƠ QUAN HẢI QUAN CẤP PHIẾU<br>THEO DÕI TRỪ LÙI<br>(Ký, ghi rõ họ, tên, và đóng dấu) |\n| --- | --- |\n\nGhi chú:\n\n- Số tờ, tờ số và các tiêu chí tại các mục 1, 2, 3, 4, 5 do cơ quan Hải quan nơi cấp phiếu theo dõi, trừ lùi ghi. Khi cấp phiếu theo dõi, trừ lùi, nếu 01 phiếu gồm nhiều tờ thì cơ quan Hải quan phải đóng dấu treo lên tất cả các tờ.\n\n- Số liệu tại các cột từ 1 đến 6 của Phiếu do cơ quan Hải quan nơi làm thủ tục nhập khẩu hàng hóa ghi.\n\n- Khi người khai hải quan đã nhập khẩu hết hàng hóa theo Danh mục đã đăng ký thì Chi cục Hải quan cuối cùng xác nhận lên bản chính “đã nhập hết hàng hóa theo Danh mục số ………” và sao 01 bản (đóng dấu sao y bản chính) gửi Chi cục Hải quan nơi cấp Phiếu theo dõi trừ lùi.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_04-PTDTL-TBNC-2015_14-2015-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 806,
+            "source_file": "mauphieu/MAU 04-PTDTL-TBNC-2015_14-2015-TT-BTC.doc",
+            "file_name": "MAU 04-PTDTL-TBNC-2015_14-2015-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:49:50",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

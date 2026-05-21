@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_B04-ETF-181-2015-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_B04-ETF-181-2015-TT-BTC",
+        "text": "|  | Mẫu số B04 - ETF<br>(Ban hành theo TT số 181/2015 /TT-BTC<br>Ngày 13/11/2015 của Bộ Tài chính) |\n| --- | --- |\n| Công ty Quản lý quỹ……………<br>Quỹ:... | Mẫu số B04 - ETF<br>(Ban hành theo TT số 181/2015 /TT-BTC<br>Ngày 13/11/2015 của Bộ Tài chính) |\n\nBÁO CÁO DANH MỤC ĐẦU TƯ\nTháng …. năm 200….",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_B04-ETF-181-2015-TT-BTC_chunk_0002",
+            "char_count": 296,
+            "source_file": "maubaocao/MAU SO B04-ETF-181-2015-TT-BTC.doc",
+            "file_name": "MAU SO B04-ETF-181-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:40:26",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_B04-ETF-181-2015-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_B04-ETF-181-2015-TT-BTC",
+        "text": "|\n| --- | --- |\n| Công ty Quản lý quỹ……………<br>Quỹ:... | Mẫu số B04 - ETF<br>(Ban hành theo TT số 181/2015 /TT-BTC<br>Ngày 13/11/2015 của Bộ Tài chính) |\n\nBÁO CÁO DANH MỤC ĐẦU TƯ\nTháng …. năm 200….\n\n| STT | Loại tài sản | Số lượng | Giá thị trường hoặc giá trị hợp lý tại ngày báo cáo | Tổng giá trị (Đồng) | Tỷ lệ (%)/<br>Tổng giá trị tài sản của Quỹ |\n| --- | --- | --- | --- | --- | --- |\n| A | B | 1 | 2 | 3 | 4 |\n| I | Cổ phiếu niêm yết<br>-<br>-<br>-<br>Tổng |  | ... | ... | ... |\n| II | Cổ phiếu không niêm yết<br>-<br>-<br>-<br>Tổng<br>Tổng các loại cổ phiếu |  | ... | ... | ... |\n| III | Trái phiếu<br>-<br>-<br>-<br>Tổng |  | ... | ... | ... |\n| IV | Các loại chứng khoán khác<br>-<br>-<br>-<br>Tổng<br>Tổng các loại chứng khoán |  | ... | ... | ... |\n| V | Các tài sản khác<br>-<br>-<br>-<br>Tổng |  | ... | ... | ... |\n| VI | Tiền |  | ... | ... | ... |\n| 1 | Tiền gửi ngân hàng |  | ... | ... | ... |\n| 2 | Chứng chỉ tiền gửi |  | ... | ... | ... |\n| 3 | Công cụ chuyển nhượng... |  | ... | ... | ... |\n|  | Tổng |  | ... | ... | ... |\n| VII | Tổng giá trị danh mục |  | ... | ... | ... |\n|  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_B04-ETF-181-2015-TT-BTC_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_SO_B04-ETF-181-2015-TT-BTC_chunk_0003",
+            "char_count": 1122,
+            "source_file": "maubaocao/MAU SO B04-ETF-181-2015-TT-BTC.doc",
+            "file_name": "MAU SO B04-ETF-181-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:40:26",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_B04-ETF-181-2015-TT-BTC_chunk_0003",
+        "doc_id": "maubaocao_MAU_SO_B04-ETF-181-2015-TT-BTC",
+        "text": "chỉ tiền gửi |  | ... | ... | ... |\n| 3 | Công cụ chuyển nhượng... |  | ... | ... | ... |\n|  | Tổng |  | ... | ... | ... |\n| VII | Tổng giá trị danh mục |  | ... | ... | ... |\n|  |  |  |  |  |  |\n\n| NGƯỜI LẬP BIỂU<br>(Ký, họ tên) | KẾ TOÁN TRƯỞNG<br>(Ký, họ tên) | ..., ngày...tháng...năm...<br>TỔNG (GIÁM) ĐỐC<br>(Ký, họ tên, đóng dấu) |\n| --- | --- | --- |\n\nNguồn: Thông tư 181/2015/TT-BTC",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_B04-ETF-181-2015-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 391,
+            "source_file": "maubaocao/MAU SO B04-ETF-181-2015-TT-BTC.doc",
+            "file_name": "MAU SO B04-ETF-181-2015-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:40:26",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

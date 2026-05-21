@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_2_10-10-2021-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_2_10-10-2021-TT-BTC",
+        "text": "Mẫu 2.10 - Thông báo về việc thực hiện hợp đồng dịch vụ với đại lý thuế\n\n(Ban hành kèm theo Thông tư số 10/2021/TT-BTC ngày 26/01/2021 của Bộ trưởng Bộ Tài chính)\n\n| TÊN NGƯỜI NỘP THUẾ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: …………….. | ………, ngày …… tháng …… năm 20……. |\n\nTHÔNG BÁO\n\nVề việc thực hiện hợp đồng dịch vụ với đại lý thuế\n\nCăn cứ Thông tư số………/2021/TT-BTC ngày ……/……./……. của Bộ Tài chính hướng dẫn quản lý hành nghề dịch vụ làm thủ tục về thuế;\n\nCăn cứ hợp đồng số………ngày……..tháng……..năm……. ký với ……….. (tên đại lý thuế)…………., mã số thuế ………………………………………………………………………….\n\n(Tên người nộp thuế)………………………………., mã số thuế…………….., số điện thoại:……………….. thông báo cơ quan thuế về việc thực hiện/tạm dừng/chấm dứt hợp đồng/dịch vụ làm thủ tục về thuế như sau:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_2_10-10-2021-TT-BTC_chunk_0002",
+            "char_count": 844,
+            "source_file": "thongbao/MAU 2.10-10-2021-TT-BTC.doc",
+            "file_name": "MAU 2.10-10-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:24:10",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_2_10-10-2021-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_2_10-10-2021-TT-BTC",
+        "text": "người nộp thuế)………………………………., mã số thuế…………….., số điện thoại:……………….. thông báo cơ quan thuế về việc thực hiện/tạm dừng/chấm dứt hợp đồng/dịch vụ làm thủ tục về thuế như sau:\n\n| STT | Nội dung | Thời gian thực hiện/tạm dừng/chấm dứt | Thời gian thực hiện/tạm dừng/chấm dứt | Ghi chú |\n| --- | --- | --- | --- | --- |\n| STT | Nội dung | Từ ngày<br>(Từ kỳ) | Đến ngày<br>(Đến kỳ ) |  |\n| I | Dịch vụ thực hiện thủ tục về thuế |  |  |  |\n| 1 | Đăng ký thuế |  |  |  |\n| 1.1 | … |  |  |  |\n| … | … |  |  |  |\n| 2 | Dịch vụ khai thuế |  |  |  |\n| 2.1 | Thuế TNDN |  |  |  |\n| 2.2 | Thuế TNCN |  |  |  |\n| 2.3 | Thuế GTGT |  |  |  |\n| … | ... |  |  |  |\n| 3 | Dịch vụ nộp thuế |  |  |  |\n| 3.1 | Thuế TNDN |  |  |  |\n| 3.2 | Thuế TNCN |  |  |  |\n| 3.3 | Thuế GTGT |  |  |  |\n| … | ... |  |  |  |\n| 4 | Hoàn thuế |  |  |  |\n| ... | … |  |  |  |\n| 5 | Miễn, giảm Thuế |  |  |  |\n| ... | … |  |  |  |\n| 6 | Dịch vụ thủ tục khác... |  |  |  |\n| II | Dịch vụ tư vấn thuế |  |  |  |\n| 1 | (Nội dung tư vấn) |  |  |  |\n| … | … |  |  |  |\n|  |  |  |  |  |\n| III | Dịch vụ kế toán cho doanh nghiệp siêu nhỏ |  |  |  |\n| 1 | (Nội dung chi tiết) |  |  |  |\n| ... | ... |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "thongbao_MAU_2_10-10-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": "thongbao_MAU_2_10-10-2021-TT-BTC_chunk_0003",
+            "char_count": 1164,
+            "source_file": "thongbao/MAU 2.10-10-2021-TT-BTC.doc",
+            "file_name": "MAU 2.10-10-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:24:10",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_2_10-10-2021-TT-BTC_chunk_0003",
+        "doc_id": "thongbao_MAU_2_10-10-2021-TT-BTC",
+        "text": "|  |  |\n| 1 | (Nội dung tư vấn) |  |  |  |\n| … | … |  |  |  |\n|  |  |  |  |  |\n| III | Dịch vụ kế toán cho doanh nghiệp siêu nhỏ |  |  |  |\n| 1 | (Nội dung chi tiết) |  |  |  |\n| ... | ... |  |  |  |\n\nChúng tôi cam kết các thông tin trên là đúng và xin chịu trách nhiệm trước pháp luật về những nội dung nêu trên./.\n\n| Nơi nhận:<br>- Cơ quan quản lý thuế trực tiếp đại lý thuế;<br>- Đại lý thuế……………;<br>- Lưu: ... | NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT<br>CỦA NGƯỜI NỘP THUẾ<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\nNguồn: Thông tư 10/2021/TT-BTC",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "thongbao_MAU_2_10-10-2021-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 551,
+            "source_file": "thongbao/MAU 2.10-10-2021-TT-BTC.doc",
+            "file_name": "MAU 2.10-10-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:24:10",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

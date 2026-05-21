@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_3_02-80-2018-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_BIEU_SO_3_02-80-2018-TT-BTC",
+        "text": "Mẫu biểu số 3.02\n\nCơ quan thực hiện: ... (Cơ quan được ủy quyền cho vay lại không chịu rủi ro)\n\nNỢ CỦA CÁC KHOẢN VAY NƯỚC NGOÀI VỀ CHO VAY LẠI THEO ĐƠN VỊ NHẬN VAY LẠI\n\nKỳ báo cáo: từ ngày ... đến ngày ...\n\nĐơn vị tính: Nguyên tệ",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_BIEU_SO_3_02-80-2018-TT-BTC_chunk_0002",
+            "char_count": 229,
+            "source_file": "maubaocao/MAU BIEU SO 3.02-80-2018-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 3.02-80-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:20:53",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_3_02-80-2018-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_BIEU_SO_3_02-80-2018-TT-BTC",
+        "text": "hiện: ... (Cơ quan được ủy quyền cho vay lại không chịu rủi ro)\n\nNỢ CỦA CÁC KHOẢN VAY NƯỚC NGOÀI VỀ CHO VAY LẠI THEO ĐƠN VỊ NHẬN VAY LẠI\n\nKỳ báo cáo: từ ngày ... đến ngày ...\n\nĐơn vị tính: Nguyên tệ\n\n| STT | TÊN ĐƠN VỊ | Loại tiền | Dư nợ đầu kỳ | Rút vốn trong kỳ | Trả nợ trong kỳ | Trả nợ trong kỳ | Trả nợ trong kỳ | Trả nợ trong kỳ | Trả nợ trong kỳ | Dư nợ cuối kỳ | NỢ QUÁ HẠN | NỢ QUÁ HẠN | NỢ QUÁ HẠN |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | TÊN ĐƠN VỊ | Loại tiền | Dư nợ đầu kỳ | Rút vốn trong kỳ | Gốc | Lãi | Phí | Dự phòng rủi ro | Cộng | Dư nợ cuối kỳ | Gốc | Lãi+Phí | Cộng |\n| A |  | B | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |\n|  | TỔNG CỘNG |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1 | Người vay …<br>Dự án ….<br>Dự án …. |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 | Người vay …<br>Dự án ….<br>Dự án …. |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3 | Người vay …<br>Dự án ….<br>Dự án …. |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4 | Người vay …<br>Dự án ….<br>Dự án …. |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5 | Người vay …<br>Dự án ….<br>Dự án …. |  |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_BIEU_SO_3_02-80-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_BIEU_SO_3_02-80-2018-TT-BTC_chunk_0003",
+            "char_count": 1158,
+            "source_file": "maubaocao/MAU BIEU SO 3.02-80-2018-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 3.02-80-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:20:53",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_3_02-80-2018-TT-BTC_chunk_0003",
+        "doc_id": "maubaocao_MAU_BIEU_SO_3_02-80-2018-TT-BTC",
+        "text": "|  |  |  |  |  |  |  |  |  |  |  |  |\n| 4 | Người vay …<br>Dự án ….<br>Dự án …. |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5 | Người vay …<br>Dự án ….<br>Dự án …. |  |  |  |  |  |  |  |  |  |  |  |  |\n\n|  | ……, Ngày ….. tháng …… năm…. |\n| --- | --- |\n| NGƯỜI LẬP BIỂU | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký tên, đóng dấu) |\n\nNguồn: Thông tư 80/2018/TT-BTC",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_BIEU_SO_3_02-80-2018-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 340,
+            "source_file": "maubaocao/MAU BIEU SO 3.02-80-2018-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 3.02-80-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:20:53",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

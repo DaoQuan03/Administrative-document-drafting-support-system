@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_34-PHU_LUC_II-85-2025-TT-BNNMT_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_34-PHU_LUC_II-85-2025-TT-BNNMT",
+        "text": "Mẫu số 34\n\n| BỘ NÔNG NGHIỆP VÀ <br>MÔI TRƯỜNG<br>CỤC LÂM NGHIỆP VÀ<br>KIỂM LÂM<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số:   /TB-LNKL | Hà Nội, ngày ... tháng ... năm 20… |\n\nTHÔNG BÁO\n\nVề việc công bố số lượng mẫu vật là vật dụng thuộc sở hữu cá nhân, hộ gia đình được phép xuất khẩu, tái xuất khẩu, nhập khẩu không cần giấy phép CITES\n\nCăn cứ ….. Thông tư số .../TT-BNNMT ngày … tháng … năm … của Bộ trưởng Bộ Nông nghiệp và Môi trường quy định về quản lý loài nguy cấp, quý, hiếm, loài động vật rừng thông thường và thực thi Công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp;\n\nCăn cứ khoản 3 Điều VII Công ước về buôn bán quốc tế các loài động vật, thực vật hoang nguy cấp (CITES); Nghị quyết 13.7 (sửa đổi tại …..) của CITES về kiểm soát buôn bán mẫu vật sở hữu cá nhân và hộ gia đình.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_34-PHU_LUC_II-85-2025-TT-BNNMT_chunk_0002",
+            "char_count": 890,
+            "source_file": "thongbao/MAU SO 34-PHU LUC II-85-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 34-PHU LUC II-85-2025-TT-BNNMT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:11:17",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_34-PHU_LUC_II-85-2025-TT-BNNMT_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_34-PHU_LUC_II-85-2025-TT-BNNMT",
+        "text": "3 Điều VII Công ước về buôn bán quốc tế các loài động vật, thực vật hoang nguy cấp (CITES); Nghị quyết 13.7 (sửa đổi tại …..) của CITES về kiểm soát buôn bán mẫu vật sở hữu cá nhân và hộ gia đình.\n\nCục Lâm nghiệp và Kiểm lâm dịch, công bố số lượng mẫu vật là vật dụng thuộc sở hữu cá nhân, hộ gia đình được phép xuất khẩu, nhập khẩu, tái xuất khẩu không cần giấy phép CITES quy định tại Nghị quyết 13.7 (sửa đổi tại ….) của CITES về Kiểm soát buôn bán mẫu vật sở hữu cá nhân và hộ gia đình như sau:\n\n……………..\n\nBản gốc của toàn văn Công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp,…. (Nghị quyết, Quyết định, Thông báo…) nêu trên được công bố tại trang thông tin điện tử của Ban thư ký CITES theo địa chỉ https://cites.org./.\n\n| Nơi nhận:<br>- Thứ trưởng….. (để b/c);<br>- Cổng thông tin điện tử Bộ NN&MT;<br>- Cục Hải quan;<br>- …………….<br>- Lưu: VT, CITES. | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_34-PHU_LUC_II-85-2025-TT-BNNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 950,
+            "source_file": "thongbao/MAU SO 34-PHU LUC II-85-2025-TT-BNNMT.doc",
+            "file_name": "MAU SO 34-PHU LUC II-85-2025-TT-BNNMT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:11:17",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

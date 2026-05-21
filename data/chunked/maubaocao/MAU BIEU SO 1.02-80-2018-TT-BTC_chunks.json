@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_1_02-80-2018-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_BIEU_SO_1_02-80-2018-TT-BTC",
+        "text": "Mẫu biểu số: 1.02\n\nCơ quan thực hiện: UBND Tỉnh/Thành phố ...\n\nBÁO CÁO TÌNH HÌNH NỢ CỦA UBND TỈNH ………. THEO CHỦ NỢ\n\nKỳ báo cáo : Từ ngày... Đến ngày...\n\nĐơn vị: Nguyên tệ\n\n| STT | TÊN CHỦ NỢ | Dư nợ đầu kỳ | Dư nợ đầu kỳ quy VND | Dư nợ cuối kỳ | Dư nợ cuối kỳ quy VND | Trong đó, Dư nợ quá hạn cuối kỳ | Dư nợ quá hạn cuối kỳ quy VND |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n| I | Chủ nợ A<br>Dự án ... |  |  |  |  |  |  |\n| II | Chủ nợ B<br>Dự án ... |  |  |  |  |  |  |\n| III | Chủ nợ C<br>Dự án ...<br>Tổng dư nợ (quy VNĐ) |  |  |  |  |  |  |\n|  | Hạn mức nợ theo quy định (VNĐ) |  |  |  | ‘ |  |  |\n\nGhi chú:\n\n- Cột 4: Áp dụng tỷ giá hạch toán ngân sách nhà nước do Bộ tài chính công bố tại thời điểm đầu kỳ báo cáo\n\n- Cột 6: Áp dụng tỷ giá hạch toán ngân sách nhà nước do Bộ Tài chính công bố tại thời điểm cuối kỳ báo cáo\n\n|  | ………, Ngày …… tháng …… năm …… |\n| --- | --- |\n| NGƯỜI LẬP BIỂU | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký tên, đóng dấu) |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_BIEU_SO_1_02-80-2018-TT-BTC_chunk_0002",
+            "char_count": 985,
+            "source_file": "maubaocao/MAU BIEU SO 1.02-80-2018-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 1.02-80-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:19:41",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_BIEU_SO_1_02-80-2018-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_BIEU_SO_1_02-80-2018-TT-BTC",
+        "text": "giá hạch toán ngân sách nhà nước do Bộ Tài chính công bố tại thời điểm cuối kỳ báo cáo\n\n|  | ………, Ngày …… tháng …… năm …… |\n| --- | --- |\n| NGƯỜI LẬP BIỂU | THỦ TRƯỞNG ĐƠN VỊ<br>(Ký tên, đóng dấu) |\n\nNguồn: Thông tư 80/2018/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_BIEU_SO_1_02-80-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 230,
+            "source_file": "maubaocao/MAU BIEU SO 1.02-80-2018-TT-BTC.doc",
+            "file_name": "MAU BIEU SO 1.02-80-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:19:41",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

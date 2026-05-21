@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_04A-KN-178-QD-TCT_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_04A-KN-178-QD-TCT",
+        "text": "Mẫu số 04A/KN\n\n(Ban hành kèm theo Quyết định số 178/QĐ-TCT ngày 25 tháng 2 năm 2019 của Tổng cục trưởng Tổng cục Thuế)\n\n| TÊN CƠ QUAN CẤP TRÊN <br>TRỰC TIẾP<br>TÊN CƠ QUAN THUẾ <br>RA VĂN BẢN<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số:……./TB-…..(1) | ………, ngày…tháng…năm…. |\n\nTHÔNG BÁO\n\nVề việc không thụ lý giải quyết khiếu nại\n\nNgày ... tháng ... năm ...,(theo dấu công văn đến số...) ...(2)... đã nhận được đơn khiếu nại của ……(3)... đề ngày…..tháng...năm (do... (7)... chuyển).\n\nĐịa chỉ (3): ………………………………………………………………………………………………….\n\nSố CMND/Hộ chiếu, ngày cấp, nơi cấp hoặc Mã số thuế công ty: ………………………(4) Khiếu nại về việc ……………… (5) ………………\n\nSau khi xem xét nội dung đơn khiếu nại, căn cứ ……… Luật khiếu nại năm 2011, đơn khiếu nại không được thụ lý giải quyết vì lý do sau đây: ……………………………… (6) ……………………\n\n………………………………………………………………………………………………………………\n\nVậy thông báo để……………… (3) hoặc (7) ……………… được biết./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_04A-KN-178-QD-TCT_chunk_0002",
+            "char_count": 987,
+            "source_file": "thongbao/MAU SO 04A-KN-178-QD-TCT.doc",
+            "file_name": "MAU SO 04A-KN-178-QD-TCT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:45:43",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_04A-KN-178-QD-TCT_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_04A-KN-178-QD-TCT",
+        "text": "năm 2011, đơn khiếu nại không được thụ lý giải quyết vì lý do sau đây: ……………………………… (6) ……………………\n\n………………………………………………………………………………………………………………\n\nVậy thông báo để……………… (3) hoặc (7) ……………… được biết./.\n\n| Nơi nhận:<br>- ……(2) hoặc …..(7)...<br>- …(3)….;<br>- Lưu: VT, ….(8)….. | THỦ TRƯỞNG CƠ QUAN THUẾ<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\n___\n\n(1) Chữ viết tắt tên Cơ quan Thuế thông báo.\n\n(2) Tên Cơ quan Thuế thông báo về việc không thụ lý giải quyết khiếu nại.\n\n(3) Họ tên người khiếu nại (hoặc tên cơ quan, tổ chức khiếu nại).\n\n(4) Nếu người khiếu nại không có CMND/Hộ chiếu thì ghi các thông tin theo giấy tờ tùy thân, (mã số thuế nếu là công ty)\n\n(5) Tóm tắt nội dung khiếu nại.\n\n(6) Lý do của việc không thụ lý giải quyết khiếu nại.\n\n(7) Tên cơ quan, tổ chức, đơn vị, cá nhân có thẩm quyền chuyển khiếu nại đến (nếu có).\n\n(8) Bộ phận xử lý đơn.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_04A-KN-178-QD-TCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 863,
+            "source_file": "thongbao/MAU SO 04A-KN-178-QD-TCT.doc",
+            "file_name": "MAU SO 04A-KN-178-QD-TCT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:45:43",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

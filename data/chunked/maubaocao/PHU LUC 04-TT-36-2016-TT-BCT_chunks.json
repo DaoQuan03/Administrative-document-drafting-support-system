@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_PHU_LUC_04-TT-36-2016-TT-BCT_chunk_0001",
+        "doc_id": "maubaocao_PHU_LUC_04-TT-36-2016-TT-BCT",
+        "text": "PHỤ LỤC 4\n\nBIỂU MẪU BÁO CÁO TÌNH HÌNH PHƯƠNG TIỆN, THIẾT BỊ ĐÃ THỬ NGHIỆM\n(Ban hành kèm theo Thông tư số 36/2016/TT-BCT ngày 28 tháng 12 năm 2016 của Bộ trưởng Bộ Công Thương)\n\n| (Tên cơ quan chủ quản)<br>(Tên tổ chức thử nghiệm)<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | ………., ngày ….. tháng ….. năm …….. |\n\nBÁO CÁO\n\nHOẠT ĐỘNG THỬ NGHIỆM PHƯƠNG TIỆN, THIẾT BỊ DÁN NHÃN NĂNG LƯỢNG\n\nKính gửi: Bộ Công Thương\n\n1. Tên tổ chức thử nghiệm …………………………………………………………………………\n\n2. Địa chỉ: …………………………………………………………………………………………….\n\n3. Điện thoại: …………………………Fax:…………………………… E-mail: ………………….\n\nĐược cấp Giấy chứng nhận kinh doanh dịch vụ thử nghiệm số [     ], [ngày/tháng/năm cấp] do [tên cơ quan cấp].",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_PHU_LUC_04-TT-36-2016-TT-BCT_chunk_0002",
+            "char_count": 759,
+            "source_file": "maubaocao/PHU LUC 04-TT-36-2016-TT-BCT.doc",
+            "file_name": "PHU LUC 04-TT-36-2016-TT-BCT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:46:02",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_PHU_LUC_04-TT-36-2016-TT-BCT_chunk_0002",
+        "doc_id": "maubaocao_PHU_LUC_04-TT-36-2016-TT-BCT",
+        "text": "Điện thoại: …………………………Fax:…………………………… E-mail: ………………….\n\nĐược cấp Giấy chứng nhận kinh doanh dịch vụ thử nghiệm số [     ], [ngày/tháng/năm cấp] do [tên cơ quan cấp].\n\nCăn cứ quy định tại Thông tư số 36/2016/TT-BCT ngày 28 tháng 12 năm 2012 của Bộ trưởng Bộ Công Thương quy định dán nhãn năng lượng cho các phương tiện và thiết bị sử dụng năng lượng thuộc phạm vi quản lý của Bộ Công Thương, [Tên tổ chức thử nghiệm] xin báo cáo như sau:\n\n| TT | Tên DN thử nghiệm | Địa chỉ<br>(ghi địa danh tỉnh /thành phố) | Lĩnh vực /đối tượng | Sản phẩm | Mã sản phẩm | Tên tiêu chuẩn thử nghiệm | Kết quả thử nghiệm (số...) | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  | Thiết bị gia dụng | Quạt |  |  |  | . |\n|  |  |  | Thiết bị văn phòng | Máy in |  |  |  |  |\n|  |  |  | Công nghiệp |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n\n4. Các kiến nghị, đề xuất (nếu có).\n\n|  | Đại diện có thẩm quyền<br>(Ghi rõ họ tên và đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_PHU_LUC_04-TT-36-2016-TT-BCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 964,
+            "source_file": "maubaocao/PHU LUC 04-TT-36-2016-TT-BCT.doc",
+            "file_name": "PHU LUC 04-TT-36-2016-TT-BCT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:46:02",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

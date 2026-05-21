@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_13-PHU_LUC_I-03-2026-ND-CP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_13-PHU_LUC_I-03-2026-ND-CP",
+        "text": "Mẫu số 13. Đơn đề nghị chia quỹ\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN ĐỀ NGHỊ\n\nChia Quỹ ...(1)... thành Quỹ ...(2)... và Quỹ ...(3)...\n\nKính gửi: ...(4)...\n\nTheo quy định tại Nghị định số .../.../NĐ-CP ngày ... tháng ... năm ... của Chính phủ về tổ chức, hoạt động của quỹ xã hội, quỹ từ thiện và quy định của pháp luật có liên quan; Hội đồng quản lý Quỹ ...(1)... đã có Nghị quyết về việc chia Quỹ ...(1)... thành Quỹ ...(2)... và Quỹ ...(3)...\n\n1. Một số thông tin cơ bản về Quỹ:...\n\n2. Lý do chia Quỹ:...\n\n3. Hồ sơ gửi kèm theo Đơn này, gồm:\n\n...(5)...\n\n4. Các thông tin có liên quan (nếu có)\n\nThông tin khi cần liên hệ:...\n\nHọ và tên:...\n\nĐịa chỉ liên lạc:...\n\nSố điện thoại:...\n\nHội đồng quản lý Quỹ ...(1)... đề nghị ...(4)... xem xét, quyết định cho phép chia Quỹ ...(1)... thành Quỹ ...(2)... và Quỹ ...(3)... và công nhận Điều lệ của Quỹ ...(2)... và Quỹ ...(3)...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_13-PHU_LUC_I-03-2026-ND-CP_chunk_0002",
+            "char_count": 920,
+            "source_file": "Maudon/MAU SO 13-PHU LUC I-03-2026-ND-CP.doc",
+            "file_name": "MAU SO 13-PHU LUC I-03-2026-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:37:51",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_13-PHU_LUC_I-03-2026-ND-CP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_13-PHU_LUC_I-03-2026-ND-CP",
+        "text": "đồng quản lý Quỹ ...(1)... đề nghị ...(4)... xem xét, quyết định cho phép chia Quỹ ...(1)... thành Quỹ ...(2)... và Quỹ ...(3)... và công nhận Điều lệ của Quỹ ...(2)... và Quỹ ...(3)...\n\n| Nơi nhận:<br>- Như trên;<br>- ...;<br>- Lưu: ... | ...(6)..., ngày ... tháng ... năm ...<br>TM. HỘI ĐỒNG QUẢN LÝ QUỸ<br>...(1)...<br>(Chức vụ, chữ ký, dấu)<br><br>Họ và tên |\n| --- | --- |\n\n___\n\nGhi chú:\n\n(1) Tên quỹ đề nghị.\n\n(2) Tên quỹ mới sau khi chia.\n\n(3) Tên quỹ mới sau khi chia.\n\n(4) Tên cơ quan có thẩm quyền cho phép thành lập quỹ.\n\n(5) Đảm bảo đầy đủ theo quy định tại điểm a khoản 2 Điều 41 Nghị định này và quy định pháp luật có liên quan.\n\n(6) Địa danh.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_13-PHU_LUC_I-03-2026-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 657,
+            "source_file": "Maudon/MAU SO 13-PHU LUC I-03-2026-ND-CP.doc",
+            "file_name": "MAU SO 13-PHU LUC I-03-2026-ND-CP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:37:51",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

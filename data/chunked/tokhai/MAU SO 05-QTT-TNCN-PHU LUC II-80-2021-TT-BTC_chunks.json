@@ -1,0 +1,128 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTỜ KHAI QUYẾT TOÁN THUẾ THU NHẬP CÁ NHÂN\n\n(Áp dụng đối với tổ chức, cá nhân trả thu nhập chịu thuế từ tiền lương, tiền công)\n\n[01] Kỳ tính thuế: Năm……\n\n[02] Lần đầu:                       [03] Bổ sung lần thứ: ….\n\n[04] Tổ chức có quyết toán thuế theo uỷ quyền của cá nhân được điều chuyển từ tổ chức cũ đến tổ chức mới do tổ chức cũ thực hiện sáp nhập, hợp nhất, chia, tách, chuyển đổi loại hình doanh nghiệp hoặc điều chuyển trong cùng hệ thống\n\n[05] Tên người nộp thuế:…………….…………………….……………...\n\n| [06] Mã số thuế: |  |  |  |  |  |  |  |  |  |  | - |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[07] Địa chỉ: ……………..…………...\n\n[08] Xã/phường/đặc khu: ... [09] Tỉnh/thành phố: ...\n\n[10] Điện thoại:………………..[11] Fax:...[12] Email: ...\n\n[13] Tên đại lý thuế (nếu có):…..……………………...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 7,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+            "char_count": 900,
+            "source_file": "tokhai/MAU SO 05-QTT-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 05-QTT-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:55:29",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "| --- | --- |\n\n[07] Địa chỉ: ……………..…………...\n\n[08] Xã/phường/đặc khu: ... [09] Tỉnh/thành phố: ...\n\n[10] Điện thoại:………………..[11] Fax:...[12] Email: ...\n\n[13] Tên đại lý thuế (nếu có):…..……………………...\n\n| [14] Mã số thuế: |  |  |  |  |  |  |  |  |  |  | - |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[15] Hợp đồng đại lý thuế: Số: ...ngày: ...\n\nI. NGHĨA VỤ KHẤU TRỪ THUẾ CỦA TỔ CHỨC, CÁ NHÂN TRẢ THU NHẬP\n\nĐơn vị tiền: Đồng Việt Nam (VNĐ)",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 7,
+            "prev_chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+            "char_count": 493,
+            "source_file": "tokhai/MAU SO 05-QTT-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 05-QTT-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:55:29",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+        "doc_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "--- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[15] Hợp đồng đại lý thuế: Số: ...ngày: ...\n\nI. NGHĨA VỤ KHẤU TRỪ THUẾ CỦA TỔ CHỨC, CÁ NHÂN TRẢ THU NHẬP\n\nĐơn vị tiền: Đồng Việt Nam (VNĐ)\n\n| STT | Chỉ tiêu | Mã chỉ tiêu | Đơn vị tính | Số người/ Số tiền |\n| --- | --- | --- | --- | --- |\n| 1 | Tổng số người lao động: | [16] | Người |  |\n| 1 | Trong đó: Cá nhân cư trú có hợp đồng lao động | [17] | Người |  |\n| 2 | Tổng số cá nhân đã khấu trừ thuế [18]=[19]+[20] | [18] | Người |  |\n| 2.1 | Cá nhân cư trú | [19] | Người |  |\n| 2.2 | Cá nhân không cư trú | [20] | Người |  |\n| 3 | Tổng số cá nhân thuộc diện được miễn, giảm thuế theo Hiệp định tránh đánh thuế hai lần | [21] | Người |  |\n| 4 | Tổng số cá nhân giảm trừ gia cảnh | [22] | Người |  |\n| 5 | Tổng thu nhập chịu thuế trả cho cá nhân [23]=[24]+[25] | [23] | VNĐ |  |\n| 5.1 | Cá nhân cư trú | [24] | VNĐ |  |\n| 5.2 | Cá nhân không cư trú | [25] | VNĐ |  |\n| 5.3 | Trong đó: Tổng thu nhập chịu thuế từ tiền phí mua bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác của doanh nghiệp bảo hiểm không thành lập tại Việt Nam cho người lao động | [26] | VNĐ |  |\n| 6 | Trong đó tổng thu nhập chịu thuế được miễn theo quy định của Hợp đồng dầu khí | [27] | VNĐ |  |\n| 7 | Tổng thu nhập chịu thuế trả cho cá nhân thuộc diện phải khấu trừ thuế [28]=[29]+[30] | [28] | VNĐ |  |\n| 7.1 | Cá nhân cư trú | [29] | VNĐ |  |\n| 7.2 | Cá nhân không cư trú | [30] | VNĐ |  |\n| 8 | Tổng số thuế thu nhập cá nhân đã khấu trừ [31]=[32]+[33] | [31] | VNĐ |  |\n| 8.1 | Cá nhân cư trú | [32] | VNĐ |  |\n| 8.2 | Cá nhân không cư trú | [33] | VNĐ |  |\n| 8.3 | Trong đó: Tổng số thuế thu nhập cá nhân đã khấu trừ trên tiền phí mua bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác của doanh nghiệp bảo hiểm không thành lập tại Việt Nam cho người lao động | [34] | VNĐ |  |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 7,
+            "prev_chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+            "next_chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0004",
+            "char_count": 1811,
+            "source_file": "tokhai/MAU SO 05-QTT-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 05-QTT-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:55:29",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0004",
+        "doc_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "Tổng số thuế thu nhập cá nhân đã khấu trừ trên tiền phí mua bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác của doanh nghiệp bảo hiểm không thành lập tại Việt Nam cho người lao động | [34] | VNĐ |  |\n\nII. NGHĨA VỤ QUYẾT TOÁN THAY CHO CÁ NHÂN",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 7,
+            "prev_chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+            "next_chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0005",
+            "char_count": 241,
+            "source_file": "tokhai/MAU SO 05-QTT-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 05-QTT-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:55:29",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0005",
+        "doc_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "trên tiền phí mua bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác của doanh nghiệp bảo hiểm không thành lập tại Việt Nam cho người lao động | [34] | VNĐ |  |\n\nII. NGHĨA VỤ QUYẾT TOÁN THAY CHO CÁ NHÂN\n\n| STT | Chỉ tiêu | Mã chỉ tiêu | Đơn vị tính | Số người/ Số tiền |\n| --- | --- | --- | --- | --- |\n| 1 | Tổng số cá nhân uỷ quyền cho tổ chức, cá nhân trả thu nhập quyết toán thay | [35] | Người |  |\n| 2 | Tổng số thuế thu nhập cá nhân đã khấu trừ | [36] | VNĐ |  |\n| 2 | Trong đó: Số thuế thu nhập cá nhân đã khấu trừ tại tổ chức trước khi điều chuyển (trường hợp có đánh dấu vào chỉ tiêu [04]) | [37] | VNĐ |  |\n| 3 | Tổng số thuế thu nhập cá nhân  phải nộp | [38] | VNĐ |  |\n| 4 | Tổng số thuế thu nhập cá nhân được miễn do cá nhân có số thuế còn phải nộp sau ủy quyền quyết toán từ 50.000 đồng trở xuống | [39] | VNĐ |  |\n| 5 | Tổng số thuế thu nhập cá nhân còn phải nộp <br>[40] = ([38] – [36] – [39]) >0 | [40] | VNĐ |  |\n| 6 | Tổng số thuế thu nhập cá nhân đã nộp thừa  <br>[41] = ([38] – [36] – [39]) <0 | [41] | VNĐ |  |",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 7,
+            "prev_chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0004",
+            "next_chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0006",
+            "char_count": 1030,
+            "source_file": "tokhai/MAU SO 05-QTT-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 05-QTT-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:55:29",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0006",
+        "doc_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "| Tổng số thuế thu nhập cá nhân còn phải nộp <br>[40] = ([38] – [36] – [39]) >0 | [40] | VNĐ |  |\n| 6 | Tổng số thuế thu nhập cá nhân đã nộp thừa  <br>[41] = ([38] – [36] – [39]) <0 | [41] | VNĐ |  |\n\nTôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về những số liệu đã khai./.\n\n| NHÂN VIÊN ĐẠI LÝ THUẾ<br>Họ và tên: ……………………..<br>Chứng chỉ hành nghề số:... |  |\n| --- | --- |\n\nGhi chú:\n\n- Kỳ tính thuế tại chỉ tiêu [01] trong mọi trường hợp quyết toán thuế TNCN của tổ chức, cá nhân trả thu nhập là theo năm dương lịch.",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 7,
+            "prev_chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0005",
+            "next_chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0007",
+            "char_count": 546,
+            "source_file": "tokhai/MAU SO 05-QTT-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 05-QTT-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:55:29",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0007",
+        "doc_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "chỉ hành nghề số:... |  |\n| --- | --- |\n\nGhi chú:\n\n- Kỳ tính thuế tại chỉ tiêu [01] trong mọi trường hợp quyết toán thuế TNCN của tổ chức, cá nhân trả thu nhập là theo năm dương lịch.\n\n- Tổ chức trả thu nhập khi quyết toán thuế TNCN chỉ phải khai thông tin tổng hợp tại Tờ khai này mà không phải khai vào Bảng kê 05-1/BK-TNCN đối với các cá nhân sau đây: Cán bộ, công chức có hệ số lương quy định tại bảng lương ban hành kèm theo Quyết định số 128/QĐ/TW ngày 14/12/2004 của Ban bí thư Trung ương Đảng; bảng lương ban hành kèm theo Nghị quyết số 730/2004/NQ-UBTVQH11 ngày 30/9/2004 của Uỷ ban thường vụ Quốc hội; bậc 3 Bảng 1 chuyên gia cao cấp, mức 1 - 2 Bảng lương cấp bậc quân hàm theo Nghị định số 204/2004/NĐ-CP ngày 14/12/2004 của Chính phủ.",
+        "metadata": {
+            "chunk_index": 7,
+            "total_chunks": 7,
+            "prev_chunk_id": "tokhai_MAU_SO_05-QTT-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0006",
+            "next_chunk_id": null,
+            "char_count": 746,
+            "source_file": "tokhai/MAU SO 05-QTT-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 05-QTT-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:55:29",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

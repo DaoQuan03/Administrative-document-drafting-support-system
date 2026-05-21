@@ -1,0 +1,146 @@
+[
+    {
+        "chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0001",
+        "doc_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT",
+        "text": "PHỤ LỤC B\n\nBiểu mẫu báo cáo thống kê dữ liệu TBGSHT trên máy chủ\n\nB.1. Hành trình xe chạy.\n\nTừ...giờ...phút ngày...tháng...năm...đến ...giờ... phút ngày... tháng ... năm..\n\nĐơn vị kinh doanh vận tải ………………..\n\nBiển số xe ………………………………\n\n| TT | Thời điểm (giờ, phút, giây, ngày, tháng, năm) | Tọa độ | Địa điểm | Ghi chú |\n| --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |\n| 2 |  |  |  |  |\n| … |  |  |  |  |\n\nB.2. Tốc độ vận hành của xe\n\nB.2.1. Tốc độ của xe\n\nTừ...giờ...phút ngày...tháng...năm...đến ...giờ... phút ngày... tháng ... năm..\n\nĐơn vị kinh doanh vận tải ………………\n\nBiển số xe ……………………………….\n\n| TT | Thời điểm (giờ, phút, giây, ngày tháng, năm) | Các tốc độ (km/h) | Ghi chú |\n| --- | --- | --- | --- |\n| 1 |  |  |  |\n| 2 |  |  |  |\n| … |  |  |  |\n\nLưu ý: Các tốc độ cách nhau bởi dấu “,”.\n\nB.2.2. Quá tốc độ giới hạn\n\nTừ...giờ...phút ngày...tháng...năm...đến ...giờ... phút ngày... tháng ... năm…\nĐơn vị kinh doanh vận tải ………………\n\nChọn “Tất cả” hoặc chọn “Từng biển số xe”",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 8,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0002",
+            "char_count": 978,
+            "source_file": "maubaocao/PHU LUC B-TT-73-2014-TT-BGTVT.doc",
+            "file_name": "PHU LUC B-TT-73-2014-TT-BGTVT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:48:18",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0002",
+        "doc_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT",
+        "text": "bởi dấu “,”.\n\nB.2.2. Quá tốc độ giới hạn\n\nTừ...giờ...phút ngày...tháng...năm...đến ...giờ... phút ngày... tháng ... năm…\nĐơn vị kinh doanh vận tải ………………\n\nChọn “Tất cả” hoặc chọn “Từng biển số xe”\n\n| TT | Biển số xe | Họ tên lái xe | Số Giấy phép lái xe | Loại hình hoạt động | Thời điểm (giờ, phút, ngày, tháng, năm) | Tốc độ trung bình khi quá tốc độ giới hạn (km/h) | Tốc độ giới hạn (km/h) | Tọa độ quá tốc độ giới hạn | Địa điểm quá tốc độ giới hạn | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |  |  |  |\n\nB.3. Thời gian lái xe liên tục\n\nTừ ngày …… tháng ….. năm ... đến ngày ……... tháng …… năm ……\n\nĐơn vị kinh doanh vận tải ………………..\n\nChọn “Lái xe liên tục quá 04 h” hoặc chọn “Tất cả”",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 8,
+            "prev_chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0001",
+            "next_chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0003",
+            "char_count": 822,
+            "source_file": "maubaocao/PHU LUC B-TT-73-2014-TT-BGTVT.doc",
+            "file_name": "PHU LUC B-TT-73-2014-TT-BGTVT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:48:18",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0003",
+        "doc_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT",
+        "text": "|  |  |  |  |  |\n\nB.3. Thời gian lái xe liên tục\n\nTừ ngày …… tháng ….. năm ... đến ngày ……... tháng …… năm ……\n\nĐơn vị kinh doanh vận tải ………………..\n\nChọn “Lái xe liên tục quá 04 h” hoặc chọn “Tất cả”\n\n| TT | Biển số xe | Họ tên lái xe | Số Giấy phép lái xe | Loại hình hoạt động | Thời điểm bắt đầu | Thời điểm bắt đầu | Thời điểm bắt đầu | Thời điểm kết thúc | Thời điểm kết thúc | Thời điểm kết thúc | Thời gian lái xe (phút) | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | Biển số xe | Họ tên lái xe | Số Giấy phép lái xe | Loại hình hoạt động | Thời điểm (giờ, phút, ngày, tháng, năm) | Tọa độ | Địa điểm | Thời điểm (giờ, phút, ngày, tháng, năm) | Tọa độ | Địa điểm | Thời gian lái xe (phút) | Ghi chú |\n| 1 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |  |  |  |  |  |\n\nB.4. Dừng đỗ\n\nTừ ngày …….. tháng …….. năm ... đến ngày ….. tháng …… năm ...\n\nĐơn vị kinh doanh vận tải ………………",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 8,
+            "prev_chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0002",
+            "next_chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0004",
+            "char_count": 994,
+            "source_file": "maubaocao/PHU LUC B-TT-73-2014-TT-BGTVT.doc",
+            "file_name": "PHU LUC B-TT-73-2014-TT-BGTVT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:48:18",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0004",
+        "doc_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT",
+        "text": "|  |\n| 2 |  |  |  |  |  |  |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |  |  |  |  |  |\n\nB.4. Dừng đỗ\n\nTừ ngày …….. tháng …….. năm ... đến ngày ….. tháng …… năm ...\n\nĐơn vị kinh doanh vận tải ………………\n\nChọn “Tất cả” hoặc chọn “Từng biển số xe”\n\n| TT | Biển số xe | Họ tên lái xe | Số Giấy phép lái xe | Loại hình hoạt động | Thời điểm dừng đỗ (giờ, phút, ngày, tháng, năm) | Thời gian dừng đỗ (phút) | Tọa độ dừng đỗ | Địa điểm dừng đỗ | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |  |  |\n| Tổng | Tổng | Tổng | Tổng | Tổng | Tổng |  |  |  |  |\n\nB.5. Báo cáo tổng hợp\n\nB.5.1. Báo cáo tổng hợp theo xe\n\nTừ ngày ……. tháng ……. năm ... đến ngày …… tháng …… năm ……\n\nĐơn vị kinh doanh vận tải ……………\n\nChọn “Tất cả” hoặc chọn “Từng biển số xe”",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 8,
+            "prev_chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0003",
+            "next_chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0005",
+            "char_count": 854,
+            "source_file": "maubaocao/PHU LUC B-TT-73-2014-TT-BGTVT.doc",
+            "file_name": "PHU LUC B-TT-73-2014-TT-BGTVT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:48:18",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0005",
+        "doc_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT",
+        "text": "|  |  |\n\nB.5. Báo cáo tổng hợp\n\nB.5.1. Báo cáo tổng hợp theo xe\n\nTừ ngày ……. tháng ……. năm ... đến ngày …… tháng …… năm ……\n\nĐơn vị kinh doanh vận tải ……………\n\nChọn “Tất cả” hoặc chọn “Từng biển số xe”\n\n| TT | Biển số xe | Loại hình hoạt động | Tổng km | Tỷ lệ km quá hạn/tổng tốc độ giới km (%) | Tỷ lệ km quá hạn/tổng tốc độ giới km (%) | Tỷ lệ km quá hạn/tổng tốc độ giới km (%) | Tỷ lệ km quá hạn/tổng tốc độ giới km (%) | Tổng số lần quá tốc độ giới hạn (lần) | Tổng số lần quá tốc độ giới hạn (lần) | Tổng số lần quá tốc độ giới hạn (lần) | Tổng số lần quá tốc độ giới hạn (lần) | Tổng số lần dừng đỗ | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | Biển số xe | Loại hình hoạt động | Tổng km | Tỷ lệ quá tốc độ từ 5 km/h đến dưới 10 km/h | Tỷ lệ quá tốc độ từ 10 km/h đến dưới 20 km/h | Tỷ lệ quá tốc độ từ 20 km/h đến 35 km/h | Tỷ lệ quá tốc độ trên 35 km/h | Số lần quá tốc độ từ 5 km/h đến dưới 10 km/h | Số lần quá tốc độ từ 10 km/h đến dưới 20 km/h | Số lần quá tốc độ từ 20 km/h đến 35 km/h | Số lần quá tốc độ trên 35 km/h | Tổng số lần dừng đỗ | Ghi chú |\n| 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 8,
+            "prev_chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0004",
+            "next_chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0006",
+            "char_count": 1258,
+            "source_file": "maubaocao/PHU LUC B-TT-73-2014-TT-BGTVT.doc",
+            "file_name": "PHU LUC B-TT-73-2014-TT-BGTVT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:48:18",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0006",
+        "doc_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT",
+        "text": "Số lần quá tốc độ trên 35 km/h | Tổng số lần dừng đỗ | Ghi chú |\n| 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\nB.5.2. Báo cáo tổng hợp theo lái xe\n\nTừ ngày ….. tháng ….. năm ... đến ngày ….. tháng ….. năm …..\n\nĐơn vị kinh doanh vận tải ……………\n\nChọn “Tất cả” hoặc chọn “Từng lái xe”",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 8,
+            "prev_chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0005",
+            "next_chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0007",
+            "char_count": 370,
+            "source_file": "maubaocao/PHU LUC B-TT-73-2014-TT-BGTVT.doc",
+            "file_name": "PHU LUC B-TT-73-2014-TT-BGTVT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:48:18",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0007",
+        "doc_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT",
+        "text": "|  |  |  |  |  |  |  |  |  |\n\nB.5.2. Báo cáo tổng hợp theo lái xe\n\nTừ ngày ….. tháng ….. năm ... đến ngày ….. tháng ….. năm …..\n\nĐơn vị kinh doanh vận tải ……………\n\nChọn “Tất cả” hoặc chọn “Từng lái xe”\n\n| TT | Họ tên lái xe | Số Giấy phép lái xe | Tổng km | Tỷ lệ km quá tốc độ giới hạn /tổng km (%) | Tỷ lệ km quá tốc độ giới hạn /tổng km (%) | Tỷ lệ km quá tốc độ giới hạn /tổng km (%) | Tỷ lệ km quá tốc độ giới hạn /tổng km (%) | Tổng số lần quá tốc độ giới hạn (lần) | Tổng số lần quá tốc độ giới hạn (lần) | Tổng số lần quá tốc độ giới hạn (lần) | Tổng số lần quá tốc độ giới hạn (lần) | Tổng số lần lái xe liên tục quá 04 giờ | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | Họ tên lái xe | Số Giấy phép lái xe | Tổng km | Tỷ lệ quá tốc độ từ 5 km/h đến dưới 10 km/h | Tỷ lệ quá tốc độ từ 10 km/h đến dưới 20 km/h | Tỷ lệ quá tốc độ từ 20 km/h đến 35 km/h | Tỷ lệ quá tốc độ trên 35 km/h | Số lần quá tốc độ từ 5 km/h đến dưới 10 km/h | Số lần quá tốc độ từ 10 km/h đến dưới 20 km/h | Số lần quá tốc độ từ 20 km/h đến 35 km/h | Số lần quá tốc độ trên 35 km/h | Tổng số lần lái xe liên tục quá 04 giờ | Ghi chú |\n| 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 7,
+            "total_chunks": 8,
+            "prev_chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0006",
+            "next_chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0008",
+            "char_count": 1307,
+            "source_file": "maubaocao/PHU LUC B-TT-73-2014-TT-BGTVT.doc",
+            "file_name": "PHU LUC B-TT-73-2014-TT-BGTVT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:48:18",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0008",
+        "doc_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT",
+        "text": "35 km/h | Tổng số lần lái xe liên tục quá 04 giờ | Ghi chú |\n| 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\nLưu ý:\n\n Đơn vị tốc độ: km/h;\n\n Các cột đơn vị là phút: nếu ³ 60 phút thì hiển thị định dạng hh:mm;\n\n Tọa độ: kinh độ, vĩ độ và được cách bởi dấu phẩy;\n\n Các biểu mẫu được trích xuất theo định dạng Microsott Excel (.xls hoặc .xlsx).\n\nNguồn: Thông tư 73/2014/TT-BGTVT",
+        "metadata": {
+            "chunk_index": 8,
+            "total_chunks": 8,
+            "prev_chunk_id": "maubaocao_PHU_LUC_B-TT-73-2014-TT-BGTVT_chunk_0007",
+            "next_chunk_id": null,
+            "char_count": 467,
+            "source_file": "maubaocao/PHU LUC B-TT-73-2014-TT-BGTVT.doc",
+            "file_name": "PHU LUC B-TT-73-2014-TT-BGTVT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:48:18",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

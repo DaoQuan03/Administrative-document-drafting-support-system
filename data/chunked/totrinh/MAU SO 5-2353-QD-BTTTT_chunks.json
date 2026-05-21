@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_SO_5-2353-QD-BTTTT_chunk_0001",
+        "doc_id": "totrinh_MAU_SO_5-2353-QD-BTTTT",
+        "text": "Mẫu số 05. Tờ trình ban hành Thông tư\n\n| BỘ THÔNG TIN VÀ<br>TRUYỀN THÔNG<br>………….(1)………….<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>-------------- |\n| --- | --- |\n| Số: .../TTr-...(2)... | Hà Nội, ngày ….. tháng ….. năm 20... |\n\nTỜ TRÌNH\n\nDự thảo …………………(3)…………………….\n\n| Kính trình: | - Bộ trưởng ……….………;<br>- Thứ trưởng …………….. |\n| --- | --- |\n\nThực hiện Chương trình xây dựng và ban hành văn bản quy phạm pháp luật năm 20……… thuộc phạm vi quản lý nhà nước của Bộ Thông tin và Truyền thông hoặc văn bản được giao chủ trì xây dựng Dự thảo Thông tư của Bộ Thông tin và Truyền thông ………...(3) ………………..,  …………………..(1)………………………… kính trình Bộ trưởng như sau:\n\nI. SỰ CẦN THIẾT BAN HÀNH THÔNG TƯ\n\nII. QUÁ TRÌNH XÂY DỰNG THÔNG TƯ\n\nIII. KẾT CẤU VÀ NỘI DUNG CƠ BẢN CỦA THÔNG TƯ\n\nIV. TIẾP THU, GIẢI TRÌNH Ý KIẾN GÓP Ý\n\n………………...(1)………………………… kính trình Bộ trưởng xem xét, quyết định./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_SO_5-2353-QD-BTTTT_chunk_0002",
+            "char_count": 916,
+            "source_file": "totrinh/MAU SO 5-2353-QD-BTTTT.doc",
+            "file_name": "MAU SO 5-2353-QD-BTTTT.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:27:30",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_SO_5-2353-QD-BTTTT_chunk_0002",
+        "doc_id": "totrinh_MAU_SO_5-2353-QD-BTTTT",
+        "text": "HÀNH THÔNG TƯ\n\nII. QUÁ TRÌNH XÂY DỰNG THÔNG TƯ\n\nIII. KẾT CẤU VÀ NỘI DUNG CƠ BẢN CỦA THÔNG TƯ\n\nIV. TIẾP THU, GIẢI TRÌNH Ý KIẾN GÓP Ý\n\n………………...(1)………………………… kính trình Bộ trưởng xem xét, quyết định./.\n\n| Nơi nhận:<br>- Như trên; <br>- Thứ trưởng phụ trách lĩnh vực;<br>- Vụ Pháp chế;<br>- ………………….<br>- Lưu: VT,... | QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ<br>(Chữ ký, dấu)<br><br><br><br><br>Họ và tên |\n| --- | --- |\n\nHồ sơ trình kèm theo:\n\n- Dự thảo Thông tư;\n\n- Báo cáo thẩm định của Vụ Pháp chế;\n\n- Báo cáo giải trình tiếp thu ý kiến thẩm định;\n\n- ………….\n\nGhi chú:\n\n(1) Tên đơn vị chủ trì soạn thảo\n\n(2) Tên viết tắt của đơn vị chủ trì soạn thảo\n\n(3) Tên văn bản.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_SO_5-2353-QD-BTTTT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 658,
+            "source_file": "totrinh/MAU SO 5-2353-QD-BTTTT.doc",
+            "file_name": "MAU SO 5-2353-QD-BTTTT.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:27:30",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

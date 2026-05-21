@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_PHIEU_DANH_GIA_075-DKVN-VAR_2011_chunk_0001",
+        "doc_id": "mauphieu_PHIEU_DANH_GIA_075-DKVN-VAR_2011",
+        "text": "PHIẾU ĐÁNH GIÁ\n\nThực hiện tiêu chuẩn, quy trình kiểm định\n\nNgày… tháng… năm…, tại Trung tâm ĐK………..\n\nNgười thực hiện:\n\nNgười đánh giá:\n\n1. Thực hiện kiểm định:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHIEU_DANH_GIA_075-DKVN-VAR_2011_chunk_0002",
+            "char_count": 159,
+            "source_file": "mauphieu/PHIEU DANH GIA_ 075-DKVN-VAR_2011.doc",
+            "file_name": "PHIEU DANH GIA_ 075-DKVN-VAR_2011.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:27:50",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHIEU_DANH_GIA_075-DKVN-VAR_2011_chunk_0002",
+        "doc_id": "mauphieu_PHIEU_DANH_GIA_075-DKVN-VAR_2011",
+        "text": "ĐÁNH GIÁ\n\nThực hiện tiêu chuẩn, quy trình kiểm định\n\nNgày… tháng… năm…, tại Trung tâm ĐK………..\n\nNgười thực hiện:\n\nNgười đánh giá:\n\n1. Thực hiện kiểm định:\n\n| STT | Nội dung | Kết quả | Kết quả | Ghi lý do không đạt |\n| --- | --- | --- | --- | --- |\n| STT | Nội dung | Đạt | Kh. đạt | Ghi lý do không đạt |\n| 1 | Biển số đăng ký |  |  |  |\n| 2 | Số khung |  |  |  |\n| 3 | Số động cơ |  |  |  |\n| 4 | Động cơ và các hệ thống liên quan, ắc quy | Động cơ và các hệ thống liên quan, ắc quy | Động cơ và các hệ thống liên quan, ắc quy | Động cơ và các hệ thống liên quan, ắc quy |\n| 4.1 | Tình trạng chung |  |  |  |\n| 4.2 | Sự làm việc |  |  |  |\n| 4.3 | Bình chứa, ống dẫn nhiên liệu |  |  |  |\n| 4.4 | Hệ thống làm mát |  |  |  |\n| 4.5 | Ắc quy |  |  |  |\n| 4.6 | Bơm chân không, máy nén khí |  |  |  |\n| 4.7 | Dây cu roa |  |  |  |\n| 5 | Màu sơn |  |  |  |\n| 6 | Kiểu loại, kích thước xe |  |  |  |\n| 7 | Bánh xe và lốp dự phòng |  |  |  |\n| 8 | Các cơ cấu chuyên dùng, mâm xoay, chốt kéo, búa phá cửa sự cố |  |  |  |\n| 9 | Các cơ cấu khóa hãm |  |  |  |\n| 10 | Đèn chiếu sáng phía trước (pha, cốt) | Đèn chiếu sáng phía trước (pha, cốt) | Đèn chiếu sáng phía trước (pha, cốt) | Đèn chiếu sáng phía trước (pha, cốt) |\n| 10.1 | Tình trạng và sự hoạt động |  |  |  |\n| 10.2 | Sử dụng thiết bị (Chuẩn bị, thao tác, truyền số liệu đo) |  |  |  |\n| 11 | Các đèn tín hiệu, đèn kích thước, đèn phanh, đèn lùi, đèn soi biển số | Các đèn tín hiệu, đèn kích thước, đèn phanh, đèn lùi, đèn soi biển số | Các đèn tín hiệu, đèn kích thước, đèn phanh, đèn lùi, đèn soi biển số | Các đèn tín hiệu, đèn kích thước, đèn phanh, đèn lùi, đèn soi biển số |\n| 11.1 | Đèn kích thước trước, sau và thành bên |  |  |  |\n| 11.2 | Đèn báo rẽ và báo nguy hiểm |  |  |  |\n| 11.3 | Đèn phanh |  |  |  |\n| 11.4 | Đèn lùi |  |  |  |\n| 11.5 | Đèn soi biển số |  |  |  |\n| 12 | Thiết bị bảo vệ thành bên và phía sau, chắn bùn |  |  |  |\n| 13 | Bình chữa cháy |  |  |  |\n| Nhập nguyên nhân không đạt CĐ1 | Nhập nguyên nhân không đạt CĐ1 |  |  |  |\n| 14 | Tầm nhìn, kính chắn gió |  |  |  |\n| 15 | Gạt nước, phun nước rửa kính |  |  |  |\n| 16 | Gương quan sát phía sau |  |  |  |\n| 17 | Các đồng hồ và đèn báo trên bảng điều khiển | Các đồng hồ và đèn báo trên bảng điều khiển | Các đồng hồ và đèn báo trên bảng điều khiển | Các đồng hồ và đèn báo trên bảng điều khiển |\n| 17.1 | Sự làm việc của các đồng hồ, đèn báo |  |  |  |\n| 17.2 | Đồng hồ áp suất, bộ chỉ thị áp suất |  |  |  |\n| 18 | Vô lăng lái | Vô lăng lái | Vô lăng lái | Vô lăng lái |\n| 18.1 | Tình trạng chung |  |  |  |\n| 18.2 | Độ dơ vô lăng lái |  |  |  |\n| 19 | Trụ lái và trục lái |  |  |  |\n| 20 | Sự làm việc của trợ lực lái |  |  |  |\n| 21 | Các bàn điều khiển: ly hợp, phanh | Các bàn điều khiển: ly hợp, phanh | Các bàn điều khiển: ly hợp, phanh | Các bàn điều khiển: ly hợp, phanh |\n| 21.1 | Tình trạng chung |  |  |  |\n| 21.2 | Hành trình |  |  |  |\n| 22 | Sự làm việc của ly hợp |  |  |  |\n| 23 | Cơ cấu điều khiển hộp số | Cơ cấu điều khiển hộp số | Cơ cấu điều khiển hộp số | Cơ cấu điều khiển hộp số |\n| 23.1 | Sự làm việc |  |  |  |\n| 23.2 | Cần điều khiển số |  |  |  |\n| 24 | Cơ cấu điều khiển phanh đỗ |  |  |  |\n| 25 | Tay vịn, cột chống, giá để hàng, khoang hành lý |  |  |  |\n| 26 | Ghế người lái, ghế hành khách, dây đai an toàn |  |  |  |\n| 27 | Thân vỏ, buồng lái, thùng hàng |  |  |  |\n| 28 | Sàn bệ, khung xương, bậc lên xuống |  |  |  |\n| 29 | Cửa và tay nắm cửa | Cửa và tay nắm cửa | Cửa và tay nắm cửa | Cửa và tay nắm cửa |\n| 29.1 | Tình trạng chung và lắp đặt |  |  |  |\n| 29.2 | Chốt, khóa |  |  |  |\n| 29.3 | Kính cửa |  |  |  |\n| 30 | Dây dẫn điện (phần trên) |  |  |  |\n| Nhập nguyên nhân không đạt CĐ2 | Nhập nguyên nhân không đạt CĐ2 |  |  |  |\n| 31 | Trượt ngang bánh xe dẫn hướng |  |  |  |\n| 31.1 | Chuẩn bị |  |  |  |\n| 31.2 | Thao tác |  |  |  |\n| 31.3 | Đánh giá kết quả |  |  |  |\n| 32 | Sự làm việc và hiệu quả phanh chính | Sự làm việc và hiệu quả phanh chính | Sự làm việc và hiệu quả phanh chính | Sự làm việc và hiệu quả phanh chính |\n| 32.1 | Thao tác |  |  |  |\n| 32.2 | Đánh giá kết quả |  |  |  |\n| 33 | Sự làm việc và hiệu quả phanh đỗ | Sự làm việc và hiệu quả phanh đỗ | Sự làm việc và hiệu quả phanh đỗ | Sự làm việc và hiệu quả phanh đỗ |\n| 33.1 | Thao tác |  |  |  |\n| 33.2 | Đánh giá kết quả |  |  |  |\n| 34 | Sự hoạt động của trang thiết bị phanh khác |  |  |  |\n| Nhập nguyên nhân không đạt CĐ3 | Nhập nguyên nhân không đạt CĐ3 |  |  |  |\n| 35 | Độ ồn | Độ ồn | Độ ồn | Độ ồn |\n| 35.1 | Chuẩn bị, thao tác đo |  |  |  |\n| 35.2 | Xử lý kết quả đo |  |  |  |\n| 36 | Còi điện |  |  |  |\n| 37 | Khí thải động cơ cháy cưỡng bức | Khí thải động cơ cháy cưỡng bức | Khí thải động cơ cháy cưỡng bức | Khí thải động cơ cháy cưỡng bức |\n| 37.1 | Chuẩn bị, thao tác đo |  |  |  |\n| 37.2 | Xác nhận kết quả đo |  |  |  |\n| 38 | Khí thải động cơ cháy do nén | Khí thải động cơ cháy do nén | Khí thải động cơ cháy do nén | Khí thải động cơ cháy do nén |\n| 38.1 | Chuẩn bị, thao tác đo |  |  |  |\n| 38.2 | Xác nhận kết quả đo |  |  |  |\n| Nhập nguyên nhân không đạt CĐ4 | Nhập nguyên nhân không đạt CĐ4 |  |  |  |\n| 39 | Khung và các liên kết, móc kéo |  |  |  |\n| 40 | Dẫn động phanh chính | Dẫn động phanh chính | Dẫn động phanh chính | Dẫn động phanh chính |\n| 40.1 | Dẫn động |  |  |  |\n| 40.2 | Các van và bình chứa môi chất |  |  |  |\n| 41 | Dẫn động phanh đỗ |  |  |  |\n| 42 | Dẫn động ly hợp |  |  |  |\n| 43 | Cơ cấu lái, trợ lực lái, các thanh đòn dẫn động lái | Cơ cấu lái, trợ lực lái, các thanh đòn dẫn động lái | Cơ cấu lái, trợ lực lái, các thanh đòn dẫn động lái | Cơ cấu lái, trợ lực lái, các thanh đòn dẫn động lái |\n| 43.1 | Sự làm việc của trục lái và cơ cấu lái |  |  |  |\n| 43.2 | Thanh và đòn dẫn động lái |  |  |  |\n| 43.3 | Lắp đặt, hư hỏng, chảy dầu của trợ lực lái |  |  |  |\n| 44 | Khớp cầu và khớp chuyển hướng |  |  |  |\n| 45 | Ngõng quay lái |  |  |  |\n| 46 | Moay ơ bánh xe |  |  |  |\n| 47 | Bộ phận đàn hồi (Nhíp, lò so, thanh xoắn) |  |  |  |\n| 48 | Hệ thống treo khí |  |  |  |\n| 49 | Thanh dẫn hướng, thanh ổn định, hạn chế hành trình |  |  |  |\n| 50 | Giảm chấn |  |  |  |\n| 51 | Các khớp nối của hệ thống treo |  |  |  |\n| 52 | Các đăng |  |  |  |\n| 53 | Hộp số |  |  |  |\n| 54 | Cầu xe |  |  |  |\n| 55 | Hệ thống dẫn khí xả, bầu giảm âm |  |  |  |\n| 56 | Dây dẫn điện phần dưới |  |  |  |\n| Nhập nguyên nhân không đạt CĐ5 | Nhập nguyên nhân không đạt CĐ5 |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_PHIEU_DANH_GIA_075-DKVN-VAR_2011_chunk_0001",
+            "next_chunk_id": "mauphieu_PHIEU_DANH_GIA_075-DKVN-VAR_2011_chunk_0003",
+            "char_count": 6379,
+            "source_file": "mauphieu/PHIEU DANH GIA_ 075-DKVN-VAR_2011.doc",
+            "file_name": "PHIEU DANH GIA_ 075-DKVN-VAR_2011.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:27:50",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHIEU_DANH_GIA_075-DKVN-VAR_2011_chunk_0003",
+        "doc_id": "mauphieu_PHIEU_DANH_GIA_075-DKVN-VAR_2011",
+        "text": "|  |\n| 54 | Cầu xe |  |  |  |\n| 55 | Hệ thống dẫn khí xả, bầu giảm âm |  |  |  |\n| 56 | Dây dẫn điện phần dưới |  |  |  |\n| Nhập nguyên nhân không đạt CĐ5 | Nhập nguyên nhân không đạt CĐ5 |  |  |  |\n\n2. Biên bản kiểm tra lập Sổ:\n\n| STT | Nội dung | Kết quả | Kết quả | Ghi lý do không đạt |\n| --- | --- | --- | --- | --- |\n| STT | Nội dung | Đạt | Kh. đạt | Ghi lý do không đạt |\n| 1 | Lập biên bản lập Sổ |  |  |  |\n| 2 | Giải thích các thông số |  |  |  |\n\n3. Sử dụng chương trình QLKĐ, tra cứu dữ liệu:\n\n| STT | Nội dung | Kết quả | Kết quả | Ghi lý do không đạt |\n| --- | --- | --- | --- | --- |\n| STT | Nội dung | Đạt | Kh. đạt | Ghi lý do không đạt |\n| 1 | Sử dụng chương trình QLKĐ |  |  |  |\n| 2 | Tra cứu dữ liệu |  |  |  |\n\n4. Kết luận:\n\nNgười thực hiện\tNgười đánh giá",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_PHIEU_DANH_GIA_075-DKVN-VAR_2011_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 778,
+            "source_file": "mauphieu/PHIEU DANH GIA_ 075-DKVN-VAR_2011.doc",
+            "file_name": "PHIEU DANH GIA_ 075-DKVN-VAR_2011.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:27:50",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

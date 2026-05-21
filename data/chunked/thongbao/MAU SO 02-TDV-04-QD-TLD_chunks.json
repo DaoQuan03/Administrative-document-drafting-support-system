@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_02-TDV-04-QD-TLD_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_02-TDV-04-QD-TLD",
+        "text": "Mẫu 02/TĐV\n\n| TÊN CƠ QUAN CHỦ QUẢN (1)<br>TÊN CƠ QUAN, TỔ CHỨC (2)<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | Địa danh, ngày     tháng     năm ... |\n\nTHÔNG BÁO\n\nKính gửi: ...\n\nNgày ... tháng... năm..., ông (bà) ...(3)\n\nSố CCCD/Hộ chiếu (hoặc giấy tờ tùy thân): ..., ngày cấp: .../.../..., nơi cấp...\n\n... Địa chỉ: ...\n\nNội dung khiếu nại (tố cáo) về việc: ...(4)\n\nVụ việc của ông (bà) đã được giải quyết đúng chính sách, pháp luật, được cơ quan nhà nước có thẩm quyền kiểm tra, rà soát và thông báo trả lời bằng văn bản theo đúng quy định của pháp luật.\n\nCăn cứ Luật Tiếp công dân và Quy định số 05/QĐ-TLĐ ngày 30/12/2024 của Đoàn Chủ tịch Tổng Liên đoàn ban hành Quy định về Công đoàn giải quyết và tham gia giải quyết khiếu nại, tố cáo. (Cơ quan ban hành văn bản) thông báo tới ông (bà)...(3) từ chối tiếp nhận nội dung khiếu nại (tố cáo) để ông (bà) biết./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_02-TDV-04-QD-TLD_chunk_0002",
+            "char_count": 937,
+            "source_file": "thongbao/MAU SO 02-TDV-04-QD-TLD.doc",
+            "file_name": "MAU SO 02-TDV-04-QD-TLD.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:38:14",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_02-TDV-04-QD-TLD_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_02-TDV-04-QD-TLD",
+        "text": "Quy định về Công đoàn giải quyết và tham gia giải quyết khiếu nại, tố cáo. (Cơ quan ban hành văn bản) thông báo tới ông (bà)...(3) từ chối tiếp nhận nội dung khiếu nại (tố cáo) để ông (bà) biết./.\n\n| Nơi nhận:<br>- Như trên;<br>- ... (để b/c);<br>- ... (để p/h thực hiện);<br>- Lưu: VT, hồ sơ. | Thủ trưởng, cơ quan, tổ chức, đơn vị<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\nGhi chú:\n\n(1) Tên cơ quan, tổ chức, đơn vị cấp trên trực tiếp (nếu có).\n\n(2) Tên cơ quan, tổ chức, đơn vị tiếp đoàn viên, người lao động và công dân.\n\n(3) Họ tên người khiếu nại (tố cáo).\n\n(4) Tóm tắt nội dung khiếu nại (tố cáo).",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_02-TDV-04-QD-TLD_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 612,
+            "source_file": "thongbao/MAU SO 02-TDV-04-QD-TLD.doc",
+            "file_name": "MAU SO 02-TDV-04-QD-TLD.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:38:14",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

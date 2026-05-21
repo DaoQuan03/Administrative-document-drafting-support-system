@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_NA17-04-2015-TT-BCA_chunk_0001",
+        "doc_id": "mauphieu_MAU_NA17-04-2015-TT-BCA",
+        "text": "|  |  | Mẫu (Form) NA17<br>Ban hành kèm theo thông tư số 04/2015/TT-BCA ngày 05 tháng 01 năm 2015 |\n| --- | --- | --- |\n| Tên cơ sở lưu trú:……………… (1)<br>Địa chỉ:……………………………….<br>Điện thoại: ………………………….. | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>---------------<br>…………ngày, ……tháng…… năm……… | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>---------------<br>…………ngày, ……tháng…… năm……… |\n\nPHIẾU KHAI BÁO TẠM TRÚ CHO NGƯỜI NƯỚC NGOÀI\n\nKính gửi:……………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_NA17-04-2015-TT-BCA_chunk_0002",
+            "char_count": 508,
+            "source_file": "mauphieu/MAU NA17-04-2015-TT-BCA.doc",
+            "file_name": "MAU NA17-04-2015-TT-BCA.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:43",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_NA17-04-2015-TT-BCA_chunk_0002",
+        "doc_id": "mauphieu_MAU_NA17-04-2015-TT-BCA",
+        "text": "năm……… | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>---------------<br>…………ngày, ……tháng…… năm……… |\n\nPHIẾU KHAI BÁO TẠM TRÚ CHO NGƯỜI NƯỚC NGOÀI\n\nKính gửi:……………………………\n\n| STT | Họ Tên | Giới tính | Giới tính | Sinh ngày, tháng, năm | Quốc tịch | Loại, số hộ chiếu (2) | Loại, thời hạn, số, ngày cấp, cơ quan cấp thị thực (3) | Ngày, cửa khẩu nhập cảnh (4) | Mục đích nhập cảnh | Tạm trú (từ ngày đến ngày) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Họ Tên | Nam | Nữ | Sinh ngày, tháng, năm | Quốc tịch | Loại, số hộ chiếu (2) | Loại, thời hạn, số, ngày cấp, cơ quan cấp thị thực (3) | Ngày, cửa khẩu nhập cảnh (4) | Mục đích nhập cảnh | Tạm trú (từ ngày đến ngày) |\n|  |  |  |  |  |  |  |  |  |  |  |\n\n| Xác nhận <br>(của đơn vị tiếp nhận) | Đại diện cơ sở lưu trú<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\nGhi chú:",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_NA17-04-2015-TT-BCA_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_NA17-04-2015-TT-BCA_chunk_0003",
+            "char_count": 875,
+            "source_file": "mauphieu/MAU NA17-04-2015-TT-BCA.doc",
+            "file_name": "MAU NA17-04-2015-TT-BCA.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:43",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_NA17-04-2015-TT-BCA_chunk_0003",
+        "doc_id": "mauphieu_MAU_NA17-04-2015-TT-BCA",
+        "text": "| Mục đích nhập cảnh | Tạm trú (từ ngày đến ngày) |\n|  |  |  |  |  |  |  |  |  |  |  |\n\n| Xác nhận <br>(của đơn vị tiếp nhận) | Đại diện cơ sở lưu trú<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\nGhi chú:\n\n(1) Cơ sở lưu trú du lịch, nhà khách, khu nhà ở cho người nước ngoài làm việc, lao động, học tập, thực tập, cơ sở khám bệnh, chữa bệnh, nhà riêng, hoặc cơ sở lưu trú khác theo quy định của pháp luật.\n\n(2): Ghi rõ số, loại hộ chiếu (phổ thông, công vụ...);\n\n(3): Nếu nhập cảnh theo diện miễn thị thực thì ghi “Miễn thị thực”; nhập cảnh bằng giấy tờ khác thì ghi rõ theo thứ tự: loại giấy tờ (thị thực, thẻ tạm trú, giấy miễn thị thực, thẻ ABTC), số, thời hạn, ngày cấp, cơ quan cấp.\n\n(4): Ghi ngày, tháng, năm, cửa khẩu nhập cảnh lần gần nhất;",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_NA17-04-2015-TT-BCA_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 743,
+            "source_file": "mauphieu/MAU NA17-04-2015-TT-BCA.doc",
+            "file_name": "MAU NA17-04-2015-TT-BCA.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:22:43",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

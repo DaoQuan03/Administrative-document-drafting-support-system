@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_SO_008_H-BCB-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT_chunk_0001",
+        "doc_id": "maubaocao_BIEU_SO_008_H-BCB-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT",
+        "text": "| Biểu số: 008H/BCB-TKQG<br>Ban hành theo ………<br>Ngày nhận báo cáo:<br>Ước tính 6 tháng: Ngày 25/5<br>Ước tính năm: Ngày 20/11<br>Chính thức 6 tháng: Ngày 20/11<br>Chính thức năm: Ngày 31/3 năm sau | BÁO CÁO ƯỚC TÍNH, CHÍNH THỨC THU, CHI BẢO HIỂM XÃ HỘI, BẢO HIỂM Y TẾ, BẢO HIỂM THẤT NGHIỆP<br>(6 tháng đầu năm…./ Cả năm…..) | - Đơn vị báo cáo: Cục Thống kê ……<br>- Đơn vị nhận báo cáo: Tổng cục Thống kê |\n| --- | --- | --- |\n\nĐơn vị tính: Tỷ đồng\n\n|  | Mã số | Giá trị |\n| --- | --- | --- |\n| A | B | 1 |\n| I. TỔNG THU | 01 |  |\n| 1. Thu BHXH | 02 |  |\n| 2. Thu BHYT | 03 |  |\n| 3. Thu BHTN | 04 |  |\n| II. TỔNG CHI | 05 |  |\n| 1. Chi BHXH | 06 |  |\n| - Chi BHXH nguồn NSNN | 07 |  |\n| - Chi BHXH nguồn quỹ | 08 |  |\n| 2. Chi BHYT | 09 |  |\n| 3. Chi BHTN | 10 |  |\n| 4. Chi hoạt động của đơn vị | 11 |  |\n\n| Người lập biểu<br>(Ký, họ tên) | Người kiểm tra biểu<br>(Ký, họ tên) | ….., ngày...tháng ... năm ...<br>Cục trưởng<br>(Ký, đóng dấu, họ tên) |\n| --- | --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_BIEU_SO_008_H-BCB-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT_chunk_0002",
+            "char_count": 972,
+            "source_file": "maubaocao/BIEU SO_008_H-BCB-TKQG-PHU LUC I-TT-01-2019-TT-BKHDT.doc",
+            "file_name": "BIEU SO_008_H-BCB-TKQG-PHU LUC I-TT-01-2019-TT-BKHDT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:05:37",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_SO_008_H-BCB-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT_chunk_0002",
+        "doc_id": "maubaocao_BIEU_SO_008_H-BCB-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT",
+        "text": "hoạt động của đơn vị | 11 |  |\n\n| Người lập biểu<br>(Ký, họ tên) | Người kiểm tra biểu<br>(Ký, họ tên) | ….., ngày...tháng ... năm ...<br>Cục trưởng<br>(Ký, đóng dấu, họ tên) |\n| --- | --- | --- |\n\nNguồn: Thông tư 01/2019/TT-BKHĐT",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_BIEU_SO_008_H-BCB-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 230,
+            "source_file": "maubaocao/BIEU SO_008_H-BCB-TKQG-PHU LUC I-TT-01-2019-TT-BKHDT.doc",
+            "file_name": "BIEU SO_008_H-BCB-TKQG-PHU LUC I-TT-01-2019-TT-BKHDT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:05:37",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_C09-TS-TT-505-QD-BHXH_chunk_0001",
+        "doc_id": "mauphieu_MAU_C09-TS-TT-505-QD-BHXH",
+        "text": "| BẢO HIỂM XÃ HỘI TỈNH/HUYỆN…<br>PHÒNG/TỔ CẤP SỔ - THẺ | Mẫu C09-TS<br>(Ban hành kèm theo Quyết định số 505/QĐ-BHXH<br>ngày 27 tháng 03 năm 2020 của BHXH Việt Nam) |\n| --- | --- |\n\nPHIẾU ĐỀ NGHỊ CẬP NHẬT THỜI GIAN CÔNG TÁC KHÔNG PHẢI ĐÓNG BHXH\n\nCăn cứ hồ sơ đề nghị cộng nối thời gian/điều chỉnh chức danh nghề…của Ông/Bà…sinh ngày…tháng…năm, mã số BHXH:……………..\n\nĐề nghị Phòng/Tổ quản lý thu cập nhật vào cơ sở dữ liệu thời gian công tác được tính hưởng BHXH như sau:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_C09-TS-TT-505-QD-BHXH_chunk_0002",
+            "char_count": 467,
+            "source_file": "mauphieu/MAU C09-TS-TT-505-QD-BHXH.doc",
+            "file_name": "MAU C09-TS-TT-505-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:17:47",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_C09-TS-TT-505-QD-BHXH_chunk_0002",
+        "doc_id": "mauphieu_MAU_C09-TS-TT-505-QD-BHXH",
+        "text": "nối thời gian/điều chỉnh chức danh nghề…của Ông/Bà…sinh ngày…tháng…năm, mã số BHXH:……………..\n\nĐề nghị Phòng/Tổ quản lý thu cập nhật vào cơ sở dữ liệu thời gian công tác được tính hưởng BHXH như sau:\n\n| Từ tháng năm | Đến tháng năm | Số tháng | Cấp bậc, chức vụ, chức danh nghề; công việc, tên đơn vị; nơi làm việc | Lương theo ngạch bậc, chức vụ, hợp đồng | Phụ cấp khu vực | Phụ cấp chức vụ | Phụ cấp thâm niên | Hệ số chênh lệch bảo lưu | Phụ cấp khác | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) | (11) |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n\n|  | ..., ngày…tháng…năm…<br>GIÁM ĐỐC<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\nNguồn: Quyết định 505/QĐ-BHXH",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_C09-TS-TT-505-QD-BHXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 850,
+            "source_file": "mauphieu/MAU C09-TS-TT-505-QD-BHXH.doc",
+            "file_name": "MAU C09-TS-TT-505-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:17:47",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

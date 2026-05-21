@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_VI-33-2015-TT-BNNPTNT_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_VI-33-2015-TT-BNNPTNT",
+        "text": "Phụ lục VI\n\nMẪU PHIẾU THÔNG TIN VỀ MẪU TRONG CHƯƠNG TRÌNH\n\nGIÁM SÁT\n\n(Ban hành kèm theo Thông tư 33 /2015/TT-BNNPTNT ngày 8 tháng 10 năm 2015 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn)\n\nTên Cơ quan kiểm soát\t\t\t\tCỘNG HÓA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập – Tự do – Hạnh Phúc\n\n| Dấu treo của Cơ quan kiểm soát |\n| --- |\n\nPHIẾU THÔNG TIN VỀ MẪU\n\nKính gửi: (tên Cơ quan kiểm tra)\n\n| TT | Tên mẫu | Mã số (số nhận diện mẫu) | Khối lượng hoặc thể tích mẫu (kg hoặc ml) | Mã số vùng thu hoạch | Tọa độ của vị trí lấy mẫu | Ký hiệu điểm lấy mẫu đại diện | Chỉ tiêu chỉ định kiểm nghiệm | Thời gian thu mẫu (ngày thu mẫu, thời điểm thu mẫu) | Nhiệt độ nước tại điểm lấy mẫu vào thời điểm lấy mẫu | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n\n……….., ngày … tháng … năm ……",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_VI-33-2015-TT-BNNPTNT_chunk_0002",
+            "char_count": 983,
+            "source_file": "mauphieu/PHU LUC VI-33-2015-TT-BNNPTNT.doc",
+            "file_name": "PHU LUC VI-33-2015-TT-BNNPTNT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:49:32",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_VI-33-2015-TT-BNNPTNT_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_VI-33-2015-TT-BNNPTNT",
+        "text": "|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n\n……….., ngày … tháng … năm ……\n\n| Đại diện cơ sở thu mẫu (nếu có)<br>(Đối với mẫu NT2MV) | Người thực hiện |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_VI-33-2015-TT-BNNPTNT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 290,
+            "source_file": "mauphieu/PHU LUC VI-33-2015-TT-BNNPTNT.doc",
+            "file_name": "PHU LUC VI-33-2015-TT-BNNPTNT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:49:32",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

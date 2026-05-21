@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_01_117-QD-TTr-2024_chunk_0001",
+        "doc_id": "mauphieu_MAU_01_117-QD-TTr-2024",
+        "text": "Mẫu số 01: Phiếu trình kết luận thanh tra",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_01_117-QD-TTr-2024_chunk_0002",
+            "char_count": 41,
+            "source_file": "mauphieu/MAU 01_117-QD-TTr-2024.doc",
+            "file_name": "MAU 01_117-QD-TTr-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:45:02",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01_117-QD-TTr-2024_chunk_0002",
+        "doc_id": "mauphieu_MAU_01_117-QD-TTr-2024",
+        "text": "số 01: Phiếu trình kết luận thanh tra\n\n| THANH TRA<br>Phòng/ Vùng/ Đoàn...<br>------------------ | PHIẾU TRÌNH<br>KẾT LUẬN THANH TRA |\n| --- | --- |\n| TÓM TẮT NỘI DUNG TRÌNH<br>(1) ...<br>(2)...<br>...giờ...phút, ngày... tháng... năm...<br>Trưởng đoàn<br>(Ký, ghi rõ họ tên)<br> <br>Hồ sơ trình gồm: (3)<br>1...<br>2...<br>... | PHÂN CÔNG THẨM ĐỊNH DỰ THẢO<br>KẾT LUẬN THANH TRA<br>1. Phân công người thẩm định: (6)<br>-...<br>-...<br>2. Nội dung thẩm định: thẩm định về hình thức, kết cấu, bố cục của dự thảo; về thực hiện kế hoạch tiến hành thanh tra; về kết quả kiểm tra, xác minh; về kết luận những nội dung đã tiến hành thanh tra; về kiến nghị biện pháp xử lý.<br>3. Thời hạn thẩm định: (7)<br>Từ ngày... đến ngày...<br> <br>...giờ...phút, ngày... tháng... năm...<br>CHÁNH THANH TRA<br>(Ký, ghi rõ họ tên) |\n| THỜI GIAN NHẬN, TRẢ HỒ SƠ THẨM ĐỊNH DỰ THẢO KẾT LUẬN THANH TRA<br>1. Thời gian nhận: (4)<br>- Lần 1: ...giờ...phút...<br>- Lần 2: ...giờ...phút...<br>-...<br>2. Thời gian trả: (5)<br>- Lần 1: ...giờ...phút...<br>Lý do: ……………..<br>- Lần 2: ...giờ...phút...<br>Lý do: …………….. | KẾT QUẢ THẨM ĐỊNH<br>Báo cáo kết quả thẩm định dự thảo kết luận thanh tra kèm theo./.<br> <br>...giờ...phút, ...ngày... tháng... năm...<br>(Ký, ghi rõ họ tên) |\n| Ý KIẾN CỦA PHÓ CHÁNH THANH TRA PHỤ TRÁCH<br> <br>Lần 1:...giờ...phút, ngày... tháng... năm...<br>Lần 2:...giờ...phút, ngày... tháng... năm...<br>(Ký, ghi rõ họ tên) | Ý KIẾN CỦA CHÁNH THANH TRA<br> <br>...giờ...phút, ngày...tháng...năm...<br>(Ký, ghi rõ họ tên) |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_01_117-QD-TTr-2024_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_01_117-QD-TTr-2024_chunk_0003",
+            "char_count": 1517,
+            "source_file": "mauphieu/MAU 01_117-QD-TTr-2024.doc",
+            "file_name": "MAU 01_117-QD-TTr-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:45:02",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_01_117-QD-TTr-2024_chunk_0003",
+        "doc_id": "mauphieu_MAU_01_117-QD-TTr-2024",
+        "text": "ngày... tháng... năm...<br>Lần 2:...giờ...phút, ngày... tháng... năm...<br>(Ký, ghi rõ họ tên) | Ý KIẾN CỦA CHÁNH THANH TRA<br> <br>...giờ...phút, ngày...tháng...năm...<br>(Ký, ghi rõ họ tên) |\n\nTrưởng đoàn thanh tra thực hiện các nội dung:\n\n(1) Nội dung cuộc thanh tra;\n\n(2) Số lượng doanh nghiệp được thanh tra hoặc tên cụ thể doanh nghiệp được thanh tra;\n\n(3) Ghi số lượng các hồ sơ trình hoặc tên hồ sơ trình.\n\nPhòng Tổng hợp và giám sát thanh tra tham mưu Lãnh đạo đơn vị thực hiện các nội dung:\n\n(4) Chỉ ghi mục này khi nhận đủ hồ sơ trình tại mục (3) của đoàn thanh tra;\n\n(5) Ghi rõ lý do trả hồ sơ: chưa nhận đủ hồ sơ trình tại mục (3); đề nghị bổ sung thêm hồ sơ...\n\n(6) Ghi họ và tên người thẩm định;\n\n(7) Ghi khoảng thời gian thẩm định.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_01_117-QD-TTr-2024_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 747,
+            "source_file": "mauphieu/MAU 01_117-QD-TTr-2024.doc",
+            "file_name": "MAU 01_117-QD-TTr-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:45:02",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

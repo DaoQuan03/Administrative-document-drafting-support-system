@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_13-KK-TNCN_20-2010-TT-BTC_chunk_0001",
+        "doc_id": "tokhai_MAU_13-KK-TNCN_20-2010-TT-BTC",
+        "text": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTỜ KHAI QUYẾT TOÁN THUẾ THU NHẬP CÁ NHÂN\n\n(Dành cho cá nhân có thu nhập từ chuyển nhượng chứng khoán)\n\nChính thức:  [     ]      Bổ sung: [     ]    Lần: [     ]\n\n[01] Kỳ tính thuế: Năm …………\n\n[02] Họ và tên cá nhân có thu nhập:……………...……………………...………...\n\n| [03] Mã số thuế: |  |  |  |  |  |  |  |  |  |  | - |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[04] Địa chỉ:\n\n[05] Điện thoại:……………[06] Fax:……...………... [07] Email:\n\n[08] Số tài khoản cá nhân: …………………  Mở tại:\n\nSố tài khoản cá nhân: .………………… Mở tại:\n\nĐơn vị tiền: đồng Việt",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_13-KK-TNCN_20-2010-TT-BTC_chunk_0002",
+            "char_count": 653,
+            "source_file": "tokhai/MAU 13-KK-TNCN_20-2010-TT-BTC.doc",
+            "file_name": "MAU 13-KK-TNCN_20-2010-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:39:03",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_13-KK-TNCN_20-2010-TT-BTC_chunk_0002",
+        "doc_id": "tokhai_MAU_13-KK-TNCN_20-2010-TT-BTC",
+        "text": "| --- | --- | --- |\n\n[04] Địa chỉ:\n\n[05] Điện thoại:……………[06] Fax:……...………... [07] Email:\n\n[08] Số tài khoản cá nhân: …………………  Mở tại:\n\nSố tài khoản cá nhân: .………………… Mở tại:\n\nĐơn vị tiền: đồng Việt\n\n| Stt | Chỉ tiêu | Chỉ tiêu | Chỉ tiêu | Số tiền |\n| --- | --- | --- | --- | --- |\n| A | XÁC ĐỊNH THU NHẬP TÍNH THUẾ | XÁC ĐỊNH THU NHẬP TÍNH THUẾ | XÁC ĐỊNH THU NHẬP TÍNH THUẾ | XÁC ĐỊNH THU NHẬP TÍNH THUẾ |\n| 1 | Tổng giá trị chứng khoán bán ra | Tổng giá trị chứng khoán bán ra | [09] |  |\n| 2 | Tổng giá trị chứng khoán mua vào | Tổng giá trị chứng khoán mua vào | [10] |  |\n| 3 | Các chi phí liên quan | Các chi phí liên quan | [11] |  |\n| 4 | Thu nhập chịu thuế | Thu nhập chịu thuế | [12] |  |\n| B | XÁC ĐỊNH SỐ THUẾ PHẢI NỘP CẢ NĂM | XÁC ĐỊNH SỐ THUẾ PHẢI NỘP CẢ NĂM | XÁC ĐỊNH SỐ THUẾ PHẢI NỘP CẢ NĂM | XÁC ĐỊNH SỐ THUẾ PHẢI NỘP CẢ NĂM |\n| 1 | Số thuế phải nộp trong kỳ | Số thuế phải nộp trong kỳ | [13] |  |\n| 2 | Số thuế đã khấu trừ theo thuế suất 0,1% trong kỳ | Số thuế đã khấu trừ theo thuế suất 0,1% trong kỳ | [14] |  |\n| 3 | Số thuế còn phải nộp | Số thuế còn phải nộp | [15] |  |\n| 4 | Số thuế nộp thừa:<br>Trong đó: | Số thuế nộp thừa:<br>Trong đó: | [16] |  |\n| 4 | a | Số thuế đề nghị hoàn | [17] |  |\n| 4 | b | Số thuế bù trừ vào kỳ sau | [18] |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "tokhai_MAU_13-KK-TNCN_20-2010-TT-BTC_chunk_0001",
+            "next_chunk_id": "tokhai_MAU_13-KK-TNCN_20-2010-TT-BTC_chunk_0003",
+            "char_count": 1271,
+            "source_file": "tokhai/MAU 13-KK-TNCN_20-2010-TT-BTC.doc",
+            "file_name": "MAU 13-KK-TNCN_20-2010-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:39:03",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_13-KK-TNCN_20-2010-TT-BTC_chunk_0003",
+        "doc_id": "tokhai_MAU_13-KK-TNCN_20-2010-TT-BTC",
+        "text": "còn phải nộp | [15] |  |\n| 4 | Số thuế nộp thừa:<br>Trong đó: | Số thuế nộp thừa:<br>Trong đó: | [16] |  |\n| 4 | a | Số thuế đề nghị hoàn | [17] |  |\n| 4 | b | Số thuế bù trừ vào kỳ sau | [18] |  |\n\nTôi cam đoan những nội dung kê khai là đúng và chịu trách nhiệm trước pháp luật về những nội dung đã khai./.\n\n|  | ………………, ngày   ….tháng …… năm ………<br>CÁ NHÂN CÓ THU NHẬP<br>(Ký và ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "tokhai_MAU_13-KK-TNCN_20-2010-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 411,
+            "source_file": "tokhai/MAU 13-KK-TNCN_20-2010-TT-BTC.doc",
+            "file_name": "MAU 13-KK-TNCN_20-2010-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:39:03",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

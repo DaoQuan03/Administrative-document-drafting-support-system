@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_B03-VSD-89-2019-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_B03-VSD-89-2019-TT-BTC",
+        "text": "| Trung tâm Lưu ký chứng khoán Việt Nam | Mẫu số B03 - VSD<br>(Ban hành kèm theo Thông tư số 89/2019/TT-BTC ngày 26/12/2019 của Bộ Tài chính) |\n| --- | --- |\n\nBÁO CÁO LƯU CHUYỂN TIỀN TỆ\n(Theo phương pháp trực tiếp)(*)\nNăm:………\n\nĐơn vị tính:………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_B03-VSD-89-2019-TT-BTC_chunk_0002",
+            "char_count": 242,
+            "source_file": "maubaocao/MAU SO B03-VSD-89-2019-TT-BTC.doc",
+            "file_name": "MAU SO B03-VSD-89-2019-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:39:23",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_B03-VSD-89-2019-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_B03-VSD-89-2019-TT-BTC",
+        "text": "số B03 - VSD<br>(Ban hành kèm theo Thông tư số 89/2019/TT-BTC ngày 26/12/2019 của Bộ Tài chính) |\n| --- | --- |\n\nBÁO CÁO LƯU CHUYỂN TIỀN TỆ\n(Theo phương pháp trực tiếp)(*)\nNăm:………\n\nĐơn vị tính:………\n\n| Chỉ tiêu | Mã số | Thuyết minh | Năm nay | Năm trước |\n| --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 |\n| I. Lưu chuyển tiền từ hoạt động kinh doanh |  |  |  |  |\n| 1. Tiền thu từ hoạt động nghiệp vụ, cung cấp dịch vụ và doanh thu khác | 01 |  |  |  |\n| 2. Tiền chi trả cho hoạt động nghiệp vụ và người cung cấp hàng hóa dịch vụ | 02 |  |  |  |\n| 3. Tiền chi trả cho cán bộ, nhân viên | 03 |  |  |  |\n| 4. Tiền lãi vay đã trả | 04 |  |  |  |\n| 5. Thuế thu nhập doanh nghiệp đã nộp | 05 |  |  |  |\n| 6. Tiền thu khác từ hoạt động kinh doanh | 06 |  |  |  |\n| 7. Tiền chi khác từ hoạt động kinh doanh | 07 |  |  |  |\n| Lưu chuyển tiền thuần từ hoạt động kinh doanh | 20 |  |  |  |\n| II. Lưu chuyển tiền từ hoạt động đầu tư |  |  |  |  |\n| 1. Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác | 21 |  |  |  |\n| 2 .Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác | 22 |  |  |  |\n| 3. Tiền chi mua các công cụ nợ của đơn vị khác | 23 |  |  |  |\n| 4. Tiền thu từ bán lại các công cụ nợ của đơn vị khác | 24 |  |  |  |\n| 5. Tiền chi đầu tư góp vốn vào đơn vị khác | 25 |  |  |  |\n| 6. Tiền thu hồi đầu tư góp vốn vào đơn vị khác | 26 |  |  |  |\n| 7. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia | 27 |  |  |  |\n| Lưu chuyển tiền thuần từ hoạt động đầu tư | 30 |  |  |  |\n| III. Lưu chuyển tiền từ hoạt động tài chính |  |  |  |  |\n| 1. Tiền thu từ nhận vốn góp của chủ sở hữu | 31 |  |  |  |\n| 2. Tiền chi trả vốn góp cho chủ sở hữu | 32 |  |  |  |\n| 3. Tiền vay ngắn hạn, dài hạn nhận được | 33 |  |  |  |\n| 4. Tiền chi trả nợ gốc vay | 34 |  |  |  |\n| 5. Tiền trả nợ gốc thuê tài chính | 35 |  |  |  |\n| 6. Lợi nhuận đã trả cho chủ sở hữu | 36 |  |  |  |\n| Lưu chuyển tiền thuần từ hoạt động tài chính | 40 |  |  |  |\n| Lưu chuyển tiền thuần trong kỳ (50 = 20+30+40) | 50 |  |  |  |\n| Tiền và tương đương tiền đầu kỳ | 60 |  |  |  |\n| Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ | 61 |  |  |  |\n| Tiền và tương đương tiền cuối kỳ (70 = 50+60+61) | 70 |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_B03-VSD-89-2019-TT-BTC_chunk_0001",
+            "next_chunk_id": "maubaocao_MAU_SO_B03-VSD-89-2019-TT-BTC_chunk_0003",
+            "char_count": 2211,
+            "source_file": "maubaocao/MAU SO B03-VSD-89-2019-TT-BTC.doc",
+            "file_name": "MAU SO B03-VSD-89-2019-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:39:23",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_B03-VSD-89-2019-TT-BTC_chunk_0003",
+        "doc_id": "maubaocao_MAU_SO_B03-VSD-89-2019-TT-BTC",
+        "text": "|  |  |\n| Tiền và tương đương tiền đầu kỳ | 60 |  |  |  |\n| Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ | 61 |  |  |  |\n| Tiền và tương đương tiền cuối kỳ (70 = 50+60+61) | 70 |  |  |  |\n\nGhi chú: Những chỉ tiêu không có số liệu được được miễn trình bày nhưng không được đánh lại “Mã số” chỉ tiêu.\n\n| Người lập biểu<br>(Ký, họ tên) | Kế toán trưởng<br>(Ký, họ tên) | Lập, ngày…tháng…năm…<br>Người đại diện theo pháp luật<br>(Ký, họ tên đóng dấu) |\n| --- | --- | --- |\n\nNguồn: Thông tư 89/2019/TT-BTC",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_MAU_SO_B03-VSD-89-2019-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 511,
+            "source_file": "maubaocao/MAU SO B03-VSD-89-2019-TT-BTC.doc",
+            "file_name": "MAU SO B03-VSD-89-2019-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:39:23",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

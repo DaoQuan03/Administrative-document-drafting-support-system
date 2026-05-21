@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_23-54-2017-NDCP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_23-54-2017-NDCP",
+        "text": "Mẫu số 23\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n-------------\n\n………….., ngày ……. tháng ……. năm ……..\n\nTHÔNG BÁO\n\nTỔ CHỨC BÁN LẺ THUỐC LƯU ĐỘNG\n\nKính gửi: Sở Y tế…………………………………………\n\nTên cơ sở tổ chức bán lẻ thuốc lưu động .…………….……………………………………………..\n\nĐịa chỉ:.…………….………………………; Số giấy CNĐĐKKDD: ………………………………….\n\nĐịa điểm bán lẻ thuốc lưu động tại: ………………………….(1) …………………………………….\n\nTên người bán lẻ thuốc lưu động:.…………….……………………… Số điện thoại: ……………..\n\nTrình độ chuyên môn: .…………….……………………….…………….……………………………..\n\nSố CMND/Thẻ căn cước/Hộ chiếu/Các giấy tờ tương đương khác: ………………………………\n\nNgày cấp:.…………….……………………… Nơi cấp: .…………….…………………………………\n\nThường trú tại .…………….……………………….…………….………………………………………\n\n…………………………………………………………………………………………………………….\n\nCơ sở cam kết thực hiện đúng quy định của pháp luật về việc tổ chức bán lẻ thuốc lưu động./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_23-54-2017-NDCP_chunk_0002",
+            "char_count": 853,
+            "source_file": "thongbao/MAU SO 23-54-2017-NDCP.doc",
+            "file_name": "MAU SO 23-54-2017-NDCP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:05:36",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_23-54-2017-NDCP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_23-54-2017-NDCP",
+        "text": "trú tại .…………….……………………….…………….………………………………………\n\n…………………………………………………………………………………………………………….\n\nCơ sở cam kết thực hiện đúng quy định của pháp luật về việc tổ chức bán lẻ thuốc lưu động./.\n\n|  | ………….., ngày ……. tháng ……. năm ……..<br>Người đại diện trước pháp luật/ người được ủy quyền<br>(Ký, ghi rõ họ tên, chức danh, đóng dấu (nếu có)) |\n| --- | --- |\n\nGhi chú:\n\n(1) Liệt kê các địa điểm bán lẻ thuốc lưu động\n\nNguồn: Nghị định 54/2017/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_23-54-2017-NDCP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 440,
+            "source_file": "thongbao/MAU SO 23-54-2017-NDCP.doc",
+            "file_name": "MAU SO 23-54-2017-NDCP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:05:36",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

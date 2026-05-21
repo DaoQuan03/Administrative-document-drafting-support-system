@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_TP-4B_09-2006-TT-BTM_chunk_0001",
+        "doc_id": "thongbao_MAU_TP-4B_09-2006-TT-BTM",
+        "text": "Mẫu TB-4B\n\n| UBND TỈNH….<br>SỞ THƯƠNG MẠI[31]<br>Số: ….. | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------------<br>                       ..., ngày... tháng... năm... |\n| --- | --- |\n\nTHÔNG BÁO\nTỪ CHỐI ĐĂNG KÝ\nHOẠT ĐỘNG NHƯỢNG QUYỀN THƯƠNG MẠI\n\nKính gửi:...\n\nSau khi xem xét hồ sơ đã nhận ngày... tháng... năm...của [tên thương nhân đăng ký] về việc đăng ký hoạt động nhượng quyền thương mại. Sở Thương mại[32] thông báo:\n\nTừ chối đăng ký hoạt động nhượng quyền thương mại  của [tên thương nhân đăng ký] với lý do ………………………………………………………………………………..\n\n| Nơi nhận:<br>-………….;<br>-………….;<br>- Lưu: .. | GIÁM ĐỐC[33]<br>(Ký tên và đóng dấu) |\n| --- | --- |\n\n[31] Lựa chọn ghi nội dung phù hợp với tên của Sở\n\n[32] Lựa chọn ghi nội dung phù hợp với tên của Sở\n\n[33] Giám đốc Sở Thương mại hoặc người được Giám đốc sở uỷ quyền",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 854,
+            "source_file": "thongbao/MAU TP-4B_09-2006-TT-BTM.doc",
+            "file_name": "MAU TP-4B_09-2006-TT-BTM.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:20:46",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_2_10_PHU_LUC_02_58-2015-TT-BTNMT_chunk_0001",
+        "doc_id": "mauphieu_MAU_2_10_PHU_LUC_02_58-2015-TT-BTNMT",
+        "text": "Mẫu 2.10\n\n| CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- |\n\n..., ngày... tháng... năm 20...\n\nPHIẾU GHI Ý KIẾN KIỂM TRA\n\nChất lượng phần mềm\n\nDự án: [tên dự án]\n\nHạng mục: [tên hạng mục] (nếu có)\n\nĐơn vị kiểm tra: [Ghi tên đơn vị kiểm tra]\n\nNgười kiểm tra:\t\t\t\tChức vụ:\n\nBên được kiểm tra: [Ghi tên đơn vị thi công]\n\n1. Căn cứ\n\nCăn cứ sản phẩm và hồ sơ kiểm tra, nghiệm thu cấp đơn vị thi công của [tên đơn vị thi công],\n\n2. Nội dung kiểm tra\n\nNội dung kiểm tra cụ thể (nêu rõ đối tượng, phạm vi kiểm tra..)\n\n| TT | Nội dung kiểm tra <br>(nêu rõ đối tượng, phạm vi kiểm tra) | Khối lượng | Ý kiến đánh giá | Ghi<br>chú |\n| --- | --- | --- | --- | --- |\n| I | Quy tắc lập trình |  |  |  |\n| .. | .. |  |  |  |\n| II | Các thành phần của hệ thống |  |  |  |\n| .. | .. |  |  |  |\n| III | Toàn bộ hệ thống |  |  |  |\n| .. | .. |  |  |  |\n| IV | Các chức năng phần mềm |  |  |  |\n| .. | .. |  |  |  |\n\nĐánh giá về mức độ đầy đủ:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_2_10_PHU_LUC_02_58-2015-TT-BTNMT_chunk_0002",
+            "char_count": 949,
+            "source_file": "mauphieu/MAU 2.10_PHU LUC 02_58-2015-TT-BTNMT.doc",
+            "file_name": "MAU 2.10_PHU LUC 02_58-2015-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:00:24",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_2_10_PHU_LUC_02_58-2015-TT-BTNMT_chunk_0002",
+        "doc_id": "mauphieu_MAU_2_10_PHU_LUC_02_58-2015-TT-BTNMT",
+        "text": "phần của hệ thống |  |  |  |\n| .. | .. |  |  |  |\n| III | Toàn bộ hệ thống |  |  |  |\n| .. | .. |  |  |  |\n| IV | Các chức năng phần mềm |  |  |  |\n| .. | .. |  |  |  |\n\nĐánh giá về mức độ đầy đủ:\n\n[Đã thực hiện hoàn thành,... đạt tỷ lệ...% so với được duyệt.\n\nNguyên nhân khối lượng không được nghiệm thu (nếu có):]\n\nĐánh giá về chất lượng:\n\n[Đánh giá về chất lượng các hạng mục, sản phẩm thi công:\n\nNguyên nhân các hạng mục, sản phẩm không đạt yêu cầu (nếu có):]\n\nCác ý kiến khác (nếu có):\n\nĐánh giá chung về mức độ hoàn thành:\n\n3. Kết luận\n\n| Người kiểm tra | ĐẠI DIỆN ĐƠN VỊ<br>KIỂM TRA, NGHIỆM THU<br>(Ký, đóng dấu, ghi rõ họ tên) |\n| --- | --- |\n\nGhi chú: Các nội dung kiểm tra trên một Phiếu tùy theo cách thức tổ chức kiểm tra có thể một phần hay đầy đủ các hạng mục.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_2_10_PHU_LUC_02_58-2015-TT-BTNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 775,
+            "source_file": "mauphieu/MAU 2.10_PHU LUC 02_58-2015-TT-BTNMT.doc",
+            "file_name": "MAU 2.10_PHU LUC 02_58-2015-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:00:24",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

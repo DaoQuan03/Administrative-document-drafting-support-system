@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_0021-TT-01-2023-BXD_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_0021-TT-01-2023-BXD",
+        "text": "Mẫu số 0021. Báo cáo tình hình quản lý sử dụng nhà ở công vụ\n\n| TÊN BỘ, NGÀNH/UBND<br>CẤP TỈNH <br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: .../BC-Chữ viết tắt tên cơ quan báo cáo | ….., ngày … tháng … năm … |\n\nBÁO CÁO\n\nTình hình quản lý, sử dụng nhà ở công vụ\n\n1. Số liệu về nhà ở công vụ:\n\n| TT | Loại nhà ở công vụ và địa chỉ | Diện tích sử dụng nhà ở công vụ (m2) | Tên người ở thuê nhà ở công vụ | Chức vụ, cơ quan, đơn vị công tác của người thuê nhà ở công vụ | Thời gian bố trí theo hợp đồng | Tiền thuê nhà hàng tháng | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |\n| I | Biệt thự |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |\n| II | Chung cư |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |\n| III | Nhà liền kề |  |  |  |  |  |  |\n| …. |  |  |  |  |  |  |  |\n|  | Tổng cộng |  |  |  |  |  |  |\n\nII. Khó khăn, vướng mắc và kiến nghị:...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_0021-TT-01-2023-BXD_chunk_0002",
+            "char_count": 983,
+            "source_file": "maubaocao/MAU SO 0021-TT-01-2023-BXD.doc",
+            "file_name": "MAU SO 0021-TT-01-2023-BXD.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:23:56",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_0021-TT-01-2023-BXD_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_0021-TT-01-2023-BXD",
+        "text": "cư |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |\n| III | Nhà liền kề |  |  |  |  |  |  |\n| …. |  |  |  |  |  |  |  |\n|  | Tổng cộng |  |  |  |  |  |  |\n\nII. Khó khăn, vướng mắc và kiến nghị:...\n\n| Nơi nhận:<br>- Tên cơ quan nhận báo cáo;<br>- Lưu: VT,... | ĐẠI DIỆN CƠ QUAN BÁO CÁO<br>(ký tên, đóng dấu) |\n| --- | --- |\n\nGhi chú: Đối với nhà ở công vụ là biệt thự thì báo cáo thêm về diện tích đất khuôn viên của biệt thự.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_SO_0021-TT-01-2023-BXD_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 423,
+            "source_file": "maubaocao/MAU SO 0021-TT-01-2023-BXD.doc",
+            "file_name": "MAU SO 0021-TT-01-2023-BXD.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:23:56",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

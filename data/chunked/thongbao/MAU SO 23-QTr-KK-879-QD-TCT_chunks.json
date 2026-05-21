@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_23-QTr-KK-879-QD-TCT_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_23-QTr-KK-879-QD-TCT",
+        "text": "| <TÊN CƠ QUAN THUẾ CẤP TRÊN>             <TÊN CƠ QUAN THUẾ> | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- | --- |\n| Số: .../TB-CT (CCT) | ..., ngày ... tháng ... năm ... |\n\nTHÔNG BÁO\n\nVề việc xác nhận việc hoàn thành nghĩa vụ thuế cho NNT\n\nCăn cứ đề nghị xác nhận việc thực hiện nghĩa vụ thuế của người nộp thuế;\n\nCăn cứ số liệu về nghĩa vụ thuế của <tên NNT, mã số thuế> do cơ quan thuế theo dõi, quản lý.\n\n(1) Cục Thuế/Chi cục Thuế <Tên cơ quan thuế> xác nhận <tên NNT> đã hoàn thành nghĩa vụ thuế tại Cục Thuế/Chi cục Thuế <Tên cơ quan thuế> đến ngày …. tháng … năm …\n\nhoặc: (2) Cơ quan thuế không xác nhận việc hoàn thành nghĩa vụ thuế theo yêu cầu của <tên NNT> do số liệu của NNT không khớp đúng với số liệu cơ quan thuế đang quản lý. Đề nghị NNT liên hệ với cơ quan thuế để đối chiếu số liệu trước khi xác nhận.\n\nNNT cần biết thêm chi tiết, xin vui lòng liên hệ với cơ quan thuế theo địa chỉ:\t<Tên cơ quan thuế, bộ phận NNT có thể liên hệ>",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_23-QTr-KK-879-QD-TCT_chunk_0002",
+            "char_count": 977,
+            "source_file": "thongbao/MAU SO 23-QTr-KK-879-QD-TCT.doc",
+            "file_name": "MAU SO 23-QTr-KK-879-QD-TCT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:05:54",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_23-QTr-KK-879-QD-TCT_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_23-QTr-KK-879-QD-TCT",
+        "text": "NNT liên hệ với cơ quan thuế để đối chiếu số liệu trước khi xác nhận.\n\nNNT cần biết thêm chi tiết, xin vui lòng liên hệ với cơ quan thuế theo địa chỉ:\t<Tên cơ quan thuế, bộ phận NNT có thể liên hệ>\n\nĐịa chỉ: <số nhà, đường phố...>:\n\nSố điện thoại: \t\t\tĐịa chỉ E-mail:\n\nCơ quan thuế thông báo để NNT biết, thực hiện./.\n\n|  |  |\n| --- | --- |\n| Ghi chú: Các nội dung ở  trong dấu <> chỉ là ví dụ. | Ghi chú: Các nội dung ở  trong dấu <> chỉ là ví dụ. |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_23-QTr-KK-879-QD-TCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 449,
+            "source_file": "thongbao/MAU SO 23-QTr-KK-879-QD-TCT.doc",
+            "file_name": "MAU SO 23-QTr-KK-879-QD-TCT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:05:54",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

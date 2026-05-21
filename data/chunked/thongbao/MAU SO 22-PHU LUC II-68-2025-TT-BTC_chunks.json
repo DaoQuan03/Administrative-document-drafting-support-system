@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_22-PHU_LUC_II-68-2025-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_22-PHU_LUC_II-68-2025-TT-BTC",
+        "text": "Mẫu số 22\n\n| CƠ QUAN ĐĂNG KÝ KINH DOANH<br>CẤP XÃ<br>----------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>------------------ |\n| --- | --- |\n| Số: …………. | ……, ngày…..tháng…..năm…… |\n\nTHÔNG BÁO\n\nYêu cầu hộ kinh doanh đăng ký thay đổi thành viên không được quyền thành lập hộ kinh doanh\n\n| Kính gửi: | (Tên hộ kinh doanh)<br>Trụ sở của hộ kinh doanh:<br>Mã số hộ kinh doanh: |\n| --- | --- |\n\n(Cơ quan đăng ký kinh doanh cấp xã) ...\n\nĐịa chỉ trụ sở:...\n\nĐiện thoại: ... Fax: ...\n\nThư điện tử: ...Website:...\n\nCăn cứ:\n\n- Kết luận/biên bản làm việc ...;\n\n- ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_22-PHU_LUC_II-68-2025-TT-BTC_chunk_0002",
+            "char_count": 585,
+            "source_file": "thongbao/MAU SO 22-PHU LUC II-68-2025-TT-BTC.doc",
+            "file_name": "MAU SO 22-PHU LUC II-68-2025-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:05:17",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_22-PHU_LUC_II-68-2025-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_22-PHU_LUC_II-68-2025-TT-BTC",
+        "text": "hộ kinh doanh: |\n| --- | --- |\n\n(Cơ quan đăng ký kinh doanh cấp xã) ...\n\nĐịa chỉ trụ sở:...\n\nĐiện thoại: ... Fax: ...\n\nThư điện tử: ...Website:...\n\nCăn cứ:\n\n- Kết luận/biên bản làm việc ...;\n\n- ...\n\n(Cơ quan đăng ký kinh doanh cấp xã) yêu cầu hộ kinh doanh đăng ký thay đổi thành viên không được quyền thành lập hộ kinh doanh theo quy định tại khoản 2 Điều 82 Nghị định số 168/2025/NĐ-CP trong thời hạn 15 ngày kể từ ngày ra thông báo. Nếu quá thời hạn trên mà hộ kinh doanh không đăng ký thay đổi thì (Cơ quan đăng ký kinh doanh cấp xã) sẽ ra thông báo về hành vi vi phạm và ra quyết định thu hồi Giấy chứng nhận đăng ký hộ kinh doanh theo quy định tại điểm b khoản 2 Điều 107 Nghị định số 168/2025/NĐ-CP.\n\n| Nơi nhận:<br>- Như trên;<br>- ……….;<br>- Lưu: ….. | TRƯỞNG PHÒNG<br>(Ký, ghi họ tên và đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_22-PHU_LUC_II-68-2025-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 822,
+            "source_file": "thongbao/MAU SO 22-PHU LUC II-68-2025-TT-BTC.doc",
+            "file_name": "MAU SO 22-PHU LUC II-68-2025-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:05:17",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

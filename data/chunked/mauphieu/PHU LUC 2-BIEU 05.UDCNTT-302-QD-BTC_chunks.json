@@ -1,0 +1,92 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC",
+        "text": "Phụ lục II\n\nMẫu Phiếu tổng hợp thông tin dự án, tổ chức, cá nhân đủ điều kiện năng lực tham gia dự án\n(Cục Tin học và Thống kê tài chính tổng hợp báo cáo)\n\n| TÊN CƠ QUAN, TỔ CHỨC<br>---------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>------------------------ |\n| --- | --- |\n| Số: ……… | ….., ngày    tháng    năm |\n\nPHIẾU TỔNG HỢP THÔNG TIN DỰ ÁN, TỔ CHỨC, CÁ NHÂN\nĐỦ ĐIỀU KIỆN NĂNG LỰC THAM GIA DỰ ÁN\n(Từ ngày... tháng... năm ... đến ngày... tháng... năm ...)\n\nKính gửi: Bộ Thông tin và Truyền thông (Cục Ứng dụng công nghệ thông tin)\n\nA. Thông tin dự án: (cung cấp thông tin của các Dự án trong thời gian nêu trên)",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 5,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC_chunk_0002",
+            "char_count": 646,
+            "source_file": "mauphieu/PHU LUC 2-BIEU 05.UDCNTT-302-QD-BTC.doc",
+            "file_name": "PHU LUC 2-BIEU 05.UDCNTT-302-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:36:37",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC",
+        "text": "năm ... đến ngày... tháng... năm ...)\n\nKính gửi: Bộ Thông tin và Truyền thông (Cục Ứng dụng công nghệ thông tin)\n\nA. Thông tin dự án: (cung cấp thông tin của các Dự án trong thời gian nêu trên)\n\n| Mã dự án (1) | Tên dự án (2) | Chủ đầu tư | Cơ quan chủ quản | Địa chỉ Chủ đầu tư | Địa chỉ Cơ quan chủ quản | Điện thoại Chủ đầu tư | Điện thoại Cơ quan chủ quản | Nhóm dự án (3) | Thời gian bắt đầu (4) | Thời gian kết thúc dự kiến (4) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n\nB. Thông tin các nhà thầu/chủ đầu tư (nếu tự thực hiện) tham gia các dự án trên",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC_chunk_0001",
+            "next_chunk_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC_chunk_0003",
+            "char_count": 654,
+            "source_file": "mauphieu/PHU LUC 2-BIEU 05.UDCNTT-302-QD-BTC.doc",
+            "file_name": "PHU LUC 2-BIEU 05.UDCNTT-302-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:36:37",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC_chunk_0003",
+        "doc_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC",
+        "text": "--- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n\nB. Thông tin các nhà thầu/chủ đầu tư (nếu tự thực hiện) tham gia các dự án trên\n\n| Mã dự án (1) | Tên nhà thầu | Số quyết định thành lập/ Giấy chứng nhận đăng ký kinh doanh | Ngày cấp đăng ký kinh doanh / thành lập (4) | Mã số thuế | Lĩnh vực hoạt động chính | Địa chỉ trụ sở chính | Điện thoại | Fax | Email | Web site (nếu có) | Nhà thầu chính (5) | Nhà thầu phụ (5) | Gói thầu Tư vấn lập dự án (5) | Gói thầu Tư vấn quản lý dự án (5) | Gói thầu Tư vấn khảo sát (5) | Gói thầu Tư vấn thiết kế thi công (5) | Gói thầu Tư vấn giám sát (5) | Gói thầu Thi công (5) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC_chunk_0002",
+            "next_chunk_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC_chunk_0004",
+            "char_count": 976,
+            "source_file": "mauphieu/PHU LUC 2-BIEU 05.UDCNTT-302-QD-BTC.doc",
+            "file_name": "PHU LUC 2-BIEU 05.UDCNTT-302-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:36:37",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC_chunk_0004",
+        "doc_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC",
+        "text": "| --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\nC. Cá nhân (của các tổ chức trên)\n\n| Mã dự án (1) | Họ và tên | Số CMND | Ngày tháng năm sinh (4) | Nguyên quán | Trình độ chuyên môn cao nhất | Năm tốt nghiệp (4) | Chủ trì thiết kế sơ bộ (5) | Giám đốc tư vấn quản lý dự án (5) | Chủ trì khảo sát (5) | Chủ trì thiết kế thi công (5) | Giám sát thi công (5) | Chỉ huy thi công tại hiện trường (5) | Tên nhà thầu | Mã số thuế (nhà thầu) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\n|  | Đại diện hợp pháp của đơn vị đầu mối<br>[Ký, đóng dấu, ghi rõ họ tên, chức danh] |\n| --- | --- |\n\nGhi chú:\n\n(1) Mã dự án: mã số dự án được cơ quan tài chính cấp.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC_chunk_0003",
+            "next_chunk_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC_chunk_0005",
+            "char_count": 986,
+            "source_file": "mauphieu/PHU LUC 2-BIEU 05.UDCNTT-302-QD-BTC.doc",
+            "file_name": "PHU LUC 2-BIEU 05.UDCNTT-302-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:36:37",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC_chunk_0005",
+        "doc_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC",
+        "text": "|  |  |  |  |  |  |  |  |  |  |\n\n|  | Đại diện hợp pháp của đơn vị đầu mối<br>[Ký, đóng dấu, ghi rõ họ tên, chức danh] |\n| --- | --- |\n\nGhi chú:\n\n(1) Mã dự án: mã số dự án được cơ quan tài chính cấp.\n\n(2) Tên dự án: ghi theo quyết định đầu tư/dự án khả thi/báo cáo nghiên cứu khả thi/báo cáo đầu tư/giấy chứng nhận đầu tư\n\n(3) Nhóm dự án: ghi một trong 04 loại dự án sau: Dự án quan trọng quốc gia, Nhóm A, Nhóm B, Nhóm C\n\n(4) Thời gian: ghi theo định dạng ngày, tháng, năm (dd/mm/ yyyy) ví dụ 06/02/2011\n\n(5) Lựa chọn: Nếu đúng thì điền chữ “x”, nếu không phải thì để trống",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 5,
+            "prev_chunk_id": "mauphieu_PHU_LUC_2-BIEU_05_UDCNTT-302-QD-BTC_chunk_0004",
+            "next_chunk_id": null,
+            "char_count": 574,
+            "source_file": "mauphieu/PHU LUC 2-BIEU 05.UDCNTT-302-QD-BTC.doc",
+            "file_name": "PHU LUC 2-BIEU 05.UDCNTT-302-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:36:37",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

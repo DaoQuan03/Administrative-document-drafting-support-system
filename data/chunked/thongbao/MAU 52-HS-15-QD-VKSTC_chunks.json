@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_52-HS-15-QD-VKSTC_chunk_0001",
+        "doc_id": "thongbao_MAU_52-HS-15-QD-VKSTC",
+        "text": "| VIỆN KIỂM SÁT … ... | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập – Tự do – Hạnh phúc |\n| --- | --- |\n| Số:…../TB-VKS…-… |  |\n\n………..., ngày…… tháng…….năm 20…\n\nTHÔNG BÁO\n\nVỀ VIỆC ÁP DỤNG BIỆN PHÁP CẤM ĐI KHỎI NƠI CƯ TRÚ\n\nKính gửi: ………….……………………………\n\nViện kiểm sát………… thông báo cho…4… về việc áp dụng biện pháp cấm đi khỏi nơi cư trú đối với:\n\nHọ và tên: ... Tên gọi khác...\n\nSinh ngày ... tháng ... năm ... tại:\t\t Giới tính: ...\n\nQuốc tịch: ...; Dân tộc: ...; Tôn giáo:\n\nSố CMND/Thẻ CCCD/Hộ chiếu:\n\ncấp ngày... tháng ... năm ... Nơi cấp:\n\nNơi cư trú:\n\nbị khởi tố về tội………… quy định tại khoản…… Điều..…… Bộ luật Hình sự.\n\nViện kiểm sát……… đã ra Lệnh cấm đi khỏi nơi cư trú số… ngày… tháng… năm… đối với bị can5……... trong thời hạn … ngày, kể từ ngày… tháng… năm…, đến ngày… tháng… năm…",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_52-HS-15-QD-VKSTC_chunk_0002",
+            "char_count": 788,
+            "source_file": "thongbao/MAU 52-HS-15-QD-VKSTC.doc",
+            "file_name": "MAU 52-HS-15-QD-VKSTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:27:00",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_52-HS-15-QD-VKSTC_chunk_0002",
+        "doc_id": "thongbao_MAU_52-HS-15-QD-VKSTC",
+        "text": "khoản…… Điều..…… Bộ luật Hình sự.\n\nViện kiểm sát……… đã ra Lệnh cấm đi khỏi nơi cư trú số… ngày… tháng… năm… đối với bị can5……... trong thời hạn … ngày, kể từ ngày… tháng… năm…, đến ngày… tháng… năm…\n\nĐề nghị4…… có trách nhiệm quản lý, theo dõi bị can5……… trong thời gian bị áp dụng biện pháp ngăn chặn cấm đi khỏi nơi cư trú; nếu bị can vi phạm nghĩa vụ cam đoan thì …4... báo ngay cho Viện kiểm sát2……… để xử lý theo thẩm quyền./.\n\n| Nơi nhận: <br>- Như trên;<br>- Lưu: HSVA, HSKS, VP. | VIỆN TRƯỞNG<br>(Ký tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_52-HS-15-QD-VKSTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 538,
+            "source_file": "thongbao/MAU 52-HS-15-QD-VKSTC.doc",
+            "file_name": "MAU 52-HS-15-QD-VKSTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:27:00",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

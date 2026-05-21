@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_PHU_LUC_VI-46-2024-TT-BGTVT_chunk_0001",
+        "doc_id": "thongbao_PHU_LUC_VI-46-2024-TT-BGTVT",
+        "text": "PHỤ LỤC VI\n\nMẪU THÔNG BÁO TỪ CHỐI TIẾP NHẬN HỒ SƠ\n(Kèm theo Thông tư số 46/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải)\n\n| ỦY BAN NHÂN DÂN……<br>SỞ GIAO THÔNG VẬN TẢI<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n\nTHÔNG BÁO\n\nV/v từ chối tiếp nhận hồ sơ\n\nKính gửi: ………(1)…………\n\nI. Loại hồ sơ:\n\n1. Cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới:\n\n| □ Cấp mới | □ Cấp lại |\n| --- | --- |\n\n2. Cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định khí thải xe mô tô, xe gắn máy:\n\n| □ Cấp mới | □ Cấp lại |\n| --- | --- |\n\nII. Lý do từ chối: hồ sơ không đầy đủ theo quy định tại Thông tư số 46/2024/TT- BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải.\n\nIII. Các tài liệu còn thiếu:\n\n………………………………………….……………….…………………………….…\n\n………………………………………….……………….…………………………….…\n\n………………………………………….……………….…………………………….…",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_PHU_LUC_VI-46-2024-TT-BGTVT_chunk_0002",
+            "char_count": 926,
+            "source_file": "thongbao/PHU LUC VI-46-2024-TT-BGTVT.doc",
+            "file_name": "PHU LUC VI-46-2024-TT-BGTVT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:35:08",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_PHU_LUC_VI-46-2024-TT-BGTVT_chunk_0002",
+        "doc_id": "thongbao_PHU_LUC_VI-46-2024-TT-BGTVT",
+        "text": "11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải.\n\nIII. Các tài liệu còn thiếu:\n\n………………………………………….……………….…………………………….…\n\n………………………………………….……………….…………………………….…\n\n………………………………………….……………….…………………………….…\n\n| Nơi nhận:<br>- Như kính gửi;<br>- …;<br>- Lưu… | …….. ngày … tháng… năm….<br>Người lập thông báo<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\nHướng dẫn ghi:\n\n(1) Tổ chức thành lập cơ sở đăng kiểm/cơ sở đăng kiểm.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_PHU_LUC_VI-46-2024-TT-BGTVT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 406,
+            "source_file": "thongbao/PHU LUC VI-46-2024-TT-BGTVT.doc",
+            "file_name": "PHU LUC VI-46-2024-TT-BGTVT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:35:08",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

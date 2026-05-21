@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_03-165-2025-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_03-165-2025-ND-CP",
+        "text": "Mẫu số 03\n\n| ……………………….<br>……………………………. | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | ……., ngày … tháng … năm ….. |\n\nTHÔNG BÁO KẾT QUẢ HỒ SƠ ĐÁNH GIÁ\nTÁC ĐỘNG CHUYỂN, XỬ LÝ DỮ LIỆU XUYÊN BIÊN GIỚI\n\nKính gửi: …………………………………………\n\nCăn cứ theo thông báo số ...ngày... tháng...năm...của cơ quan/đơn vị/tổ chức……….. về việc gửi hồ sơ đánh giá tác động chuyển, xử lý dữ liệu xuyên biên giới.\n\n1. Thông tin về tổ chức, doanh nghiệp\n\n- Tên tổ chức, doanh nghiệp:…………………………………………..\n\n- Địa chỉ trụ sở chính:………………………………………………….\n\n- Địa chỉ trụ sở giao dịch:……………………………………………..\n\n- Quyết định thành lập/Giấy chứng nhận đăng ký doanh nghiệp/Giấy chứng nhận đăng ký kinh doanh/Giấy chứng nhận đầu tư số: ….. do ... cấp ngày ... tháng ... năm ... tại ...\n\n- Điện thoại: ……………………… Website……………………………..\n\n2. Phản hồi kết quả hồ sơ\n\n(Chúng) tôi gửi thông báo này cho cơ quan/đơn vị/ tổ chức được biết kết quả hồ sơ của đơn vị như sau:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_03-165-2025-ND-CP_chunk_0002",
+            "char_count": 973,
+            "source_file": "thongbao/MAU SO 03-165-2025-ND-CP.doc",
+            "file_name": "MAU SO 03-165-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:39:49",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_03-165-2025-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_03-165-2025-ND-CP",
+        "text": "... năm ... tại ...\n\n- Điện thoại: ……………………… Website……………………………..\n\n2. Phản hồi kết quả hồ sơ\n\n(Chúng) tôi gửi thông báo này cho cơ quan/đơn vị/ tổ chức được biết kết quả hồ sơ của đơn vị như sau:\n\n- Đạt:                          ☐\n\n- Không đạt:                ☐\n\nLý do không đạt:……………………………………. (Cụ thể tại tài liệu đính kèm).\n\n3. Tài liệu đính kèm (Nếu có)\n\n1. …………………………………………………………………\n\n2. …………………………………………………………………\n\nNếu nhận được thông báo này, còn điểm nào chưa rõ đề nghị cơ quan/đơn vị/tổ chức cho ý kiến. (Chúng) tôi sẵn sàng trả lời thêm./.\n\nTrân trọng cảm ơn!\n\n| Nơi nhận:<br>- Như trên;<br>… | TM. THỦ TRƯỞNG CƠ QUAN<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_03-165-2025-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 675,
+            "source_file": "thongbao/MAU SO 03-165-2025-ND-CP.doc",
+            "file_name": "MAU SO 03-165-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:39:49",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

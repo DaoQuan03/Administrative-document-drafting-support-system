@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_8_PL2_1388-QD-TCT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_8_PL2_1388-QD-TCT",
+        "text": "| TÊN CƠ QUAN THUẾ<br>BỘ PHẬN ĐỀ XUẤT<br>------- | Mẫu số 08-QLHT/QĐ-QLRR<br>(Ban hành kèm theo Quyết định số 1388/QĐ-TCT ngày 18 tháng 9 năm 2023 của Tổng cục trưởng Tổng cục Thuế) |\n| --- | --- |\n\nPHIẾU ĐỀ XUẤT PHƯƠNG ÁN GIẢI QUYẾT\n\n(Trong trường hợp ứng dụng QLRR phân hệ hoàn thuế gặp sự cố)\n\n1. Thông tin hồ sơ hoàn thuế\n\n- Tên người nộp thuế: …………………………………………………………………………….\n\n- Mã số thuế: ……………………………………………………………………………………….\n\n- Địa chỉ trụ sở NNT: ………………………………………………………………………………\n\n- Ngành nghề/lĩnh vực hoạt động, kinh doanh chính: …………………………………………\n\n- Hồ sơ/Giấy đề nghị hoàn trả khoản thu NSNN:\n\n+ Mã hồ sơ:\n\n+ Giấy đề nghị hoàn trả:\n\n+ Ngày đề nghị:\n\n+ Kỳ đề nghị hoàn thuế:\n\n+ Lý do hoàn thuế:\n\n2. Phương án đề xuất giải quyết:\n\n- Ý kiến đề xuất của cán bộ giải quyết hồ sơ\n\n…………………………………………………………………………………………………………\n\n…………………………………………………………………………………………………………\n\n- Ý kiến đề xuất của Lãnh đạo bộ phận giải quyết hồ sơ\n\n…………………………………………………………………………………………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_8_PL2_1388-QD-TCT_chunk_0002",
+            "char_count": 962,
+            "source_file": "mauphieu/MAU SO 8_PL2_1388-QD-TCT.doc",
+            "file_name": "MAU SO 8_PL2_1388-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:21:50",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_8_PL2_1388-QD-TCT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_8_PL2_1388-QD-TCT",
+        "text": "giải quyết hồ sơ\n\n…………………………………………………………………………………………………………\n\n…………………………………………………………………………………………………………\n\n- Ý kiến đề xuất của Lãnh đạo bộ phận giải quyết hồ sơ\n\n…………………………………………………………………………………………………………\n\n…………………………………………………………………………………………………………\n\n3. Ý kiến Bộ phận liên quan\n\n…………………………………………………………………………………………………………\n\n…………………………………………………………………………………………………………\n\n4. Ý kiến phê duyệt của thủ trưởng cơ quan thuế\n\n…………………………………………………………………………………………………………\n\n…………………………………………………………………………………………………………\n\n| Ngày đề xuất: ngày     tháng     năm <br>ĐẠI DIỆN BỘ PHẬN ĐỀ XUẤT | Ngày phê duyệt: ngày    tháng     năm <br>LÃNH ĐẠO ĐƠN VỊ |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_8_PL2_1388-QD-TCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 631,
+            "source_file": "mauphieu/MAU SO 8_PL2_1388-QD-TCT.doc",
+            "file_name": "MAU SO 8_PL2_1388-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:21:50",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

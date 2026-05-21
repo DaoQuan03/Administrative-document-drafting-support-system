@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_4_1-678-QD-BYT_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_4_1-678-QD-BYT",
+        "text": "PHỤ LỤC 4: PHIẾU QUẢN LÝ VÀ THEO DÕI CẶP MẸ CON\n\nDÀNH CHO CẶP MẸ CON CÓ MẸ NHIỄM HIV\n\nNgười vào sổ theo dõi: ...                        Thời gian: Từ... tháng ... năm 20...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_4_1-678-QD-BYT_chunk_0002",
+            "char_count": 172,
+            "source_file": "mauphieu/PHU LUC 4.1-678-QD-BYT.doc",
+            "file_name": "PHU LUC 4.1-678-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:38:11",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_4_1-678-QD-BYT_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_4_1-678-QD-BYT",
+        "text": "LỤC 4: PHIẾU QUẢN LÝ VÀ THEO DÕI CẶP MẸ CON\n\nDÀNH CHO CẶP MẸ CON CÓ MẸ NHIỄM HIV\n\nNgười vào sổ theo dõi: ...                        Thời gian: Từ... tháng ... năm 20...\n\n| STT | Họ tên mẹ | Địa chỉ, Số điện thoại liên lạc | Ngày XN và Tuần thai khi XN | Ngày điều trị ARV cho mẹ/nơi điều trị | Ngày sinh con | Điều trị dự phòng ARV cho con/nơi điều trị | Cách thức nuôi con | XN NAT của con (<18 tháng tuổi) | XN KHÁNG THỂ HIV (≥18 tháng tuổi) | GHI CHÚ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |\n| 1 |  |  |  |  |  |  |  |  |  |  |\n| 1 |  |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |  |  |  |\n| 4 |  |  |  |  |  |  |  |  |  |  |\n| 4 |  |  |  |  |  |  |  |  |  |  |\n| 5 |  |  |  |  |  |  |  |  |  |  |\n| 5 |  |  |  |  |  |  |  |  |  |  |\n| 6 |  |  |  |  |  |  |  |  |  |  |\n| 6 |  |  |  |  |  |  |  |  |  |  |\n| 7 |  |  |  |  |  |  |  |  |  |  |\n| 7 |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_PHU_LUC_4_1-678-QD-BYT_chunk_0001",
+            "next_chunk_id": "mauphieu_PHU_LUC_4_1-678-QD-BYT_chunk_0003",
+            "char_count": 1075,
+            "source_file": "mauphieu/PHU LUC 4.1-678-QD-BYT.doc",
+            "file_name": "PHU LUC 4.1-678-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:38:11",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_4_1-678-QD-BYT_chunk_0003",
+        "doc_id": "mauphieu_PHU_LUC_4_1-678-QD-BYT",
+        "text": "|  |  |  |  |  |  |\n| 5 |  |  |  |  |  |  |  |  |  |  |\n| 6 |  |  |  |  |  |  |  |  |  |  |\n| 6 |  |  |  |  |  |  |  |  |  |  |\n| 7 |  |  |  |  |  |  |  |  |  |  |\n| 7 |  |  |  |  |  |  |  |  |  |  |\n\nGhi chú: các thông tin khác nhau của cùng một cột nên ghi tách biệt dòng trên và dòng dưới",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_PHU_LUC_4_1-678-QD-BYT_chunk_0002",
+            "next_chunk_id": "mauphieu_PHU_LUC_4_1-678-QD-BYT_chunk_0004",
+            "char_count": 291,
+            "source_file": "mauphieu/PHU LUC 4.1-678-QD-BYT.doc",
+            "file_name": "PHU LUC 4.1-678-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:38:11",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_4_1-678-QD-BYT_chunk_0004",
+        "doc_id": "mauphieu_PHU_LUC_4_1-678-QD-BYT",
+        "text": "6 |  |  |  |  |  |  |  |  |  |  |\n| 7 |  |  |  |  |  |  |  |  |  |  |\n| 7 |  |  |  |  |  |  |  |  |  |  |\n\nGhi chú: các thông tin khác nhau của cùng một cột nên ghi tách biệt dòng trên và dòng dưới\n\n| Cột (1): Ghi số thứ tự. | Cột (7): ghi tên thuốc ARV và thời điểm cho con uống (Trước 72h hay sau 72h). |\n| --- | --- |\n| Cột (2): Ghi họ tên mẹ và mã số mẹ. | Cột (8): ghi rõ bé bú sữa mẹ; ăn sữa ngoài; hay vừa bú mẹ vừa ăn sữa ngoài. |\n| Cột (3): Ghi địa chỉ, số ĐT liên lạc. | Cột (9): Ghi ngày XN (dòng trên) và kết quả XN (dòng dưới). |\n| Cột (4): Ghi ngày XN (dòng trên) và ghi tuần thai khi XN. Nếu khi chuyển dạ hoặc sinh mới XN thì ghi rõ là chuyển dạ hoặc sinh. | Cột (10): Ghi ngày XN (dòng trên) và kết quả XN (dòng dưới). |\n| Cột (5): Ghi thời điểm bắt đầu dùng thuốc ARV (tuần thai thứ mấy hay khi chuyển dạ/sinh). | Cột (11): Ghi chú các thông tin đặc biệt khác liên quan đến việc điều trị dự phòng lây truyền HIV từ mẹ sang con. |\n| Cột (6): ghi tuần sinh (dòng trên) và ngày sinh (dòng dưới). |  |",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_PHU_LUC_4_1-678-QD-BYT_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 1015,
+            "source_file": "mauphieu/PHU LUC 4.1-678-QD-BYT.doc",
+            "file_name": "PHU LUC 4.1-678-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:38:11",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_BM01-QT03_03-HCLS_119-2023-TT-BQP_chunk_0001",
+        "doc_id": "mauphieu_MAU_BM01-QT03_03-HCLS_119-2023-TT-BQP",
+        "text": "Biểu mẫu BM01-QT03.03/HCLS: Phiếu tách chiết ADN từ mẫu thân nhân liệt sĩ bằng máy tách chiết tự động\n\nPHIẾU TÁCH CHIẾT ADN TỪ MẪU THÂN NHÂN LIỆT SĨ BẰNG MÁY TÁCH CHIẾT TỰ ĐỘNG\n\nKý hiệu mẫu:\n\nNgày thực hiện:\n\nNgười thực hiện:\n\n1. Loại hóa chất\n\n| Bộ kít sử dụng | Lot No: | Hạn sử dụng: |\n| --- | --- | --- |\n| Dung dịch đệm | Lot No: | Hạn sử dụng: |\n| DTT | Lot No: | Hạn sử dụng: |\n\n2. Chuẩn bị hóa chất\n\n| Thành phần | Ngày pha | Người pha | Ghi chú |\n| --- | --- | --- | --- |\n| Dung dịch đệm |  |  |  |\n| DTT |  |  |  |\n\n3. Các bước thực hiện\n\nLượng mẫu tách chiết:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_BM01-QT03_03-HCLS_119-2023-TT-BQP_chunk_0002",
+            "char_count": 571,
+            "source_file": "mauphieu/MAU BM01-QT03.03-HCLS_119-2023-TT-BQP.doc",
+            "file_name": "MAU BM01-QT03.03-HCLS_119-2023-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:15:54",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_BM01-QT03_03-HCLS_119-2023-TT-BQP_chunk_0002",
+        "doc_id": "mauphieu_MAU_BM01-QT03_03-HCLS_119-2023-TT-BQP",
+        "text": "sử dụng: |\n\n2. Chuẩn bị hóa chất\n\n| Thành phần | Ngày pha | Người pha | Ghi chú |\n| --- | --- | --- | --- |\n| Dung dịch đệm |  |  |  |\n| DTT |  |  |  |\n\n3. Các bước thực hiện\n\nLượng mẫu tách chiết:\n\n| Bước | Thành phần | Lượng hóa chất | Ngày thực hiện | Người thực hiện | Ghi chú |\n| --- | --- | --- | --- | --- | --- |\n| 1 | Dung dịch đệm |  |  |  |  |\n| 2 | DTT |  |  |  |  |\n| Thao tác máy | Menu - Start - 01- Continue - Continue - 01 - Start. | Menu - Start - 01- Continue - Continue - 01 - Start. | Menu - Start - 01- Continue - Continue - 01 - Start. | Menu - Start - 01- Continue - Continue - 01 - Start. | Menu - Start - 01- Continue - Continue - 01 - Start. |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_BM01-QT03_03-HCLS_119-2023-TT-BQP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 670,
+            "source_file": "mauphieu/MAU BM01-QT03.03-HCLS_119-2023-TT-BQP.doc",
+            "file_name": "MAU BM01-QT03.03-HCLS_119-2023-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:15:54",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

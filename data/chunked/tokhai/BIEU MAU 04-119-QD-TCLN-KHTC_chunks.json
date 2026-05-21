@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "tokhai_BIEU_MAU_04-119-QD-TCLN-KHTC_chunk_0001",
+        "doc_id": "tokhai_BIEU_MAU_04-119-QD-TCLN-KHTC",
+        "text": "Biểu mẫu 4. Tờ khai tự quyết toán tiền chi trả DVMTR\n\n(Kèm theo Quyết định số 119/QĐ-TCLN-KHTC ngày 21 tháng 3 năm 2012 của Tổng cục trưởng Tổng cục Lâm nghiệp)\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nTỜ KHAI TỰ QUYẾT TOÁN TIỀN CHI TRẢ DỊCH VỤ MÔI TRƯỜNG RỪNG\n\nKỳ quyết toán: năm 20...\n\nTên cơ sở sử dụng DVMTR: ...\n\nĐịa chỉ trụ sở: ... Quận/huyện... Tỉnh/Thành phố...\n\nĐiện thoại:... Fax:... Số tài khoản: ... tại Ngân hàng ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_BIEU_MAU_04-119-QD-TCLN-KHTC_chunk_0002",
+            "char_count": 469,
+            "source_file": "tokhai/BIEU MAU 04-119-QD-TCLN-KHTC.doc",
+            "file_name": "BIEU MAU 04-119-QD-TCLN-KHTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:34:23",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_BIEU_MAU_04-119-QD-TCLN-KHTC_chunk_0002",
+        "doc_id": "tokhai_BIEU_MAU_04-119-QD-TCLN-KHTC",
+        "text": "TRẢ DỊCH VỤ MÔI TRƯỜNG RỪNG\n\nKỳ quyết toán: năm 20...\n\nTên cơ sở sử dụng DVMTR: ...\n\nĐịa chỉ trụ sở: ... Quận/huyện... Tỉnh/Thành phố...\n\nĐiện thoại:... Fax:... Số tài khoản: ... tại Ngân hàng ...\n\n| STT | Sản lượng hoặc doanh thu để tính tiền chi trả DVMTR năm | Sản lượng hoặc doanh thu để tính tiền chi trả DVMTR năm | Sản lượng hoặc doanh thu để tính tiền chi trả DVMTR năm | Mức chi trả | Số tiền chi trả DVMTR trong năm (triệu đồng) | Số tiền chi trả DVMTR trong năm (triệu đồng) | Số tiền chi trả DVMTR trong năm (triệu đồng) | Số tiền chi trả DVMTR trong năm (triệu đồng) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Chỉ tiêu | Đơn vị tính | Khối/số lượng | Mức chi trả | Phải nộp | Đã nộp | Được miễn, giảm | Còn phải nộp |\n| [1] | [2] | [3] | [4] | [5] | [6 =4*5] | [7] | [8] | [9=6-7-8] |\n| 1 | Sản lượng điện thương phẩm | Kwh |  | 20đ |  |  |  |  |\n| 2 | Sản lượng nước thương phẩm | M3 |  | 40đ |  |  |  |  |\n| 3 | Doanh thu (đối với tổ chức, cá nhân kinh doanh dịch vụ du lịch có hưởng lợi từ rừng) | Triệu đồng |  | 1-2% |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "tokhai_BIEU_MAU_04-119-QD-TCLN-KHTC_chunk_0001",
+            "next_chunk_id": "tokhai_BIEU_MAU_04-119-QD-TCLN-KHTC_chunk_0003",
+            "char_count": 1100,
+            "source_file": "tokhai/BIEU MAU 04-119-QD-TCLN-KHTC.doc",
+            "file_name": "BIEU MAU 04-119-QD-TCLN-KHTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:34:23",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_BIEU_MAU_04-119-QD-TCLN-KHTC_chunk_0003",
+        "doc_id": "tokhai_BIEU_MAU_04-119-QD-TCLN-KHTC",
+        "text": "thương phẩm | M3 |  | 40đ |  |  |  |  |\n| 3 | Doanh thu (đối với tổ chức, cá nhân kinh doanh dịch vụ du lịch có hưởng lợi từ rừng) | Triệu đồng |  | 1-2% |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n\n| Nơi nhận:<br>- Quỹ BV&PTR (VN/tỉnh…)<br>- Lưu: VT. | ……….., ngày …… tháng …… năm …….<br>Người đại diện cơ sở sử dụng DVMTR<br>(Ký tên, đóng dấu, ghi rõ họ tên và chức vụ) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "tokhai_BIEU_MAU_04-119-QD-TCLN-KHTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 386,
+            "source_file": "tokhai/BIEU MAU 04-119-QD-TCLN-KHTC.doc",
+            "file_name": "BIEU MAU 04-119-QD-TCLN-KHTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:34:23",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

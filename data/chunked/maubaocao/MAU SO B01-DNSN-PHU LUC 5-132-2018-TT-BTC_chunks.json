@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO_B01-DNSN-PHU_LUC_5-132-2018-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO_B01-DNSN-PHU_LUC_5-132-2018-TT-BTC",
+        "text": "| Đơn vị:…...……………... | Mẫu số B01 – DNSN |\n| --- | --- |\n| Địa chỉ:…………………………. | (Ban hành kèm theo Thông tư số 132/2018/TT-BTC <br> ngày 28/12/2018 của Bộ Tài chính) |\n\nBÁO CÁO TÌNH HÌNH TÀI CHÍNH\n\nTại ngày ... tháng ... năm ...\n\nĐơn vị tính:...\n\n| CHỈ TIÊU | Mã<br>số | Số cuối năm | Số<br>đầu  năm |\n| --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 |\n| TÀI SẢN |  |  |  |\n| 1. Tiền | 110 |  |  |\n| 2. Các khoản nợ phải thu | 120 |  |  |\n| 3. Hàng tồn kho | 130 |  |  |\n| 4. Giá trị còn lại của TSCĐ | 140 |  |  |\n| 5. Tài sản khác | 150 |  |  |\n| TỔNG CỘNG TÀI SẢN (200=110+120+130+140 + 150) | 200 |  |  |\n| NGUỒN VỐN |  |  |  |\n| I. Nợ phải trả | 300 |  |  |\n| 1. Các khoản nợ phải trả | 310 |  |  |\n| 2. Thuế và các khoản phải nộp Nhà nước | 320 |  |  |\n| II. Vốn chủ sở hữu | 400 |  |  |\n| 1. Vốn đầu tư của chủ sở hữu | 410 |  |  |\n| 2. Lợi nhuận sau thuế chưa phân phối | 420 |  |  |\n| TỔNG CỘNG NGUỒN VỐN<br> (500=300+400) | 500 |  |  |\n\nLập, ngày ... tháng ... năm ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO_B01-DNSN-PHU_LUC_5-132-2018-TT-BTC_chunk_0002",
+            "char_count": 973,
+            "source_file": "maubaocao/MAU SO B01-DNSN-PHU LUC 5-132-2018-TT-BTC.doc",
+            "file_name": "MAU SO B01-DNSN-PHU LUC 5-132-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:37:17",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO_B01-DNSN-PHU_LUC_5-132-2018-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO_B01-DNSN-PHU_LUC_5-132-2018-TT-BTC",
+        "text": "| 400 |  |  |\n| 1. Vốn đầu tư của chủ sở hữu | 410 |  |  |\n| 2. Lợi nhuận sau thuế chưa phân phối | 420 |  |  |\n| TỔNG CỘNG NGUỒN VỐN<br> (500=300+400) | 500 |  |  |\n\nLập, ngày ... tháng ... năm ...\n\n| Người lập biểu | Kế toán trưởng | Người đại diện theo pháp luật |\n| --- | --- | --- |\n| (Ký, họ tên) | (Ký, họ tên) | (Ký, họ tên, đóng dấu) |\n\nGhi chú:\n\n(1) Những chỉ tiêu không có số liệu được miễn trình bày nhưng không được đánh lại “Mã số” chỉ tiêu.\n\n(2) Đối với doanh nghiệp có kỳ kế toán năm là năm dương lịch (X) thì “Số cuối năm” có thể ghi là “31.12.X\"; “Số đầu năm\" có thể ghi là “01.01.X\".\n\nNguồn: Thông tư 132/2018/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_SO_B01-DNSN-PHU_LUC_5-132-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 635,
+            "source_file": "maubaocao/MAU SO B01-DNSN-PHU LUC 5-132-2018-TT-BTC.doc",
+            "file_name": "MAU SO B01-DNSN-PHU LUC 5-132-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:37:17",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

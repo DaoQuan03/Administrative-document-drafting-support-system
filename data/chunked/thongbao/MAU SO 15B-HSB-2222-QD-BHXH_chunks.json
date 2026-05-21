@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_15B-HSB-2222-QD-BHXH_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_15B-HSB-2222-QD-BHXH",
+        "text": "| TÊN CQ, TỔ CHỨC CHỦ QUẢN                    <br>BẢO HIỂM XÃ HỘI...(1)<br>Số:                  /BHXH-TB | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>              Độc lập - Tự do - Hạnh phúc<br>. . . . . . . . ,  ngày ... tháng …. năm .…. |\n| --- | --- |\n\nTHÔNG BÁO\n\nVề việc tiếp nhận hồ sơ chờ hưởng lương hưu/trợ cấp hằng tháng\n\nKính gửi:    - Ông/Bà ...\n\nĐịa chỉ: ...\n\nBảo hiểm xã hội tỉnh ... đã tiếp nhận và quản lý hồ sơ chờ hưởng (2)... của ông/bà do BHXH tỉnh ...(3)... chuyển đến.\n\nMã số BHXH của ông/bà là: ...\n\nBảo hiểm xã hội tỉnh …..thông báo để ông/bà biết và liên hệ giải quyết hưởng chế độ khi đủ điều kiện về tuổi./.\n\n| Nơi nhận:<br>- Như trên;<br>- BHXH…(3)<br>- Lưu: VT. | TL. GIÁM ĐỐC<br>CHÁNH VĂN PHÒNG / TRƯỞNG PHÒNG…(4)..<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\nGhi chú:\n\n(1) Ghi tên cơ quan BHXH nơi chuyển đến\n\n(2) Ghi theo loại chế độ chờ hưởng\n\n(3) Ghi tên cơ quan BHXH nơi giới thiệu chuyển đi (chuyển trên hệ thống).",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_15B-HSB-2222-QD-BHXH_chunk_0002",
+            "char_count": 988,
+            "source_file": "thongbao/MAU SO 15B-HSB-2222-QD-BHXH.doc",
+            "file_name": "MAU SO 15B-HSB-2222-QD-BHXH.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:00:32",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_15B-HSB-2222-QD-BHXH_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_15B-HSB-2222-QD-BHXH",
+        "text": "rõ họ tên, đóng dấu) |\n| --- | --- |\n\nGhi chú:\n\n(1) Ghi tên cơ quan BHXH nơi chuyển đến\n\n(2) Ghi theo loại chế độ chờ hưởng\n\n(3) Ghi tên cơ quan BHXH nơi giới thiệu chuyển đi (chuyển trên hệ thống).\n\n(4) Ghi chức danh Chánh Văn phòng hoặc Trưởng phòng Tổ chức hành chính trong trường hợp không có Văn phòng",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_15B-HSB-2222-QD-BHXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 306,
+            "source_file": "thongbao/MAU SO 15B-HSB-2222-QD-BHXH.doc",
+            "file_name": "MAU SO 15B-HSB-2222-QD-BHXH.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:00:32",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

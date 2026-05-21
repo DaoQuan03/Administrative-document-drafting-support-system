@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_1-2239-QD-BTC_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_1-2239-QD-BTC",
+        "text": "Phụ lục 01: PHIẾU XÁC NHẬN\n\nKết quả rà soát, kiểm tra tính bí mật của thông tin, phân loại thông tin\n\n| STT | Tên, trích yếu văn bản, hồ sơ, tài liệu | Số, ký hiệu văn bản, hồ sơ, tài liệu | Ngày, tháng, năm tạo ra thông tin | Loại thông tin1 | Loại thông tin1 | Loại thông tin1 | Hình thức công khai/cung cấp thông tin | Hình thức công khai/cung cấp thông tin |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Tên, trích yếu văn bản, hồ sơ, tài liệu | Số, ký hiệu văn bản, hồ sơ, tài liệu | Ngày, tháng, năm tạo ra thông tin | Thông tin được tiếp cận | Thông tin không được tiếp cận | Thông tin tiếp cận có điều kiện | Công khai thông tin2 | Cung cấp thông tin theo yêu cầu3 |\n| 1 |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |\n| ... |  |  |  |  |  |  |  |  |\n\n|  | XÁC NHẬN CỦA LÃNH ĐẠO ĐƠN VỊ<br>(ký tên/đóng dấu) |\n| --- | --- |\n\n___\n\n1 Đánh dấu √ vào cột thích hợp, đồng thời nêu rõ căn cứ theo điều/khoản của Luật tiếp cận thông tin.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_1-2239-QD-BTC_chunk_0002",
+            "char_count": 964,
+            "source_file": "mauphieu/PHU LUC 1-2239-QD-BTC.doc",
+            "file_name": "PHU LUC 1-2239-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:34:30",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_1-2239-QD-BTC_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_1-2239-QD-BTC",
+        "text": "|  |  |  |  |  |  |\n\n|  | XÁC NHẬN CỦA LÃNH ĐẠO ĐƠN VỊ<br>(ký tên/đóng dấu) |\n| --- | --- |\n\n___\n\n1 Đánh dấu √ vào cột thích hợp, đồng thời nêu rõ căn cứ theo điều/khoản của Luật tiếp cận thông tin.\n\n2 Nêu rõ thời điểm, thời hạn công khai thông tin (nếu có).\n\n3 Nêu rõ các hình thức cung cấp thông tin theo yêu cầu có thể áp dụng.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_1-2239-QD-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 330,
+            "source_file": "mauphieu/PHU LUC 1-2239-QD-BTC.doc",
+            "file_name": "PHU LUC 1-2239-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:34:30",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

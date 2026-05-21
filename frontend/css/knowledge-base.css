@@ -1,0 +1,187 @@
+/* ===== KNOWLEDGE-BASE.CSS ===== */
+
+.kb-body { padding: 36px 48px 60px; max-width: 1100px; }
+
+.kb-header { margin-bottom: 28px; }
+.kb-header h1 { font-size: 24px; font-weight: 700; margin-bottom: 6px; }
+.kb-header p { font-size: 13px; color: var(--text-secondary); }
+
+/* KB Cards */
+.kb-cards {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 12px; margin-bottom: 32px;
+}
+
+.kb-card {
+  background: var(--white);
+  border: 1.5px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 16px; cursor: pointer;
+  display: flex; align-items: center; gap: 12px;
+  transition: all var(--transition);
+}
+.kb-card:hover { border-color: var(--blue-200, #b5d4f4); box-shadow: var(--shadow-sm); }
+.kb-card.active-kb { border-color: var(--blue-400); background: var(--blue-50); }
+
+.kb-card-icon { font-size: 28px; flex-shrink: 0; }
+
+.kb-card-info { flex: 1; min-width: 0; }
+.kb-card-name { font-size: 13px; font-weight: 600; color: var(--text-primary); margin-bottom: 3px; }
+.kb-card-meta { font-size: 11px; color: var(--text-secondary); }
+
+.kb-card-right { display: flex; flex-direction: column; align-items: flex-end; gap: 6px; }
+.kb-card-bar {
+  width: 60px; height: 3px;
+  background: var(--gray-200); border-radius: 2px; overflow: hidden;
+}
+.kb-card-bar > div { height: 100%; background: var(--blue-400); border-radius: 2px; }
+.kb-card-bar.indexing > div { background: var(--amber-400); animation: pulse 1.5s ease-in-out infinite; }
+
+@keyframes pulse { 0%,100% { opacity:1; } 50% { opacity:0.5; } }
+
+.kb-add-card {
+  border: 1.5px dashed var(--border-default);
+  background: var(--gray-50);
+  justify-content: center; flex-direction: column; gap: 6px;
+  text-align: center;
+}
+.kb-add-card:hover { border-color: var(--blue-400); background: var(--blue-50); }
+.kb-add-icon { font-size: 24px; color: var(--text-tertiary); }
+.kb-add-card span { font-size: 12px; color: var(--text-secondary); }
+
+/* Doc section */
+.doc-section {
+  background: var(--white);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg); overflow: hidden;
+}
+
+.doc-section-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 16px 20px; border-bottom: 1px solid var(--border-subtle);
+  gap: 12px; flex-wrap: wrap;
+}
+
+.doc-section-title {
+  display: flex; align-items: center; gap: 10px;
+}
+.doc-section-title h2 { font-size: 15px; font-weight: 600; }
+
+.doc-section-actions {
+  display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+}
+
+/* Table */
+.docs-table-wrap { overflow-x: auto; }
+
+.docs-table {
+  width: 100%; border-collapse: collapse;
+  font-size: 13px;
+}
+.docs-table th {
+  padding: 10px 16px; text-align: left;
+  font-size: 11px; font-weight: 600; color: var(--text-tertiary);
+  background: var(--gray-50);
+  border-bottom: 1px solid var(--border-subtle);
+  white-space: nowrap;
+}
+.docs-table td {
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--border-subtle);
+  vertical-align: middle;
+}
+.docs-table tr:last-child td { border-bottom: none; }
+.docs-table tr:hover td { background: var(--gray-50); }
+
+.doc-name-cell {
+  display: flex; align-items: center; gap: 8px;
+  font-weight: 500; max-width: 300px;
+}
+.doc-file-icon { font-size: 16px; flex-shrink: 0; }
+
+.doc-actions { display: flex; gap: 2px; }
+.doc-actions button { padding: 3px 8px; font-size: 11px; }
+
+/* Upload modal additions */
+.upload-tabs {
+  display: flex; gap: 4px; margin-bottom: 16px;
+  border-bottom: 1px solid var(--border-subtle);
+  padding-bottom: 0;
+}
+.upload-tab {
+  padding: 8px 14px; font-size: 12px; font-weight: 500;
+  color: var(--text-secondary); border-bottom: 2px solid transparent;
+  transition: all var(--transition); margin-bottom: -1px;
+}
+.upload-tab:hover { color: var(--text-primary); }
+.upload-tab.active { color: var(--blue-600); border-bottom-color: var(--blue-500); }
+
+.drop-zone {
+  border: 2px dashed var(--border-default);
+  border-radius: var(--radius-lg);
+  padding: 40px 20px; text-align: center;
+  cursor: pointer; background: var(--gray-50);
+  transition: all var(--transition);
+}
+.drop-zone:hover, .drop-zone.drag-over {
+  border-color: var(--blue-400); background: var(--blue-50);
+}
+.dz-icon { font-size: 36px; margin-bottom: 10px; }
+.dz-text { font-size: 14px; color: var(--text-secondary); margin-bottom: 4px; }
+.dz-sub { font-size: 11px; color: var(--text-tertiary); }
+
+.file-list { margin-top: 12px; display: flex; flex-direction: column; gap: 6px; }
+.file-item {
+  display: flex; align-items: center; gap: 10px;
+  padding: 8px 12px;
+  background: var(--gray-50);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  font-size: 12px;
+}
+.file-item .file-name { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.file-item .file-size { color: var(--text-tertiary); }
+.file-progress {
+  height: 3px; background: var(--gray-200);
+  border-radius: 2px; overflow: hidden; margin-top: 4px;
+}
+.file-progress-fill { height: 100%; background: var(--blue-400); border-radius: 2px; transition: width 0.3s; }
+
+.upload-actions {
+  display: flex; justify-content: flex-end; gap: 8px;
+  padding-top: 16px; border-top: 1px solid var(--border-subtle);
+  margin-top: 16px;
+}
+
+/* Preview panel (slide in from right) */
+.preview-panel {
+  position: fixed; top: 48px; right: 0; bottom: 0;
+  width: 360px; background: var(--white);
+  border-left: 1px solid var(--border-subtle);
+  box-shadow: var(--shadow-lg);
+  display: flex; flex-direction: column;
+  z-index: 50;
+}
+.preview-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 14px 16px; border-bottom: 1px solid var(--border-subtle);
+}
+.preview-header h3 { font-size: 13px; font-weight: 600; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.preview-body { flex: 1; overflow-y: auto; padding: 16px; font-size: 13px; line-height: 1.7; color: var(--text-secondary); }
+
+/* Modal overlay/card shared */
+.modal-overlay {
+  position: fixed; inset: 0; background: rgba(0,0,0,0.4);
+  display: flex; align-items: center; justify-content: center; z-index: 100;
+}
+.modal-card {
+  background: var(--white); border-radius: var(--radius-xl);
+  width: 480px; max-width: 95vw; box-shadow: var(--shadow-xl); overflow: hidden;
+}
+.modal-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 16px 20px; border-bottom: 1px solid var(--border-subtle);
+}
+.modal-header h3 { font-size: 15px; font-weight: 600; }
+.modal-body { padding: 20px; display: flex; flex-direction: column; gap: 12px; }
+.field-label { font-size: 12px; font-weight: 500; color: var(--text-secondary); margin-bottom: 6px; display: block; }

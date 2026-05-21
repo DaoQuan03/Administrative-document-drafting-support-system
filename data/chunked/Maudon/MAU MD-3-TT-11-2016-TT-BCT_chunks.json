@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_MD-3-TT-11-2016-TT-BCT_chunk_0001",
+        "doc_id": "Maudon_MAU_MD-3-TT-11-2016-TT-BCT",
+        "text": "Mẫu MĐ-3\n\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐịa Điểm, ngày… tháng… năm…\n\nĐƠN ĐỀ NGHỊ ĐIỀU CHỈNH GIẤY PHÉP THÀNH LẬP\nVĂN PHÒNG ĐẠI DIỆN\n\nKính gửi: ..…… (tên Cơ quan cấp Giấy phép)\n\nTên thương nhân: (tên trên Giấy phép thành lập/Đăng ký doanh nghiệp) ...\n\nTên thương nhân bằng tiếng Anh: (ghi bằng chữ in hoa)...\n\nTên thương nhân viết tắt:...\n\nGiấy phép thành lập/Đăng ký doanh nghiệp/Mã số doanh nghiệp: … Ngày cấp: .../…/… Cơ quan cấp:...\n\nĐiện thoại:... Fax:... Email:...Website: (nếu có)...\n\nĐề nghị Điều chỉnh Giấy phép thành lập Văn phòng đại diện như sau:\n\nTên Văn phòng đại diện: (tên trên Giấy phép thành lập) ...\n\nGiấy phép thành lập Văn phòng đại diện số: ……. Ngày cấp …/…/ ...\n\n6Thứ tự của Văn phòng đại diện: ...\n\nĐiện thoại:... Fax:... Email:...Website: (nếu có) ...\n\nMã số thuế: ...\n\nNội dung Điều chỉnh: ...\n\nLý do Điều chỉnh: ...\n\nChúng tôi cam kết:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_MD-3-TT-11-2016-TT-BCT_chunk_0002",
+            "char_count": 910,
+            "source_file": "Maudon/MAU MD-3-TT-11-2016-TT-BCT.doc",
+            "file_name": "MAU MD-3-TT-11-2016-TT-BCT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:12:12",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_MD-3-TT-11-2016-TT-BCT_chunk_0002",
+        "doc_id": "Maudon_MAU_MD-3-TT-11-2016-TT-BCT",
+        "text": "……. Ngày cấp …/…/ ...\n\n6Thứ tự của Văn phòng đại diện: ...\n\nĐiện thoại:... Fax:... Email:...Website: (nếu có) ...\n\nMã số thuế: ...\n\nNội dung Điều chỉnh: ...\n\nLý do Điều chỉnh: ...\n\nChúng tôi cam kết:\n\n1. Chịu trách nhiệm về sự trung thực và chính xác của nội dung Đơn đề nghị và hồ sơ kèm theo.\n\n2. Chấp hành nghiêm chỉnh quy định của Nghị định số 07/2016/NĐ-CP, pháp luật Việt Nam liên quan đến Văn phòng đại diện của thương nhân nước ngoài tại Việt Nam và các quy định của Giấy phép thành lập Văn phòng đại diện./.\n\n|  | Đại diện có thẩm quyền của thương nhân nước ngoài<br>Ký, ghi rõ họ tên và đóng dấu (nếu có) |\n| --- | --- |\n\n___\n\n6 Chỉ áp dụng đối với thương nhân nước ngoài có nhiều hơn một Văn phòng đại diện tại Việt Nam và đã được cấp phép trước ngày Thông tư này có hiệu lực. Thương nhân nước ngoài tự xác định thứ tự của Văn phòng đại diện theo thời gian thành lập.\n\nNguồn: Thông tư 11/2016/TT-BCT",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_MD-3-TT-11-2016-TT-BCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 910,
+            "source_file": "Maudon/MAU MD-3-TT-11-2016-TT-BCT.doc",
+            "file_name": "MAU MD-3-TT-11-2016-TT-BCT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:12:12",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

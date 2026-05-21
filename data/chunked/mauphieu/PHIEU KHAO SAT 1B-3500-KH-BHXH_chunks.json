@@ -1,0 +1,110 @@
+[
+    {
+        "chunk_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH_chunk_0001",
+        "doc_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH",
+        "text": "PHIẾU KHẢO SÁT SỐ 1B\n\n(Dành cho cá nhân/đại diện tổ chức và doanh nghiệp giao dịch trực tuyến)\n\nTỉnh/ Thành phố: ...\n\nHuyện/ Quận:...\n\nXã/ Phường:...\n\nGIỚI THIỆU VỀ CUỘC KHẢO SÁT\n\nBảo hiểm xã hội Việt Nam là cơ quan thuộc Chính phủ có chức năng tổ chức thực hiện các chế độ, chính sách bảo hiểm xã hội (BHXH), bảo hiểm y tế (BHYT); Tổ chức thu, chi chế độ bảo hiểm thất nghiệp (BHTN); Quản lý và sử dụng các quỹ: BHXH, BHYT, BHTN; Thanh tra chuyên ngành việc đóng BHXH, BHYT, BHTN theo quy định của pháp luật. Để có cơ sở cải thiện chất lượng phục vụ cá nhân, tổ chức tham gia và thụ hưởng chính sách BHXH, BHYT, BHTN, BHXH Việt Nam tiến hành khảo sát mức độ hài lòng của cá nhân, tổ chức và doanh nghiệp đối với sự phục vụ của ngành BHXH Việt Nam.\n\nBHXH Việt Nam kính mong Ông/Bà tham gia trả lời phiếu khảo sát đo lường sự hài lòng một cách đầy đủ, chính xác, khách quan. Các thông tin mà Ông/Bà cung cấp trong phiếu khảo sát sẽ được bảo mật theo quy định.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 6,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH_chunk_0002",
+            "char_count": 958,
+            "source_file": "mauphieu/PHIEU KHAO SAT 1B-3500-KH-BHXH.doc",
+            "file_name": "PHIEU KHAO SAT 1B-3500-KH-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:28:13",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH_chunk_0002",
+        "doc_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH",
+        "text": "Nam kính mong Ông/Bà tham gia trả lời phiếu khảo sát đo lường sự hài lòng một cách đầy đủ, chính xác, khách quan. Các thông tin mà Ông/Bà cung cấp trong phiếu khảo sát sẽ được bảo mật theo quy định.\n\nKết quả khảo sát đo lường sự hài lòng của cá nhân, tổ chức và doanh nghiệp sẽ được BHXH Việt Nam tổng hợp, phân tích, xây dựng thành “Chỉ số hài lòng của cá nhân, tổ chức và doanh nghiệp đối với sự phục vụ của ngành Bảo hiểm xã hội Việt Nam” để báo cáo Chính phủ và công bố công khai trong cả nước.\n\n|  | Phần dành cho điều tra viên<br>Mã số phiếu: ……………………………………….<br>Họ tên điều tra viên: ……………………………….<br>Số điện thoại điều tra viên: ………………………..<br>Điều tra viên ký tên: ……………………………… |\n| --- | --- |\n\nPHẦN A. THÔNG TIN CHUNG VỀ NGƯỜI ĐƯỢC KHẢO SÁT\n\nÔng/Bà khoanh tròn xung quanh chữ số (1, 2, 3 …) đứng trước phương án trả lời mà Ông/Bà lựa chọn.\n\nCâu 1. Giới tính                1. Nam                2. Nữ\n\nCâu 2. Độ tuổi",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH_chunk_0001",
+            "next_chunk_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH_chunk_0003",
+            "char_count": 926,
+            "source_file": "mauphieu/PHIEU KHAO SAT 1B-3500-KH-BHXH.doc",
+            "file_name": "PHIEU KHAO SAT 1B-3500-KH-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:28:13",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH_chunk_0003",
+        "doc_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH",
+        "text": "VỀ NGƯỜI ĐƯỢC KHẢO SÁT\n\nÔng/Bà khoanh tròn xung quanh chữ số (1, 2, 3 …) đứng trước phương án trả lời mà Ông/Bà lựa chọn.\n\nCâu 1. Giới tính                1. Nam                2. Nữ\n\nCâu 2. Độ tuổi\n\n1. Dưới 30 tuổi                                       2. Từ 30 đến 45 tuổi\n\n3. Từ 45 đến 60 tuổi                              4. Trên 60 tuổi\n\nCâu 3. Nơi cư trú\n\n1. Thành thị (thành phố, thị xã, thị trấn)\n\n2. Nông thôn\n\nCâu 4. Ông/Bà giao dịch với cơ quan BHXH với cương vị\n\n1. Cá nhân\n\n2. Đại diện tổ chức\n\nCâu 5. Số lần giao dịch dịch vụ BHXH, BHYT, BHTN của Ông/Bà trong năm 2024?\n\n1. 01 lần                                                           2. Từ 2 đến 3 lần\n\n3. Trên 3 lần\n\nCâu 6. Ông/Bà đã thực hiện giao dịch điện tử với cơ quan BHXH dịch vụ thuộc lĩnh vực nào dưới đây? (Trong trường hợp có giao dịch ở nhiều lĩnh vực, chọn lĩnh vực mà Ông/Bà có giao dịch thường xuyên nhất)\n\n1. Lĩnh vực thu BHXH, BHYT, BHTN\n\n2. Lĩnh vực cấp sổ BHXH, thẻ BHYT\n\n3. Lĩnh vực giải quyết các chế độ BHXH",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH_chunk_0002",
+            "next_chunk_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH_chunk_0004",
+            "char_count": 999,
+            "source_file": "mauphieu/PHIEU KHAO SAT 1B-3500-KH-BHXH.doc",
+            "file_name": "PHIEU KHAO SAT 1B-3500-KH-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:28:13",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH_chunk_0004",
+        "doc_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH",
+        "text": "hợp có giao dịch ở nhiều lĩnh vực, chọn lĩnh vực mà Ông/Bà có giao dịch thường xuyên nhất)\n\n1. Lĩnh vực thu BHXH, BHYT, BHTN\n\n2. Lĩnh vực cấp sổ BHXH, thẻ BHYT\n\n3. Lĩnh vực giải quyết các chế độ BHXH\n\n4. Lĩnh vực thực hiện chính sách BHYT\n\n5. Lĩnh vực chi trả các chế độ BHXH, BHTN\n\n6. Không nhớ rõ\n\nPHẦN B. NỘI DUNG KHẢO SÁT\n\nÔng/ Bà cho biết mức độ hài lòng của Ông/Bà đối với sự phục vụ của ngành Bảo hiểm xã hội Việt Nam bao gồm các nội dung sau. Vui lòng khoanh tròn vào lựa chọn của ông/bà, mỗi câu chỉ có một lựa chọn duy nhất với các mức độ sau:\n\nMức độ “Rất không hài lòng” được tính 1 điểm;\n\nMức độ “Không hài lòng” được tính 2 điểm;\n\nMức độ “Bình thường” được tính 3 điểm;\n\nMức độ “Hài lòng” được tính 4 điểm;\n\nMức độ “Rất hài lòng” được tính 5 điểm.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH_chunk_0003",
+            "next_chunk_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH_chunk_0005",
+            "char_count": 761,
+            "source_file": "mauphieu/PHIEU KHAO SAT 1B-3500-KH-BHXH.doc",
+            "file_name": "PHIEU KHAO SAT 1B-3500-KH-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:28:13",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH_chunk_0005",
+        "doc_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH",
+        "text": "“Rất không hài lòng” được tính 1 điểm;\n\nMức độ “Không hài lòng” được tính 2 điểm;\n\nMức độ “Bình thường” được tính 3 điểm;\n\nMức độ “Hài lòng” được tính 4 điểm;\n\nMức độ “Rất hài lòng” được tính 5 điểm.\n\n| TT | Nội dung | Mức độ hài lòng | Mức độ hài lòng | Mức độ hài lòng | Mức độ hài lòng | Mức độ hài lòng |\n| --- | --- | --- | --- | --- | --- | --- |\n| TT | Nội dung | Rất không hài lòng | Không hài lòng | Bình thường | Hài lòng | Rất hài lòng |\n| I | VỀ VIỆC TỔ CHỨC THỰC HIỆN CHÍNH SÁCH BHXH, BHYT, BHTN | VỀ VIỆC TỔ CHỨC THỰC HIỆN CHÍNH SÁCH BHXH, BHYT, BHTN | VỀ VIỆC TỔ CHỨC THỰC HIỆN CHÍNH SÁCH BHXH, BHYT, BHTN | VỀ VIỆC TỔ CHỨC THỰC HIỆN CHÍNH SÁCH BHXH, BHYT, BHTN | VỀ VIỆC TỔ CHỨC THỰC HIỆN CHÍNH SÁCH BHXH, BHYT, BHTN | VỀ VIỆC TỔ CHỨC THỰC HIỆN CHÍNH SÁCH BHXH, BHYT, BHTN |\n| A | Trách nhiệm giải trình của ngành BHXH Việt Nam về chính sách BHXH, BHYT, BHTN |  |  |  |  |  |\n| 1 | Ngành BHXH Việt Nam cung cấp, giải thích thông tin về các chính sách BHXH, BHYT, BHTN theo nhiều hình thức, giúp mọi người dân dễ tìm, dễ thấy | 1 | 2 | 3 | 4 | 5 |\n| 2 | Ngành BHXH Việt Nam cung cấp thông tin về chính sách BHXH, BHYT, BHTN đầy đủ, chính xác, dễ hiểu đối với người dân | 1 | 2 | 3 | 4 | 5 |\n| B | Sự tham gia của người dân vào quá trình tổ chức thực hiện chính sách |  |  |  |  |  |\n| 3 | Ngành BHXH Việt Nam tổ chức nhiều hình thức để người dân dễ dàng tham gia góp ý kiến xây dựng các chính sách BHXH, BHYT | 1 | 2 | 3 | 4 | 5 |\n| 4 | Ngành BHXH Việt Nam tổ chức nhiều hình thức để người dân dễ dàng phản hồi ý kiến đánh giá tình hình triển khai, kết quả tác động của chính sách BHXH, BHYT tại địa phương | 1 | 2 | 3 | 4 | 5 |\n| C | Chất lượng tổ chức thực hiện |  |  |  |  |  |\n| 5 | Ngành BHXH Việt Nam thực hiện tốt chính sách BHXH, BHYT, BHTN ở địa phương | 1 | 2 | 3 | 4 | 5 |\n| 6 | Ngành BHXH Việt Nam tổ chức thực hiện tốt công tác cải cách hành chính (Các quy định, hoạt động cải cách thủ tục hành chính, cải cách tổ chức bộ máy, xây dựng chính phủ điện tử, chính phủ số,…) | 1 | 2 | 3 | 4 | 5 |\n| 7 | Ngành BHXH Việt Nam tổ chức thực hiện tốt việc hỗ trợ, tư vấn cho người dân, tổ chức trong tham gia, thụ hưởng BHXH, BHYT, BHTN | 1 | 2 | 3 | 4 | 5 |\n| D | Kết quả, tác động của chính sách BHXH, BHYT, BHTN |  |  |  |  |  |\n| 8 | Chính sách BHXH, BHTN đảm bảo đời sống cho người dân và sự phát triển ổn định của tổ chức ở địa phương | 1 | 2 | 3 | 4 | 5 |\n| 9 | Chính sách BHYT chăm sóc sức khỏe cho người dân ở địa phương tốt hơn | 1 | 2 | 3 | 4 | 5 |\n| 10 | Đội ngũ cán bộ, công chức, viên chức của cơ quan BHXH ở địa phương có năng lực và thực thi công vụ tốt hơn | 1 | 2 | 3 | 4 | 5 |\n| II | VIỆC CUNG ỨNG DỊCH VỤ HÀNH CHÍNH CÔNG CỦA NGÀNH BHXH VIỆT NAM | VIỆC CUNG ỨNG DỊCH VỤ HÀNH CHÍNH CÔNG CỦA NGÀNH BHXH VIỆT NAM | VIỆC CUNG ỨNG DỊCH VỤ HÀNH CHÍNH CÔNG CỦA NGÀNH BHXH VIỆT NAM | VIỆC CUNG ỨNG DỊCH VỤ HÀNH CHÍNH CÔNG CỦA NGÀNH BHXH VIỆT NAM | VIỆC CUNG ỨNG DỊCH VỤ HÀNH CHÍNH CÔNG CỦA NGÀNH BHXH VIỆT NAM | VIỆC CUNG ỨNG DỊCH VỤ HÀNH CHÍNH CÔNG CỦA NGÀNH BHXH VIỆT NAM |\n| A | Sự thuận lợi trong tiếp cận dịch vụ |  |  |  |  |  |\n| 11 | Các giao diện thực hiện giao dịch điện tử về BHXH, BHYT, BHTN thân thiện với người sử dụng | 1 | 2 | 3 | 4 | 5 |\n| 12 | Phần mềm thực hiện giao dịch điện tử BHXH, BHYT, BHTN dễ sử dụng | 1 | 2 | 3 | 4 | 5 |\n| 13 | Ứng dụng phần mềm giao dịch điện tử BHXH, BHYT, BHTN có thể thực hiện được trên một số thiết bị phổ biến | 1 | 2 | 3 | 4 | 5 |\n| 14 | Tốc độ truy cập vào hệ thống giao dịch điện tử BHXH, BHYT, BHTN nhanh chóng, dễ dàng | 1 | 2 | 3 | 4 | 5 |\n| 15 | Ứng dụng giao dịch có thiết kế tiện ích ưu tiên cho các đối tượng yếu thế (người khuyết tật, người cao tuổi…) | 1 | 2 | 3 | 4 | 5 |\n| 16 | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. |\n| B | Thủ tục hành chính |  |  |  |  |  |\n| 17 | Thủ tục hành chính được niêm yết công khai, đầy đủ | 1 | 2 | 3 | 4 | 5 |\n| 18 | Thủ tục hành chính được niêm yết chính xác | 1 | 2 | 3 | 4 | 5 |\n| 19 | Thành phần hồ sơ mà người dân, đại diện tổ chức phải nộp là đúng quy định | 1 | 2 | 3 | 4 | 5 |\n| 20 | Người dân/đại diện tổ chức không phải nộp bất cứ khoản phí/lệ phí thực hiện thủ tục hành chính nào khi giao dịch điện tử | 1 | 2 | 3 | 4 | 5 |\n| 21 | Tốc độ phản hồi của cơ quan BHXH trên trang giao dịch điện tử nhanh chóng | 1 | 2 | 3 | 4 | 5 |\n| 22 | Thời hạn giải quyết (tính từ ngày hồ sơ được tiếp nhận đến ngày nhận kết quả) là đúng quy định | 1 | 2 | 3 | 4 | 5 |\n| 23 | Khi có vấn đề phát sinh, người dân/đại diện tổ chức được nhận thông báo yêu cầu bổ sung hồ sơ kịp thời và được thông báo về việc thời hạn giải quyết mới (nếu có) | 1 | 2 | 3 | 4 | 5 |\n| 24 | Người dân/đại diện tổ chức được thông báo đến nhận kết quả nếu hồ sơ được giải quyết xong trước hẹn (đối với hồ sơ phải nhận trực tiếp) và trả kết quả trực tuyến trước hẹn (với hồ sơ trả trực tuyến) | 1 | 2 | 3 | 4 | 5 |\n| 25 | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. |\n| C | Viên chức trực tiếp giải quyết công việc |  |  |  |  |  |\n| 26 | Trong quá trình người dân/đại diện tổ chức giao dịch điện tử, luôn có nhân viên trực trên cửa sổ chat trực tuyến để hỗ trợ | 1 | 2 | 3 | 4 | 5 |\n| 27 | Viên chức hỗ trợ kịp thời khi người dân/đại diện tổ chức gặp khó khăn trong giao dịch điện tử | 1 | 2 | 3 | 4 | 5 |\n| 28 | Viên chức hỗ trợ xưng danh và mã số nhân viên khi hỗ trợ giao dịch trực tuyến | 1 | 2 | 3 | 4 | 5 |\n| 29 | Viên chức trả lời, giải đáp đầy đủ, đúng quy định các ý kiến của người dân/đại diện tổ chức | 1 | 2 | 3 | 4 | 5 |\n| 30 | Viên chức hướng dẫn kê khai hồ sơ tận tình, chu đáo | 1 | 2 | 3 | 4 | 5 |\n| 31 | Viên chức hướng dẫn kê khai hồ sơ dễ hiểu | 1 | 2 | 3 | 4 | 5 |\n| 32 | Viên chức tuân thủ đúng quy định trong giải quyết công việc | 1 | 2 | 3 | 4 | 5 |\n| 33 | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. |\n| D | Kết quả cung ứng dịch vụ BHXH, BHYT, BHTN |  |  |  |  |  |\n| 34 | Người dân/đại diện tổ chức có thể dễ dàng theo dõi quá trình xử lý hồ sơ của mình trên giao diện điện tử | 1 | 2 | 3 | 4 | 5 |\n| 35 | Kết quả giải quyết BHXH, BHYT, BHTN đúng thời hạn | 1 | 2 | 3 | 4 | 5 |\n| 36 | Kết quả giải quyết BHXH, BHYT, BHTN đúng quy định | 1 | 2 | 3 | 4 | 5 |\n| 37 | Kết quả giải quyết BHXH, BHYT, BHTN đầy đủ thông tin | 1 | 2 | 3 | 4 | 5 |\n| 38 | Kết quả giải quyết BHXH, BHYT, BHTN có thông tin chính xác | 1 | 2 | 3 | 4 | 5 |\n| 39 | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. |\n| E | Tiếp nhận, giải quyết góp ý, phản ánh, kiến nghị về chính sách, thủ tục hành chính, tổ chức thực hiện BHXH, BHYT, BHTN trực tuyến |  |  |  |  |  |\n| 40 | Trên giao diện điện tử luôn hiển thị các địa chỉ tiếp nhận góp ý, phản ánh, kiến nghị của người dân/đại diện tổ chức trực tiếp và trực tuyến,… | 1 | 2 | 3 | 4 | 5 |\n| 41 | Giao diện phần mềm thực hiện góp ý, phản ánh, kiến nghị về BHXH, BHYT, BHTN thân thiện, dễ thực hiện | 1 | 2 | 3 | 4 | 5 |\n| 42 | Việc phản hồi cơ quan BHXH đã nhận được các góp ý, kiến nghị của người dân/đại diện tổ chức trên giao diện điện tử được thực hiện tức thời | 1 | 2 | 3 | 4 | 5 |\n| 43 | Cơ quan BHXH thông báo kết quả xử lý góp ý, phản ánh, kiến nghị kịp thời | 1 | 2 | 3 | 4 | 5 |\n| 44 | Cơ quan BHXH tổng hợp thông tin kiến nghị của người dân/đại diện tổ chức để cải tiến các hoạt động nghiệp vụ, nâng cao chất lượng phục vụ | 1 | 2 | 3 | 4 | 5 |\n| 45 | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. | Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. |",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH_chunk_0004",
+            "next_chunk_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH_chunk_0006",
+            "char_count": 11249,
+            "source_file": "mauphieu/PHIEU KHAO SAT 1B-3500-KH-BHXH.doc",
+            "file_name": "PHIEU KHAO SAT 1B-3500-KH-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:28:13",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH_chunk_0006",
+        "doc_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH",
+        "text": "| Nếu Ông/Bà đánh giá mức (1) hoặc (2), vui lòng cho biết lý do:<br>……………………………………………………………………………………..<br>…………………………………………………………………………………….. |\n\nXIN TRÂN TRỌNG CẢM ƠN ÔNG/BÀ ĐÃ THAM GIA KHẢO SÁT!",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_PHIEU_KHAO_SAT_1B-3500-KH-BHXH_chunk_0005",
+            "next_chunk_id": null,
+            "char_count": 194,
+            "source_file": "mauphieu/PHIEU KHAO SAT 1B-3500-KH-BHXH.doc",
+            "file_name": "PHIEU KHAO SAT 1B-3500-KH-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:28:13",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

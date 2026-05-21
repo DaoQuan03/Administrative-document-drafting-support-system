@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_SO_02-QD-2170-QD-BYT_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_SO_02-QD-2170-QD-BYT",
+        "text": "Phụ lục 2: Mẫu phiếu cung cấp thông tin cho gia đình\n\n| Tên cơ sở KCB<br>……….. | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n\nHọ tên người bệnh: …………………………………… Tuổi: ……………... Giới: ……………\n\nĐịa chỉ: ……………………………………………………………………………………………..\n\nNgày vào viện: ………………. Điều trị từ ngày………………...……đến ngày………………\n\nChẩn đoán: …………………………………………………………………………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_SO_02-QD-2170-QD-BYT_chunk_0002",
+            "char_count": 404,
+            "source_file": "mauphieu/PHU LUC SO 02-QD-2170-QD-BYT.doc",
+            "file_name": "PHU LUC SO 02-QD-2170-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:46:05",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_SO_02-QD-2170-QD-BYT_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_SO_02-QD-2170-QD-BYT",
+        "text": "Tuổi: ……………... Giới: ……………\n\nĐịa chỉ: ……………………………………………………………………………………………..\n\nNgày vào viện: ………………. Điều trị từ ngày………………...……đến ngày………………\n\nChẩn đoán: …………………………………………………………………………………………\n\n| Nhóm | Lượng giá khi NB vào viện | Mục tiêu can thiệp | Kết quả can thiệp | Gia đình đã được hướng dẫn |\n| --- | --- | --- | --- | --- |\n| Đợt …. (Từ ngày……………đến ngày…………….) | Đợt …. (Từ ngày……………đến ngày…………….) | Đợt …. (Từ ngày……………đến ngày…………….) | Đợt …. (Từ ngày……………đến ngày…………….) | Đợt …. (Từ ngày……………đến ngày…………….) |\n| Bác sĩ<br>…………… |  |  |  | Cách tập VLTL/vận động trị liệu                          □<br>Cách tập hoạt động trị liệu                                 □<br>Cách tập ngôn ngữ trị liệu                                  □<br>Cách chăm sóc, vui chơi, nuôi dưỡng trẻ             □<br>Cách can thiệp khác                                          □ |\n| Điều dưỡng<br>…………… |  |  |  | Cách tập VLTL/vận động trị liệu                          □<br>Cách tập hoạt động trị liệu                                 □<br>Cách tập ngôn ngữ trị liệu                                  □<br>Cách chăm sóc, vui chơi, nuôi dưỡng trẻ             □<br>Cách can thiệp khác                                          □ |\n| KTV VLTL<br>…………….. |  |  |  | Cách tập VLTL/vận động trị liệu                          □<br>Cách tập hoạt động trị liệu                                 □<br>Cách tập ngôn ngữ trị liệu                                  □<br>Cách chăm sóc, vui chơi, nuôi dưỡng trẻ             □<br>Cách can thiệp khác                                          □ |\n| KTV HĐTL<br>……………. |  |  |  | Cách tập VLTL/vận động trị liệu                          □<br>Cách tập hoạt động trị liệu                                 □<br>Cách tập ngôn ngữ trị liệu                                  □<br>Cách chăm sóc, vui chơi, nuôi dưỡng trẻ             □<br>Cách can thiệp khác                                          □ |\n| KTV NNTL<br>…………… |  |  |  | Cách tập VLTL/vận động trị liệu                          □<br>Cách tập hoạt động trị liệu                                 □<br>Cách tập ngôn ngữ trị liệu                                  □<br>Cách chăm sóc, vui chơi, nuôi dưỡng trẻ             □<br>Cách can thiệp khác                                          □ |\n| Khác |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_PHU_LUC_SO_02-QD-2170-QD-BYT_chunk_0001",
+            "next_chunk_id": "mauphieu_PHU_LUC_SO_02-QD-2170-QD-BYT_chunk_0003",
+            "char_count": 2268,
+            "source_file": "mauphieu/PHU LUC SO 02-QD-2170-QD-BYT.doc",
+            "file_name": "PHU LUC SO 02-QD-2170-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:46:05",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_SO_02-QD-2170-QD-BYT_chunk_0003",
+        "doc_id": "mauphieu_PHU_LUC_SO_02-QD-2170-QD-BYT",
+        "text": "ngôn ngữ trị liệu                                  □<br>Cách chăm sóc, vui chơi, nuôi dưỡng trẻ             □<br>Cách can thiệp khác                                          □ |\n| Khác |  |  |  |  |\n\nThông tin khác………………………………………………………………………………………\n\n| Bác sĩ điều trị<br>(Ký, ghi rõ họ tên) | BN/Đại diện của người bệnh<br>(Ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_PHU_LUC_SO_02-QD-2170-QD-BYT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 357,
+            "source_file": "mauphieu/PHU LUC SO 02-QD-2170-QD-BYT.doc",
+            "file_name": "PHU LUC SO 02-QD-2170-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:46:05",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

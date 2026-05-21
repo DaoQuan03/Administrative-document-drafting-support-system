@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_24A-HSB-2222-QD-BHXH_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_24A-HSB-2222-QD-BHXH",
+        "text": "| TÊN CQ, TỔ CHỨC CHỦ QUẢN<br>BẢO HIỂM XÃ HỘI ...   (1) | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- | --- |\n\nSố: .../PĐC\t\t\t           .. .., ngày...tháng...năm ...\n\nPHIẾU ĐIỀU CHỈNH MỨC HƯỞNG\n\nLoại chế độ: Hưu trí viên chức/lực lượng vũ trang\n\nHọ và tên:...\tSố hồ sơ :...\n\nNgày tháng năm sinh:...\tGiới tính:...\n\nChức danh, nghề nghiệp, cấp bậc, chức vụ khi nghỉ việc:...\n\nĐơn vị công tác hoặc nơi cư trú trước khi nghỉ hưu:...\n\nThời gian đóng BHXH để tính lương hưu ...\n\nTỷ lệ hưởng: ...\n\nMức tiền làm căn cứ tính lương hưu: ...\n\nMức lương hưu tháng: - Theo mức tính: ...\n\n- Bù thêm (nếu có) ...\n\nCộng = ...\n\nHưởng lương hưu kể từ ngày...tháng... năm...\n\nNơi nhận lương hưu:...\n\nPHẦN ĐIỀU CHỈNH\n\n(Theo quy định của chính sách từng thời kỳ)\n\n1. Điều chỉnh theo NĐ 06/CP từ 01/01/1997\t\t\t= ...\n\n2. Điều chỉnh theo NĐ 175/CP từ 01/01/2000\t\t= ...\n\n3. Điều chỉnh theo NĐ 77/CP từ 01/01/2001\t\t\t= ...\n\n4. Điều chỉnh theo NĐ 03/CP từ 01/2003\t\t\t= ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_24A-HSB-2222-QD-BHXH_chunk_0002",
+            "char_count": 972,
+            "source_file": "mauphieu/MAU SO 24A-HSB-2222-QD-BHXH.doc",
+            "file_name": "MAU SO 24A-HSB-2222-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:15:23",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_24A-HSB-2222-QD-BHXH_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_24A-HSB-2222-QD-BHXH",
+        "text": "Điều chỉnh theo NĐ 06/CP từ 01/01/1997\t\t\t= ...\n\n2. Điều chỉnh theo NĐ 175/CP từ 01/01/2000\t\t= ...\n\n3. Điều chỉnh theo NĐ 77/CP từ 01/01/2001\t\t\t= ...\n\n4. Điều chỉnh theo NĐ 03/CP từ 01/2003\t\t\t= ...\n\n5. Điều chỉnh theo NĐ 208/CP từ 01/10/2004\t\t= ...\n\n6. Điều chỉnh theo NĐ 117/CP từ 01/10/2005\t\t= ...\n\n7. Điều chỉnh theo NĐ 118/CP từ 01/10/2005\t\t= ...\n\n8. Điều chỉnh theo NĐ 93/2006/NĐ-CP từ 01/10/2006\t= ...\n\n9. Điều chỉnh theo NĐ 94/2006/NĐ-CP từ 01/10/2006\t= ...\n\n10. Điều chỉnh theo NĐ 184/2007/NĐ-CP từ 01/01/2008\t= ...\n\n11. Điều chỉnh theo NĐ 101/2008/NĐ-CP từ 01/10/2008\t= ...\n\n12. Điều chỉnh theo NĐ 34/2009/NĐ-CP từ 1/5/2009\t= ...\n\n...\n\n- Bù thêm (nếu có) = ...\n\n- Phụ cấp khu vực (nếu có) = ...\n\nCộng =...\n\nGIÁM ĐỐC\n\n(Ký, ghi rõ họ tên, đóng dấu)\n\nGhi chú (1): Ghi tên cơ quan BHXH ban hành Phiếu điều chỉnh",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_24A-HSB-2222-QD-BHXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 815,
+            "source_file": "mauphieu/MAU SO 24A-HSB-2222-QD-BHXH.doc",
+            "file_name": "MAU SO 24A-HSB-2222-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:15:23",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    }
+]

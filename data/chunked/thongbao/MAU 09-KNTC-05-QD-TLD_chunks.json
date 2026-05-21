@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_09-KNTC-05-QD-TLD_chunk_0001",
+        "doc_id": "thongbao_MAU_09-KNTC-05-QD-TLD",
+        "text": "Mẫu 09/KNTC\n\n| TÊN CƠ QUAN CÔNG ĐOÀN <br>CẤP TRÊN<br>TÊN CƠ QUAN BAN HÀNH <br>VĂN BẢN<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số:    /TB-… | Địa danh, ngày     tháng     năm |\n\nTHÔNG BÁO\n\nViệc thụ lý tố cáo\n\nTổng Liên đoàn (LĐLĐ tỉnh), cơ quan, đơn vị...đã nhận được tố cáo của ông (bà) …………... đối với ………..… (tên cơ quan, tổ chức, đơn vị bị tố cáo, họ tên, chức vụ, chức danh, địa chỉ cá nhân bị tố cáo) về việc …...\n\n(Tố cáo do cơ quan, tổ chức, đơn vị cá nhân chuyển đến - nếu có)\n\nTheo quy định của pháp luật, Đoàn Chủ tịch Tổng Liên đoàn (BTV, UBKT), cơ quan, đơn vị ... đã ban hành Quyết định số …/QĐ-… ngày …/…/… thụ lý giải quyết tố cáo.\n\nNội dung tố cáo được thụ lý giải quyết gồm: …...\n\nThời hạn giải quyết tố cáo là …... ngày làm việc.\n\nVậy thông báo để ông (bà) ... biết và thực hiện quyền, nghĩa vụ của người tố cáo theo đúng quy định của pháp luật./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_09-KNTC-05-QD-TLD_chunk_0002",
+            "char_count": 942,
+            "source_file": "thongbao/MAU 09-KNTC-05-QD-TLD.doc",
+            "file_name": "MAU 09-KNTC-05-QD-TLD.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:19:21",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_09-KNTC-05-QD-TLD_chunk_0002",
+        "doc_id": "thongbao_MAU_09-KNTC-05-QD-TLD",
+        "text": "thụ lý giải quyết gồm: …...\n\nThời hạn giải quyết tố cáo là …... ngày làm việc.\n\nVậy thông báo để ông (bà) ... biết và thực hiện quyền, nghĩa vụ của người tố cáo theo đúng quy định của pháp luật./.\n\n| Nơi nhận:<br>- Người tố cáo;<br>- Chủ thể chuyển đơn đến (nếu có);<br>- Lưu: …... | TM. ĐOÀN CHỦ TỊCH (BTV, UBKT),<br>THỦ TRƯỞNG CƠ QUAN, ĐƠN VỊ<br>(ký, ghi rõ họ, tên và đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_09-KNTC-05-QD-TLD_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 396,
+            "source_file": "thongbao/MAU 09-KNTC-05-QD-TLD.doc",
+            "file_name": "MAU 09-KNTC-05-QD-TLD.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:19:21",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

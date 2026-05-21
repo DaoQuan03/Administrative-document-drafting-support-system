@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-162-2017-TT-BQP_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_01-162-2017-TT-BQP",
+        "text": "MẪU PHIẾU THANH TOÁN CHẾ ĐỘ TRỢ CẤP\n(Kèm theo Thông tư số 162/2017/TT-BQP ngày 10 tháng 7 năm 2017 của Bộ Quốc phòng)\n\n| BỘ QUỐC PHÒNG<br>BỘ TƯ LỆNH………………….<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: …………../QĐ-TC | ……………, ngày ….. tháng …. năm ………. |\n\nPHIẾU THANH TOÁN CHẾ ĐỘ TRỢ CẤP\n\nTheo quy định tại Nghị định số 151/2016/NĐ-CP ngày 11 tháng 11 năm 2016 của Chính phủ\n\nHọ và tên: ... Sinh ngày ……./……… / ………….\n\nCấp bậc: ………………………………Chức vụ: ...\n\nĐơn vị: ...\n\nĐược: ……………………….(1) Theo Quyết định số ...\n\nCủa: ... (2)\n\nMức bình quân tiền lương tháng đóng BHXH 5 năm cuối là: ...\n\nTiền lương tháng đóng BHXH của tháng liền kề trước thời điểm thôi phục vụ Quân đội: ...\n\n...\n\nCác chế độ được hưởng:\n\n- Trợ cấp nghỉ hưu trước tuổi: ...\n\n- Trợ cấp phục viên một lần: ...\n\n- Trợ cấp tạo việc làm: ...\n\n- Trợ cấp thôi việc: ...\n\n- Trợ cấp một lần khi hy sinh, từ trần: ...\n\n- Trợ cấp một lần thời gian tăng thêm do quy đổi: ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_01-162-2017-TT-BQP_chunk_0002",
+            "char_count": 1000,
+            "source_file": "mauphieu/MAU SO 01-162-2017-TT-BQP.doc",
+            "file_name": "MAU SO 01-162-2017-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:30:46",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-162-2017-TT-BQP_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_01-162-2017-TT-BQP",
+        "text": "tuổi: ...\n\n- Trợ cấp phục viên một lần: ...\n\n- Trợ cấp tạo việc làm: ...\n\n- Trợ cấp thôi việc: ...\n\n- Trợ cấp một lần khi hy sinh, từ trần: ...\n\n- Trợ cấp một lần thời gian tăng thêm do quy đổi: ...\n\nCộng: ...\n\nBằng chữ: ...\n\n| CƠ QUAN CÁN BỘ<br>(QUÂN LỰC) | CƠ QUAN CHÍNH SÁCH | THỦ TRƯỞNG ĐƠN VỊ |\n| --- | --- | --- |\n| CƠ QUAN TÀI CHÍNH |  | NGƯỜI NHẬN TIỀN |\n\nGhi chú:\n\n(1) Các chế độ trợ cấp được hưởng khi thôi phục vụ trong Quân đội; khi hy sinh, từ trần.\n\n(2) Quyết định của cấp có thẩm quyền.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-162-2017-TT-BQP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 501,
+            "source_file": "mauphieu/MAU SO 01-162-2017-TT-BQP.doc",
+            "file_name": "MAU SO 01-162-2017-TT-BQP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:30:46",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

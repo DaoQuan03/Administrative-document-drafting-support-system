@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_IXB-25-2022-TT-NHNN_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_IXB-25-2022-TT-NHNN",
+        "text": "PHỤ LỤC IXB\n\nMẫu PHIẾU NHẬP KHO\n\nNGÂN HÀNG NHÀ NƯỚC VIỆT NAM\n\nĐơn vị……………………………………\n\nSố: ………………….\n\nPHIẾU NHẬP KHO\n\n(kiêm chứng từ ghi sổ kế toán)\n\n..., ngày … tháng … năm …\n\nNhập………………………… tại Kho tiền……………….………từ..……………………………\n\n| theo……..…………… ngày …/…/… của……………và <br>Biên bản giao nhận số ……………. ngày …..………….. | Số tài khoản Nợ………………<br>Số tài khoản Có………………. |\n| --- | --- |\n\n- Người giao:………………………………….. Đơn vị…………………………………………..\n\nTheo Giấy ủy quyền vận chuyển số…………… ngày …/…/… của………………………...\n\n- Người nhận: ………………………………. Chức vụ…………………………...\n\nTài sản nhập kho bao gồm:\n\n| TT | LOẠI | THÀNH TIỀN | GHI CHÚ |\n| --- | --- | --- | --- |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  | Tổng cộng: |  |  |\n\nẤn định số tiền của PHIẾU NHẬP KHO này là. .…………………….………………………….\n\n………………………………………………………………………………………………………..",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_IXB-25-2022-TT-NHNN_chunk_0002",
+            "char_count": 829,
+            "source_file": "mauphieu/PHU LUC IXB-25-2022-TT-NHNN.doc",
+            "file_name": "PHU LUC IXB-25-2022-TT-NHNN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:45:01",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_IXB-25-2022-TT-NHNN_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_IXB-25-2022-TT-NHNN",
+        "text": "| --- |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  | Tổng cộng: |  |  |\n\nẤn định số tiền của PHIẾU NHẬP KHO này là. .…………………….………………………….\n\n………………………………………………………………………………………………………..\n\n| Nhập ngày………tháng……..năm…….. | Nhập ngày………tháng……..năm…….. | Nhập ngày………tháng……..năm…….. | Nhập ngày………tháng……..năm…….. | Nhập ngày………tháng……..năm…….. |\n| --- | --- | --- | --- | --- |\n| Người giao(4)<br>(Ký, ghi rõ họ tên) | Người nhận(4)<br>(Ký, ghi rõ họ tên) | Kế toán(1)<br>(Ký, ghi rõ họ tên) | TP. Kế toán(2)<br>(Ký, ghi rõ họ tên) | Giám đốc(3)<br>(Ký, ghi rõ họ tên) |\n\nGhi chú: Quy trình luân chuyển chứng từ và ký trên mẫu phiếu này thực hiện theo thứ tự (1), (2), (3), (4).",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_IXB-25-2022-TT-NHNN_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 687,
+            "source_file": "mauphieu/PHU LUC IXB-25-2022-TT-NHNN.doc",
+            "file_name": "PHU LUC IXB-25-2022-TT-NHNN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:45:01",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_09-XLD-QD-3668-QD-BHXH_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_09-XLD-QD-3668-QD-BHXH",
+        "text": "Mẫu số: 09/XLĐ\n\n| ………………………………..(1)<br>…………………………….(2)<br><br>Số:                /HD-BHXH | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br><br>……, ngày … tháng … năm …… |\n| --- | --- |\n\nPHIẾU HƯỚNG DẪN\n\n(Đơn có nhiều nội dung khác nhau)\n\nKính gửi: ……………………… (3)\n\nĐịa chỉ: ……………………………………………….\n\nNgày …/…./…, …...….(2) nhận được đơn ghi ngày ...tháng...năm... của ………………. (3), địa chỉ:...\n\nSau khi xem xét nội dung đơn và thông tin, tài liệu kèm theo (nếu có), căn cứ quy định của pháp luật, đơn của Ông (Bà) thuộc thẩm quyền giải quyết của các cơ quan sau đây:\n\n- Nội dung ………… (4) thuộc thẩm quyền giải quyết của ... (5)\n\n- Nội dung ……….… (6) thuộc thẩm quyền giải quyết của ... (7)\n\n- ... (8)\n\nVì vậy, đề nghị Ông (Bà) viết tách các nội dung đơn như đã hướng dẫn gửi đến cơ quan có thẩm quyền để được giải quyết theo quy định của pháp luật./.\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: VT, ….(10). | ...(9)<br>(Chữ ký, dấu)<br><br>Họ và tên |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_09-XLD-QD-3668-QD-BHXH_chunk_0002",
+            "char_count": 973,
+            "source_file": "mauphieu/MAU SO 09-XLD-QD-3668-QD-BHXH.doc",
+            "file_name": "MAU SO 09-XLD-QD-3668-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:06:09",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_09-XLD-QD-3668-QD-BHXH_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_09-XLD-QD-3668-QD-BHXH",
+        "text": "hướng dẫn gửi đến cơ quan có thẩm quyền để được giải quyết theo quy định của pháp luật./.\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: VT, ….(10). | ...(9)<br>(Chữ ký, dấu)<br><br>Họ và tên |\n| --- | --- |\n\n(1) Cơ quan cấp trên của đơn vị ban hành văn bản (nếu có).\n\n(2) Tên đơn vị ban hành văn bản.\n\n(3) Họ tên người khiếu nại, tố cáo, kiến nghị, phản ánh; tên cơ quan, tổ chức khiếu nại, kiến nghị, phản ánh.\n\n(4), (6) Tóm tắt nội dung khiếu nại, tố cáo, kiến nghị, phản ánh.\n\n(5), (7) Cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh.\n\n(8) Các nội dung khác (nếu có).\n\n(9) Quyền hạn, chức vụ của người ký văn bản.\n\n(10) Chữ viết tắt tên đơn vị soạn thảo văn bản.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_09-XLD-QD-3668-QD-BHXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 699,
+            "source_file": "mauphieu/MAU SO 09-XLD-QD-3668-QD-BHXH.doc",
+            "file_name": "MAU SO 09-XLD-QD-3668-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:06:09",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    }
+]

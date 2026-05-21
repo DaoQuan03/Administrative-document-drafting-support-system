@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_VII-33-2023-TT-BTC_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_VII-33-2023-TT-BTC",
+        "text": "Phụ lục VII\n\n(Ban hành kèm theo Thông tư số 33/2023/TT-BTC ngày 31 tháng 5 năm 2023 của Bộ trưởng Bộ Tài chính)\n\n| CỤC HẢI QUAN ……………..<br>CHI CỤC HẢI QUAN ………..<br>------- | Số phiếu: …………………..<br>Ngày ... tháng ... năm ….. |\n| --- | --- |\n\nPHIẾU THEO DÕI TRỪ LÙI GIẤY CHỨNG NHẬN XUẤT XỨ HÀNG HÓA\n\n1. C/O mẫu …………………………...; số tham chiếu: ……………..………; ngày cấp: …./…./…..; cơ quan cấp: ……………..……………\n\n2. Tên tổ chức, cá nhân nhập khẩu: ……………………….; Mã số thuế: …………………..\n\n……………………………………………………………………………….……………………..\n\n| STT | Số, ký hiệu, ngày tờ khai hải quan nhập khẩu | Tên hàng | Mã số HS | ĐVT | Số lượng trên C/O | Số lượng đã nhập khẩu | Số lượng hàng hóa còn lại | Công chức HQ theo dõi trừ lùi xác nhận<br>(ký, đóng dấu công chức) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) |  | (6) | (7) | (8) |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_VII-33-2023-TT-BTC_chunk_0002",
+            "char_count": 932,
+            "source_file": "mauphieu/PHU LUC VII-33-2023-TT-BTC.doc",
+            "file_name": "PHU LUC VII-33-2023-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:49:56",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_VII-33-2023-TT-BTC_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_VII-33-2023-TT-BTC",
+        "text": "|\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) | (5) |  | (6) | (7) | (8) |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n\n|  | LÃNH ĐẠO CHI CỤC HẢI QUAN<br>(Ký tên; đóng dấu) |\n| --- | --- |\n\nNguồn: Thông tư 33/2023/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_VII-33-2023-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 299,
+            "source_file": "mauphieu/PHU LUC VII-33-2023-TT-BTC.doc",
+            "file_name": "PHU LUC VII-33-2023-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:49:56",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

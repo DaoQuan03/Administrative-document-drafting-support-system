@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "thongbao_BIEU_MAU_SO_04-PHU_LUC_SO_01-TT-16-2018-TT-BKHCN_chunk_0001",
+        "doc_id": "thongbao_BIEU_MAU_SO_04-PHU_LUC_SO_01-TT-16-2018-TT-BKHCN",
+        "text": "Biểu mẫu 4\n\nThông báo về việc sửa đổi thông tin\n\n|  | G/TBT/N/XXX/#/Rev.# |\n| --- | --- |\n| (00-0000) | Date<br>Page: |\n\nCommittee on Technical Barriers to Trade\n\nNOTIFICATION10\n\nRevision\n\nThe following notification is being circulated in accordance with Article 10.6.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_BIEU_MAU_SO_04-PHU_LUC_SO_01-TT-16-2018-TT-BKHCN_chunk_0002",
+            "char_count": 268,
+            "source_file": "thongbao/BIEU MAU SO 04-PHU LUC SO 01-TT-16-2018-TT-BKHCN.doc",
+            "file_name": "BIEU MAU SO 04-PHU LUC SO 01-TT-16-2018-TT-BKHCN.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:10:59",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_BIEU_MAU_SO_04-PHU_LUC_SO_01-TT-16-2018-TT-BKHCN_chunk_0002",
+        "doc_id": "thongbao_BIEU_MAU_SO_04-PHU_LUC_SO_01-TT-16-2018-TT-BKHCN",
+        "text": "|\n| --- | --- |\n| (00-0000) | Date<br>Page: |\n\nCommittee on Technical Barriers to Trade\n\nNOTIFICATION10\n\nRevision\n\nThe following notification is being circulated in accordance with Article 10.6.\n\n| 1. | Notifying Member:<br>If applicable, name of local government involved (Articles 3.2 and 7.2): |\n| --- | --- |\n| 2. | Agency responsible:<br>Name and address (including telephone and fax numbers, e-mail and web-site addresses, if available) of agency or authority designated to handle comments regarding the notification shall be indicated if different from above: |\n| 3. | Notified under Article 2.9.2 [  ], 2.10.1 [  ], 5.6.2 [  ], 5.7.1 [  ], other: |\n| 4. | Products covered (HS or CCCN where applicable, otherwise national tariff heading.<br>ICS numbers may be provided in addition, where applicable): |\n| 5. | Title, number of pages and language(s) of the notified document: |\n| 6. | Description of content: |\n| 7. | Objective and rationale, including the nature of urgent problems where applicable: |\n| 8. | Relevant documents: |\n| 9. | Proposed date of adoption:<br>Proposed date of entry into force: |\n| 10. | Final date for comments: |\n| 11. | Texts available from: National enquiry point [  ] or address, telephone and fax numbers, e-mail and web-site addresses, if available of the other body: |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "thongbao_BIEU_MAU_SO_04-PHU_LUC_SO_01-TT-16-2018-TT-BKHCN_chunk_0001",
+            "next_chunk_id": "thongbao_BIEU_MAU_SO_04-PHU_LUC_SO_01-TT-16-2018-TT-BKHCN_chunk_0003",
+            "char_count": 1309,
+            "source_file": "thongbao/BIEU MAU SO 04-PHU LUC SO 01-TT-16-2018-TT-BKHCN.doc",
+            "file_name": "BIEU MAU SO 04-PHU LUC SO 01-TT-16-2018-TT-BKHCN.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:10:59",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_BIEU_MAU_SO_04-PHU_LUC_SO_01-TT-16-2018-TT-BKHCN_chunk_0003",
+        "doc_id": "thongbao_BIEU_MAU_SO_04-PHU_LUC_SO_01-TT-16-2018-TT-BKHCN",
+        "text": "|\n| 10. | Final date for comments: |\n| 11. | Texts available from: National enquiry point [  ] or address, telephone and fax numbers, e-mail and web-site addresses, if available of the other body: |\n\nHướng dẫn thực hiện Biểu mẫu 4\n\nSử dụng Mẫu thông báo sửa đổi khi biện pháp đã thông báo trước đó được soạn thảo lại phần lớn nội dung trước khi thông qua hoặc có hiệu lực. Thông báo sửa đổi sẽ thay thế hoàn toàn Thông báo ban đầu. Trong trường hợp này, cần cho phép một thời hạn góp ý hoàn toàn mới.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "thongbao_BIEU_MAU_SO_04-PHU_LUC_SO_01-TT-16-2018-TT-BKHCN_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 500,
+            "source_file": "thongbao/BIEU MAU SO 04-PHU LUC SO 01-TT-16-2018-TT-BKHCN.doc",
+            "file_name": "BIEU MAU SO 04-PHU LUC SO 01-TT-16-2018-TT-BKHCN.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:10:59",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

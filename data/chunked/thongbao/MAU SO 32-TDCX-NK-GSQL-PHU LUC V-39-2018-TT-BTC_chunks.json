@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_32-TDCX-NK-GSQL-PHU_LUC_V-39-2018-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_32-TDCX-NK-GSQL-PHU_LUC_V-39-2018-TT-BTC",
+        "text": "Mẫu số 32/TĐCX-NK/GSQL\n\n| TÊN DOANH NGHIỆP | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT <br>Độc lập - Tự do - Hạnh phúc<br><br>..., ngày... tháng... năm... |\n| --- | --- |\n\nTHÔNG BÁO\n\nThay đổi cảng xếp hàng, cửa khẩu xuất\n\nKính gửi: Hải quan...\n\n1. Doanh nghiệp đề nghị thay đổi cảng xếp hàng, cửa khẩu xuất:\n\n- Tên doanh nghiệp:... Mã số thuế:\n\n- Trụ sở chính tại:\n\n- Số điện thoại:... Số fax:\n\n2. Đề nghị cơ quan hải quan giải quyết cho doanh nghiệp thay đổi thông tin liên quan đến cảng xếp hàng, cửa khẩu xuất đối với tờ khai xuất khẩu đã được đưa vào khu vực giám sát hải quan như sau:\n\na) Số tờ khai hải quan:...\n\nb) Số Biên bản bàn giao:...\n\nc) Thông tin thay đổi:\n\n| STT | Tiêu chí | Nội dung ban đầu | Nội dung thay đổi |\n| --- | --- | --- | --- |\n| 1 | Địa điểm giám sát hải quan |  |  |\n| 2 | Cửa khẩu xuất |  |  |\n| 3 | Cảng xếp hàng |  |  |\n| 4 | Tên phương tiện vận chuyển |  |  |\n\n3. Nội dung cam đoan:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_32-TDCX-NK-GSQL-PHU_LUC_V-39-2018-TT-BTC_chunk_0002",
+            "char_count": 905,
+            "source_file": "thongbao/MAU SO 32-TDCX-NK-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+            "file_name": "MAU SO 32-TDCX-NK-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:10:44",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_32-TDCX-NK-GSQL-PHU_LUC_V-39-2018-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_32-TDCX-NK-GSQL-PHU_LUC_V-39-2018-TT-BTC",
+        "text": "thay đổi |\n| --- | --- | --- | --- |\n| 1 | Địa điểm giám sát hải quan |  |  |\n| 2 | Cửa khẩu xuất |  |  |\n| 3 | Cảng xếp hàng |  |  |\n| 4 | Tên phương tiện vận chuyển |  |  |\n\n3. Nội dung cam đoan:\n\nChúng tôi cam kết chịu trách nhiệm trước pháp luật về các nội dung khai báo và cam kết trong vòng 05 ngày làm việc kể từ ngày nộp văn bản thông báo này sẽ thực hiện khai bổ sung thông tin tờ khai hải quan theo đúng quy định./.\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: VT, tên DN viết tắt. | GIÁM ĐỐC DOANH NGHIỆP<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_32-TDCX-NK-GSQL-PHU_LUC_V-39-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 557,
+            "source_file": "thongbao/MAU SO 32-TDCX-NK-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+            "file_name": "MAU SO 32-TDCX-NK-GSQL-PHU LUC V-39-2018-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:10:44",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

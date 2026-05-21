@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-QD-1500-QD-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_01-QD-1500-QD-BTC",
+        "text": "MẪU SỐ 01\n\n(Kèm theo Quyết định số 1500/QĐ-BTC ngày 01 tháng 10 năm 2020 của Bộ Tài chính)\n\n| ………… (1)<br>………… (2)<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>---------------- |\n| --- | --- |\n\nPHIẾU XÁC ĐỊNH ĐỘ MẬT CỦA TÀI LIỆU CHỨA BÍ MẬT NHÀ NƯỚC\n\n1. Tài liệu chứa bí mật nhà nước: (số, ký hiệu, thời gian ban hành của tài liệu chứa bí mật nhà nước phát hành đi)\n\n2. Người đề xuất độ mật của bí mật nhà nước:\n\n3. Độ mật (3): TUYỆT MẬT □ TỐI MẬT □ MẬT □\n\n4. Căn cứ xác định (4):\n\n|  | LÃNH ĐẠO CƠ QUAN, TỔ CHỨC<br>XÁC ĐỊNH BÍ MẬT NHÀ NƯỚC<br><br><br><br><br>(ký, ghi rõ họ tên, chức vụ) |\n| --- | --- |\n\nGhi chú: Mẫu này được áp dụng đối với tài liệu chứa bí mật nhà nước có đóng dấu độ mật.\n\n(1) Tên cơ quan chủ quản.\n\n(2) Tên cơ quan, tổ chức xác định bí mật nhà nước.\n\n(3) Ghi theo độ mật của tài liệu chứa bí mật nhà nước.\n\n(4) Ghi rõ việc xác định độ mật căn cứ vào quy định tại điều, khoản, điểm nào của danh mục bí mật nhà nước cụ thể.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 981,
+            "source_file": "mauphieu/MAU SO 01-QD-1500-QD-BTC.doc",
+            "file_name": "MAU SO 01-QD-1500-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:37:08",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

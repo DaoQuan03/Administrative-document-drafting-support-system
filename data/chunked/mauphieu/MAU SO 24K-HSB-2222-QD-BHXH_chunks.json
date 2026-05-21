@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_24K-HSB-2222-QD-BHXH_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_24K-HSB-2222-QD-BHXH",
+        "text": "TÊN CQ, TỔ CHỨC CHỦ QUẢN                                CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nBẢO HIỂM XÃ HỘI...       (1)                                                    Độc lập - Tự do - Hạnh phúc\n\nSố: .../PĐC\t\t\t                          .. .., ngày...tháng...năm ...\n\nPHIẾU ĐIỀU CHỈNH MỨC HƯỞNG\n\nLoại chế độ: Trợ cấp theo QĐ91\n\nHọ và tên:...\tSố hồ sơ :...\n\nNgày tháng năm sinh:...\tGiới tính:...\n\nChức danh, nghề nghiệp, cấp bậc, chức vụ khi nghỉ việc:...\n\nĐơn vị công tác:...\n\nThời gian công tác thực tế: ...\n\nHưởng trợ cấp kể từ ngày...tháng...năm...\n\nNơi nhận trợ cấp: ...\n\nPHẦN ĐIỀU CHỈNH\n\n(Theo quy định của chính sách từng thời kỳ)\n\n1. Điều chỉnh theo NĐ 03/CP từ 01/2003\t\t\t= ...\n\n2. Điều chỉnh theo NĐ 208/CP từ 01/10/2004\t\t= ...\n\n3. Điều chỉnh theo NĐ 117/CP từ 01/10/2005\t\t= ...\n\n4. Điều chỉnh theo NĐ 118/CP từ 01/10/2005\t\t= ...\n\n5. Điều chỉnh theo NĐ 93/2006/NĐ-CP từ 01/10/2006\t= ...\n\n6. Điều chỉnh theo NĐ 94/2006/NĐ-CP từ 01/10/2006\t= ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_24K-HSB-2222-QD-BHXH_chunk_0002",
+            "char_count": 955,
+            "source_file": "mauphieu/MAU SO 24K-HSB-2222-QD-BHXH.doc",
+            "file_name": "MAU SO 24K-HSB-2222-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:15:45",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_24K-HSB-2222-QD-BHXH_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_24K-HSB-2222-QD-BHXH",
+        "text": "NĐ 117/CP từ 01/10/2005\t\t= ...\n\n4. Điều chỉnh theo NĐ 118/CP từ 01/10/2005\t\t= ...\n\n5. Điều chỉnh theo NĐ 93/2006/NĐ-CP từ 01/10/2006\t= ...\n\n6. Điều chỉnh theo NĐ 94/2006/NĐ-CP từ 01/10/2006\t= ...\n\n7. Điều chỉnh theo NĐ 184/2007/NĐ-CP từ 01/01/2008\t= ...\n\n8. Điều chỉnh theo NĐ 101/2008/NĐ-CP từ 01/10/2008\t= ...\n\n9. Điều chỉnh theo NĐ 34/2009/NĐ-CP từ 1/5/2009\t= ...\n\n...\n\n- Bù thêm (nếu có) = ...\n\n- Khác (nếu có) = ...\n\nCộng =...\n\nGIÁM ĐỐC\n\n(Ký, ghi rõ họ tên, đóng dấu)\n\nGhi chú (1): Ghi tên cơ quan BHXH ban hành Phiếu điều chỉnh",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_24K-HSB-2222-QD-BHXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 533,
+            "source_file": "mauphieu/MAU SO 24K-HSB-2222-QD-BHXH.doc",
+            "file_name": "MAU SO 24K-HSB-2222-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:15:45",
+            "chunked_at": "2026-05-21T21:52:09"
+        }
+    }
+]

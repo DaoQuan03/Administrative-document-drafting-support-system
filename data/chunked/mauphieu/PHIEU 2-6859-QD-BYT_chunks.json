@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "mauphieu_PHIEU_2-6859-QD-BYT_chunk_0001",
+        "doc_id": "mauphieu_PHIEU_2-6859-QD-BYT",
+        "text": "| BỘ Y TẾ<br>MẪU SỐ 2 |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\nPHIẾU KHẢO SÁT Ý KIẾN NGƯỜI BỆNH NGOẠI TRÚ\n\nNhằm mục tiêu nâng cao chất lượng khám, chữa bệnh, đáp ứng sự hài lòng người bệnh, Bộ Y tế và bệnh viện tổ chức khảo sát để tìm hiểu nguyện vọng người bệnh. Các ý kiến quý báu này sẽ giúp ngành y tế khắc phục khó khăn, từng bước cải tiến chất lượng để phục vụ người dân tốt hơn. Bộ Y tế bảo đảm giữ bí mật thông tin và không ảnh hưởng đến việc điều trị. Xin trân trọng cảm ơn!\n\n1. Tên bệnh viện: …………………………………………. 2. Ngày điền phiếu………………….\n\nTHÔNG TIN NGƯỜI BỆNH\n\n| A1. | Giới tính: 1. Nam 2. Nữ | A2. Tuổi ………… |\n| --- | --- | --- |\n| A3. | Ước tính khoảng cách từ nơi sinh sống đến bệnh viện: ………..km | Ước tính khoảng cách từ nơi sinh sống đến bệnh viện: ………..km |\n| A5. | Ông/Bà có sử dụng thẻ BHYT cho lần khám bệnh này không? 1. Có 2. Không | Ông/Bà có sử dụng thẻ BHYT cho lần khám bệnh này không? 1. Có 2. Không |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHIEU_2-6859-QD-BYT_chunk_0002",
+            "char_count": 997,
+            "source_file": "mauphieu/PHIEU 2-6859-QD-BYT.doc",
+            "file_name": "PHIEU 2-6859-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:27:35",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHIEU_2-6859-QD-BYT_chunk_0002",
+        "doc_id": "mauphieu_PHIEU_2-6859-QD-BYT",
+        "text": "từ nơi sinh sống đến bệnh viện: ………..km |\n| A5. | Ông/Bà có sử dụng thẻ BHYT cho lần khám bệnh này không? 1. Có 2. Không | Ông/Bà có sử dụng thẻ BHYT cho lần khám bệnh này không? 1. Có 2. Không |\n\nĐÁNH GIÁ VIỆC SỬ DỤNG DỊCH VỤ Y TẾ\n\nÔng/Bà đánh dấu gạch chéo vào một số từ 1 đến 5, tương ứng với mức độ hài lòng hoặc nhận xét từ rất kém đến rất tốt cho từng câu hỏi dưới đây:\n\n| là:<br>Rất không hài lòng <br>hoặc: Rất kém | là: <br>Không hài lòng <br>hoặc: Kém | là:<br>Bình thường <br>hoặc: Trung bình | là:<br>Hài lòng <br>hoặc: Tốt | là:<br>Rất hài lòng <br>hoặc: Rất tốt |\n| --- | --- | --- | --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_PHIEU_2-6859-QD-BYT_chunk_0001",
+            "next_chunk_id": "mauphieu_PHIEU_2-6859-QD-BYT_chunk_0003",
+            "char_count": 609,
+            "source_file": "mauphieu/PHIEU 2-6859-QD-BYT.doc",
+            "file_name": "PHIEU 2-6859-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:27:35",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHIEU_2-6859-QD-BYT_chunk_0003",
+        "doc_id": "mauphieu_PHIEU_2-6859-QD-BYT",
+        "text": "Rất kém | là: <br>Không hài lòng <br>hoặc: Kém | là:<br>Bình thường <br>hoặc: Trung bình | là:<br>Hài lòng <br>hoặc: Tốt | là:<br>Rất hài lòng <br>hoặc: Rất tốt |\n| --- | --- | --- | --- | --- |\n\n| A. Khả năng tiếp cận | A. Khả năng tiếp cận | A. Khả năng tiếp cận | A. Khả năng tiếp cận |\n| --- | --- | --- | --- |\n| A1. | Các biển báo, chỉ dẫn đường đến bệnh viện rõ ràng, dễ nhìn, dễ tìm. | Các biển báo, chỉ dẫn đường đến bệnh viện rõ ràng, dễ nhìn, dễ tìm. |  |\n| A2. | Các sơ đồ, biển báo chỉ dẫn đường đến các khoa, phòng trong bệnh viện rõ ràng, dễ hiểu, dễ tìm. | Các sơ đồ, biển báo chỉ dẫn đường đến các khoa, phòng trong bệnh viện rõ ràng, dễ hiểu, dễ tìm. |  |\n| A3. | Các khối nhà, cầu thang được đánh số rõ ràng, dễ tìm. | Các khối nhà, cầu thang được đánh số rõ ràng, dễ tìm. |  |\n| A4. | Các lối đi trong bệnh viện, hành lang bằng phẳng, dễ đi. | Các lối đi trong bệnh viện, hành lang bằng phẳng, dễ đi. |  |\n| A5. | Có thể tìm hiểu các thông tin và đăng ký khám qua điện thoại, trang tin điện tử của bệnh viện (website) thuận tiện. | Có thể tìm hiểu các thông tin và đăng ký khám qua điện thoại, trang tin điện tử của bệnh viện (website) thuận tiện. |  |\n| B. Sự minh bạch thông tin và thủ tục khám bệnh, điều trị | B. Sự minh bạch thông tin và thủ tục khám bệnh, điều trị | B. Sự minh bạch thông tin và thủ tục khám bệnh, điều trị | B. Sự minh bạch thông tin và thủ tục khám bệnh, điều trị |\n| B1. | Quy trình khám bệnh được niêm yết rõ ràng, công khai, dễ hiểu. | Quy trình khám bệnh được niêm yết rõ ràng, công khai, dễ hiểu. |  |\n| B2. | Các quy trình, thủ tục khám bệnh được cải cách đơn giản, thuận tiện. | Các quy trình, thủ tục khám bệnh được cải cách đơn giản, thuận tiện. |  |\n| B3. | Giá dịch vụ y tế niêm yết rõ ràng, công khai. | Giá dịch vụ y tế niêm yết rõ ràng, công khai. |  |\n| B4. | Nhân viên y tế tiếp đón, hướng dẫn người bệnh làm các thủ tục niềm nở, tận tình. | Nhân viên y tế tiếp đón, hướng dẫn người bệnh làm các thủ tục niềm nở, tận tình. |  |\n| B5. | Được xếp hàng theo thứ tự trước sau khi làm các thủ tục đăng ký, nộp tiền, khám bệnh, xét nghiệm, chiếu chụp. | Được xếp hàng theo thứ tự trước sau khi làm các thủ tục đăng ký, nộp tiền, khám bệnh, xét nghiệm, chiếu chụp. |  |\n| B6. | Đánh giá thời gian chờ đợi làm thủ tục đăng ký khám. | Đánh giá thời gian chờ đợi làm thủ tục đăng ký khám. |  |\n| B7. | Đánh giá thời gian chờ tới lượt bác sỹ khám. | Đánh giá thời gian chờ tới lượt bác sỹ khám. |  |\n| B8. | Đánh giá thời gian được bác sỹ khám và tư vấn. | Đánh giá thời gian được bác sỹ khám và tư vấn. |  |\n| B9. | Đánh giá thời gian chờ làm xét nghiệm, chiếu chụp. | Đánh giá thời gian chờ làm xét nghiệm, chiếu chụp. |  |\n| B10. | Đánh giá thời gian chờ nhận kết quả xét nghiệm, chiếu chụp. | Đánh giá thời gian chờ nhận kết quả xét nghiệm, chiếu chụp. |  |\n| C. Cơ sở vật chất và phương tiện phục vụ người bệnh | C. Cơ sở vật chất và phương tiện phục vụ người bệnh | C. Cơ sở vật chất và phương tiện phục vụ người bệnh | C. Cơ sở vật chất và phương tiện phục vụ người bệnh |\n| C1. | Có phòng/sảnh chờ khám sạch sẽ, thoáng mát vào mùa hè; kín gió và ấm áp vào mùa đông. | Có phòng/sảnh chờ khám sạch sẽ, thoáng mát vào mùa hè; kín gió và ấm áp vào mùa đông. |  |\n| C2. | Phòng chờ có đủ ghế ngồi cho người bệnh và sử dụng tốt. | Phòng chờ có đủ ghế ngồi cho người bệnh và sử dụng tốt. |  |\n| C3. | Phòng chờ có quạt (điều hòa) đầy đủ, hoạt động thường xuyên. | Phòng chờ có quạt (điều hòa) đầy đủ, hoạt động thường xuyên. |  |\n| C4. | Phòng chờ có các phương tiện giúp người bệnh có tâm lý thoải mái như ti-vi, tranh ảnh, tờ rơi, nước uống... | Phòng chờ có các phương tiện giúp người bệnh có tâm lý thoải mái như ti-vi, tranh ảnh, tờ rơi, nước uống... |  |\n| C5. | Được bảo đảm sự riêng tư khi khám bệnh, chiếu chụp, làm thủ thuật. | Được bảo đảm sự riêng tư khi khám bệnh, chiếu chụp, làm thủ thuật. |  |\n| C6. | Nhà vệ sinh thuận tiện, sử dụng tốt, sạch sẽ. | Nhà vệ sinh thuận tiện, sử dụng tốt, sạch sẽ. |  |\n| C7. | Môi trường trong khuôn viên bệnh viện xanh, sạch, đẹp. | Môi trường trong khuôn viên bệnh viện xanh, sạch, đẹp. |  |\n| C8. | Khu khám bệnh bảo đảm an ninh, trật tự, phòng ngừa trộm cắp cho người dân. | Khu khám bệnh bảo đảm an ninh, trật tự, phòng ngừa trộm cắp cho người dân. |  |\n| D. Thái độ ứng xử, năng lực chuyên môn của nhân viên y tế | D. Thái độ ứng xử, năng lực chuyên môn của nhân viên y tế | D. Thái độ ứng xử, năng lực chuyên môn của nhân viên y tế | D. Thái độ ứng xử, năng lực chuyên môn của nhân viên y tế |\n| D1. | Nhân viên y tế (bác sỹ, điều dưỡng) có lời nói, thái độ, giao tiếp đúng mực. | Nhân viên y tế (bác sỹ, điều dưỡng) có lời nói, thái độ, giao tiếp đúng mực. |  |\n| D2. | Nhân viên phục vụ (hộ lý, bảo vệ, kế toán…) có lời nói, thái độ, giao tiếp đúng mực. | Nhân viên phục vụ (hộ lý, bảo vệ, kế toán…) có lời nói, thái độ, giao tiếp đúng mực. |  |\n| D3. | Được nhân viên y tế tôn trọng, đối xử công bằng, quan tâm, giúp đỡ. | Được nhân viên y tế tôn trọng, đối xử công bằng, quan tâm, giúp đỡ. |  |\n| D4. | Năng lực chuyên môn của bác sỹ, điều dưỡng đáp ứng mong đợi. | Năng lực chuyên môn của bác sỹ, điều dưỡng đáp ứng mong đợi. |  |\n| E. Kết quả cung cấp dịch vụ | E. Kết quả cung cấp dịch vụ | E. Kết quả cung cấp dịch vụ | E. Kết quả cung cấp dịch vụ |\n| E1. | Kết quả khám bệnh đã đáp ứng được nguyện vọng của Ông/Bà. | Kết quả khám bệnh đã đáp ứng được nguyện vọng của Ông/Bà. |  |\n| E2. | Các hóa đơn, phiếu thu, đơn thuốc và kết quả khám bệnh được cung cấp đầy đủ, rõ ràng, minh bạch và được giải thích nếu có thắc mắc. | Các hóa đơn, phiếu thu, đơn thuốc và kết quả khám bệnh được cung cấp đầy đủ, rõ ràng, minh bạch và được giải thích nếu có thắc mắc. |  |\n| E3. | Đánh giá mức độ tin tưởng về chất lượng dịch vụ y tế. | Đánh giá mức độ tin tưởng về chất lượng dịch vụ y tế. |  |\n| E4. | Đánh giá mức độ hài lòng về giá cả dịch vụ y tế. | Đánh giá mức độ hài lòng về giá cả dịch vụ y tế. |  |\n| F | Đánh giá chung bệnh viện đã đáp ứng được bao nhiêu % so với mong đợi trước khi tới khám bệnh?<br>(điền số từ 0% đến 100% hoặc có thể điền trên 100% nếu bệnh viện điều trị tốt, vượt quá mong đợi của Ông/Bà) | Đánh giá chung bệnh viện đã đáp ứng được bao nhiêu % so với mong đợi trước khi tới khám bệnh?<br>(điền số từ 0% đến 100% hoặc có thể điền trên 100% nếu bệnh viện điều trị tốt, vượt quá mong đợi của Ông/Bà) | …………..% |\n| G | Nếu có nhu cầu khám bệnh, Ông/Bà có quay trở lại hoặc giới thiệu cho người khác đến không? | 1. Chắc chắn không bao giờ quay lại<br>2. Không muốn quay lại nhưng có ít lựa chọn khác<br>3. Có thể sẽ quay lại<br>4. Chắc chắn sẽ quay lại hoặc giới thiệu cho người khác<br>5. Khác (ghi rõ)……………………………………… | 1. Chắc chắn không bao giờ quay lại<br>2. Không muốn quay lại nhưng có ít lựa chọn khác<br>3. Có thể sẽ quay lại<br>4. Chắc chắn sẽ quay lại hoặc giới thiệu cho người khác<br>5. Khác (ghi rõ)……………………………………… |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_PHIEU_2-6859-QD-BYT_chunk_0002",
+            "next_chunk_id": "mauphieu_PHIEU_2-6859-QD-BYT_chunk_0004",
+            "char_count": 6858,
+            "source_file": "mauphieu/PHIEU 2-6859-QD-BYT.doc",
+            "file_name": "PHIEU 2-6859-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:27:35",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHIEU_2-6859-QD-BYT_chunk_0004",
+        "doc_id": "mauphieu_PHIEU_2-6859-QD-BYT",
+        "text": "không bao giờ quay lại<br>2. Không muốn quay lại nhưng có ít lựa chọn khác<br>3. Có thể sẽ quay lại<br>4. Chắc chắn sẽ quay lại hoặc giới thiệu cho người khác<br>5. Khác (ghi rõ)……………………………………… |\n\nXIN TRÂN TRỌNG CẢM ƠN!",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_PHIEU_2-6859-QD-BYT_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 219,
+            "source_file": "mauphieu/PHIEU 2-6859-QD-BYT.doc",
+            "file_name": "PHIEU 2-6859-QD-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:27:35",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

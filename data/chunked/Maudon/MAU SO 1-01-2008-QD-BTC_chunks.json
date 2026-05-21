@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_1-01-2008-QD-BTC_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_1-01-2008-QD-BTC",
+        "text": "Mẫu số 1.C-VAN\n\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n\n..., ngày... tháng... năm...\n\nĐƠN ĐĂNG KÝ ĐỀ ÁN CUNG CẤP DỊCH VỤ C-VAN\n\nKính gửi: Tổng cục Hải quan\n\n1. Tổ chức chúng tôi là:\n\n- Tên tổ chức:\n\n- Giấy chứng nhận đăng ký kinh doanh của tổ chức hoặc Giấy chứng nhận đầu tư/ Giấy phép đầu tư của tổ chức nước ngoài tại Việt Nam số...ngày... do ...cấp.\n\n2. Mã số thuế:...\n\n3. Địa chỉ trụ sở chính: ...\n\n...\n\nĐiện thoại: ... Fax: ...\n\nEmail: ... Website: ...\n\n4. Người đại diện theo pháp luật của tổ chức:\n\nHọ và tên: (Ghi bằng chữ in hoa) ...Nam/Nữ:...\n\nChức danh:...\n\nSinh ngày: .../.../...Dân tộc: ...Quốc tịch:...\n\nChứng minh nhân dân số: ...\n\nNgày cấp: .../.../...Cơ quan cấp: ...\n\nĐề nghị Tổng cục Hải quan xem xét, chấp nhận đề án cung cấp dịch vụ giá trị gia tăng về giao dịch điện tử trong hoạt động hải quan cho Tổ chức (ghi rõ tên);",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_1-01-2008-QD-BTC_chunk_0002",
+            "char_count": 867,
+            "source_file": "Maudon/MAU SO 1-01-2008-QD-BTC.doc",
+            "file_name": "MAU SO 1-01-2008-QD-BTC.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:34:54",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_1-01-2008-QD-BTC_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_1-01-2008-QD-BTC",
+        "text": "cấp: .../.../...Cơ quan cấp: ...\n\nĐề nghị Tổng cục Hải quan xem xét, chấp nhận đề án cung cấp dịch vụ giá trị gia tăng về giao dịch điện tử trong hoạt động hải quan cho Tổ chức (ghi rõ tên);\n\nChúng tôi cam kết chịu trách nhiệm hoàn toàn trước pháp luật về tính chính xác, trung thực của nội dung hồ sơ đăng ký đề án cung cấp dịch vụ giá trị gia tăng về giao dịch điện tử trong hoạt động hải quan./.\n\n| Kèm theo đơn:<br> - Giấy chứng nhận đăng ký kinh doanh của tổ chức hoặc Giấy chứng nhận đầu tư/ Giấy phép đầu tư của tổ chức nước ngoài tại Việt Nam; <br>- ... | ĐẠI DIỆN THEO PHÁP LUẬT CỦA TỔ CHỨC<br>(Ký và ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_1-01-2008-QD-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 640,
+            "source_file": "Maudon/MAU SO 1-01-2008-QD-BTC.doc",
+            "file_name": "MAU SO 1-01-2008-QD-BTC.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:34:54",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

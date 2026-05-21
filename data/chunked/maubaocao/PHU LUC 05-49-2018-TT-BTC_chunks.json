@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_PHU_LUC_05-49-2018-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_PHU_LUC_05-49-2018-TT-BTC",
+        "text": "Phụ lục 05\n\n(Kèm theo Thông tư số 49/2018/TT-BTC ngày 21 /5/2018 của Bộ Tài chính)\n\nBÁO CÁO PHÂN PHỐI LỢI NHUẬN NĂM ……\nCỦA CỤC ĐĂNG KIỂM VIỆT NAM\n\nĐơn vị tính: triệu đồng",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_PHU_LUC_05-49-2018-TT-BTC_chunk_0002",
+            "char_count": 170,
+            "source_file": "maubaocao/PHU LUC 05-49-2018-TT-BTC.doc",
+            "file_name": "PHU LUC 05-49-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:46:17",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_PHU_LUC_05-49-2018-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_PHU_LUC_05-49-2018-TT-BTC",
+        "text": "lục 05\n\n(Kèm theo Thông tư số 49/2018/TT-BTC ngày 21 /5/2018 của Bộ Tài chính)\n\nBÁO CÁO PHÂN PHỐI LỢI NHUẬN NĂM ……\nCỦA CỤC ĐĂNG KIỂM VIỆT NAM\n\nĐơn vị tính: triệu đồng\n\n| STT | Chỉ tiêu | Tổng số | Tổng số |\n| --- | --- | --- | --- |\n| STT | Chỉ tiêu | Năm trước | Năm nay |\n| I | Các chỉ tiêu |  |  |\n| 1 | Tổng lợi nhuận sau thuế |  |  |\n| 2 | Vốn chủ sở hữu* (gồm: Vốn đầu tư của chủ sở hữu, mã số 411 + Quỹ đầu tư phát triển, mã số 417 + Nguồn vốn đầu tư XDCB, mã số 422) |  |  |\n| 3 | Chỉ tiêu tỷ suất lợi nhuận sau thuế trên vốn chủ sở hữu |  |  |\n|  | + Năm trước (%) |  |  |\n|  | + Năm nay (%) |  |  |\n| 4 | Số phải nộp ngân sách phát sinh |  |  |\n|  | + Năm trước |  |  |\n|  | + Năm nay |  |  |\n| 5 | Quỹ lương thực hiện năm … |  |  |\n| 6 | Thu nhập bình quân người/tháng: |  |  |\n| 7 | Tổng số lao động bình quân năm … |  |  |\n| II | Phân phối lợi nhuận trước thuế |  |  |\n| 1 | Bù lỗ năm trước (nếu có) |  |  |\n| 2 | Trích Quỹ Phát triển khoa học và công nghệ |  |  |\n| 3 | Nộp thuế TNDN |  |  |\n| 4 | Bù các khoản lỗ năm trước không được tính vào thu nhập trước thuế |  |  |\n| 5 | Trích Quỹ Đầu tư phát triển |  |  |\n| 6 | Trích Quỹ Khen thưởng, phúc lợi |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_PHU_LUC_05-49-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": "maubaocao_PHU_LUC_05-49-2018-TT-BTC_chunk_0003",
+            "char_count": 1173,
+            "source_file": "maubaocao/PHU LUC 05-49-2018-TT-BTC.doc",
+            "file_name": "PHU LUC 05-49-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:46:17",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_PHU_LUC_05-49-2018-TT-BTC_chunk_0003",
+        "doc_id": "maubaocao_PHU_LUC_05-49-2018-TT-BTC",
+        "text": "|\n| 3 | Nộp thuế TNDN |  |  |\n| 4 | Bù các khoản lỗ năm trước không được tính vào thu nhập trước thuế |  |  |\n| 5 | Trích Quỹ Đầu tư phát triển |  |  |\n| 6 | Trích Quỹ Khen thưởng, phúc lợi |  |  |\n\n(* Ghi chú: Chỉ tiêu vốn chủ sở hữu được tính bình quân của 04 quý trong năm)\n\n| NGƯỜI LẬP BIỂU<br>(Ký, ghi rõ họ tên) | KẾ TOÁN TRƯỞNG<br>(Ký, ghi rõ họ tên) | …., ngày … tháng … năm …<br>THỦ TRƯỞNG ĐƠN VỊ<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- | --- |\n\nNguồn: Thông tư 49/2018/TT-BTC",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_PHU_LUC_05-49-2018-TT-BTC_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 492,
+            "source_file": "maubaocao/PHU LUC 05-49-2018-TT-BTC.doc",
+            "file_name": "PHU LUC 05-49-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:46:17",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

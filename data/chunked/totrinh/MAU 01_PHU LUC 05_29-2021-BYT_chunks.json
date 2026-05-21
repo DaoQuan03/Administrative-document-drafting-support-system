@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_01_PHU_LUC_05_29-2021-BYT_chunk_0001",
+        "doc_id": "totrinh_MAU_01_PHU_LUC_05_29-2021-BYT",
+        "text": "PHỤ LỤC SỐ 05\n\n(Ban hành kèm theo Thông tư số 29/2021/TT-BYT ngày 24 tháng 12 năm 2021 của Bộ trưởng Bộ Y tế)\n\nMẫu 1: THÔNG TIN CƠ SỞ ĐÀO TẠO CẤP CHỨNG CHỈ CHỨNG NHẬN CHUYÊN MÔN VỀ Y TẾ LAO ĐỘNG\n\n| ……(1)……<br>TÊN CƠ SỞ ĐÀO TẠO<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n\nTHÔNG TIN CƠ SỞ ĐÀO TẠO CẤP CHỨNG CHỈ\nCHỨNG NHẬN CHUYÊN MÔN VỀ Y TẾ LAO ĐỘNG\n\nKính gửi: …………………………….(2)………………………………\n\n1. Tên cơ sở đào tạo: …………………………………………………………………………………..\n\n2. Địa chỉ trụ sở chính: ………………………………………………………………………………….\n\n……………………………………………………………………………………………………………..\n\nĐiện thoại: ………………………… Fax: ……………………. Email: ...\n\n3. Họ tên người đại diện theo pháp luật: ……………………………………………………………..\n\nChức vụ: …………………………………………………………………………………………………\n\nĐiện thoại: ………………………… Fax: ……………………. Email: ...\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: VT. | ĐẠI DIỆN CƠ SỞ ĐÀO TẠO<br>(Ký tên, đóng dấu) |\n| --- | --- |\n\n(1) Ghi theo đơn vị chủ quản",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_01_PHU_LUC_05_29-2021-BYT_chunk_0002",
+            "char_count": 970,
+            "source_file": "totrinh/MAU 01_PHU LUC 05_29-2021-BYT.doc",
+            "file_name": "MAU 01_PHU LUC 05_29-2021-BYT.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:10:44",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_01_PHU_LUC_05_29-2021-BYT_chunk_0002",
+        "doc_id": "totrinh_MAU_01_PHU_LUC_05_29-2021-BYT",
+        "text": "thoại: ………………………… Fax: ……………………. Email: ...\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: VT. | ĐẠI DIỆN CƠ SỞ ĐÀO TẠO<br>(Ký tên, đóng dấu) |\n| --- | --- |\n\n(1) Ghi theo đơn vị chủ quản\n\n(2) Gửi: - Sở Y tế (đối với cơ sở đào tạo thuộc quản lý của địa phương)\n\n- Cục Quản lý môi trường y tế (đối với cơ sở đào tạo thuộc quản lý của Bộ, ngành)",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_01_PHU_LUC_05_29-2021-BYT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 334,
+            "source_file": "totrinh/MAU 01_PHU LUC 05_29-2021-BYT.doc",
+            "file_name": "MAU 01_PHU LUC 05_29-2021-BYT.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:10:44",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

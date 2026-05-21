@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_03b-QD-1868-QD-BTNMT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_03b-QD-1868-QD-BTNMT",
+        "text": "Mẫu số 03b\n\n| BỘ TÀI NGUYÊN VÀ<br>MÔI TRƯỜNG<br>VĂN PHÒNG TIẾP NHẬN VÀ TRẢ KẾT QUẢ<br>-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>-------------------- |\n| --- | --- |\n| Số: | , ngày tháng năm |\n\nPHIẾU XỬ LÝ HỒ SƠ\n\nSố hồ sơ đến: ……………. ngày …… tháng...năm...\n\nMã hồ sơ: …………………………………………………………………..\n\nVề việc: …………………………………………………………………….\n\nTổ chức/Cá nhân: …………………………………………………………..\n\nHồ sơ gồm:\n\n1.…………………………………………………………………………….\n\n2.…………………………………………………………………………….\n\n3……………………………………………………………………………..\n\n4……………………………………………………………………………..\n\n- Thời hạn trả lời tính hợp lệ của hồ sơ: …………………………………….\n\n- Thời hạn trả kết quả: ………………………………………………………\n\nKính chuyển: (tên đơn vị xử lý) để xử lý và chuyển kết quả về Văn phòng Một cửa theo thời hạn quy định.\n\n| NGƯỜI NHẬN HỒ SƠ CỦA ĐƠN VỊ XỬ LÝ<br>(Tên, chữ ký người nhận của đơn vị trực tiếp xử lý hồ sơ) | CHUYÊN VIÊN TIẾP NHẬN HỒ SƠ | CHÁNH VĂN PHÒNG TIẾP NHẬN VÀ TRẢ KẾT QUẢ |\n| --- | --- | --- |\n\nNgày, giờ nhận:……………………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_03b-QD-1868-QD-BTNMT_chunk_0002",
+            "char_count": 993,
+            "source_file": "mauphieu/MAU SO 03b-QD-1868-QD-BTNMT.doc",
+            "file_name": "MAU SO 03b-QD-1868-QD-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:53:53",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_03b-QD-1868-QD-BTNMT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_03b-QD-1868-QD-BTNMT",
+        "text": "ĐƠN VỊ XỬ LÝ<br>(Tên, chữ ký người nhận của đơn vị trực tiếp xử lý hồ sơ) | CHUYÊN VIÊN TIẾP NHẬN HỒ SƠ | CHÁNH VĂN PHÒNG TIẾP NHẬN VÀ TRẢ KẾT QUẢ |\n| --- | --- | --- |\n\nNgày, giờ nhận:……………………………\n\nGhi chú: Trường hợp cần điều chỉnh, bổ sung nội dung hồ sơ theo yêu cầu của đơn vị chuyên môn thì tổ chức, cá nhân gửi hồ sơ đã điều chỉnh, bổ sung qua Văn phòng Một cửa, Văn phòng Một cửa làm Phiếu xử lý hồ sơ theo mẫu này và chuyển đến đơn vị trực tiếp xử lý hồ sơ, đơn vị trực tiếp xử lý hồ sơ kẹp phiếu này sau phiếu gốc theo mẫu M03a, Mã hồ sơ vẫn giữ nguyên như phiếu gốc. Phiếu này được in trên khổ giấy A5 (bằng nửa khổ giấy A4).",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_03b-QD-1868-QD-BTNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 635,
+            "source_file": "mauphieu/MAU SO 03b-QD-1868-QD-BTNMT.doc",
+            "file_name": "MAU SO 03b-QD-1868-QD-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:53:53",
+            "chunked_at": "2026-05-21T21:52:07"
+        }
+    }
+]

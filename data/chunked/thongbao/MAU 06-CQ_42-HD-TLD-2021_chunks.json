@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_06-CQ_42-HD-TLD-2021_chunk_0001",
+        "doc_id": "thongbao_MAU_06-CQ_42-HD-TLD-2021",
+        "text": "Biểu số 06 - CQ\n\n| TỔNG LIÊN ĐOÀN LAO ĐỘNG<br>VIỆT NAM<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Liên đoàn Lao động/Công đoàn ……<br>LĐLĐ huyện, quận/Công đoàn ……<br>Số: | …, ngày … tháng … năm |\n\nTHÔNG BÁO\n\nCông khai dự toán, quyết toán chi của Cơ quan công đoàn\n\nNăm …\n\nĐơn vị: triệu đồng",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_06-CQ_42-HD-TLD-2021_chunk_0002",
+            "char_count": 364,
+            "source_file": "thongbao/MAU 06-CQ_42-HD-TLD-2021.doc",
+            "file_name": "MAU 06-CQ_42-HD-TLD-2021.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:17:00",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_06-CQ_42-HD-TLD-2021_chunk_0002",
+        "doc_id": "thongbao_MAU_06-CQ_42-HD-TLD-2021",
+        "text": "|\n| Liên đoàn Lao động/Công đoàn ……<br>LĐLĐ huyện, quận/Công đoàn ……<br>Số: | …, ngày … tháng … năm |\n\nTHÔNG BÁO\n\nCông khai dự toán, quyết toán chi của Cơ quan công đoàn\n\nNăm …\n\nĐơn vị: triệu đồng\n\n| TT | Mục chi | Mã số | Số tiền | Định mức chi 1 cán bộ/1 năm |\n| --- | --- | --- | --- | --- |\n| 1 | Chi trực tiếp chăm lo, bảo vệ, đào tạo đoàn viên và NLĐ | 31 |  |  |\n| 2 | Chi tuyên truyền đoàn viên và NLĐ | 32 |  |  |\n| 3 | Chi quản lý hành chính | 33 |  |  |\n|  | Trong đó: Khoán chi |  |  |  |\n| 4 | Lương, phụ cấp và các khoản phải nộp theo lương | 34 |  |  |\n|  | a. Lương của cán bộ trong biên chế | 34.01 |  |  |\n|  | b. Phụ cấp cán bộ công đoàn | 34.02 |  |  |\n|  | d. Các khoản phải nộp theo lương | 34.03 |  |  |\n| 5 | Chi khác | 37 |  |  |\n|  | Tổng cộng chi |  |  |  |\n| Chi hoạt động của các Ban | Chi hoạt động của các Ban | Chi hoạt động của các Ban | Chi hoạt động của các Ban | Chi hoạt động của các Ban |\n| 1 | … |  |  |  |\n| 2 | … |  |  |  |\n| 3 | … |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "thongbao_MAU_06-CQ_42-HD-TLD-2021_chunk_0001",
+            "next_chunk_id": "thongbao_MAU_06-CQ_42-HD-TLD-2021_chunk_0003",
+            "char_count": 983,
+            "source_file": "thongbao/MAU 06-CQ_42-HD-TLD-2021.doc",
+            "file_name": "MAU 06-CQ_42-HD-TLD-2021.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:17:00",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_06-CQ_42-HD-TLD-2021_chunk_0003",
+        "doc_id": "thongbao_MAU_06-CQ_42-HD-TLD-2021",
+        "text": "Chi hoạt động của các Ban | Chi hoạt động của các Ban | Chi hoạt động của các Ban | Chi hoạt động của các Ban | Chi hoạt động của các Ban |\n| 1 | … |  |  |  |\n| 2 | … |  |  |  |\n| 3 | … |  |  |  |\n\n|  | THỦ TRƯỞNG CƠ QUAN |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "thongbao_MAU_06-CQ_42-HD-TLD-2021_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 237,
+            "source_file": "thongbao/MAU 06-CQ_42-HD-TLD-2021.doc",
+            "file_name": "MAU 06-CQ_42-HD-TLD-2021.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:17:00",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_SO-B9-04-KB-TABMIS-77-2017-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_MAU_SO-B9-04-KB-TABMIS-77-2017-TT-BTC",
+        "text": "| KHO BẠC NHÀ NƯỚC | KHO BẠC NHÀ NƯỚC |  |  | Mẫu số B9-04/KB/TABMIS | Mẫu số B9-04/KB/TABMIS |\n| --- | --- | --- | --- | --- | --- |\n| KBNN…. | KBNN…. |  |  | (TT 77/2017/TT-BTC ngày 28/7/2017 | (TT 77/2017/TT-BTC ngày 28/7/2017 |\n|  |  |  |  | của Bộ Tài chính) | của Bộ Tài chính) |\n|  |  |  |  |  |  |\n| BÁO CÁO CÁC KHOẢN TẠM THU, TẠM GIỮ CHỜ XỬ LÝ | BÁO CÁO CÁC KHOẢN TẠM THU, TẠM GIỮ CHỜ XỬ LÝ | BÁO CÁO CÁC KHOẢN TẠM THU, TẠM GIỮ CHỜ XỬ LÝ | BÁO CÁO CÁC KHOẢN TẠM THU, TẠM GIỮ CHỜ XỬ LÝ | BÁO CÁO CÁC KHOẢN TẠM THU, TẠM GIỮ CHỜ XỬ LÝ | BÁO CÁO CÁC KHOẢN TẠM THU, TẠM GIỮ CHỜ XỬ LÝ |\n| Số dư hết ngày hiệu lực 31/12/….. | Số dư hết ngày hiệu lực 31/12/….. | Số dư hết ngày hiệu lực 31/12/….. | Số dư hết ngày hiệu lực 31/12/….. | Số dư hết ngày hiệu lực 31/12/….. | Số dư hết ngày hiệu lực 31/12/….. |\n| Hết ngày kết sổ………… | Hết ngày kết sổ………… | Hết ngày kết sổ………… | Hết ngày kết sổ………… | Hết ngày kết sổ………… | Hết ngày kết sổ………… |\n|  |  |  |  |  | Đơn vị: đồng |\n| STT | Nội dung | Mã ĐVQHNS/Mã đối tượng nộp thuế | Tên đơn vị/cá nhân | Số tiền | Ghi chú |\n| STT | Nội dung | Mã ĐVQHNS/Mã đối tượng nộp thuế | Tên đơn vị/cá nhân | Số tiền | Ghi chú |\n| A | B | 1 | 2 | 3 | 4 |\n| I | Các khoản tạm thu |  |  |  |  |\n| 1 | ... |  |  |  |  |\n|  |  |  |  |  |  |\n| II | Các khoản tạm giữ |  |  |  |  |\n| 1 | ... |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  | ………,ngày... tháng ... năm... | ………,ngày... tháng ... năm... |\n|  | Người lập biểu | Kế toán trưởng | Kế toán trưởng | Giám đốc | Giám đốc |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_SO-B9-04-KB-TABMIS-77-2017-TT-BTC_chunk_0002",
+            "char_count": 1541,
+            "source_file": "maubaocao/MAU SO-B9-04-KB-TABMIS-77-2017-TT-BTC.doc",
+            "file_name": "MAU SO-B9-04-KB-TABMIS-77-2017-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:44:34",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_SO-B9-04-KB-TABMIS-77-2017-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_MAU_SO-B9-04-KB-TABMIS-77-2017-TT-BTC",
+        "text": "|\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  | ………,ngày... tháng ... năm... | ………,ngày... tháng ... năm... |\n|  | Người lập biểu | Kế toán trưởng | Kế toán trưởng | Giám đốc | Giám đốc |\n\nNguồn: Thông tư 77/2017/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_SO-B9-04-KB-TABMIS-77-2017-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 231,
+            "source_file": "maubaocao/MAU SO-B9-04-KB-TABMIS-77-2017-TT-BTC.doc",
+            "file_name": "MAU SO-B9-04-KB-TABMIS-77-2017-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:44:34",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_01-41-2025-TT-BXD_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_01-41-2025-TT-BXD",
+        "text": "Mẫu số 01\n\n| TỔ CHỨC ĐỀ NGHỊ<br>-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số:          /…….. | …….., ngày…...tháng...năm ……. |\n\nĐƠN ĐỀ NGHỊ\n\nCẤP GIẤY PHÉP VẬN TẢI BIỂN NỘI ĐỊA\n\nKính gửi: (tên cơ quan tiếp nhận hồ sơ)\n\n- Tổ chức đề nghị: …………………………………………………….\n\nĐịa chỉ: …………… Điện thoại: ………………… Fax: ……………….\n\n- Đơn vị quản lý và khai thác tàu: ……………………………\n\nĐịa chỉ: ……………… Điện thoại: ……………… Fax: ……………….\n\n- Chủ tàu: ……………………………\n\nĐịa chỉ:  ……………… Điện thoại: …………………… Fax: …………\n\nĐề nghị cho tàu biển nước ngoài vận tải biển nội địa Việt Nam với các thông tin sau:\n\n1. Thông tin về tàu:\n\na) Tên tàu: ……………………………; Quốc tịch: ……………………….\n\nb) Năm đóng: ………………………..; Loại tàu: …………………….…..\n\nc) Hô hiệu/Số IMO: ……………….; Tổng trọng tải (DWT): ...\n\nd) Tổng dung tích: ………………………………………………………..\n\n2. Thông tin về hàng hóa hoặc hành khách, thời hạn vận tải và tuyến vận tải:\n\na) Loại hàng vận tải hoặc số lượng hành khách:  ………………..………..",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_01-41-2025-TT-BXD_chunk_0002",
+            "char_count": 996,
+            "source_file": "Maudon/MAU SO 01-41-2025-TT-BXD.doc",
+            "file_name": "MAU SO 01-41-2025-TT-BXD.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:15:32",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_01-41-2025-TT-BXD_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_01-41-2025-TT-BXD",
+        "text": "tải (DWT): ...\n\nd) Tổng dung tích: ………………………………………………………..\n\n2. Thông tin về hàng hóa hoặc hành khách, thời hạn vận tải và tuyến vận tải:\n\na) Loại hàng vận tải hoặc số lượng hành khách:  ………………..………..\n\nb) Thời hạn vận tải hoặc số chuyến vận tải: ………………………………\n\nc) Tuyến vận tải: ………………………………………………………….\n\n3. Giải trình rõ mục đích, lý do đề nghị cấp Giấy phép vận tải biển nội địa: ...\n\n4. Đề nghị nhận kết quả:\n\n□ Bản giấy (lựa chọn một trong các phương thức sau):\n\n□ Trực tiếp\n\n□ Qua hệ thống bưu chính: (ghi rõ địa chỉ nhận và người nhận trả cước phí bưu chính)\n\n□ Qua ứng dụng VNeID\n\n□ Khác (nêu rõ): ………………………………………………………..\n\nChúng tôi cam kết chịu hoàn toàn trách nhiệm về tính xác thực của hồ sơ và quá trình hoạt động của tàu biển trên tại Việt Nam theo quy định của pháp luật./.\n\n| Nơi nhận:<br>- Như trên;<br>- ………………….;<br>- Lưu: VT,… | TỔ CHỨC ĐỀ NGHỊ<br>(ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_01-41-2025-TT-BXD_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 910,
+            "source_file": "Maudon/MAU SO 01-41-2025-TT-BXD.doc",
+            "file_name": "MAU SO 01-41-2025-TT-BXD.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:15:32",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

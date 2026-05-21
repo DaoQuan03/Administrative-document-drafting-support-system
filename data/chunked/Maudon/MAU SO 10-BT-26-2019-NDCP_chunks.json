@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_10-BT-26-2019-NDCP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_10-BT-26-2019-NDCP",
+        "text": "Mẫu số 10.BT\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN ĐỀ NGHỊ CẤP VĂN BẢN CHẤP THUẬN KHAI THÁC LOÀI THỦY SẢN NGUY CẤP, QUÝ, HIẾM\n\nKính gửi: Tổng cục Thủy sản.\n\nTên tổ chức/cá nhân: ……………………………………………………………………………………\n\nGiấy phép đăng ký kinh doanh hoặc Quyết định thành lập tổ chức (đối với tổ chức - ghi rõ số, ngày cấp, cơ quan cấp): ……………………………………………………………………………….\n\nMã số định danh/Số chứng minh nhân dân/thẻ căn cước công dân (đối với cá nhân): …………\n\nĐịa chỉ: ……………………………………………………………………………………………………\n\nĐiện thoại liên hệ: ……………………………………………………………………………………….\n\nĐề nghị Tổng cục Thủy sản cấp Văn bản chấp thuận khai thác loài thủy sản nguy cấp, quý, hiếm, chi tiết như sau:\n\n1. Mục đích khai thác: …………………………………………………………………………………..\n\n2. Đối tượng, thời gian, phương tiện, ngư cụ khai thác:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_10-BT-26-2019-NDCP_chunk_0002",
+            "char_count": 826,
+            "source_file": "Maudon/MAU SO 10-BT-26-2019-NDCP.doc",
+            "file_name": "MAU SO 10-BT-26-2019-NDCP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:35:35",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_10-BT-26-2019-NDCP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_10-BT-26-2019-NDCP",
+        "text": "Văn bản chấp thuận khai thác loài thủy sản nguy cấp, quý, hiếm, chi tiết như sau:\n\n1. Mục đích khai thác: …………………………………………………………………………………..\n\n2. Đối tượng, thời gian, phương tiện, ngư cụ khai thác:\n\n| TT | Tên loài | Tên loài | Số lượng/ khối lượng khai thác | Vùng khai thác | Thời gian khai thác (dự kiến) | Phương tiện khai thác | Ngư cụ khai thác |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | Tên tiếng Việt | Tên khoa học | Số lượng/ khối lượng khai thác | Vùng khai thác | Thời gian khai thác (dự kiến) | Phương tiện khai thác | Ngư cụ khai thác |\n| 1 |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |\n| … |  |  |  |  |  |  |  |\n\n3. Các tài liệu, hồ sơ kèm theo:\n\nChúng tôi cam kết thực hiện theo đúng mục đích, phương án khai thác và quy định pháp luật về thủy sản.\n\n|  | ………, ngày …. tháng ….. năm ……..<br>TỔ CHỨC/CÁ NHÂN ĐỀ NGHỊ<br>(Ký ghi rõ họ tên, đóng dấu (nếu có)) |\n| --- | --- |\n\nNguồn: Nghị định 26/2019/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_10-BT-26-2019-NDCP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 965,
+            "source_file": "Maudon/MAU SO 10-BT-26-2019-NDCP.doc",
+            "file_name": "MAU SO 10-BT-26-2019-NDCP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:35:35",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

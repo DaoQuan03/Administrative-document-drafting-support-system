@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_SO_001_N-BCC-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT_chunk_0001",
+        "doc_id": "maubaocao_BIEU_SO_001_N-BCC-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT",
+        "text": "| Biểu số: 001.N/BCC-TKQG<br>Ban hành theo ………<br>Ngày nhận báo cáo:<br>Ngày 12 tháng 3 năm sau năm điều tra | BÁO CÁO CHÍNH THỨC SỐ CƠ SỞ HÀNH CHÍNH VÀ SỐ LAO ĐỘNG TRONG CÁC CƠ SỞ HÀNH CHÍNH<br>(Tính đến ngày 31 tháng 12 năm báo cáo) | - Đơn vị báo cáo: Cục Thống kê ……<br>- Đơn vị nhận báo cáo: Tổng cục Thống kê |\n| --- | --- | --- |\n\n|  | Mã số | Số cơ sở hành chính<br>(Cơ sở) | Số lao động trong các cơ sở hành chính<br>(Người) | Chia ra | Chia ra |\n| --- | --- | --- | --- | --- | --- |\n|  | Mã số | Số cơ sở hành chính<br>(Cơ sở) | Số lao động trong các cơ sở hành chính<br>(Người) | Số lao động biên chế | Số lao động hợp đồng |\n| A | B | 1 | 2 | 3 | 4 |\n| Cả tỉnh | 01 |  |  |  |  |\n| Chia theo quận/huyện/thị xã/thành phố thuộc tỉnh (Ghi theo Danh mục các đơn vị hành chính Việt Nam) |  |  |  |  |  |\n| …… |  |  |  |  |  |\n| …… |  |  |  |  |  |\n| …… |  |  |  |  |  |\n|  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_BIEU_SO_001_N-BCC-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT_chunk_0002",
+            "char_count": 897,
+            "source_file": "maubaocao/BIEU SO_001_N-BCC-TKQG-PHU LUC I-TT-01-2019-TT-BKHDT.doc",
+            "file_name": "BIEU SO_001_N-BCC-TKQG-PHU LUC I-TT-01-2019-TT-BKHDT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:04:11",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_SO_001_N-BCC-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT_chunk_0002",
+        "doc_id": "maubaocao_BIEU_SO_001_N-BCC-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT",
+        "text": "theo quận/huyện/thị xã/thành phố thuộc tỉnh (Ghi theo Danh mục các đơn vị hành chính Việt Nam) |  |  |  |  |  |\n| …… |  |  |  |  |  |\n| …… |  |  |  |  |  |\n| …… |  |  |  |  |  |\n|  |  |  |  |  |  |\n\n| Người lập biểu<br>(Ký, họ tên) | Người kiểm tra biểu<br>(Ký, họ tên) | ……….., ngày ...tháng ... năm ...<br>Cục trưởng<br>(Ký, đóng dấu, họ tên) |\n| --- | --- | --- |\n\nNguồn: Thông tư 01/2019/TT-BKHĐT",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_BIEU_SO_001_N-BCC-TKQG-PHU_LUC_I-TT-01-2019-TT-BKHDT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 400,
+            "source_file": "maubaocao/BIEU SO_001_N-BCC-TKQG-PHU LUC I-TT-01-2019-TT-BKHDT.doc",
+            "file_name": "BIEU SO_001_N-BCC-TKQG-PHU LUC I-TT-01-2019-TT-BKHDT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:04:11",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

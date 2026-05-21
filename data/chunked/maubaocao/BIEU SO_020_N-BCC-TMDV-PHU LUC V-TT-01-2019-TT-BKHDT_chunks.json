@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_SO_020_N-BCC-TMDV-PHU_LUC_V-TT-01-2019-TT-BKHDT_chunk_0001",
+        "doc_id": "maubaocao_BIEU_SO_020_N-BCC-TMDV-PHU_LUC_V-TT-01-2019-TT-BKHDT",
+        "text": "| Biểu số: 020.N/BCC-TMDV<br>Ban hành theo…… <br>Ngày nhận báo cáo:<br>Ngày 30/9 năm sau | BÁO CÁO CHÍNH THỨC KHỐI LƯỢNG HÀNG HÓA THÔNG QUA CẢNG<br>Năm ……… | - Đơn vị báo cáo: Cục Thống kê ……<br>- Đơn vị nhận báo cáo: Tổng cục Thống kê |\n| --- | --- | --- |\n\nĐơn vị tính: 1000TTQ\n\n|  | Mã số | Tổng số | Trong đó | Trong đó |\n| --- | --- | --- | --- | --- |\n|  | Mã số | Tổng số | Cảng Trung ương quản lý | Cảng Địa phương quản lý |\n| A | B | 1 | 2 | 3 |\n| TỔNG SỐ | 01 |  |  |  |\n| I. Khối lượng hàng hóa bốc xếp qua cảng biển | 02 |  |  |  |\n| Chia ra: - Bốc xếp hàng xuất khẩu | 03 |  |  |  |\n| - Bốc xếp hàng nhập khẩu | 04 |  |  |  |\n| - Bốc xếp hàng nội địa | 05 |  |  |  |\n| II. Khối lượng hàng hóa bốc xếp qua cảng sông | 07 |  |  |  |\n| III. Khối lượng hàng hóa bốc xếp qua cảng hàng không | 08 |  |  |  |\n\n| Người lập biểu<br>(Ký, họ tên) | Người kiểm tra biểu<br>(Ký, họ tên) | ……, Ngày ...tháng ... năm ...<br>Cục trưởng<br>(Ký, đóng dấu, họ tên) |\n| --- | --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_BIEU_SO_020_N-BCC-TMDV-PHU_LUC_V-TT-01-2019-TT-BKHDT_chunk_0002",
+            "char_count": 980,
+            "source_file": "maubaocao/BIEU SO_020_N-BCC-TMDV-PHU LUC V-TT-01-2019-TT-BKHDT.doc",
+            "file_name": "BIEU SO_020_N-BCC-TMDV-PHU LUC V-TT-01-2019-TT-BKHDT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:06:51",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_SO_020_N-BCC-TMDV-PHU_LUC_V-TT-01-2019-TT-BKHDT_chunk_0002",
+        "doc_id": "maubaocao_BIEU_SO_020_N-BCC-TMDV-PHU_LUC_V-TT-01-2019-TT-BKHDT",
+        "text": "cảng hàng không | 08 |  |  |  |\n\n| Người lập biểu<br>(Ký, họ tên) | Người kiểm tra biểu<br>(Ký, họ tên) | ……, Ngày ...tháng ... năm ...<br>Cục trưởng<br>(Ký, đóng dấu, họ tên) |\n| --- | --- | --- |\n\nNguồn: Thông tư 01/2019/TT-BKHĐT",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_BIEU_SO_020_N-BCC-TMDV-PHU_LUC_V-TT-01-2019-TT-BKHDT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 231,
+            "source_file": "maubaocao/BIEU SO_020_N-BCC-TMDV-PHU LUC V-TT-01-2019-TT-BKHDT.doc",
+            "file_name": "BIEU SO_020_N-BCC-TMDV-PHU LUC V-TT-01-2019-TT-BKHDT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:06:51",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

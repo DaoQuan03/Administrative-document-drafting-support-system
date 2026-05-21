@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PL2-PDG-PHU_LUC_II-TT-33-2014-TT-BKHCN_chunk_0001",
+        "doc_id": "mauphieu_PL2-PDG-PHU_LUC_II-TT-33-2014-TT-BKHCN",
+        "text": "PL2-PĐG\n\n33/2014/TT-BKHCN\n\n| BỘ KHOA HỌC VÀ CÔNG NGHỆ<br>HỘI ĐỒNG TƯ VẤN XÁC ĐỊNH<br>NHIỆM VỤ KH&CN CẤP BỘ | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- | --- |\n|  | ..., ngày…  tháng …   năm 20... |\n\nPHIẾU ĐÁNH GIÁ\n\nĐỀ XUẤT NHIỆM VỤ KH&CN CẤP BỘ\n\nTên nhiệm vụ KH&CN đề xuất:\n\nHọ và tên thành viên hội đồng/chuyên gia:\n\nĐánh giá của thành viên hội đồng/chuyên gia: (đánh dấu X vào 1 trong 2 ô)\n\nTính cấp thiết, tính mới của việc thực hiện nhiệm vụ\n\nĐánh giá: Đạt yêu cầu  ;  Không đạt yêu cầu\n\nKhả năng không trùng lắp của nhiệm vụ đề xuất với các nhiệm vụ khoa học và công nghệ đã và đang thực hiện\n\nĐánh giá: Đạt yêu cầu  ;  Không đạt yêu cầu\n\nTính hợp lý của dự kiến nội dung chính và các kết quả của nhiệm vụ KH&CN đề xuất\n\nĐánh giá: Đạt yêu cầu  ;  Không đạt yêu cầu\n\nTính khả thi và  địa chỉ ứng dụng\n\nĐánh giá: Đạt yêu cầu  ;  Không đạt yêu cầu",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PL2-PDG-PHU_LUC_II-TT-33-2014-TT-BKHCN_chunk_0002",
+            "char_count": 881,
+            "source_file": "mauphieu/PL2-PDG-PHU LUC II-TT-33-2014-TT-BKHCN.doc",
+            "file_name": "PL2-PDG-PHU LUC II-TT-33-2014-TT-BKHCN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:55:04",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PL2-PDG-PHU_LUC_II-TT-33-2014-TT-BKHCN_chunk_0002",
+        "doc_id": "mauphieu_PL2-PDG-PHU_LUC_II-TT-33-2014-TT-BKHCN",
+        "text": "lý của dự kiến nội dung chính và các kết quả của nhiệm vụ KH&CN đề xuất\n\nĐánh giá: Đạt yêu cầu  ;  Không đạt yêu cầu\n\nTính khả thi và  địa chỉ ứng dụng\n\nĐánh giá: Đạt yêu cầu  ;  Không đạt yêu cầu\n\nKhả năng huy động được nguồn kinh phí ngoài ngân sách để thực hiện (chỉ áp dụng đối với dự án sản xuất thử nghiệm, dự án KHCN)\n\nĐánh giá: Đạt yêu cầu     Hoặc không đạt yêu cầu\n\nKết luận chung:\n\nĐề nghị thực hiện                            Đề nghị không thực hiện\n\nNgày tháng    năm 20…\n\n(Chuyên gia ký, ghi rõ họ tên)",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PL2-PDG-PHU_LUC_II-TT-33-2014-TT-BKHCN_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 516,
+            "source_file": "mauphieu/PL2-PDG-PHU LUC II-TT-33-2014-TT-BKHCN.doc",
+            "file_name": "PL2-PDG-PHU LUC II-TT-33-2014-TT-BKHCN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:55:04",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

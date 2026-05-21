@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_4-369-QD-TCHQ_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_4-369-QD-TCHQ",
+        "text": "Mẫu số 04\n\n| TỔNG CỤC HẢI QUAN<br>BỘ PHẬN TIẾP NHẬN & <br>TRẢ KẾT QUẢ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ……/KSGQHS | ……….., ngày ….. tháng ….. năm ….. |\n\nPHIẾU KIỂM SOÁT QUÁ TRÌNH GIẢI QUYẾT HỒ SƠ\n\nGiấy tiếp nhận hồ sơ và hẹn trả kết quả số: ……….\n\n(Chuyển kèm theo Phiếu kiểm soát quá trình giải quyết hồ sơ này)\n\nCơ quan (bộ phận) giải quyết hồ sơ:...\n\nCơ quan phối hợp giải quyết hồ sơ:...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_4-369-QD-TCHQ_chunk_0002",
+            "char_count": 476,
+            "source_file": "mauphieu/MAU SO 4-369-QD-TCHQ.doc",
+            "file_name": "MAU SO 4-369-QD-TCHQ.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:18:58",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_4-369-QD-TCHQ_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_4-369-QD-TCHQ",
+        "text": "SƠ\n\nGiấy tiếp nhận hồ sơ và hẹn trả kết quả số: ……….\n\n(Chuyển kèm theo Phiếu kiểm soát quá trình giải quyết hồ sơ này)\n\nCơ quan (bộ phận) giải quyết hồ sơ:...\n\nCơ quan phối hợp giải quyết hồ sơ:...\n\n| TÊN CƠ QUAN | THỜI GIAN GIAO, NHẬN HỒ SƠ | THỜI GIAN GIAO, NHẬN HỒ SƠ | KẾT QUẢ GIẢI QUYẾT HỒ SƠ (Trước hạn/đúng hạn/quá hạn) | GHI CHÚ |\n| --- | --- | --- | --- | --- |\n| 1. Giao:<br>Bộ phận TN&TKQ<br>2. Nhận:……. | ...giờ...phút, ngày ... tháng ... năm... | ...giờ...phút, ngày ... tháng ... năm... |  |  |\n| 1. Giao:<br>Bộ phận TN&TKQ<br>2. Nhận:……. | Người giao<br>(Ký và ghi rõ họ tên) | Người nhận<br>(Ký và ghi rõ họ tên) |  |  |\n| 1. Giao:……...<br>2. Nhận:……. | ...giờ...phút, ngày ... tháng ... năm... | ...giờ...phút, ngày ... tháng ... năm... |  |  |\n| 1. Giao:……...<br>2. Nhận:……. | Người giao<br>(Ký và ghi rõ họ tên) | Người nhận<br>(Ký và ghi rõ họ tên) |  |  |\n| 1. Giao:……...<br>2. Nhận:……. | ...giờ...phút, ngày ... tháng ... năm... | ...giờ...phút, ngày ... tháng ... năm... |  |  |\n| 1. Giao:……...<br>2. Nhận:……. | Người giao<br>(Ký và ghi rõ họ tên) | Người nhận<br>(Ký và ghi rõ họ tên) |  |  |\n| …….. | …….. | …….. |  |  |\n| …….. | …….. | …….. |  |  |\n| 1. Giao:……...<br>2. Nhận:<br>Bộ phận TN&TKQ | ...giờ...phút, ngày ... tháng ... năm... | ...giờ...phút, ngày ... tháng ... năm... |  |  |\n| 1. Giao:……...<br>2. Nhận:<br>Bộ phận TN&TKQ | Người giao<br>(Ký và ghi rõ họ tên) | Người nhận<br>(Ký và ghi rõ họ tên) |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_SO_4-369-QD-TCHQ_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_SO_4-369-QD-TCHQ_chunk_0003",
+            "char_count": 1444,
+            "source_file": "mauphieu/MAU SO 4-369-QD-TCHQ.doc",
+            "file_name": "MAU SO 4-369-QD-TCHQ.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:18:58",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_4-369-QD-TCHQ_chunk_0003",
+        "doc_id": "mauphieu_MAU_SO_4-369-QD-TCHQ",
+        "text": "tháng ... năm... | ...giờ...phút, ngày ... tháng ... năm... |  |  |\n| 1. Giao:……...<br>2. Nhận:<br>Bộ phận TN&TKQ | Người giao<br>(Ký và ghi rõ họ tên) | Người nhận<br>(Ký và ghi rõ họ tên) |  |  |\n\nGhi chú:\n\n- Trường hợp hồ sơ được chuyển qua dịch vụ bưu chính thì thời gian giao, nhận hồ sơ và việc ký nhận thể hiện trong hóa đơn của cơ quan Bưu chính;\n\n- Kết quả giải quyết hồ sơ do bên nhận ghi khi nhận bàn giao hồ sơ.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_SO_4-369-QD-TCHQ_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 423,
+            "source_file": "mauphieu/MAU SO 4-369-QD-TCHQ.doc",
+            "file_name": "MAU SO 4-369-QD-TCHQ.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:18:58",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

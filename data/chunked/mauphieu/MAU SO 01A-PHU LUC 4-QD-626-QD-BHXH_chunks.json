@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_01A-PHU_LUC_4-QD-626-QD-BHXH_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_01A-PHU_LUC_4-QD-626-QD-BHXH",
+        "text": "Mẫu số 01a\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\n……, ngày …. tháng …. năm …..\n\nPHIẾU YÊU CẦU CUNG CẤP THÔNG TIN\n\n(Dành cho công dân)\n\nKính gửi: …………………………………………\n\n1. Họ, tên cá nhân yêu cầu cung cấp thông tin: ...\n\n2. Người đại diện/Người giám hộ1: ...\n\n3. Số CMTND/Thẻ căn cước công dân/Hộ chiếu ...\n\ncấp ngày …../ …./ ……. tại ...\n\n4. Noi cư trú2: ...\n\n5. Số điện thoại3 ………………; Fax …..…………; E-mail: ...\n\n6. Tên văn bản/hồ sơ/tài liệu yêu cầu cung cấp: ...\n\n7. Mục đích yêu cầu cung cấp thông tin: ...\n\n8. Yêu cầu cung cấp thông tin này lần thứ:\n\n| a) Lần đầu | b) Khác: …………. (ghi rõ số lần đã yêu cầu cung cấp thông tin có nội dung nêu trên) |\n| --- | --- |\n\n9. Số lượng bản in, sao, chụp văn bản, hồ sơ, tài liệu: ...\n\n10. Phương thức nhận văn bản, hồ sơ, tài liệu:\n\n□ Nhận tại nơi yêu cầu cung cấp thông tin\n\n□ Nhận qua bưu điện (ghi rõ địa chỉ nhận): ...\n\n□ Fax (ghi rõ số fax): ...\n\n□ Nhận qua mạng điện tử (ghi rõ địa chỉ nhận): ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_01A-PHU_LUC_4-QD-626-QD-BHXH_chunk_0002",
+            "char_count": 987,
+            "source_file": "mauphieu/MAU SO 01A-PHU LUC 4-QD-626-QD-BHXH.doc",
+            "file_name": "MAU SO 01A-PHU LUC 4-QD-626-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:39:20",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01A-PHU_LUC_4-QD-626-QD-BHXH_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_01A-PHU_LUC_4-QD-626-QD-BHXH",
+        "text": "văn bản, hồ sơ, tài liệu:\n\n□ Nhận tại nơi yêu cầu cung cấp thông tin\n\n□ Nhận qua bưu điện (ghi rõ địa chỉ nhận): ...\n\n□ Fax (ghi rõ số fax): ...\n\n□ Nhận qua mạng điện tử (ghi rõ địa chỉ nhận): ...\n\n□ Hình thức khác (ghi rõ): ...\n\n11. Văn bản kèm theo (trong trường hợp tiếp cận thông tin có điều kiện):...\n\n|  | NGƯỜI YÊU CẦU<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\n___\n\n1 Theo quy định của Bộ luật dân sự về người đại diện, người giám hộ đối với người yêu cầu cung cấp thông tin là người chưa thành niên, người hạn chế năng lực hành vi dân sự, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức và làm chủ hành vi...\n\n2 Ghi nơi cư trú của người đại diện/người giám hộ.\n\n3 Ghi số điện thoại, fax, email của người đại diện/giám hộ.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_01A-PHU_LUC_4-QD-626-QD-BHXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 753,
+            "source_file": "mauphieu/MAU SO 01A-PHU LUC 4-QD-626-QD-BHXH.doc",
+            "file_name": "MAU SO 01A-PHU LUC 4-QD-626-QD-BHXH.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:39:20",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_11-PHU_LUC_5-119-2021-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_11-PHU_LUC_5-119-2021-ND-CP",
+        "text": "Mẫu số 11. Thông báo khai thác tuyến vận tải hành khách cố định giữa Việt Nam và Campuchia\n\n| CƠ QUAN QUẢN LÝ TUYẾN<br>___<br>Số: .../... | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>___<br>Hà Nội, ngày ... tháng ... năm ... |\n| --- | --- |\n\nTHÔNG BÁO\n\nKHAI THÁC TUYẾN VẬN TẢI HÀNH KHÁCH CỐ ĐỊNH GIỮA VIỆT NAM VÀ CAMPUCHIA\n\nTuyến: ... đi ... và ngược lại\n\nGiữa: Bến xe... và Bến xe ...\n\n___\n\nKính gửi:\n\nCục Đường bộ Việt Nam nhận được công văn số ... Ngày ... tháng ...năm... và hồ sơ kèm theo của ... về việc đăng ký khai thác vận tải hành khách cố định giữa Việt Nam và Campuchia;\n\nThực hiện Điều ... Nghị định số .../2021/NĐ-CP ngày ... của Chính phủ quy định trình tự, thủ tục cấp, cấp lại, thu hồi giấy phép vận tải đường bộ qua biên giới, Cục Đường bộ Việt Nam thông báo như sau:\n\nChấp thuận ... được khai thác tuyến vận tải hành khách cố định giữa Việt Nam và Campuchia.\n\nTên Tuyến: ... đi ... và ngược lại.\n\nBến đi: Bến xe ...(tên tỉnh đi).",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_11-PHU_LUC_5-119-2021-ND-CP_chunk_0002",
+            "char_count": 975,
+            "source_file": "thongbao/MAU SO 11-PHU LUC 5-119-2021-ND-CP.doc",
+            "file_name": "MAU SO 11-PHU LUC 5-119-2021-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:55:53",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_11-PHU_LUC_5-119-2021-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_11-PHU_LUC_5-119-2021-ND-CP",
+        "text": "Đường bộ Việt Nam thông báo như sau:\n\nChấp thuận ... được khai thác tuyến vận tải hành khách cố định giữa Việt Nam và Campuchia.\n\nTên Tuyến: ... đi ... và ngược lại.\n\nBến đi: Bến xe ...(tên tỉnh đi).\n\nBến đến: Bến xe ...(tên tỉnh đến).\n\nHành trình: ... cửa khẩu đi/cửa khẩu đến...\n\nSố lượng phương tiện tham gia khai thác:\n\nTrong thời gian 60 ngày, kể từ ngày ký văn bản này, ... phải đưa phương tiện vào khai thác, phải ký hợp đồng khai thác với bến xe hai đầu tuyến, báo cáo về Cục Đường bộ Việt Nam và Sở Giao thông vận tải ... Quá thời hạn nêu trên, giấy thông báo không còn hiệu lực.\n\n| Nơi nhận: <br>- Như trên; <br>- ...;<br>- Lưu:... | Thủ trưởng đơn vị<br>(Ký tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_11-PHU_LUC_5-119-2021-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 699,
+            "source_file": "thongbao/MAU SO 11-PHU LUC 5-119-2021-ND-CP.doc",
+            "file_name": "MAU SO 11-PHU LUC 5-119-2021-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:55:53",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

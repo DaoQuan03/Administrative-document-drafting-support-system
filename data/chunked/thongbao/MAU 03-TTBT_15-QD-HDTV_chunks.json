@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_03-TTBT_15-QD-HDTV_chunk_0001",
+        "doc_id": "thongbao_MAU_03-TTBT_15-QD-HDTV",
+        "text": "(Ban hành kèm theo Quy chế hoạt động bù trừ và thanh toán chứng khoán)\n\nMẫu 03/TTBT\n\n| TỔNG CÔNG TY <br>LƯU KÝ VÀ BÙ TRỪ CHỨNG KHOÁN <br>VIỆT NAM<br><br>Số:         /TB-TTBT | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>              Độc lập - Tự do - Hạnh phúc<br><br>        ..., ngày... tháng... năm... |\n| --- | --- |\n\nTHÔNG BÁO\n\nVề việc sửa lỗi sau giao dịch tại sàn...\n\nKính gửi: ...\n\nTrả lời công văn đề nghị sửa lỗi sau giao dịch ngày xx/xx/xxxx của Quý Công ty/Ngân hàng, Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam (VSDC) thông báo về việc sửa lỗi sau giao dịch như sau:\n\nLý do sửa lỗi:\n\nGiao dịch đề nghị sửa lỗi:\n\n- Phiên giao dịch ngày\t\t:\n\n- Loại lệnh (mua hoặc bán)\t:\n\n- Mã chứng khoán\t\t\t:\n\n- Số hiệu lệnh\t\t\t:\n\n- Số xác nhận (*)\t\t\t:\n\n- Số lượng khớp lệnh\t\t:\n\n- Giá khớp lệnh\t\t\t:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_03-TTBT_15-QD-HDTV_chunk_0002",
+            "char_count": 793,
+            "source_file": "thongbao/MAU 03-TTBT_15-QD-HDTV.doc",
+            "file_name": "MAU 03-TTBT_15-QD-HDTV.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:14:26",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_03-TTBT_15-QD-HDTV_chunk_0002",
+        "doc_id": "thongbao_MAU_03-TTBT_15-QD-HDTV",
+        "text": "dịch đề nghị sửa lỗi:\n\n- Phiên giao dịch ngày\t\t:\n\n- Loại lệnh (mua hoặc bán)\t:\n\n- Mã chứng khoán\t\t\t:\n\n- Số hiệu lệnh\t\t\t:\n\n- Số xác nhận (*)\t\t\t:\n\n- Số lượng khớp lệnh\t\t:\n\n- Giá khớp lệnh\t\t\t:\n\n3. Nội dung sửa lỗi: Giao dịch nêu trên được chấp thuận sửa thành giao dịch tự doanh của Quý Công ty/Ngân hàng. Đề nghị Quý Công ty/Ngân hàng thực hiện thanh toán đúng hạn theo Thông báo kết quả bù trừ đa phương và thanh toán chứng khoán và Thông báo kết quả bù trừ đa phương và thanh toán tiền đã điều chỉnh của VSDC.\n\n4. Do tài khoản tự doanh của Quý Công ty/Ngân hàng hiện nay không có đủ chứng khoán để thanh toán cho giao dịch sửa lỗi, Quý Công ty/Ngân hàng phải thực hiện vay chứng khoán qua hệ thống vay và cho vay chứng khoán của VSDC theo quy định để đảm bảo có đủ chứng khoán thanh toán giao dịch.\n\nVSDC thông báo để Quý Công ty biết và thực hiện.\n\n| Nơi nhận:<br>- Như trên;<br>- SGD;<br>- Lưu TTBT. | TỔNG GIÁM ĐỐC<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\n(*) trường hợp sửa lỗi 1 phần",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_03-TTBT_15-QD-HDTV_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 997,
+            "source_file": "thongbao/MAU 03-TTBT_15-QD-HDTV.doc",
+            "file_name": "MAU 03-TTBT_15-QD-HDTV.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:14:26",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

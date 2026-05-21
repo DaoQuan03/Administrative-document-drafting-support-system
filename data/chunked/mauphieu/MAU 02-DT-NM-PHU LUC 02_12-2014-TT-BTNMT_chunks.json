@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_02-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0001",
+        "doc_id": "mauphieu_MAU_02-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT",
+        "text": "Mẫu số 02-ĐT/NM\n\n| ĐƠN VỊ CHỦ TRÌ<br>ĐƠN VỊ THỰC HIỆN<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | ………, ngày……. tháng…… năm 20… |\n\nPHIẾU ĐIỀU TRA TÀI NGUYÊN NƯỚC MẶT\nĐOẠN SÔNG CẠN KIỆT MẤT DÒNG\n\n(DỰ ÁN: ……………………………………………………………………..)\n\nSố hiệu:………………..\n\n1. Tên sông:\n\n| - Tên sông trên bản đồ: |  |\n| --- | --- |\n| - Tên sông địa phương: |  |\n\n2. Vị trí địa lý:\n\n- Điểm đầu:\n\n| Xã, huyện, tỉnh: |  |  |  |  |\n| --- | --- | --- | --- | --- |\n| Tọa độ | X: |  | Y: |  |\n\n- Điểm cuối:\n\n| Xã, huyện, tỉnh: |  |  |  |  |\n| --- | --- | --- | --- | --- |\n| Tọa độ | X: |  | Y: |  |\n\n- Điểm khảo sát:\n\n| Xã, huyện, tỉnh: |  |  |  |  |\n| --- | --- | --- | --- | --- |\n| Tọa độ | X: |  | Y: |  |\n\n3. Các thông số của sông:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_02-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0002",
+            "char_count": 785,
+            "source_file": "mauphieu/MAU 02-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "file_name": "MAU 02-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:46:01",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0002",
+        "doc_id": "mauphieu_MAU_02-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT",
+        "text": "|\n| --- | --- | --- | --- | --- |\n| Tọa độ | X: |  | Y: |  |\n\n- Điểm khảo sát:\n\n| Xã, huyện, tỉnh: |  |  |  |  |\n| --- | --- | --- | --- | --- |\n| Tọa độ | X: |  | Y: |  |\n\n3. Các thông số của sông:\n\n| Độ dài đoạn sông: | Độ dài đoạn sông: |  |  | (km) Độ rộng lòng sông: | (km) Độ rộng lòng sông: | (km) Độ rộng lòng sông: |  |  | (m) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Độ rộng bờ sông trái: | Độ rộng bờ sông trái: |  |  | (m) Độ rộng bờ sông phải: | (m) Độ rộng bờ sông phải: | (m) Độ rộng bờ sông phải: | (m) Độ rộng bờ sông phải: |  | (m) |\n| Độ sâu mực nước: |  |  |  | (m) Tốc độ dòng chảy (ước lượng): | (m) Tốc độ dòng chảy (ước lượng): | (m) Tốc độ dòng chảy (ước lượng): | (m) Tốc độ dòng chảy (ước lượng): |  | (m/s) |\n| Mực nước kiệt nhất: | Mực nước kiệt nhất: | Mực nước kiệt nhất: |  |  | (m) |  |  |  |  |\n\n4. Đặc điểm đoạn sông:\n\n- Lòng sông: ...\n\n- Bãi sông: ...\n\n- Bờ sông: ...\n\n5. Thời gian xảy ra cạn kiệt, mất dòng:\n\na.  Xảy ra thường xuyên: □",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_02-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_02-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0003",
+            "char_count": 997,
+            "source_file": "mauphieu/MAU 02-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "file_name": "MAU 02-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:46:01",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0003",
+        "doc_id": "mauphieu_MAU_02-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT",
+        "text": "nhất: | Mực nước kiệt nhất: |  |  | (m) |  |  |  |  |\n\n4. Đặc điểm đoạn sông:\n\n- Lòng sông: ...\n\n- Bãi sông: ...\n\n- Bờ sông: ...\n\n5. Thời gian xảy ra cạn kiệt, mất dòng:\n\na.  Xảy ra thường xuyên: □\n\n| b. Xảy ra vào mùa kiệt: | Từ tháng |  | Đến tháng |  |\n| --- | --- | --- | --- | --- |\n| c. Thời gian kiệt nhất trong năm: | c. Thời gian kiệt nhất trong năm: |  | Tháng |  |\n| d. Thời gian xuất hiện kiệt lịch sử: | d. Thời gian xuất hiện kiệt lịch sử: |  |  |  |\n\n6. Mức độ cạn kiệt, mất dòng lịch sử:\n\nCản trở giao thông thủy: □ \tKhông đảm bảo cấp nước: □ \tKhông có dòng chảy □\n\n7. Nguyên nhân cạn kiệt, mất dòng:\n\na. Do khai thác:\n\n| Hồ chứa: □ | Đập dâng: □ | Công trình khác: |  |\n| --- | --- | --- | --- |\n| b.  Nguyên nhân khác: | b.  Nguyên nhân khác: |  |  |\n\nc. Không rõ nguyên nhân: □\n\n8. Số hiệu mẫu nước:\n\nThời gian lấy mẫu:\n\n| Tọa độ lấy mẫu: | X: |  | Y: |  |\n| --- | --- | --- | --- | --- |\n\n9. Các thông tin về kết quả đo đạc, khảo sát chất lượng nước tại hiện trường:",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_02-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_02-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0004",
+            "char_count": 986,
+            "source_file": "mauphieu/MAU 02-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "file_name": "MAU 02-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:46:01",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0004",
+        "doc_id": "mauphieu_MAU_02-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT",
+        "text": "nhân: □\n\n8. Số hiệu mẫu nước:\n\nThời gian lấy mẫu:\n\n| Tọa độ lấy mẫu: | X: |  | Y: |  |\n| --- | --- | --- | --- | --- |\n\n9. Các thông tin về kết quả đo đạc, khảo sát chất lượng nước tại hiện trường:\n\n| Màu: |  |  | Mùi: | Mùi: |  | Vị: | Vị: |  | pH: |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| DO: |  |  | (mg/l) | (mg/l) | (mg/l) | Nhiệt độ nước: | Nhiệt độ nước: | Nhiệt độ nước: |  |  | (oC) |\n| Độ dẫn điện: | Độ dẫn điện: |  |  | (mS/cm) | (mS/cm) | (mS/cm) | Độ mặn: | Độ mặn: |  |  | (‰) |\n| Khác: | Khác: |  |  |  |  |  |  |  |  |  |  |\n\n10. Thông tin khác:\n\n…………………………………………………………………………………………...\n\n…………………………………………………………………………………………...\n\n…………………………………………………………………………………………...\n\n…………………………………………………………………………………………...\n\n11. Sơ họa vị trí điều tra\n\n|  |\n| --- |\n\nCÁN BỘ ĐIỀU TRA",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "mauphieu_MAU_02-DT-NM-PHU_LUC_02_12-2014-TT-BTNMT_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 820,
+            "source_file": "mauphieu/MAU 02-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "file_name": "MAU 02-DT-NM-PHU LUC 02_12-2014-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:46:01",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_I_03-77-2019-NDCP_chunk_0001",
+        "doc_id": "thongbao_MAU_I_03-77-2019-NDCP",
+        "text": "Mẫu I.03\n\n| TÊN TỔ HỢP TÁC<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: …………. | ….., ngày …. tháng … năm …. |\n\nTHÔNG BÁO\n\nVề việc chấm dứt hoạt động tổ hợp tác\n\nKính gửi: Ủy ban nhân dân cấp xã, phường, thị trấn1\n\nTên tổ hợp tác (ghi bằng chữ in hoa): ………………………………………………….\n\nĐịa chỉ trụ sở: ……………………………………………………………………………..\n\nThông báo về việc chấm dứt hoạt động tổ hợp tác như sau:\n\nLý do chấm dứt hoạt động2: …………………………………………………………….\n\n……………………………………………………………………………………………….\n\n……………………………………………………………………………………………….\n\n……………………………………………………………………………………………….\n\nTổ hợp tác cam kết đã hoàn thành các khoản nợ, nghĩa vụ thuế, tài sản và hoàn toàn chịu trách nhiệm trước pháp luật về tính hợp pháp, chính xác, trung thực của nội dung Thông báo này./.\n\n| Các giấy tờ gửi kèm:<br>- …………………….<br>- …………………….<br>- ……………………. | ĐẠI DIỆN CỦA TỔ HỢP TÁC<br>(Ký, ghi rõ họ tên)3 |\n| --- | --- |\n\n___",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_I_03-77-2019-NDCP_chunk_0002",
+            "char_count": 951,
+            "source_file": "thongbao/MAU I.03-77-2019-NDCP.doc",
+            "file_name": "MAU I.03-77-2019-NDCP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:29:45",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_I_03-77-2019-NDCP_chunk_0002",
+        "doc_id": "thongbao_MAU_I_03-77-2019-NDCP",
+        "text": "pháp, chính xác, trung thực của nội dung Thông báo này./.\n\n| Các giấy tờ gửi kèm:<br>- …………………….<br>- …………………….<br>- ……………………. | ĐẠI DIỆN CỦA TỔ HỢP TÁC<br>(Ký, ghi rõ họ tên)3 |\n| --- | --- |\n\n___\n\n1. Ghi tên Ủy ban nhân dân xã, phường, thị trấn nơi tổ hợp tác hoạt động. Nếu tổ hợp tác hoạt động trên địa bàn nhiều xã thì ghi tên xã, phường, thị trấn nơi tổ hợp tác hoạt động chủ yếu.\n\n2. Tổ hợp tác ghi lý do chấm dứt hoạt động của tổ hợp tác theo Điều 512 của Bộ luật dân sự và Điều 14 của Nghị định về tổ hợp tác.\n\n3. Người đại diện của Tổ hợp tác ký trực tiếp vào phần này.\n\nNguồn: Nghị định 77/2019/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_I_03-77-2019-NDCP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 611,
+            "source_file": "thongbao/MAU I.03-77-2019-NDCP.doc",
+            "file_name": "MAU I.03-77-2019-NDCP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:29:45",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

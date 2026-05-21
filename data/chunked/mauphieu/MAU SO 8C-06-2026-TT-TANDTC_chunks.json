@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_8C-06-2026-TT-TANDTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_8C-06-2026-TT-TANDTC",
+        "text": "Mẫu số 8C: Phiếu giới thiệu nhân sự tại Hội nghị cán bộ chủ chốt\n\n| TÊN CƠ QUAN, ĐƠN VỊ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | ……., ngày … tháng … năm …… |\n\nPHIẾU GIỚI THIỆU NHÂN SỰ\n\nBổ nhiệm chức vụ …..\n\n(Tại Bước 3 - Hội nghị cán bộ chủ chốt)\n\nCăn cứ tiêu chuẩn, điều kiện, cơ cấu, số lượng và phẩm chất, năng lực, uy tín và khả năng đáp ứng yêu cầu, nhiệm vụ của cán bộ; đề nghị đồng chí cho biết ý kiến giới thiệu nhân sự để bổ nhiệm chức vụ ……….. bằng cách đánh dấu (X) vào ô tương ứng trong danh sách dưới đây:\n\n| STT | Họ và tên | Năm sinh | Chức vụ, đơn vị công tác hiện nay | Giới thiệu nhân sự | Giới thiệu nhân sự |\n| --- | --- | --- | --- | --- | --- |\n| STT | Họ và tên | Năm sinh | Chức vụ, đơn vị công tác hiện nay | Đồng ý | Không đồng ý |\n| 1 |  |  |  |  |  |\n| 2 |  |  |  |  |  |\n| 3 |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n\nÝ kiến khác (nếu có): ………………………………………………………………………..",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_8C-06-2026-TT-TANDTC_chunk_0002",
+            "char_count": 991,
+            "source_file": "mauphieu/MAU SO 8C-06-2026-TT-TANDTC.doc",
+            "file_name": "MAU SO 8C-06-2026-TT-TANDTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:21:43",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_8C-06-2026-TT-TANDTC_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_8C-06-2026-TT-TANDTC",
+        "text": "công tác hiện nay | Đồng ý | Không đồng ý |\n| 1 |  |  |  |  |  |\n| 2 |  |  |  |  |  |\n| 3 |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n\nÝ kiến khác (nếu có): ………………………………………………………………………..\n\n…………………………………………………………………………………………………..\n\n|  | NGƯỜI GHI PHIẾU<br>(Có thể ký hoặc không ký tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_8C-06-2026-TT-TANDTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 311,
+            "source_file": "mauphieu/MAU SO 8C-06-2026-TT-TANDTC.doc",
+            "file_name": "MAU SO 8C-06-2026-TT-TANDTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:21:43",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

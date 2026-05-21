@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_IV-12-2020-TT-BNNPTNT_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_IV-12-2020-TT-BNNPTNT",
+        "text": "Phụ lục IV\n\nMẪU PHIẾU XUẤT KHO THUỐC THÚ Y, NGUYÊN LIỆU THUỐC THÚ Y\n\nCÓ CHỨA CHẤT MA TÚY, TIỀN CHẤT\n(Ban hành kèm theo Thông tư số 12/2020/TT-BNNPTNT ngày 09  tháng 11 năm 2020\n\ncủa Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn)\n\nTên cơ sở:\n\nĐịa chỉ:\n\nPHIẾU XUẤT KHO THUỐC THÚ Y, NGUYÊN LIỆU THUỐC THÚ Y\n\nCÓ CHỨA CHẤT MA TÚY, TIỀN CHẤT\n\nXuất cho cơ sở*:\n\nĐịa chỉ:\n\n| STT | Tên thuốc, nồng độ/hàm lượng | Đơn vị tính | Số lượng xuất | Số lô sản xuất, hạn dùng | Tên nhà sản xuất, nước sản xuất | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |\n\n| Người giao<br>(Ký, ghi rõ họ tên) | Người nhận<br>(Ký, ghi rõ họ tên) | Ngày... tháng... năm...<br>Đại diện cơ sở **<br>(Ký, ghi rõ họ tên, chức danh đóng dấu (nếu có) |\n| --- | --- | --- |\n\n*Mẫu này có thể sử dụng để:\n\n1. Xuất nội bộ cơ sở.\n\n2. Xuất cho cơ sở khác:\n\n- Ghi rõ tên người nhận thuốc, số CMTND/Thẻ căn cước/Hộ chiếu/Số định danh cá nhân/Các giấy tờ tương đương khác",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_IV-12-2020-TT-BNNPTNT_chunk_0002",
+            "char_count": 965,
+            "source_file": "mauphieu/PHU LUC IV-12-2020-TT-BNNPTNT.doc",
+            "file_name": "PHU LUC IV-12-2020-TT-BNNPTNT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:43:14",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_IV-12-2020-TT-BNNPTNT_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_IV-12-2020-TT-BNNPTNT",
+        "text": "| --- |\n\n*Mẫu này có thể sử dụng để:\n\n1. Xuất nội bộ cơ sở.\n\n2. Xuất cho cơ sở khác:\n\n- Ghi rõ tên người nhận thuốc, số CMTND/Thẻ căn cước/Hộ chiếu/Số định danh cá nhân/Các giấy tờ tương đương khác\n\n- Cơ sở có thể dùng hóa đơn tài chính thay cho mẫu này nhưng tối thiểu phải có đủ các thông tin quy định tại mẫu này hoặc kèm theo Phiếu báo lô.\n\n** Người đại diện pháp luật hoặc người phụ trách chuyên môn được ủy quyền hoặc cấp phó của người đại diện pháp luật được ủy quyền",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_IV-12-2020-TT-BNNPTNT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 474,
+            "source_file": "mauphieu/PHU LUC IV-12-2020-TT-BNNPTNT.doc",
+            "file_name": "PHU LUC IV-12-2020-TT-BNNPTNT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:43:14",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

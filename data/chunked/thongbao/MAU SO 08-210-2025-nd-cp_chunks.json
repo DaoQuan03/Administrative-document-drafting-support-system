@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_08-210-2025-nd-cp_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_08-210-2025-nd-cp",
+        "text": "Mẫu số 08\n\n| SỞ TÀI CHÍNH<br>PHÒNG ………<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: …………. | ………, ngày ……. tháng…..năm…… |\n\nTHÔNG BÁO\n\nVề việc giải quyết hồ sơ tăng vốn góp/giảm vốn góp/gia hạn thời gian hoạt động/chuyển nhượng phần vốn góp/giải thể Quỹ đầu tư khởi nghiệp sáng tạo………(Tên quỹ đầu tư khởi nghiệp sáng tạo)\n\nKính gửi: Công ty ………………………………\n\n(Tên công ty thực hiện quản lý quỹ)\n\n- Căn cứ Nghị định số 38/2018/NĐ-CP ngày 11 tháng 3 năm 2018 của Chính phủ quy định chi tiết về đầu tư cho doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo và Nghị định này;\n\n- Căn cứ hồ sơ tăng vốn góp/giảm vốn góp/gia hạn thời gian hoạt động/giải thể Quỹ đầu tư khởi nghiệp sáng tạo ………………… đã nhận ngày ……………. của Công ty ………….. (tên công ty thực hiện quản lý quỹ);\n\nPhòng ………………….. thông báo hồ sơ tăng vốn góp/ giảm vốn góp/gia hạn thời gian hoạt động/chuyển nhượng phần vốn góp/giải thể Quỹ đầu tư khởi nghiệp sáng tạo đã hợp lệ.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_08-210-2025-nd-cp_chunk_0002",
+            "char_count": 997,
+            "source_file": "thongbao/MAU SO 08-210-2025-nd-cp.doc",
+            "file_name": "MAU SO 08-210-2025-nd-cp.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:51:08",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_08-210-2025-nd-cp_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_08-210-2025-nd-cp",
+        "text": "công ty thực hiện quản lý quỹ);\n\nPhòng ………………….. thông báo hồ sơ tăng vốn góp/ giảm vốn góp/gia hạn thời gian hoạt động/chuyển nhượng phần vốn góp/giải thể Quỹ đầu tư khởi nghiệp sáng tạo đã hợp lệ.\n\nCông ty ………………………………. (tên công ty thực hiện quản lý quỹ) chịu trách nhiệm hoàn toàn trước pháp luật về tính trung thực, chính xác của các thông tin kê khai trong hồ sơ thông báo và các tài liệu kèm theo.\n\nPhòng ………………….. thông báo để doanh nghiệp biết./.\n\n| Nơi nhận:<br>- Như trên;<br>- Cục Phát triển DNTN và KTTT - Bộ Tài chính<br>(để theo dõi);<br>- Lưu: ….. | TRƯỞNG PHÒNG |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_08-210-2025-nd-cp_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 594,
+            "source_file": "thongbao/MAU SO 08-210-2025-nd-cp.doc",
+            "file_name": "MAU SO 08-210-2025-nd-cp.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:51:08",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

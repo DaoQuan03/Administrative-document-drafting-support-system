@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_SO_04-NNG-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0001",
+        "doc_id": "tokhai_MAU_SO_04-NNG-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nTỜ KHAI THUẾ THU NHẬP CÁ NHÂN\n\n(Áp dụng đối với cá nhân không cư trú có thu nhập từ kinh doanh, cá nhân có thu nhập từ đầu tư vốn, bản quyền, nhượng quyền thương mại, trúng thưởng được trả từ nước ngoài)\n\n[01] Kỳ tính thuế: Lần phát sinh ngày … tháng … năm …\n\n[02] Lần đầu:                         [03] Bổ sung lần thứ: …\n\n[04] Tên người nộp thuế:…………………..……………………………...\n\n| [05] Mã số thuế: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[05a] Số định danh cá nhân...\n\n[06] Địa chỉ: ……………………………………...\n\n[07] Xã/phường/đặc khu: ... [08] Tỉnh/thành phố: ...\n\n[09] Điện thoại:……………..[10] Fax:...[11] Email: ...\n\n[12] Tên đại lý thuế (nếu có):…..………………………...\n\n| [13] Mã số thuế: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_SO_04-NNG-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+            "char_count": 965,
+            "source_file": "tokhai/MAU SO 04-NNG-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 04-NNG-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:53:14",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_04-NNG-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+        "doc_id": "tokhai_MAU_SO_04-NNG-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "Tên đại lý thuế (nếu có):…..………………………...\n\n| [13] Mã số thuế: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[14] Hợp đồng đại lý thuế: Số: ...ngày: ...\n\n[15] Tên tổ chức tại Việt Nam nơi cá nhân phát sinh hoạt động có thu nhập:…………………\n\n| [16] Mã số thuế: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n[17] Địa chỉ: ……………………..………………………………………………….\n\n[18] Xã/phường/đặc khu: ... [19] Tỉnh/Thành phố: ...\n\n[20] Điện thoại: ...  [21] Fax: ... [22] Email: ...\n\nĐơn vị tiền: Đồng Việt Nam",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "tokhai_MAU_SO_04-NNG-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": "tokhai_MAU_SO_04-NNG-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+            "char_count": 661,
+            "source_file": "tokhai/MAU SO 04-NNG-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 04-NNG-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:53:14",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_04-NNG-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+        "doc_id": "tokhai_MAU_SO_04-NNG-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "--- | --- | --- |\n\n[17] Địa chỉ: ……………………..………………………………………………….\n\n[18] Xã/phường/đặc khu: ... [19] Tỉnh/Thành phố: ...\n\n[20] Điện thoại: ...  [21] Fax: ... [22] Email: ...\n\nĐơn vị tiền: Đồng Việt Nam\n\n| STT | Chỉ tiêu | Mã chỉ tiêu | Số tiền |\n| --- | --- | --- | --- |\n| I | Thu nhập từ kinh doanh của cá nhân không cư trú | Thu nhập từ kinh doanh của cá nhân không cư trú | Thu nhập từ kinh doanh của cá nhân không cư trú |\n| 1 | Tổng thu nhập tính thuế | [23] |  |\n| 2 | Thuế suất | [24] |  |\n| 3 | Tổng số thuế thu nhập cá nhân phải nộp [25]=[23]*[24] | [25] |  |\n| II | Thu nhập từ đầu tư vốn | Thu nhập từ đầu tư vốn | Thu nhập từ đầu tư vốn |\n| 1 | Tổng thu nhập chịu thuế | [26] |  |\n| 2 | Tổng số thuế phải nộp | [27] |  |\n| 3 | Tổng số thuế đã nộp ở nước ngoài | [28] |  |\n| 4 | Số thuế còn phải nộp [29]=[27]-[28] | [29] |  |\n| III | Thu nhập từ bản quyền, nhượng quyền thương mại | Thu nhập từ bản quyền, nhượng quyền thương mại | Thu nhập từ bản quyền, nhượng quyền thương mại |\n| 1 | Tổng thu nhập chịu thuế | [30] |  |\n| 2 | Tổng số thuế phải nộp | [31] |  |\n| 3 | Tổng số thuế đã nộp ở nước ngoài | [32] |  |\n| 4 | Số thuế còn phải nộp [33]=[31]-[32] | [33] |  |\n| IV | Thu nhập từ trúng thưởng | Thu nhập từ trúng thưởng | Thu nhập từ trúng thưởng |\n| 1 | Tổng thu nhập chịu thuế | [34] |  |\n| 2 | Tổng số thuế phải nộp | [35] |  |\n| 3 | Tổng số thuế đã nộp ở nước ngoài | [36] |  |\n| 4 | Số thuế còn phải nộp [37]=[35]-[36] | [37] |  |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "tokhai_MAU_SO_04-NNG-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0002",
+            "next_chunk_id": "tokhai_MAU_SO_04-NNG-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0004",
+            "char_count": 1452,
+            "source_file": "tokhai/MAU SO 04-NNG-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 04-NNG-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:53:14",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_SO_04-NNG-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0004",
+        "doc_id": "tokhai_MAU_SO_04-NNG-TNCN-PHU_LUC_II-80-2021-TT-BTC",
+        "text": "thưởng |\n| 1 | Tổng thu nhập chịu thuế | [34] |  |\n| 2 | Tổng số thuế phải nộp | [35] |  |\n| 3 | Tổng số thuế đã nộp ở nước ngoài | [36] |  |\n| 4 | Số thuế còn phải nộp [37]=[35]-[36] | [37] |  |\n\nTôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về những số liệu đã khai./.\n\n| NHÂN VIÊN ĐẠI LÝ THUẾ<br>Họ và tên: …………………<br>Chứng chỉ hành nghề số:... |  |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "tokhai_MAU_SO_04-NNG-TNCN-PHU_LUC_II-80-2021-TT-BTC_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 395,
+            "source_file": "tokhai/MAU SO 04-NNG-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 04-NNG-TNCN-PHU LUC II-80-2021-TT-BTC.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:53:14",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_02_PHU_LUC_07_08-2021-TT-BTNMT_chunk_0001",
+        "doc_id": "mauphieu_MAU_02_PHU_LUC_07_08-2021-TT-BTNMT",
+        "text": "Mẫu 2\n\n| TỔNG CỤC KHÍ TƯỢNG THỦY VĂN<br>ĐƠN VỊ NHẬN XÉT, ĐÁNH GIÁ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: ……../ ... | ..., ngày ... tháng ... năm ... |\n\nPHIẾU NHẬN XÉT, ĐÁNH GIÁ\n\nChất lượng tài liệu hải văn tự động Đài KTTV khu vực …..\n\nTên trạm:\n\n1. Tháng … năm ….\n\n2. Kết quả đánh giá tài liệu\n\na) Xếp loại chất lượng tài liệu:\n\nb) Nhận xét tài liệu:\n\n| TT | Nội dung đánh giá | Điểm trừ | Ghi chú |\n| --- | --- | --- | --- |\n| 1 | Tính đầy đủ, liên tục của tài liệu |  |  |\n| 2 | Tình trạng hoạt động thiết bị |  |  |\n| 3 | Tính toán, xác định các trị số đặc trưng |  |  |\n| 4 | Tính hợp lý của số liệu theo yếu tố quan trắc |  |  |\n| 5 | Công tác duy trì thông tin truyền số liệu |  |  |\n|  | Tổng điểm trừ |  |  |\n\nĐiểm chuẩn = 100 điểm\n\nĐiểm trừ = …. điểm\n\nĐiểm đạt = 100 điểm – …. điểm = ….. điểm.\n\nKiến nghị:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_02_PHU_LUC_07_08-2021-TT-BTNMT_chunk_0002",
+            "char_count": 897,
+            "source_file": "mauphieu/MAU 02_PHU LUC 07_08-2021-TT-BTNMT.doc",
+            "file_name": "MAU 02_PHU LUC 07_08-2021-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:47:55",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02_PHU_LUC_07_08-2021-TT-BTNMT_chunk_0002",
+        "doc_id": "mauphieu_MAU_02_PHU_LUC_07_08-2021-TT-BTNMT",
+        "text": "quan trắc |  |  |\n| 5 | Công tác duy trì thông tin truyền số liệu |  |  |\n|  | Tổng điểm trừ |  |  |\n\nĐiểm chuẩn = 100 điểm\n\nĐiểm trừ = …. điểm\n\nĐiểm đạt = 100 điểm – …. điểm = ….. điểm.\n\nKiến nghị:\n\n| Nơi nhận:<br>- Như trên;<br>- …..<br>- Lưu: | NGƯỜI ĐÁNH GIÁ | TRƯỞNG PHÒNG | THỦ TRƯỞNG <br>ĐƠN VỊ<br>(Ký tên, đóng dấu) |\n| --- | --- | --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_02_PHU_LUC_07_08-2021-TT-BTNMT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 351,
+            "source_file": "mauphieu/MAU 02_PHU LUC 07_08-2021-TT-BTNMT.doc",
+            "file_name": "MAU 02_PHU LUC 07_08-2021-TT-BTNMT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:47:55",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_05-KK-TSHTDB-158-2016-TT-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_05-KK-TSHTDB-158-2016-TT-BTC",
+        "text": "| Bộ, Tỉnh:………………………………...<br>Cơ quan quản lý cấp trên: ……………...<br>Cơ quan, đơn vị trực tiếp quản lý tài sản:………………..<br>Mã cơ quan, đơn vị: ……………………………………….<br>Loại hình cơ quan, đơn vị: ………………………... | Mẫu số 05-KK/TSHTĐB<br>(Ban hành kèm theo Thông tư số 158/2016/TT-BTC ngày 25/10/2016 của Bộ Tài chính) |\n| --- | --- |\n\nPHIẾU KIỂM KÊ, PHÂN LOẠI TÀI SẢN HẠ TẦNG GIAO THÔNG ĐƯỜNG BỘ\n\n(áp dụng cho loại tài sản là bến phà đường bộ và các công trình phụ trợ gắn liền với bến phà đường bộ)\n\n1. Tên tài sản: ...; lý trình:...\n\n2. Thuộc tuyến đường: ...\n\n3. Cấp bến phà:\n\nCấp I                            Cấp II                      Cấp III\n\nCấp IV                         Cấp V                      Cấp VI\n\n4. Diện tích bến phà:...m2\n\n5. Tài sản giao ủy thác:\n\nĐơn vị nhận ủy thác:...\n\n6. Ngày đưa vào sử dụng:\n\nTrước ngày 01/3/2013                         Từ ngày 01/3/2013 trở về sau\n\n7. Giá trị tài sản:(bằng số:... ...).\n\n(Bằng chữ:...)",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_05-KK-TSHTDB-158-2016-TT-BTC_chunk_0002",
+            "char_count": 939,
+            "source_file": "mauphieu/MAU SO 05-KK-TSHTDB-158-2016-TT-BTC.doc",
+            "file_name": "MAU SO 05-KK-TSHTDB-158-2016-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:58:32",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_05-KK-TSHTDB-158-2016-TT-BTC_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_05-KK-TSHTDB-158-2016-TT-BTC",
+        "text": "sản giao ủy thác:\n\nĐơn vị nhận ủy thác:...\n\n6. Ngày đưa vào sử dụng:\n\nTrước ngày 01/3/2013                         Từ ngày 01/3/2013 trở về sau\n\n7. Giá trị tài sản:(bằng số:... ...).\n\n(Bằng chữ:...)\n\n| Ngày ……tháng ……năm ……..<br>XÁC NHẬN CỦA CƠ QUAN QUẢN LÝ CẤP TRÊN<br><br>(Ký, họ tên và đóng dấu) | Ngày...tháng... năm ...             <br> THỦ TRƯỞNG CƠ QUAN, ĐƠN VỊ<br><br><br>              (Ký, họ tên và đóng dấu) |\n| --- | --- |\n\nNguồn: Thông tư 158/2016/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_05-KK-TSHTDB-158-2016-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 467,
+            "source_file": "mauphieu/MAU SO 05-KK-TSHTDB-158-2016-TT-BTC.doc",
+            "file_name": "MAU SO 05-KK-TSHTDB-158-2016-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:58:32",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    }
+]

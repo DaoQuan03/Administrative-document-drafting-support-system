@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_13-PHU_LUC_I-112-2025-TT-BQP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_13-PHU_LUC_I-112-2025-TT-BQP",
+        "text": "Mẫu số 13. Thông báo dùng cho cá nhân\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n----------------\n\n...(1), ngày... tháng... năm...\n\nKính gửi: Đồn Biên phòng...(2)...\n\nTên tôi là...\n\nSinh ngày...tháng...năm...Quốc tịch...\n\nNghề nghiệp/lĩnh vực hoạt động...\n\nNơi thường trú...\n\nCăn cước (Căn cước công dân) hoặc hộ chiếu số...\n\nCấp ngày..., cơ quan cấp...\n\nNay tôi ...(3)...\n\nThời gian lưu trú từ...giờ..., ngày ... tháng ... năm ... đến ... giờ ... ngày ... tháng ... năm...\n\nTôi thông báo để Quý cơ quan biết, tạo điều kiện giúp đỡ tôi./.\n\n|  | NGƯỜI THÔNG BÁO<br>(Ký tên, ghi rõ họ tên) |\n| --- | --- |\n\n___\n\n(1) Ghi tên xã, phường đến lưu trú.\n\n(2) Ghi rõ tên Đồn Biên phòng thuộc Ban chỉ huy BĐBP tỉnh, thành phố cần thông báo.\n\n(3) Ghi rõ lý do phải lưu trú qua đêm, địa chỉ lưu trú.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 808,
+            "source_file": "thongbao/MAU SO 13-PHU LUC I-112-2025-TT-BQP.doc",
+            "file_name": "MAU SO 13-PHU LUC I-112-2025-TT-BQP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:57:52",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

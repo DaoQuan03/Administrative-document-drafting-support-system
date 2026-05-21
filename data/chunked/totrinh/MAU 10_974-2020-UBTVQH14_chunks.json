@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_10_974-2020-UBTVQH14_chunk_0001",
+        "doc_id": "totrinh_MAU_10_974-2020-UBTVQH14",
+        "text": "### Bảng tính: Full (MBS 10-03 nam)",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_10_974-2020-UBTVQH14_chunk_0002",
+            "char_count": 35,
+            "source_file": "totrinh/MAU 10_974-2020-UBTVQH14.xls",
+            "file_name": "MAU 10_974-2020-UBTVQH14.xls",
+            "folder": "totrinh",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-20T22:12:21",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_10_974-2020-UBTVQH14_chunk_0002",
+        "doc_id": "totrinh_MAU_10_974-2020-UBTVQH14",
+        "text": "Bảng tính: Full (MBS 10-03 nam)\n\n|  |  |  |  |  |  | MẪU BIỂU SỐ 10 |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| DỰ KIẾN THU NGÂN SÁCH NHÀ NƯỚC THEO LĨNH VỰC GIAI ĐOẠN 03 NĂM … |  |  |  |  |  |  |  |  |\n|  |  |  |  |  | Đơn vị: Tỷ đồng |  |  |  |\n| STT | NỘI DUNG THU | ƯỚC THỰC HIỆN NĂM N-1 | DỰ TOÁN NGÂN SÁCH NĂM N <br>(1) | SO SÁNH (%) | DỰ KIẾN NGÂN SÁCH NĂM N+1 | DỰ KIẾN NGÂN SÁCH NĂM N+2 |  |  |\n| A | B | 1 | 2 | 3=2/1 | 4 | 5 |  |  |\n|  | TỔNG THU NGÂN SÁCH NHÀ NƯỚC |  |  |  |  |  |  |  |\n|  | Tỷ lệ thu NSNN so với GDP (%) |  |  |  |  |  |  |  |\n|  | Tỷ lệ thu từ thuế, phí so với GDP (%) |  |  |  |  |  |  |  |\n| I | Thu nội địa |  |  |  |  |  |  |  |\n|  | Tốc độ tăng thu (%) |  |  |  |  |  |  |  |\n|  | Tỷ trọng trong tổng thu NSNN (%) |  |  |  |  |  |  |  |\n|  | Trong đó: |  |  |  |  |  |  |  |\n| 1 | Thu từ khu vực doanh nghiệp nhà nước |  |  |  |  |  |  |  |\n| 2 | Thu từ khu vực doanh nghiệp có vốn đầu tư nước ngoài |  |  |  |  |  |  |  |\n| 3 | Thu từ khu vực kinh tế ngoài quốc doanh |  |  |  |  |  |  |  |\n| 4 | Thuế thu nhập cá nhân |  |  |  |  |  |  |  |\n| 5 | Thuế bảo vệ môi trường |  |  |  |  |  |  |  |\n| 6 | Các khoản phí, lệ phí |  |  |  |  |  |  |  |\n| 7 | Thu tiền sử dụng đất |  |  |  |  |  |  |  |\n| 8 | Thu từ hoạt động xổ số kiến thiết |  |  |  |  |  |  |  |\n| 9 | Thu hồi vốn, thu cổ tức, lợi nhuận, lợi nhuận sau thuế, chênh lệch thu, chi của Ngân hàng Nhà nước |  |  |  |  |  |  |  |\n| II | Thu từ dầu thô |  |  |  |  |  |  |  |\n|  | Tốc độ tăng thu (%) |  |  |  |  |  |  |  |\n|  | Tỷ trọng trong tổng thu NSNN (%) |  |  |  |  |  |  |  |\n| III | Thu cân đối từ hoạt động xuất nhập khẩu |  |  |  |  |  |  |  |\n|  | Tốc độ tăng thu (%) |  |  |  |  |  |  |  |\n|  | Tỷ trọng trong tổng thu NSNN (%) |  |  |  |  |  |  |  |\n| 1 | Tổng số thu từ hoạt động xuất nhập khẩu |  |  |  |  |  |  |  |\n| 2 | Hoàn thuế giá trị gia tăng |  |  |  |  |  |  |  |\n| IV | Thu viện trợ |  |  |  |  |  |  |  |\n|  | Ghi chú: |  |  |  |  |  |  |  |\n|  | (1) Năm N là năm dự toán ngân sách; theo đó, các năm N-1, N+1 và N+2 là năm trước, năm sau và năm sau nữa của năm dự toán ngân sách. |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_10_974-2020-UBTVQH14_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 2144,
+            "source_file": "totrinh/MAU 10_974-2020-UBTVQH14.xls",
+            "file_name": "MAU 10_974-2020-UBTVQH14.xls",
+            "folder": "totrinh",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-20T22:12:21",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

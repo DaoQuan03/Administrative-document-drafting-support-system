@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_08-PKT-CTHADS-CCTHADS-QD-196-QD-TCTHADS_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_08-PKT-CTHADS-CCTHADS-QD-196-QD-TCTHADS",
+        "text": "### Bảng tính: Sheet1",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_08-PKT-CTHADS-CCTHADS-QD-196-QD-TCTHADS_chunk_0002",
+            "char_count": 21,
+            "source_file": "mauphieu/MAU SO  08-PKT-CTHADS-CCTHADS-QD-196-QD-TCTHADS.xls",
+            "file_name": "MAU SO  08-PKT-CTHADS-CCTHADS-QD-196-QD-TCTHADS.xls",
+            "folder": "mauphieu",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-21T01:30:09",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_08-PKT-CTHADS-CCTHADS-QD-196-QD-TCTHADS_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_08-PKT-CTHADS-CCTHADS-QD-196-QD-TCTHADS",
+        "text": "Bảng tính: Sheet1\n\n|  |  |  |  |  |  |  |  |  |  |  | Mẫu số 08/PKT-CTHADS/CCTHADS |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  | THỐNG KÊ <br> TÀI SẢN TẠM GIỮ, KÊ BIÊN TRONG THI HÀNH ÁN DÂN SỰ <br>          Từ ngày      /      /        đến ngày       /       / |  |  |  |  |  |  |  |  |  |  | Đơn vị BC:………..………..<br>……………...……...…….<br>Đơn vị nhận BC:……………<br>……………..……………… |  |  |\n| T<br>T | Loại tài sản | Đơn <br>vị tính | Theo <br>số sách quản lý |  |  | Theo <br>kiểm đếm thực tế |  |  | Chênh lệch |  |  |  | Địa điểm<br> bảo quản |  | Thời gian  thực hiện |\n|  |  |  | Tổng số | Do CQ tố tụng thực hiện | Do CQ THA<br>thực hiện | Tổng số | Do CQ tố tụng thực hiện | Do CQ THA<br> thực hiện | Tổng số | Do CQ tố tụng thực hiện | Do CQ THA<br> thực hiện | Lý do | Bảo quản tại kho THA | Thuê bảo quản |  |\n| A |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |\n| I | Tiền, giấy tờ có giá |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| II | Các loại tài sản gắn liền với nhân thân |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| III | Vàng, bạc, kim khí quý, đá quý |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| IV | Bất động sản, Giấy CNQSD đất |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| V | Động sản, giấy tờ chứng nhận quyền sở hữu tài sản |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| VI | Các loại tài sản khác |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Luu ý: Đơn vị tính tùy theo loại tài sản |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_08-PKT-CTHADS-CCTHADS-QD-196-QD-TCTHADS_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 1543,
+            "source_file": "mauphieu/MAU SO  08-PKT-CTHADS-CCTHADS-QD-196-QD-TCTHADS.xls",
+            "file_name": "MAU SO  08-PKT-CTHADS-CCTHADS-QD-196-QD-TCTHADS.xls",
+            "folder": "mauphieu",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-21T01:30:09",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

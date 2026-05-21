@@ -1,0 +1,74 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_TS-09-TT-04-2022-TT-BTTTT_chunk_0001",
+        "doc_id": "maubaocao_BIEU_TS-09-TT-04-2022-TT-BTTTT",
+        "text": "| Biểu TS-09<br>Ban hành kèm theo TT số …/2022/TT-BTTTT<br>Ngày nhận báo cáo: Quý: Trước ngày 15 tháng tiếp theo quý. Năm: Trước 15/3 năm tiếp theo | THU, NỘP PHÍ, LỆ PHÍ TÀI NGUYÊN TẦN SỐ VÔ TUYẾN ĐIỆN | Đơn vị báo cáo: Cục TS |  |\n| --- | --- | --- | --- |\n| Biểu TS-09<br>Ban hành kèm theo TT số …/2022/TT-BTTTT<br>Ngày nhận báo cáo: Quý: Trước ngày 15 tháng tiếp theo quý. Năm: Trước 15/3 năm tiếp theo | Quý … /20…<br>Năm 20… | Đơn vị báo cáo: Cục TS |  |\n| Biểu TS-09<br>Ban hành kèm theo TT số …/2022/TT-BTTTT<br>Ngày nhận báo cáo: Quý: Trước ngày 15 tháng tiếp theo quý. Năm: Trước 15/3 năm tiếp theo | Quý … /20…<br>Năm 20… | Đơn vị nhận báo cáo: Vụ KHTC, VP Bộ |  |\n\nĐơn vị tính: Triệu đồng",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 4,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_BIEU_TS-09-TT-04-2022-TT-BTTTT_chunk_0002",
+            "char_count": 700,
+            "source_file": "maubaocao/BIEU TS-09-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU TS-09-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:07:41",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_TS-09-TT-04-2022-TT-BTTTT_chunk_0002",
+        "doc_id": "maubaocao_BIEU_TS-09-TT-04-2022-TT-BTTTT",
+        "text": "…/2022/TT-BTTTT<br>Ngày nhận báo cáo: Quý: Trước ngày 15 tháng tiếp theo quý. Năm: Trước 15/3 năm tiếp theo | Quý … /20…<br>Năm 20… | Đơn vị nhận báo cáo: Vụ KHTC, VP Bộ |  |\n\nĐơn vị tính: Triệu đồng\n\n| TT | Chỉ tiêu | Số liệu thực hiện kỳ này | Cộng dồn thực hiện từ đầu năm đến hết kỳ báo cáo | Ghi chú |\n| --- | --- | --- | --- | --- |\n| A | B | 1 | 2 | 3 |\n| 1 | Tổng thu phí, lệ phí sử dụng tần số vô tuyến điện (1 = 1.1 + 1.2) |  |  |  |\n|  | Trong đó |  |  |  |\n| 1.1 | Lệ phí cấp phép |  |  |  |\n| 1.2 | Phí sử dụng tần số |  |  |  |\n| 2 | Nộp ngân sách |  |  |  |\n| 3 | Tiền cấp quyền sử dụng tần số vô tuyến điện (3 = 3.1 + 3.2 + 3...) |  |  |  |\n|  | Trong đó, theo băng tần |  |  |  |\n| 3.1 | (Băng tần 1 ...) |  |  |  |\n| 3.2 | (Băng tần 2 ...) |  |  |  |\n| ... | … |  |  |  |\n\n| TỔNG HỢP, LẬP BIỂU<br>(Thông tin người thực hiện) | KIỂM TRA BIỂU<br>(Thông tin người thực hiện) | Hà Nội, ngày … tháng … năm 20…<br>CỤC TRƯỞNG<br>(Ký điện tử) |\n| --- | --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_BIEU_TS-09-TT-04-2022-TT-BTTTT_chunk_0001",
+            "next_chunk_id": "maubaocao_BIEU_TS-09-TT-04-2022-TT-BTTTT_chunk_0003",
+            "char_count": 974,
+            "source_file": "maubaocao/BIEU TS-09-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU TS-09-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:07:41",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_TS-09-TT-04-2022-TT-BTTTT_chunk_0003",
+        "doc_id": "maubaocao_BIEU_TS-09-TT-04-2022-TT-BTTTT",
+        "text": "| … |  |  |  |\n\n| TỔNG HỢP, LẬP BIỂU<br>(Thông tin người thực hiện) | KIỂM TRA BIỂU<br>(Thông tin người thực hiện) | Hà Nội, ngày … tháng … năm 20…<br>CỤC TRƯỞNG<br>(Ký điện tử) |\n| --- | --- | --- |\n\na) Khái niệm, phương pháp tính\n\nTổng thu lệ phí cấp phép và phí sử dụng tần số vô tuyến điện: Là tổng số tiền gồm lệ phí và phí sử dụng tần số vô tuyến điện đã thu và sẽ thu được theo quy định của pháp luật trong kỳ báo cáo.\n\nSố tiền nộp NSNN từ lệ phí cấp phép và phí sử dụng tần số vô tuyến điện: Là tổng số tiền phải nộp NSNN từ lệ phí cấp phép và phí sử dụng tần số theo quy định của pháp luật trong kỳ báo cáo.\n\nSố tiền cấp quyền sử dụng tần số vô tuyến điện: Là tổng số tiền thu được từ việc cấp quyền sử dụng tần số đối với các băng tần số vô tuyến điện có giá trị cao (băng tần \"quý hiếm\") trong kỳ báo cáo.\n\nb) Cách ghi biểu\n\nGhi thông tin, số liệu theo hướng dẫn cụ thể trên biểu mẫu.\n\nc) Nguồn số liệu",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_BIEU_TS-09-TT-04-2022-TT-BTTTT_chunk_0002",
+            "next_chunk_id": "maubaocao_BIEU_TS-09-TT-04-2022-TT-BTTTT_chunk_0004",
+            "char_count": 913,
+            "source_file": "maubaocao/BIEU TS-09-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU TS-09-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:07:41",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_TS-09-TT-04-2022-TT-BTTTT_chunk_0004",
+        "doc_id": "maubaocao_BIEU_TS-09-TT-04-2022-TT-BTTTT",
+        "text": "tần số đối với các băng tần số vô tuyến điện có giá trị cao (băng tần \"quý hiếm\") trong kỳ báo cáo.\n\nb) Cách ghi biểu\n\nGhi thông tin, số liệu theo hướng dẫn cụ thể trên biểu mẫu.\n\nc) Nguồn số liệu\n\nBiểu được tập hợp từ dữ liệu hành chính, dữ liệu phục vụ theo dõi sau đăng ký, cấp phép của Cục TS.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 4,
+            "prev_chunk_id": "maubaocao_BIEU_TS-09-TT-04-2022-TT-BTTTT_chunk_0003",
+            "next_chunk_id": null,
+            "char_count": 297,
+            "source_file": "maubaocao/BIEU TS-09-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU TS-09-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:07:41",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

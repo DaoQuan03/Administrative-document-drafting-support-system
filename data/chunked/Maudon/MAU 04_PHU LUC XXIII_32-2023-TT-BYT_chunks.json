@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_04_PHU_LUC_XXIII_32-2023-TT-BYT_chunk_0001",
+        "doc_id": "Maudon_MAU_04_PHU_LUC_XXIII_32-2023-TT-BYT",
+        "text": "Mẫu số 04\n\nĐơn đề nghị đánh giá định kỳ việc duy trì đáp ứng GCP\n\n| TÊN ĐƠN VỊ CHỦ QUẢN<br>TÊN CƠ SỞ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: .../ ... | ... , ngày ... tháng... năm 20 ... |\n\nĐƠN ĐỀ NGHỊ ĐÁNH GIÁ VIỆC DUY TRÌ ĐÁP ỨNG THỰC HÀNH TỐT THỬ KỸ THUẬT MỚI, PHƯƠNG PHÁP MỚI HOẶC THỬ THIẾT BỊ Y TẾ TRÊN LÂM SÀNG\n\nKính gửi: Cục Khoa học công nghệ và Đào tạo - Bộ Y tế\n\nTên cơ sở:\n\nĐịa chỉ:\n\nĐiện thoại/fax/email:\n\nNgười liên hệ:                                                  Chức danh:\n\nĐiện thoại/fax/email:\n\nThực hiện Thông tư số  /202  /TT-BYT ngày  tháng  năm 202  của Bộ trưởng Bộ Y tế quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh, sau khi được cấp Giấy chứng nhận đạt GCP số…/GCN-K2ĐT ngày … tháng … năm…, kính đề nghị Bộ Y tế (Cục Khoa học công nghệ và Đào tạo) được đánh giá định kỳ việc duy trì đáp ứng GCP.\n\n[Tên cơ sở] gửi kèm theo đơn đề nghị này các tài liệu sau đây:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_04_PHU_LUC_XXIII_32-2023-TT-BYT_chunk_0002",
+            "char_count": 983,
+            "source_file": "Maudon/MAU 04_PHU LUC XXIII_32-2023-TT-BYT.doc",
+            "file_name": "MAU 04_PHU LUC XXIII_32-2023-TT-BYT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:03:23",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_04_PHU_LUC_XXIII_32-2023-TT-BYT_chunk_0002",
+        "doc_id": "Maudon_MAU_04_PHU_LUC_XXIII_32-2023-TT-BYT",
+        "text": "ngày … tháng … năm…, kính đề nghị Bộ Y tế (Cục Khoa học công nghệ và Đào tạo) được đánh giá định kỳ việc duy trì đáp ứng GCP.\n\n[Tên cơ sở] gửi kèm theo đơn đề nghị này các tài liệu sau đây:\n\n1. Tài liệu kỹ thuật cập nhật về điều kiện cơ sở vật chất, kỹ thuật và nhân sự của cơ sở (nếu có thay đổi);\n\n2. Báo cáo tóm tắt hoạt động thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế của cơ sở trong 03 năm gần nhất tính từ thời điểm đánh giá liền trước.\n\n|  | Thủ trưởng cơ sở<br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_04_PHU_LUC_XXIII_32-2023-TT-BYT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 540,
+            "source_file": "Maudon/MAU 04_PHU LUC XXIII_32-2023-TT-BYT.doc",
+            "file_name": "MAU 04_PHU LUC XXIII_32-2023-TT-BYT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:03:23",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

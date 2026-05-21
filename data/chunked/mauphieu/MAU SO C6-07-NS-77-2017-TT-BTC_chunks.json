@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_C6-07-NS-77-2017-TT-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_C6-07-NS-77-2017-TT-BTC",
+        "text": "KHO BẠC NHÀ NƯỚC...\n\nPHIẾU CHUYỂN TIÊU\n\nLập ngày... tháng... năm...\n\nTheo lệnh quyết toán vốn số \tngày\n\nCủa Kho bạc Nhà nước\n\nTên tài khoản Nợ\n\nSố hiệu\n\nTên tài khoản Có\n\nSố hiệu\n\nSố tiền ghi bằng chữ\n\nTrích yếu\n\n| KHO BẠC NHÀ NƯỚC LẬP PHIẾU<br><br>Kế toán                                    Kế toán trưởng | KHO BẠC NHÀ NƯỚC NHẬN PHIẾU<br>Ngày... tháng... năm...<br>   Kế toán           Kế toán trưởng        Giám đốc KBNN |\n| --- | --- |\n\nNguồn: Thông tư 77/2017/TT-BTC",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 471,
+            "source_file": "mauphieu/MAU SO C6-07-NS-77-2017-TT-BTC.doc",
+            "file_name": "MAU SO C6-07-NS-77-2017-TT-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:23:14",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

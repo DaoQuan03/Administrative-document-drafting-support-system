@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_06-162-2016-TT-BQP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_06-162-2016-TT-BQP",
+        "text": "Mẫu số 06. Thông báo dùng cho cơ quan, tổ chức đưa người nước ngoài vào khu vực biên giới biển\n\n| TÊN CƠ QUAN CHỦ QUẢN<br>TÊN CƠ QUAN, TỔ CHỨC THÔNG BÁO<br>----------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>------------------------ |\n| --- | --- |\n| Số:          /TB-(2)<br>V/v thông báo đưa người nước ngoài vào khu vực biên giới biển | ……(1)….., ngày... tháng... năm……… |\n\nKính gửi(3):  ...\n\nThực hiện (4): ...\n\nCơ quan, tổ chức(5): ...\n\nĐưa Ông (bà): ...\n\nSinh ngày ……… tháng …….. năm ……….. Quốc tịch: ...\n\nNghề nghiệp/lĩnh vực hoạt động: ...\n\nĐịa chỉ thường trú: ...\n\nVào khu vực biên giới biển, với mục đích(6): ...\n\nThời gian từ ……….giờ... ngày ……… tháng …….. năm ………..\n\nĐến...giờ………..ngày ……… tháng …….. năm ………..\n\nNay thông báo để Quý cơ quan biết, để phối hợp quản lý./.\n\n| Nơi nhận: <br>- Như trên; <br>- ……………;<br>- Lưu: VT, …(7), H10. | TM. CƠ QUAN THÔNG BÁO<br>(Ký tên, đóng dấu, ghi rõ họ tên, chức vụ) |\n| --- | --- |\n\n___",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_06-162-2016-TT-BQP_chunk_0002",
+            "char_count": 969,
+            "source_file": "thongbao/MAU SO 06-162-2016-TT-BQP.doc",
+            "file_name": "MAU SO 06-162-2016-TT-BQP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:48:11",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_06-162-2016-TT-BQP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_06-162-2016-TT-BQP",
+        "text": "Quý cơ quan biết, để phối hợp quản lý./.\n\n| Nơi nhận: <br>- Như trên; <br>- ……………;<br>- Lưu: VT, …(7), H10. | TM. CƠ QUAN THÔNG BÁO<br>(Ký tên, đóng dấu, ghi rõ họ tên, chức vụ) |\n| --- | --- |\n\n___\n\n(1) Ghi rõ địa danh tỉnh, thành phố trực thuộc Trung ương nơi cơ quan, tổ chức có trụ sở;\n\n(2) Chữ Viết tắt tên cơ quan ban hành Thông báo;\n\n(3) Ghi rõ tên cơ quan nhận thông báo;\n\n(4) Ghi rõ căn cứ đưa người nước ngoài vào khu vực biên giới biển;\n\n(5) Ghi rõ tên, địa chỉ cơ quan, tổ chức;\n\n(6) Ghi rõ mục đích hoạt động;\n\n(7) Chữ viết tắt tên đơn vị soạn thảo, tên người đánh máy (soạn thảo) và số lượng bản phát hành.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_06-162-2016-TT-BQP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 620,
+            "source_file": "thongbao/MAU SO 06-162-2016-TT-BQP.doc",
+            "file_name": "MAU SO 06-162-2016-TT-BQP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:48:11",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

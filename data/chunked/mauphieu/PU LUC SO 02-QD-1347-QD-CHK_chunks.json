@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PU_LUC_SO_02-QD-1347-QD-CHK_chunk_0001",
+        "doc_id": "mauphieu_PU_LUC_SO_02-QD-1347-QD-CHK",
+        "text": "Phụ lục 2",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PU_LUC_SO_02-QD-1347-QD-CHK_chunk_0002",
+            "char_count": 9,
+            "source_file": "mauphieu/PU LUC SO 02-QD-1347-QD-CHK.doc",
+            "file_name": "PU LUC SO 02-QD-1347-QD-CHK.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:56:16",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PU_LUC_SO_02-QD-1347-QD-CHK_chunk_0002",
+        "doc_id": "mauphieu_PU_LUC_SO_02-QD-1347-QD-CHK",
+        "text": "lục 2\n\n| PHIẾU ĐIỀU XE Ô TÔ<br>Số:…<br>- Căn cứ Kế hoạch sử dụng xe ô tô số….<br>- Tên, địa chỉ, chức vụ người sử dụng xe:<br>………………………………………………………<br>- Sổ đăng ký của xe: ……………………………..<br>- Họ tên người lái xe:……………………………..<br>- Hành trình:……………………………………….<br>- Nội dung công việc:……………………………..<br>………………………………………………………<br>- Địa điểm đón:<br>- Số km dự kiến:<br>Đi từ ngày…….. tháng…… năm …..<br>Đến ngày ……….tháng ……năm……<br>(Bản để lưu ở Tổ xe ô tô) | PHIẾU ĐIỀU XE Ô TÔ<br>- Căn cứ Kế hoạch sử dụng xe ô tô số ….. ngày … tháng …năm….<br>- Họ tên, chức vụ người sử dụng xe:<br>……………………………………………………………………………<br>- Tổ xe điều động xe ô tô biển số:<br>- Họ tên người lái xe: ………………………………………………….<br>- Hành trình: …………………………………………………………….<br>……………………………………………………………………………<br>- Nội dung công việc: ………………………………………………….<br>- Địa điểm đón: …………………………………………………………<br>- Số km dự kiến sử dụng:………………………………………………<br>Đi từ ngày…….. tháng…… năm …..<br>Đến ngày ……….tháng ……năm…<br>Số km lúc đi:………………..<br>Số km lúc về:………………..<br>Số km sử dụng xe:………….<br>(Bản dành cho lái xe) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PU_LUC_SO_02-QD-1347-QD-CHK_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 1083,
+            "source_file": "mauphieu/PU LUC SO 02-QD-1347-QD-CHK.doc",
+            "file_name": "PU LUC SO 02-QD-1347-QD-CHK.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:56:16",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_36-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_36-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "Cơ sở KB, CB...\n\nKhoa...\n\nPHIẾU THEO DÕI ĐIỀU TRỊ\n\nTờ số: ...\n\nMS: 36/BV2\n\nSố vào viện………………\n\nMã người bệnh………….\n\nHọ và tên người bệnh: ...Tuổi: ... ⬜ Nam      ⬜ Nữ\n\nKhoa: ...Phòng:... Giường: ... Chẩn đoán: ... Chẩn đoán phân biệt: ...\n\n...\n\n| Thời gian<br>(Ngày, giờ) | Diễn biến bệnh<br>(Viết diễn biến theo cấu trúc như SOAP) | Chỉ định |\n| --- | --- | --- |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n\nGhi chú: Bác sỹ ký ngay sau mỗi lần ghi chép trong phần “Diễn biến bệnh” hoặc “Chỉ định”.\n\nHướng dẫn cách ghi chép theo cấu trúc (SOAP)\n\n- S (Hỏi bệnh): ghi lại các thông tin của người bệnh tự khai như triệu chứng, bệnh sử, bối cảnh xuất hiện bệnh, tiến triển…",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_36-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0002",
+            "char_count": 899,
+            "source_file": "mauphieu/MAU 36-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 36-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:04:38",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_36-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0002",
+        "doc_id": "mauphieu_MAU_36-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "biến bệnh” hoặc “Chỉ định”.\n\nHướng dẫn cách ghi chép theo cấu trúc (SOAP)\n\n- S (Hỏi bệnh): ghi lại các thông tin của người bệnh tự khai như triệu chứng, bệnh sử, bối cảnh xuất hiện bệnh, tiến triển…\n\n- O (Kết quả khám): ghi lại các thông tin do bác sỹ thăm khám như các dấu hiệu sinh tồn, các kết quả xét nghiệm...\n\n- A (Đánh giá): Đánh giá, phân tích kết quả và chẩn đoán trên cơ sở thông tin tự khai của người bệnh và kết quả khám bệnh.\n\n- P (Kế hoạch điều trị): tóm tắt tình hình, diễn biến bệnh, đưa ra nhận định, đưa ra hướng xử trí tiếp theo.\n\n- Chỉ định: cụ thể hóa kế hoạch điều trị như các vấn đề cần theo dõi (theo dõi thân nhiệt, nhịp thở, huyết\n\náp...), các loại thuốc sử dụng, các thủ thuật cần làm...",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_36-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 714,
+            "source_file": "mauphieu/MAU 36-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 36-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:04:38",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

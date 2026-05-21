@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_69-PHU_LUC_I-68-2025-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_69-PHU_LUC_I-68-2025-TT-BTC",
+        "text": "Mẫu số 69\n\n| CƠ QUAN ĐĂNG KÝ KINH DOANH<br>CẤP TỈNH<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ……………………. | ……, ngày …. tháng …. năm …. |\n\nTHÔNG BÁO\n\nVề việc doanh nghiệp đã giải thể/chấm dứt tồn tại\n\n(Cơ quan đăng ký kinh doanh cấp tỉnh) đã tiến hành cập nhật tình trạng pháp lý đối với doanh nghiệp sau:\n\nTên doanh nghiệp: ………………………………………………………….\n\nMã số doanh nghiệp: …………………………………….…………………\n\nSố Giấy chứng nhận đăng ký kinh doanh (chỉ kê khai nếu không có mã số doanh nghiệp/mã số thuế): …………… Ngày cấp …/…/…… Nơi cấp: ………\n\nĐịa chỉ trụ sở chính: ……………………………………………………….\n\nDo1:\n\n- Ông/Bà: ……………………………………………..…………………\n\nSố định danh cá nhân: .../Số Hộ chiếu, Hộ chiếu nước ngoài hoặc giấy tờ có giá trị thay thế hộ chiếu nước ngoài (đối với người đại diện là người nước ngoài): …… Ngày cấp: … Nơi cấp: ……\n\nLà người đại diện theo pháp luật.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_69-PHU_LUC_I-68-2025-TT-BTC_chunk_0002",
+            "char_count": 911,
+            "source_file": "thongbao/MAU SO 69-PHU LUC I-68-2025-TT-BTC.doc",
+            "file_name": "MAU SO 69-PHU LUC I-68-2025-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:15:41",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_69-PHU_LUC_I-68-2025-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_69-PHU_LUC_I-68-2025-TT-BTC",
+        "text": ".../Số Hộ chiếu, Hộ chiếu nước ngoài hoặc giấy tờ có giá trị thay thế hộ chiếu nước ngoài (đối với người đại diện là người nước ngoài): …… Ngày cấp: … Nơi cấp: ……\n\nLà người đại diện theo pháp luật.\n\nTình trạng pháp lý của doanh nghiệp sau khi cập nhật: Đã giải thể, phá sản, chấm dứt tồn tại\n\n1. Đối với trường hợp doanh nghiệp đã giải thể thì ghi:\n\nLý do giải thể: ...\n\n2. Đối với trường hợp doanh nghiệp chấm dứt tồn tại thì ghi:\n\nLý do chấm dứt tồn tại (bị chia/bị hợp nhất/bị sáp nhập): ...\n\n| Nơi nhận: <br>- Tên, địa chỉ doanh nghiệp;<br>- Cơ quan quản lý thuế tỉnh, thành phố …<br>(để biết);<br>- Cơ quan hải quan tỉnh, thành phố … (để biết);<br>- ……….;<br>- Lưu: ……. | TRƯỞNG ĐƠN VỊ<br>(Ký, ghi họ tên và đóng dấu) |\n| --- | --- |\n\n___\n\nGhi tên của tất cả người đại diện theo pháp luật trong trường hợp công ty có nhiều hơn 01 người đại diện theo pháp luật.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_69-PHU_LUC_I-68-2025-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 865,
+            "source_file": "thongbao/MAU SO 69-PHU LUC I-68-2025-TT-BTC.doc",
+            "file_name": "MAU SO 69-PHU LUC I-68-2025-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:15:41",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

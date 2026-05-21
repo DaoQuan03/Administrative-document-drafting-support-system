@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_22-TC-183-QD-TCT_chunk_0001",
+        "doc_id": "thongbao_MAU_22-TC-183-QD-TCT",
+        "text": "Mẫu số 22/TC\n\n| TÊN CƠ QUAN CẤP TRÊN <br>TRỰC TIẾP<br>TÊN CƠ QUAN THUẾ RA QĐ<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: ………./TB-….(1)…. | ………., ngày ... tháng ... năm ... |\n\nTHÔNG BÁO\n\nVề việc gia hạn giải quyết tố cáo\n\nNgày... tháng ….năm ……., (Theo dấu công văn đến số ……..) ………….(2) nhận được đơn/công văn số …………, đề ngày...tháng...năm..., của …………………(3),…………………..địa chỉ: …………….. tố cáo ……………………(4) ……………..về việc …………………….(5) ………………….\n\nCăn cứ Luật Tố cáo số 25/2018/QH14 thì đơn tố cáo của ông/bà ...(3)... đã được thụ lý giải quyết.\n\nLý do gia hạn : ……………………………. (6) ……………………………………………………………….\n\nThời gian gia hạn: …………………………. ngày, kể từ ngày ……………………… (7) ……………………\n\nVậy thông báo để ...(3)... biết và thực hiện quyền, nghĩa vụ của người tố cáo theo đúng quy định của pháp luật./.\n\n| Nơi nhận: <br>- (3);<br>- Lưu: VT ...(8)... | THỦ TRƯỞNG CƠ QUAN THUẾ<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\n___",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_22-TC-183-QD-TCT_chunk_0002",
+            "char_count": 993,
+            "source_file": "thongbao/MAU 22-TC-183-QD-TCT.doc",
+            "file_name": "MAU 22-TC-183-QD-TCT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:24:36",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_22-TC-183-QD-TCT_chunk_0002",
+        "doc_id": "thongbao_MAU_22-TC-183-QD-TCT",
+        "text": "quyền, nghĩa vụ của người tố cáo theo đúng quy định của pháp luật./.\n\n| Nơi nhận: <br>- (3);<br>- Lưu: VT ...(8)... | THỦ TRƯỞNG CƠ QUAN THUẾ<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\n___\n\n(1) Chữ viết tắt tên cơ quan Thuế ra quyết định\n\n(2) Tên cơ quan Thuế ra văn bản\n\n(3) Họ tên người tố cáo\n\n(4) Tên, chức vụ của người bị tố cáo.\n\n(5) Tóm tắt nội dung vụ việc tố cáo.\n\n(6) Lý do gia hạn.\n\n(7) Ngày hết hạn giải quyết tố cáo theo quyết định thụ lý.\n\n(8) Bộ phận xử lý đơn",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_22-TC-183-QD-TCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 484,
+            "source_file": "thongbao/MAU 22-TC-183-QD-TCT.doc",
+            "file_name": "MAU 22-TC-183-QD-TCT.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:24:36",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

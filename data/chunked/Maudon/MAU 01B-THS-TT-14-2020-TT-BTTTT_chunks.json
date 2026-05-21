@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_01B-THS-TT-14-2020-TT-BTTTT_chunk_0001",
+        "doc_id": "Maudon_MAU_01B-THS-TT-14-2020-TT-BTTTT",
+        "text": "Mẫu 01B/THS\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nĐƠN ĐỀ NGHỊ HỖ TRỢ ĐẦU THU TRUYỀN HÌNH SỐ VỆ TINH\n\nKính gửi: Sở Thông tin và Truyền thông Tỉnh (Thành phố)\n\nHọ và tên chủ hộ:...\n\nSố CMND... nơi cấp... cấp ngày...\n\nĐiện thoại:...\n\nChỗ ở hiện tại:...\n\nMã số hộ nghèo, cận nghèo:\n\nLà chủ hộ gia đình thuộc diện:\n\nHộ nghèo\n\nHộ cận nghèo\n\ntheo tiêu chuẩn nghèo, cận nghèo quy định tại Quyết định số 59/2015/QĐ-TTg của Thủ tướng Chính phủ ngày 19/11/2015 về việc ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho giai đoạn 2016 - 2020.\n\nHiện nay, gia đình tôi đã có máy thu hình, không thu xem được truyền hình số mặt đất DVB-T2 và chưa sử dụng bất kỳ một trong các phương thức truyền hình trả tiền như truyền hình cáp, truyền hình vệ tinh, truyền hình IPTV.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_01B-THS-TT-14-2020-TT-BTTTT_chunk_0002",
+            "char_count": 782,
+            "source_file": "Maudon/MAU 01B-THS-TT-14-2020-TT-BTTTT.doc",
+            "file_name": "MAU 01B-THS-TT-14-2020-TT-BTTTT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:59:13",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_01B-THS-TT-14-2020-TT-BTTTT_chunk_0002",
+        "doc_id": "Maudon_MAU_01B-THS-TT-14-2020-TT-BTTTT",
+        "text": "đã có máy thu hình, không thu xem được truyền hình số mặt đất DVB-T2 và chưa sử dụng bất kỳ một trong các phương thức truyền hình trả tiền như truyền hình cáp, truyền hình vệ tinh, truyền hình IPTV.\n\nTôi làm đơn này đề nghị được hỗ trợ đầu thu truyền hình số để sử dụng cho gia đình và cam kết không bán, cho, tặng đầu thu được hỗ trợ. Tôi xin cam đoan các thông tin nêu trên là đúng sự thật, nếu sai tôi xin chịu hoàn toàn trách nhiệm trước pháp luật.\n\nTrân trọng cảm ơn./.\n\n..., ngày... tháng... năm...\n\n| XÁC NHẬN CỦA TRƯỞNG THÔN/PHỐ | NGƯỜI LÀM ĐƠN |\n| --- | --- |\n| (Ký và ghi rõ họ tên) | (Ký và ghi rõ họ tên) |\n\nXÁC NHẬN CỦA UBND XÃ, PHƯỜNG\n\n(Ký, ghi rõ họ tên, đóng dấu)\n\nGhi chú: Chỗ ở hiện tại ghi rõ tổ dân phố/thôn, xã/phường, quận/huyện, tỉnh (Thành phố).",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_01B-THS-TT-14-2020-TT-BTTTT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 769,
+            "source_file": "Maudon/MAU 01B-THS-TT-14-2020-TT-BTTTT.doc",
+            "file_name": "MAU 01B-THS-TT-14-2020-TT-BTTTT.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T03:59:13",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

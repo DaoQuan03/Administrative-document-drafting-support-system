@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_01-TLNV_5446-HD-NHCS-2020_chunk_0001",
+        "doc_id": "thongbao_MAU_01-TLNV_5446-HD-NHCS-2020",
+        "text": "Mẫu số 01/TLNV\n\nLập 02 liên: 01 liên lưu ngân hàng nơi cho vay, 01 liên giao khách hàng\n\n| NHCSXH TỈNH/TP…………<br>PGD HUYỆN……………..1<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n|  | …….., ngày … tháng … năm 20… |\n\nTHÔNG BÁO\n\nTIẾP NHẬN HỒ SƠ VAY VỐN\n\nNgày ... tháng ... năm …, Chi nhánh/PGD Ngân hàng Chính sách xã hội: ………………….. đã tiếp nhận hồ sơ vay vốn của khách hàng:\n\nTên khách hàng: …………………………………………………………………………..\n\nĐịa chỉ: …………………………………………………………………………..\n\nSố điện thoại: ……………………………….Email: …………………………..\n\nTên người đại diện (nếu có): ……………………………………………………………\n\nSố điện thoại: ……………………………….Email: …………………………..\n\nHồ sơ vay vốn gồm có:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_01-TLNV_5446-HD-NHCS-2020_chunk_0002",
+            "char_count": 704,
+            "source_file": "thongbao/MAU 01-TLNV_5446-HD-NHCS-2020.doc",
+            "file_name": "MAU 01-TLNV_5446-HD-NHCS-2020.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:12:13",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_01-TLNV_5446-HD-NHCS-2020_chunk_0002",
+        "doc_id": "thongbao_MAU_01-TLNV_5446-HD-NHCS-2020",
+        "text": "điện thoại: ……………………………….Email: …………………………..\n\nTên người đại diện (nếu có): ……………………………………………………………\n\nSố điện thoại: ……………………………….Email: …………………………..\n\nHồ sơ vay vốn gồm có:\n\n| STT | Tên giấy tờ | Tình trạng |\n| --- | --- | --- |\n| 1 | Đề nghị vay trả lương ngừng việc cho người lao động | Bản gốc đề nghị vay tháng ………. |\n| 2 | Danh sách người lao động bị ngừng việc do ảnh hưởng của dịch Covid-19 | Bản gốc danh sách tháng …………. |\n| 3 | Giấy ủy quyền (nếu có) | □ Không có      □ Có, bản gốc |\n| 4 | Giấy phép kinh doanh/Giấy phép hoạt động/Chứng chỉ hành nghề/Giấy phép đầu tư/Giấy chứng nhận đầu tư | Bản sao giấy…………………… có thời hạn hoạt động đến …/…/… |\n| 5 | Văn bản bổ nhiệm hoặc cử người đứng đầu pháp nhân theo quy định | □ Không có      □ Có, bản sao |\n| 6 | Văn bản thỏa thuận ngừng việc giữa người sử dụng lao động với người lao động | Bản sao: …….bản |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "thongbao_MAU_01-TLNV_5446-HD-NHCS-2020_chunk_0001",
+            "next_chunk_id": "thongbao_MAU_01-TLNV_5446-HD-NHCS-2020_chunk_0003",
+            "char_count": 863,
+            "source_file": "thongbao/MAU 01-TLNV_5446-HD-NHCS-2020.doc",
+            "file_name": "MAU 01-TLNV_5446-HD-NHCS-2020.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:12:13",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_01-TLNV_5446-HD-NHCS-2020_chunk_0003",
+        "doc_id": "thongbao_MAU_01-TLNV_5446-HD-NHCS-2020",
+        "text": "bản bổ nhiệm hoặc cử người đứng đầu pháp nhân theo quy định | □ Không có      □ Có, bản sao |\n| 6 | Văn bản thỏa thuận ngừng việc giữa người sử dụng lao động với người lao động | Bản sao: …….bản |\n\nChi nhánh/Phòng giao dịch NHCSXH …………………………………………………… sẽ gửi Thông báo kết quả phê duyệt cho vay/Thông báo từ chối cho vay trực tiếp đến Quý khách hàng chậm nhất ngày ………./………../……………\n\n|  | CÁN BỘ TIẾP NHẬN<br>(Ký, ghi rõ họ tên) |\n| --- | --- |\n\n___\n\n1 Thông báo được đóng dấu treo, đánh máy, in",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "thongbao_MAU_01-TLNV_5446-HD-NHCS-2020_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 494,
+            "source_file": "thongbao/MAU 01-TLNV_5446-HD-NHCS-2020.doc",
+            "file_name": "MAU 01-TLNV_5446-HD-NHCS-2020.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:12:13",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

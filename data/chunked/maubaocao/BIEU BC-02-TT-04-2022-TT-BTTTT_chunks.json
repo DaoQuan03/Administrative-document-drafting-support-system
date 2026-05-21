@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_BC-02-TT-04-2022-TT-BTTTT_chunk_0001",
+        "doc_id": "maubaocao_BIEU_BC-02-TT-04-2022-TT-BTTTT",
+        "text": "| Biểu BC-02<br>Ban hành kèm theo TT số ……./2022/TT-BTTTT | TỶ LỆ NGƯỜI DÂN ĐỌC BÁO CHÍ IN, BÁO CHÍ ĐIỆN TỬ | Đơn vị báo cáo: <br>Cục BC |\n| --- | --- | --- |\n| Ngày nhận báo cáo: Trước 15/3 năm tiếp theo | Năm 20... | Đơn vị nhận báo cáo: <br>Vụ KHTC, VP Bộ |\n\nĐơn vị tính: %",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_BIEU_BC-02-TT-04-2022-TT-BTTTT_chunk_0002",
+            "char_count": 276,
+            "source_file": "maubaocao/BIEU BC-02-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU BC-02-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:58:02",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_BC-02-TT-04-2022-TT-BTTTT_chunk_0002",
+        "doc_id": "maubaocao_BIEU_BC-02-TT-04-2022-TT-BTTTT",
+        "text": "BÁO CHÍ IN, BÁO CHÍ ĐIỆN TỬ | Đơn vị báo cáo: <br>Cục BC |\n| --- | --- | --- |\n| Ngày nhận báo cáo: Trước 15/3 năm tiếp theo | Năm 20... | Đơn vị nhận báo cáo: <br>Vụ KHTC, VP Bộ |\n\nĐơn vị tính: %\n\n| TT | Tên chỉ tiêu/địa bàn | Mã địa bàn | Tỷ lệ đọc báo | Đọc báo | Đọc báo | Đọc tạp chí | Đọc tạp chí | Ghi chú |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| TT | Tên chỉ tiêu/địa bàn | Mã địa bàn | Tỷ lệ đọc báo | In | Điện tử | In | Điện tử |  |\n| A | B |  | 1 | 2 | 3 | 4 | 5 | 6 |\n| I | CẢ NƯỚC |  |  |  |  |  |  |  |\n| II | Phân tổ theo giới |  |  |  |  |  |  |  |\n| 1 | Nam |  |  |  |  |  |  |  |\n| 2 | Nữ |  |  |  |  |  |  |  |\n| III | Phân tổ theo khu vực |  |  |  |  |  |  |  |\n| 1 | Thành thị |  |  |  |  |  |  |  |\n| 2 | Nông thôn |  |  |  |  |  |  |  |\n| IV | Phân tổ theo nhóm tuổi |  |  |  |  |  |  |  |\n| 1 | Dưới 12 tuổi |  |  |  |  |  |  |  |\n| 2 | Từ 12 đến 15 tuổi |  |  |  |  |  |  |  |\n| 3 | Từ 16 đến 18 tuổi |  |  |  |  |  |  |  |\n| 4 | Từ 19 đến 24 tuổi |  |  |  |  |  |  |  |\n| 5 | Từ 25 đến 34 tuổi |  |  |  |  |  |  |  |\n| 6 | Từ 35 đến 44 |  |  |  |  |  |  |  |\n| 7 | Từ 45 đến 54 |  |  |  |  |  |  |  |\n| 8 | Từ 55 đến 64 |  |  |  |  |  |  |  |\n| 9 | Từ 65 tuổi trở lên |  |  |  |  |  |  |  |\n| V | Theo trình độ học vấn |  |  |  |  |  |  |  |\n| 1 | Chưa học hết lớp 1 hoặc chưa bao giờ đến trường |  |  |  |  |  |  |  |\n| 2 | Không có bằng cấp |  |  |  |  |  |  |  |\n| 3 | Tốt nghiệp tiểu học |  |  |  |  |  |  |  |\n| 4 | Tốt nghiệp trung học cơ sở |  |  |  |  |  |  |  |\n| 5 | Tốt nghiệp trung học phổ thông |  |  |  |  |  |  |  |\n| 6 | Sơ cấp nghề |  |  |  |  |  |  |  |\n| 7 | Trung cấp nghề |  |  |  |  |  |  |  |\n| 8 | Trung học chuyên nghiệp |  |  |  |  |  |  |  |\n| 9 | Cao đẳng nghề |  |  |  |  |  |  |  |\n| 10 | Cao đẳng |  |  |  |  |  |  |  |\n| 11 | Đại học |  |  |  |  |  |  |  |\n| 12 | Trên Đại học |  |  |  |  |  |  |  |\n| 13 | Khác |  |  |  |  |  |  |  |\n| VI | Theo ngành sản xuất kinh doanh |  |  |  |  |  |  |  |\n| 1 | Nông nghiệp |  |  |  |  |  |  |  |\n| 2 | Lâm nghiệp |  |  |  |  |  |  |  |\n| 3 | Thủy sản |  |  |  |  |  |  |  |\n| 4 | Công nghiệp |  |  |  |  |  |  |  |\n| 5 | Xây dựng |  |  |  |  |  |  |  |\n| 6 | Thương nghiệp |  |  |  |  |  |  |  |\n| 7 | Dịch vụ |  |  |  |  |  |  |  |\n| 8 | Khác |  |  |  |  |  |  |  |\n| VII | Theo địa bàn tỉnh/thành phố trực thuộc Trung ương |  |  |  |  |  |  |  |\n| 1 | Hà Nội | 01 |  |  |  |  |  |  |\n| 2 | Hà Giang | 02 |  |  |  |  |  |  |\n| … | … | ... |  |  |  |  |  |  |\n| 63 | Cà Mau | 96 |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_BIEU_BC-02-TT-04-2022-TT-BTTTT_chunk_0001",
+            "next_chunk_id": "maubaocao_BIEU_BC-02-TT-04-2022-TT-BTTTT_chunk_0003",
+            "char_count": 2517,
+            "source_file": "maubaocao/BIEU BC-02-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU BC-02-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:58:02",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_BC-02-TT-04-2022-TT-BTTTT_chunk_0003",
+        "doc_id": "maubaocao_BIEU_BC-02-TT-04-2022-TT-BTTTT",
+        "text": "phố trực thuộc Trung ương |  |  |  |  |  |  |  |\n| 1 | Hà Nội | 01 |  |  |  |  |  |  |\n| 2 | Hà Giang | 02 |  |  |  |  |  |  |\n| … | … | ... |  |  |  |  |  |  |\n| 63 | Cà Mau | 96 |  |  |  |  |  |  |\n\n| TỔNG HỢP, LẬP BIỂU<br>(Thông tin người thực hiện) | KIỂM TRA BIỂU<br>(Thông tin người thực hiện) | Hà Nội, ngày... tháng... năm 20...<br>CỤC TRƯỞNG<br>(Ký điện tử) |\n| --- | --- | --- |\n\na) Khái niệm, phương pháp tính\n\nTỷ lệ người dân đọc báo, tạp chí: Là tỷ lệ % giữa số lượng người có đọc báo, tạp chí (in /điện tử) và dân số tương ứng của kỳ báo cáo. Người đọc báo in là người trong vòng 1 tháng trở về trước tính đến thời điểm khảo sát có đọc báo, tạp chí in. Người đọc báo điện tử là người trong vòng 1 tuần trở về trước tính đến thời điểm khảo sát có đọc báo, tạp chí điện tử.\n\nb) Cách ghi biểu\n\nGhi thông tin, số liệu theo hướng dẫn cụ thể trên biểu mẫu.\n\nc) Nguồn số liệu\n\nĐiều tra, khảo sát (bao gồm cả điều tra thống kê, điều tra xã hội học,...).",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "maubaocao_BIEU_BC-02-TT-04-2022-TT-BTTTT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 959,
+            "source_file": "maubaocao/BIEU BC-02-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU BC-02-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:58:02",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

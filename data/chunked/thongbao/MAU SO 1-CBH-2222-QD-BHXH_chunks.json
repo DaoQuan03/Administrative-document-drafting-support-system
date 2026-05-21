@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_1-CBH-2222-QD-BHXH_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_1-CBH-2222-QD-BHXH",
+        "text": "Mẫu số 1-CBH\n\nTHÔNG BÁO KINH PHÍ CHI TRẢ CÁC CHẾ ĐỘ BHXH\n\nKính gửi: Bảo hiểm xã hội cơ sở……..\n\nCăn cứ Hợp đồng ủy quyền chi trả các chế độ BHXH, trợ cấp thất nghiệp và quản lý người hưởng BHXH hàng tháng số …….ngày  … tháng … năm …;\n\nBHXH tỉnh …. thông báo đã chuyển kinh phí chi trả các chế độ BHXH tháng….năm……để tổ chức chi trả cho người hưởng trên địa bàn cơ sở…...; BHXH cơ sở….căn cứ thông báo này để theo dõi, hạch toán, quyết toán với tổ chức hỗ trợ chi trả..………………..\n\nSố tiền: ..……………………….., trong đó:\n\n+ Chế độ hàng tháng: ………………………\n\nChi bằng tiền mặt:……………….…………\n\nChi qua tài khoản cá nhân:….……………\n\n+ Chế độ một lần: ………………………\n\nChi bằng tiền mặt:……………….…………\n\nChi qua tài khoản cá nhân:….……………\n\nNgày chuyển tiền: ………………….………\n\nBHXH tỉnh……….thông báo để BHXH cơ sở……. biết, thực hiện./.\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: VT,… | GIÁM ĐỐC <br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\nHƯỚNG DẪN LẬP MẪU SỐ 1-CBH",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_1-CBH-2222-QD-BHXH_chunk_0002",
+            "char_count": 926,
+            "source_file": "thongbao/MAU SO 1-CBH-2222-QD-BHXH.doc",
+            "file_name": "MAU SO 1-CBH-2222-QD-BHXH.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:53:21",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_1-CBH-2222-QD-BHXH_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_1-CBH-2222-QD-BHXH",
+        "text": "tỉnh……….thông báo để BHXH cơ sở……. biết, thực hiện./.\n\n| Nơi nhận:<br>- Như trên;<br>- Lưu: VT,… | GIÁM ĐỐC <br>(Ký, ghi rõ họ tên, đóng dấu) |\n| --- | --- |\n\nHƯỚNG DẪN LẬP MẪU SỐ 1-CBH\n\na) Mục đích: Dùng để thông báo cho BHXH cơ sở biết số kinh phí chi trả cho người hưởng các chế độ BHXH trên địa bàn cơ sở do BHXH tỉnh chuyển cho tổ chức hỗ trợ chi trả. Làm cơ sở để BHXH cơ sở theo dõi, hạch toán, thanh quyết toán với tổ chức hỗ trợ chi trả.\n\nb) Đơn vị lập: BHXH tỉnh.\n\nc) Phương pháp lập: Lập theo từng lần chuyển tiền. BHXH tỉnh (Phòng Kế hoạch Tài chính) căn cứ số tiền chi BHXH đã chuyển cho cơ quan bưu điện của tháng trước còn dư (nếu có) trên Bảng thanh toán C74-HD với Danh sách chi trả để chuyển tiếp số kinh phí còn lại, Ủy nhiệm chi cho tổ chức hỗ trợ chi trả, lập Thông báo cho từng BHXH cơ sở số tiền chi trả cho người hưởng theo danh sách của từng BHXH cơ sở.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_1-CBH-2222-QD-BHXH_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 878,
+            "source_file": "thongbao/MAU SO 1-CBH-2222-QD-BHXH.doc",
+            "file_name": "MAU SO 1-CBH-2222-QD-BHXH.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:53:21",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

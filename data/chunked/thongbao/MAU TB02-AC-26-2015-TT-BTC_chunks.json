@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_TB02-AC-26-2015-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_TB02-AC-26-2015-TT-BTC",
+        "text": "| Mẫu: TB02/AC<br>(Ban hành kèm theo Thông tư số 26/2015/TT-BTC  ngày 27/02/2015 của Bộ Tài chính) |\n| --- |\n\n| CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập  - Tự do - Hạnh phúc |\n| --- |\n\nTHÔNG BÁO\n\nPhát hành hóa đơn\n\n(Dành cho Cục Thuế)\n\n1. Cục Thuế:……………………………………………………………………………\n\n2. Địa chỉ trụ sở:………………………………………………………………………..\n\n3. Số điện thoại:………………………………………………………………………...\n\n4. Các loại hoá đơn được phát hành:\n\n| STT | Tên loại<br>hoá đơn | Mẫu số | Ký hiệu | Số lượng | Từ số | Đến số | Ngày bắt đầu sử dụng | Doanh nghiệp in | Doanh nghiệp in |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Tên loại<br>hoá đơn | Mẫu số | Ký hiệu | Số lượng | Từ số | Đến số | Ngày bắt đầu sử dụng | Tên | MST |\n|  |  |  | 01AA/15P |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n\n| ……... , ngày………tháng………năm………<br>                     CỤC TRƯỞNG<br>                     (Ký, đóng dấu, ghi rõ họ tên) |\n| --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_TB02-AC-26-2015-TT-BTC_chunk_0002",
+            "char_count": 996,
+            "source_file": "thongbao/MAU TB02-AC-26-2015-TT-BTC.doc",
+            "file_name": "MAU TB02-AC-26-2015-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:19:22",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_TB02-AC-26-2015-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_TB02-AC-26-2015-TT-BTC",
+        "text": "|\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n\n| ……... , ngày………tháng………năm………<br>                     CỤC TRƯỞNG<br>                     (Ký, đóng dấu, ghi rõ họ tên) |\n| --- |\n\nNguồn: Thông tư 26/2015/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_TB02-AC-26-2015-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 229,
+            "source_file": "thongbao/MAU TB02-AC-26-2015-TT-BTC.doc",
+            "file_name": "MAU TB02-AC-26-2015-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:19:22",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

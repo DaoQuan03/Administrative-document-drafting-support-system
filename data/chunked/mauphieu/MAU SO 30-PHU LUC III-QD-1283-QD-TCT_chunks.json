@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_30-PHU_LUC_III-QD-1283-QD-TCT_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_30-PHU_LUC_III-QD-1283-QD-TCT",
+        "text": "Mẫu số 30: Phiếu gửi\n\n| TỔNG CỤC THUẾ<br>VĂN PHÒNG<br>------- |  |\n| --- | --- |\n\nPHIẾU GỬI\n\nKính gửi:…………………………………………… (Đơn vị chủ trì nhận bản chính)\n\n(Đơn vị phối hợp nhân bản sao: ………………………………………………………………)\n\n| Công khai văn bản lên Website: |  |  |\n| --- | --- | --- |\n\nVăn phòng xin gửi đến quý Vụ /đơn vị\n\n- Văn bản số: ……………………………………………………… ngày ……./ ……./ 202….\n\n- Mã đến TCT: ……………………………………………………… ngày ……./ ……./ 202….\n\n- Nội dung: …………………………………………………………………………………………\n\n………………………………………………………………………………………………………\n\n………………………………………………………………………………………………………\n\n………………………………………………………………………………………………………\n\n………………………………………………………………………………………………………\n\n………………………………………………………………………………………………………\n\n………………………………………………………………………………………………………\n\n………………………………………………………………………………………………………\n\n………………………………………………………………………………………………………\n\n………………………………………………………………………………………………………\n\n………………………………………………………………………………………………………\n\nĐề nghị đơn vị chủ trì trình lãnh đạo Tổng cục trước ngày ……./……./202..",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_30-PHU_LUC_III-QD-1283-QD-TCT_chunk_0002",
+            "char_count": 956,
+            "source_file": "mauphieu/MAU SO 30-PHU LUC III-QD-1283-QD-TCT.doc",
+            "file_name": "MAU SO 30-PHU LUC III-QD-1283-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:17:44",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_30-PHU_LUC_III-QD-1283-QD-TCT_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_30-PHU_LUC_III-QD-1283-QD-TCT",
+        "text": "nghị đơn vị chủ trì trình lãnh đạo Tổng cục trước ngày ……./……./202..\n\n| PHÂN CÔNG XỬ LÝ<br>CỦA LÃNH ĐẠO VỤ/ĐƠN VỊ | Hà Nội, ngày ……/……/20….<br>CHÁNH VĂN PHÒNG<br><br><br>(Ký, ghi rõ họ tên)<br><br><br>Họ và tên |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_30-PHU_LUC_III-QD-1283-QD-TCT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 226,
+            "source_file": "mauphieu/MAU SO 30-PHU LUC III-QD-1283-QD-TCT.doc",
+            "file_name": "MAU SO 30-PHU LUC III-QD-1283-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:17:44",
+            "chunked_at": "2026-05-21T21:52:10"
+        }
+    }
+]

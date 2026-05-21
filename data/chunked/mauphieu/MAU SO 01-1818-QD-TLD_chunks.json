@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-1818-QD-TLD_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_01-1818-QD-TLD",
+        "text": "MẪU SỐ 01\n\n(Kèm theo Quyết định số 1818/QĐ-TLĐ ngày 01 tháng 10 năm 2024 của Đoàn Chủ tịch Tổng Liên đoàn Lao động Việt Nam)\n\n| ……………… (1)<br>……………… (2)<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n\nPHIẾU XÁC ĐỊNH ĐỘ MẬT CỦA TÀI LIỆU CHỨA BÍ MẬT NHÀ NƯỚC\n\n1. Tài liệu chứa bí mật nhà nước: (số, ký hiệu, thời gian ban hành của tài liệu chứa bí mật nhà nước phát hành đi)\n\n2. Người đề xuất độ mật của bí mật nhà nước:\n\n3. Độ mật (3): TUYỆT MẬT □ TỐI MẬT □ MẬT □\n\n4. Căn cứ xác định (4):\n\n|  | LÃNH ĐẠO CƠ QUAN, ĐƠN VỊ <br>XÁC ĐỊNH BÍ MẬT NHÀ NƯỚC<br>(ký, ghi rõ họ tên, chức vụ) |\n| --- | --- |\n\n* Ghi chú: Mẫu này được áp dụng đối với tài liệu chứa bí mật nhà nước có đóng dấu độ mật.\n\n(1) Tên cơ quan chủ quản.\n\n(2) Tên cơ quan, đơn vị xác định bí mật nhà nước.\n\n(3) Ghi theo độ mật của tài liệu chứa bí mật nhà nước.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_01-1818-QD-TLD_chunk_0002",
+            "char_count": 888,
+            "source_file": "mauphieu/MAU SO 01-1818-QD-TLD.doc",
+            "file_name": "MAU SO 01-1818-QD-TLD.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:31:00",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-1818-QD-TLD_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_01-1818-QD-TLD",
+        "text": "áp dụng đối với tài liệu chứa bí mật nhà nước có đóng dấu độ mật.\n\n(1) Tên cơ quan chủ quản.\n\n(2) Tên cơ quan, đơn vị xác định bí mật nhà nước.\n\n(3) Ghi theo độ mật của tài liệu chứa bí mật nhà nước.\n\n(4) Ghi rõ việc xác định độ mật căn cứ vào quy định tại điều, khoản, điểm nào của danh mục bí mật nhà nước cụ thể.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-1818-QD-TLD_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 315,
+            "source_file": "mauphieu/MAU SO 01-1818-QD-TLD.doc",
+            "file_name": "MAU SO 01-1818-QD-TLD.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:31:00",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

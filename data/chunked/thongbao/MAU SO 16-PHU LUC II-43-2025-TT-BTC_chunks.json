@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_16-PHU_LUC_II-43-2025-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_16-PHU_LUC_II-43-2025-TT-BTC",
+        "text": "Mẫu số 16\n\n| TÊN TỔ HỢP TÁC<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: ……… | …., ngày … tháng … năm … |\n\nTHÔNG BÁO\n\nVề việc tạm ngừng kinh doanh/tiếp tục kinh doanh trở lại của tổ hợp tác\n\nKính gửi: (Tên Cơ quan đăng ký kinh doanh cấp xã) ………\n\nTên tổ hợp tác (ghi bằng chữ in hoa): ...\n\nMã số tổ hợp tác/Mã số thuế: ...\n\nThông báo tạm ngừng kinh doanh/tiếp tục kinh doanh trở lại như sau:\n\n1. Trường hợp tạm ngừng kinh doanh thì ghi:\n\nThời gian tạm ngừng kinh doanh: kể từ ngày …./…./…. đến hết ngày …./…./….\n\nLý do tạm ngừng kinh doanh: ...\n\n2. Trường hợp tiếp tục kinh doanh trở lại thì ghi:\n\nThời gian tiếp tục kinh doanh: kể từ ngày ….. tháng …. năm …..\n\nLý do tiếp tục kinh doanh: ...\n\nTổ hợp tác cam kết thông tin kê khai trong Thông báo này là hợp pháp, chính xác, trung thực và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung của Thông báo này.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_16-PHU_LUC_II-43-2025-TT-BTC_chunk_0002",
+            "char_count": 936,
+            "source_file": "thongbao/MAU SO 16-PHU LUC II-43-2025-TT-BTC.doc",
+            "file_name": "MAU SO 16-PHU LUC II-43-2025-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:01:06",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_16-PHU_LUC_II-43-2025-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_16-PHU_LUC_II-43-2025-TT-BTC",
+        "text": "do tiếp tục kinh doanh: ...\n\nTổ hợp tác cam kết thông tin kê khai trong Thông báo này là hợp pháp, chính xác, trung thực và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung của Thông báo này.\n\n|  | NGƯỜI ĐẠI DIỆN CỦA TỔ HỢP TÁC<br>(Ký, ghi họ tên)1 |\n| --- | --- |\n\n___\n\n1 Cá nhân (trong trường hợp đại diện tổ hợp tác là cá nhân) hoặc người đại diện hợp pháp của pháp nhân (trong trường hợp đại diện tổ hợp tác là pháp nhân) ký trực tiếp vào phần này.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_16-PHU_LUC_II-43-2025-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 458,
+            "source_file": "thongbao/MAU SO 16-PHU LUC II-43-2025-TT-BTC.doc",
+            "file_name": "MAU SO 16-PHU LUC II-43-2025-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:01:06",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_05-QD-1886-QD-BNN-TCCB_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_05-QD-1886-QD-BNN-TCCB",
+        "text": "Mẫu số 5\n\n| BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| ĐƠN VỊ…… | …….., ngày  tháng  năm |\n\nPHIẾU THAM GIA Ý KIẾN\n\nNhận xét, đánh giá cán bộ lãnh đạo trước khi bổ nhiệm lại\n\nCăn cứ vào bản tự nhận xét, đánh giá của cá nhân trong thời gian giữ chức vụ và ý kiến góp ý của tập thể đơn vị;\n\nTôi nhận xét, đánh giá trong thời gian giữ chức vụ của các cán bộ lãnh đạo có tên sau:\n\nHọ và tên:………………………………………………..…. Chức vụ: ……………...………………….\n\n1. Nhận xét, đánh giá\n\n| - Hoàn thành xuất sắc nhiệm vụ | □ |\n| --- | --- |\n| - Hoàn thành tốt nhiệm vụ | □ |\n| - Hoàn thành nhiệm vụ | □ |\n| - Không hoàn thành nhiệm vụ | □ |\n\n2. Đề nghị:\n\n| - Bổ nhiệm lại chức vụ cũ | □ |\n| --- | --- |\n| - Không bổ nhiệm lại | □ |\n\n3. Ý kiến khác:\n\n|  | (Không phải ký tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_05-QD-1886-QD-BNN-TCCB_chunk_0002",
+            "char_count": 873,
+            "source_file": "mauphieu/MAU SO 05-QD-1886-QD-BNN-TCCB.doc",
+            "file_name": "MAU SO 05-QD-1886-QD-BNN-TCCB.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:59:35",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_05-QD-1886-QD-BNN-TCCB_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_05-QD-1886-QD-BNN-TCCB",
+        "text": "vụ | □ |\n| - Không hoàn thành nhiệm vụ | □ |\n\n2. Đề nghị:\n\n| - Bổ nhiệm lại chức vụ cũ | □ |\n| --- | --- |\n| - Không bổ nhiệm lại | □ |\n\n3. Ý kiến khác:\n\n|  | (Không phải ký tên) |\n| --- | --- |\n\n* Ghi chú: Nhất trí ở mức nào và đề nghị bổ nhiệm lại hay không thì đánh dấu x vào ô vuông bên cạnh; Phiếu này được lưu tại đơn vị.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_05-QD-1886-QD-BNN-TCCB_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 327,
+            "source_file": "mauphieu/MAU SO 05-QD-1886-QD-BNN-TCCB.doc",
+            "file_name": "MAU SO 05-QD-1886-QD-BNN-TCCB.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:59:35",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    }
+]

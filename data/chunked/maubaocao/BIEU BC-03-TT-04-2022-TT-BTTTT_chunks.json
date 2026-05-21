@@ -1,0 +1,128 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0001",
+        "doc_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT",
+        "text": "| Biểu BC-03<br>Ban hành kèm theo TT số ……./2022/TT-BTTTT | MỘT SỐ KẾT QUẢ HOẠT ĐỘNG BÁO CHÍ | Đơn vị báo cáo: <br>Cơ quan báo, tạp chí |\n| --- | --- | --- |\n| Ngày nhận báo cáo: Kỳ 6 tháng: Trước 05/9 năm báo cáo. Kỳ năm: Trước 05/3 năm tiếp theo | 6 tháng đầu năm 20...<br>Năm 20... | Đơn vị nhận báo cáo: <br>Cục BC |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 7,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0002",
+            "char_count": 320,
+            "source_file": "maubaocao/BIEU BC-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU BC-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:58:07",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0002",
+        "doc_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT",
+        "text": "báo, tạp chí |\n| --- | --- | --- |\n| Ngày nhận báo cáo: Kỳ 6 tháng: Trước 05/9 năm báo cáo. Kỳ năm: Trước 05/3 năm tiếp theo | 6 tháng đầu năm 20...<br>Năm 20... | Đơn vị nhận báo cáo: <br>Cục BC |\n\n| 1. Doanh thu của báo, tạp chí: |  | (Tỷ đồng) |\n| --- | --- | --- |\n| Chia ra (1=1.1+1.2+1.3) |  |  |\n| 1.1. Từ đặt hàng, giao nhiệm vụ của cơ quan chủ quản: |  |  |\n| 1.2. Từ quảng cáo: |  |  |\n| 1.3. Thu từ nguồn khác: |  |  |\n|  |  |  |\n| 2. Số lượng bản in đã phát hành: |  | (Nghìn bản) |\n|  |  |  |\n| 3. Số tiền cơ quan báo, tạp chí nộp NSNN: |  | (Tỷ đồng) |\n|  |  |  |\n| 4. Số tiền chênh lệch thu - chi sau thuế của cơ quan báo chí [báo cáo năm]: |  | (Tỷ đồng) |\n|  |  |  |\n| 5. Số lượng lao động trong cơ quan báo, tạp chí: |  | (Người) |\n| Trong đó |  |  |\n| 5.1. Nữ: |  |  |\n| 5.2. Có trình độ Đại học trở lên: |  |  |\n| 5.3. Có trình độ Đại học, Cao đẳng: |  |  |\n| 5.4. Phóng viên: |  |  |\n| 5.5. Biên tập viên: |  |  |\n| 5.6. Cần được cấp mới, cấp lại thẻ nhà báo: |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 7,
+            "prev_chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0001",
+            "next_chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0003",
+            "char_count": 988,
+            "source_file": "maubaocao/BIEU BC-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU BC-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:58:07",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0003",
+        "doc_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT",
+        "text": "5.2. Có trình độ Đại học trở lên: |  |  |\n| 5.3. Có trình độ Đại học, Cao đẳng: |  |  |\n| 5.4. Phóng viên: |  |  |\n| 5.5. Biên tập viên: |  |  |\n| 5.6. Cần được cấp mới, cấp lại thẻ nhà báo: |  |  |\n\n6. Số lượng lao động của cơ quan báo, tạp chí chia theo địa bàn [báo cáo năm]\n\nĐơn vị tính: Người\n\n| TT | Địa bàn | Mã địa bàn | Tổng số | Trong đó, nữ | Ghi chú |\n| --- | --- | --- | --- | --- | --- |\n| A | B | C | 1 | 2 | 3 |\n| 1 | Hà Nội | 01 |  |  |  |\n| 2 | Hà Giang | 02 |  |  |  |\n| … | … | … |  |  |  |\n| 63 | Cà Mau | 96 |  |  |  |\n| … | … | … |  |  |  |\n\n| TỔNG HỢP, LẬP BIỂU<br>(Thông tin người thực hiện) |  | ….., ngày... tháng... năm 20...<br>TRƯỞNG ĐƠN VỊ<br>(Ký điện tử) |\n| --- | --- | --- |\n\na) Khái niệm, phương pháp tính\n\nDoanh thu của báo: Là tổng số tiền cơ quan báo (gồm báo in, báo điện tử, báo hoạt động hai loại hình in và điện tử) thu được từ các hoạt động của báo trong kỳ báo cáo.",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 7,
+            "prev_chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0002",
+            "next_chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0004",
+            "char_count": 909,
+            "source_file": "maubaocao/BIEU BC-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU BC-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:58:07",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0004",
+        "doc_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT",
+        "text": "Khái niệm, phương pháp tính\n\nDoanh thu của báo: Là tổng số tiền cơ quan báo (gồm báo in, báo điện tử, báo hoạt động hai loại hình in và điện tử) thu được từ các hoạt động của báo trong kỳ báo cáo.\n\nDoanh thu của tạp chí: Là tổng số tiền cơ quan tạp chí (gồm tạp chí in, tạp chí điện tử, tạp chí hoạt động hai loại hình in và điện tử) thu được từ các hoạt động của tạp chí trong kỳ báo cáo.\n\nSố lượng bản in: Gồm số lượng bán bảo in đã phát hành trong kỳ và số lượng bản tạp chí in đã phát hành trong kỳ.\n\nĐối với báo in: là số lượng bản báo in đã phát hành.\n\nĐối với tạp chí in: là số lượng bản tạp chí in đã phát hành.\n\nSố tiền cơ quan báo, tạp chí nộp NSNN: Là tổng số tiền cơ quan báo chí phải nộp vào NSNN theo quy định của pháp luật trong kỳ báo cáo, gồm thuế, phí, lệ phí và các khoản nộp ngân sách khác.",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 7,
+            "prev_chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0003",
+            "next_chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0005",
+            "char_count": 810,
+            "source_file": "maubaocao/BIEU BC-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU BC-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:58:07",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0005",
+        "doc_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT",
+        "text": "hành.\n\nSố tiền cơ quan báo, tạp chí nộp NSNN: Là tổng số tiền cơ quan báo chí phải nộp vào NSNN theo quy định của pháp luật trong kỳ báo cáo, gồm thuế, phí, lệ phí và các khoản nộp ngân sách khác.\n\nSố tiền chênh lệch thu - chi sau thuế của cơ quan báo chí: Là số tiền chênh lệch thu - chi còn lại của cơ quan báo, tạp chí sau khi trừ số tiền thuế TNDN phải nộp của kỳ báo cáo theo quy định.\n\nSố lượng lao động trong cơ quan báo, tạp chí: Là tổng số người lao động (gồm phóng viên, biên tập viên, quản lý, phục vụ) hưởng lương tại cơ quan báo, tạp chí tính đến thời điểm cuối kỳ báo cáo.\n\nb) Cách ghi biểu\n\nGhi thông tin, số liệu theo hướng dẫn cụ thể tại biểu mẫu. Sử dụng đúng đơn vị tính đã hướng dẫn.\n\nGhi số liệu phần bảng\n\nCột B: Ghi tên các địa bàn cơ quan báo chí có văn phòng đại diện thường trú (bao gồm tên các tỉnh/thành phố trực thuộc Trung ương, và dòng để ghi thông tin chung cho các văn phòng đại diện thường trú tại nước ngoài (nếu có)).",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 7,
+            "prev_chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0004",
+            "next_chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0006",
+            "char_count": 953,
+            "source_file": "maubaocao/BIEU BC-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU BC-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:58:07",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0006",
+        "doc_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT",
+        "text": "cơ quan báo chí có văn phòng đại diện thường trú (bao gồm tên các tỉnh/thành phố trực thuộc Trung ương, và dòng để ghi thông tin chung cho các văn phòng đại diện thường trú tại nước ngoài (nếu có)).\n\nCột C: Ghi mã địa bàn. Ghi theo bảng Danh mục và mã số đơn vị hành chính Việt Nam. Mã địa bàn nước ngoài - ký hiệu bằng hai ký tự tương ứng với tên miền cấp cao nhất tương ứng với quốc gia và vùng lãnh thổ tương ứng. Ví dụ; Trung Quốc ký hiệu là “CN” Hoa Kỳ ký hiện là “US”, Pháp ký hiệu là “FR”,..\n\nTrường hợp cơ quan báo chí không có văn phòng đại diện thường trú thì số lượng lao động được tính cho địa bàn tỉnh/thành phố trực thuộc Trung ương nơi cơ quan báo chí có trụ sở chính. Trường hợp có văn phòng đại diện thường trú tại tỉnh/thành phố khác (hoặc tại nước ngoài) thì ghi số lượng lao động thường trú tương ứng lại địa bàn đó. Tổng số lao động chia theo các địa bàn phải bằng tổng số lao động của cơ quan báo chí.\n\nc) Nguồn số liệu",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 7,
+            "prev_chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0005",
+            "next_chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0007",
+            "char_count": 941,
+            "source_file": "maubaocao/BIEU BC-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU BC-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:58:07",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0007",
+        "doc_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT",
+        "text": "phố khác (hoặc tại nước ngoài) thì ghi số lượng lao động thường trú tương ứng lại địa bàn đó. Tổng số lao động chia theo các địa bàn phải bằng tổng số lao động của cơ quan báo chí.\n\nc) Nguồn số liệu\n\nBiểu được lập từ thông tin, số liệu phục vụ hoạt động của cơ quan báo chí.",
+        "metadata": {
+            "chunk_index": 7,
+            "total_chunks": 7,
+            "prev_chunk_id": "maubaocao_BIEU_BC-03-TT-04-2022-TT-BTTTT_chunk_0006",
+            "next_chunk_id": null,
+            "char_count": 274,
+            "source_file": "maubaocao/BIEU BC-03-TT-04-2022-TT-BTTTT.doc",
+            "file_name": "BIEU BC-03-TT-04-2022-TT-BTTTT.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:58:07",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

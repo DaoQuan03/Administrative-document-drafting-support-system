@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_TT02_02-2013-TT-BCA_chunk_0001",
+        "doc_id": "Maudon_MAU_TT02_02-2013-TT-BCA",
+        "text": "Mẫu TT02\n\n(Ban hành kèm theo Thông tư số 02/2013/TT-BCA ngày 05 tháng 01 năm 2013)\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n-------------------------\n\nGIẤY CHẤP THUẬN CHO ĐĂNG KÝ THƯỜNG TRÚ VÀO NHÀ Ở THUỘC SỞ HỮU HỢP PHÁP CỦA CÁ NHÂN\n\nKính gửi: Cục Quản lý xuất nhập cảnh - Bộ Công an\n\n1. - Họ và tên:\n\n- Ngày, tháng, năm sinh:\tGiới tính: Nam:  \tNữ:\n\n- Số giấy CMND: \tNgày cấp: \tNơi cấp:\n\n- Nơi đăng ký hộ khẩu thường trú:\n\nSố điện thoại: \tSố Fax: \tE-mail:\n\n2. Hiện tôi đang có nhà ở thuộc sở hữu hợp pháp tại địa chỉ:\n\nTôi đồng ý cho những người có tên dưới đây đang thuê/mượn/ở nhờ được đăng ký thường trú vào địa chỉ nói trên:\n\n| Số TT | Họ và tên | Ngày sinh | Số hộ chiếu/ giấy tờ do nước ngoài cấp | Nơi cấp | Chỗ ở hiện nay ở nước ngoài | Quan hệ với người có chỗ ở hợp pháp |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |\n\nTôi xin cam đoan những nội dung trên đây là đúng sự thật./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_TT02_02-2013-TT-BCA_chunk_0002",
+            "char_count": 934,
+            "source_file": "Maudon/MAU TT02_02-2013-TT-BCA.doc",
+            "file_name": "MAU TT02_02-2013-TT-BCA.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:49:28",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_TT02_02-2013-TT-BCA_chunk_0002",
+        "doc_id": "Maudon_MAU_TT02_02-2013-TT-BCA",
+        "text": "| Chỗ ở hiện nay ở nước ngoài | Quan hệ với người có chỗ ở hợp pháp |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |\n\nTôi xin cam đoan những nội dung trên đây là đúng sự thật./.\n\n| Xác nhận của UBND phường, xã về các nội dung ghi tại điểm 1<br>...<br>...<br>...<br>... | Làm tại ,... ngày... tháng... năm...<br>Người viết giấy<br>(Ký, ghi rõ họ tên) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_TT02_02-2013-TT-BCA_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 385,
+            "source_file": "Maudon/MAU TT02_02-2013-TT-BCA.doc",
+            "file_name": "MAU TT02_02-2013-TT-BCA.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:49:28",
+            "chunked_at": "2026-05-21T21:52:04"
+        }
+    }
+]

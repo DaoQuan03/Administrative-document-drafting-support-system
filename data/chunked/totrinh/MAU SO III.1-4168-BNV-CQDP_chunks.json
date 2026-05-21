@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "totrinh_MAU_SO_III_1-4168-BNV-CQDP_chunk_0001",
+        "doc_id": "totrinh_MAU_SO_III_1-4168-BNV-CQDP",
+        "text": "Mẫu số 01 - Tờ trình của cơ quan chuyên môn thuộc Ủy ban nhân dân cấp xã\n\n| ỦY BAN NHÂN DÂN ……1<br>PHÒNG……2<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số:    /TTr-….…3 | ...4, ngày... tháng... năm... |\n\nTỜ TRÌNH\n\nVề việc ...5\n\nCăn cứ...6;\n\nCăn cứ...6;\n\nTheo đề nghị của...7.\n\nPhòng………2 trình … 8 về việc...5, với các nội dung như sau:\n\n...\n\n...9/.\n\n| Nơi nhận:<br>- ...;<br>- ...;<br>- Lưu: ...11...12. | TRƯỞNG PHÒNG 10<br>(Chữ ký của Trưởng phòng, dấu của cơ quan, tổ chức (nếu có))<br><br><br><br><br>Họ và tên |\n| --- | --- |\n\nGhi chú:\n\n1 Tên xã, phường, đặc khu.\n\n2 Tên cơ quan chuyên môn soạn thảo tờ trình.\n\n3 Chữ viết tắt của cơ quan chuyên môn soạn thảo tờ trình.\n\n4 Địa danh xã, phường, đặc khu.\n\n5 Trích yếu nội dung tờ trình.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "totrinh_MAU_SO_III_1-4168-BNV-CQDP_chunk_0002",
+            "char_count": 842,
+            "source_file": "totrinh/MAU SO III.1-4168-BNV-CQDP.doc",
+            "file_name": "MAU SO III.1-4168-BNV-CQDP.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:28:31",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    },
+    {
+        "chunk_id": "totrinh_MAU_SO_III_1-4168-BNV-CQDP_chunk_0002",
+        "doc_id": "totrinh_MAU_SO_III_1-4168-BNV-CQDP",
+        "text": "đặc khu.\n\n2 Tên cơ quan chuyên môn soạn thảo tờ trình.\n\n3 Chữ viết tắt của cơ quan chuyên môn soạn thảo tờ trình.\n\n4 Địa danh xã, phường, đặc khu.\n\n5 Trích yếu nội dung tờ trình.\n\n6 Các căn cứ để ban hành tờ trình (nếu có). Theo đó, ghi đầy đủ tên loại văn bản, số, ký hiệu, cơ quan ban hành, ngày tháng năm ban hành văn bản và tên gọi của văn bản (riêng luật, pháp lệnh không ghi số, ký hiệu, cơ quan ban hành).\n\n7 Tên của cơ quan, tổ chức, đơn vị, cá nhân đề nghị.\n\n8 Tên của cơ quan, tổ chức, đơn vị, cá nhân mà cơ quan chuyên môn trình văn bản.\n\n9 Nội dung tờ trình.\n\n10 Trường hợp Phó Trưởng phòng được Trưởng phòng phân công ký thay thì ghi rõ:\n\nKT. TRƯỞNG PHÒNG\nPHÓ TRƯỞNG PHÒNG\n\nTrường hợp cá nhân được Trưởng phòng phân công ký thay thì ghi rõ chức danh.\n\n11 Chữ viết tắt tên cơ quan chuyên môn soạn thảo và số lượng bản lưu (nếu cần).\n\n12 Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "totrinh_MAU_SO_III_1-4168-BNV-CQDP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 952,
+            "source_file": "totrinh/MAU SO III.1-4168-BNV-CQDP.doc",
+            "file_name": "MAU SO III.1-4168-BNV-CQDP.doc",
+            "folder": "totrinh",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:28:31",
+            "chunked_at": "2026-05-21T21:52:14"
+        }
+    }
+]

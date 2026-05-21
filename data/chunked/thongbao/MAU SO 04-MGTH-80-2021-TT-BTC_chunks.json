@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_04-MGTH-80-2021-TT-BTC_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_04-MGTH-80-2021-TT-BTC",
+        "text": "| TÊN CƠ QUAN CẤP TRÊN<br>TÊN CƠ QUAN THUẾ RA THÔNG BÁO | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- | --- |\n|  |  |\n| Số:.../TB-... | ..., ngày... tháng... năm... |\n\nTHÔNG BÁO\n\nVề việc người nộp thuế không thuộc diện được miễn (giảm) <tên khoản thu thuộc NSNN được miễn (giảm)>\n\nKính gửi:...\n\nMã số thuế:...\n\nĐịa chỉ nhận thông báo:...\n\nCăn cứ Luật Quản lý thuế, Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế và các văn bản hướng dẫn hiện hành,\n\nSau khi xử lý hồ sơ đề nghị miễn (giảm) thuế số ... ngày ... tháng... năm... của ...<tên người nộp thuế>... <Tên cơ quan thuế>... thông báo:\n\nTrường hợp của...<tên người nộp thuế>... không đủ điều kiện được miễn (giảm) < tên khoản thu thuộc NSNN được miễn (giảm)>. Lý do:\n\n1...\n\n2...\n\n...\n\nNếu có vướng mắc, đề nghị người nộp thuế liên hệ với cơ quan thuế ... <Tên cơ quan thuế>... theo số điện thoại:... địa chỉ:...\n\n... <Tên cơ quan thuế>... thông báo để người nộp thuế được biết./.",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_04-MGTH-80-2021-TT-BTC_chunk_0002",
+            "char_count": 972,
+            "source_file": "thongbao/MAU SO 04-MGTH-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 04-MGTH-80-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:43:54",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_04-MGTH-80-2021-TT-BTC_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_04-MGTH-80-2021-TT-BTC",
+        "text": "có vướng mắc, đề nghị người nộp thuế liên hệ với cơ quan thuế ... <Tên cơ quan thuế>... theo số điện thoại:... địa chỉ:...\n\n... <Tên cơ quan thuế>... thông báo để người nộp thuế được biết./.\n\n| Nơi nhận: <br>- Như trên;<br>...<br>- Lưu VT;... | THỦ TRƯỞNG CƠ QUAN THUẾ RA THÔNG BÁO<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\nNguồn: Thông tư 80/2021/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_04-MGTH-80-2021-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 364,
+            "source_file": "thongbao/MAU SO 04-MGTH-80-2021-TT-BTC.doc",
+            "file_name": "MAU SO 04-MGTH-80-2021-TT-BTC.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:43:54",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

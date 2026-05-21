@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_SO_02-QD-668-QD-BGDDT_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_SO_02-QD-668-QD-BGDDT",
+        "text": "| SỞ GIÁO DỤC VÀ ĐÀO TẠO<br>Tỉnh/Thành phố: ……………… | Phụ lục 2 |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_SO_02-QD-668-QD-BGDDT_chunk_0002",
+            "char_count": 78,
+            "source_file": "mauphieu/PHU LUC SO 02-QD-668-QD-BGDDT.doc",
+            "file_name": "PHU LUC SO 02-QD-668-QD-BGDDT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:46:21",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_SO_02-QD-668-QD-BGDDT_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_SO_02-QD-668-QD-BGDDT",
+        "text": "SỞ GIÁO DỤC VÀ ĐÀO TẠO<br>Tỉnh/Thành phố: ……………… | Phụ lục 2 |\n| --- | --- |\n\n| PHIẾU THI ĐẤU<br>GIẢI THỂ THAO HỌC SINH PHỔ THÔNG TOÀN QUỐC NĂM 2023<br>Cấp học: ……………..……….Môn thi:…………………………… | PHIẾU THI ĐẤU<br>GIẢI THỂ THAO HỌC SINH PHỔ THÔNG TOÀN QUỐC NĂM 2023<br>Cấp học: ……………..……….Môn thi:…………………………… | PHIẾU THI ĐẤU<br>GIẢI THỂ THAO HỌC SINH PHỔ THÔNG TOÀN QUỐC NĂM 2023<br>Cấp học: ……………..……….Môn thi:…………………………… |\n| --- | --- | --- |\n| Ảnh học sinh cỡ 3x4 có dấu giáp lai của trường | - Họ và tên học sinh:<br>- Ngày tháng năm sinh:                        - Giới tính:<br>- Mã học sinh:<br>- Số định danh cá nhân:<br>- Địa chỉ theo hộ khẩu thường trú:<br>- Lớp:                       Trường:<br>- Quận (huyện):                       - Tỉnh, thành phố: | - Họ và tên học sinh:<br>- Ngày tháng năm sinh:                        - Giới tính:<br>- Mã học sinh:<br>- Số định danh cá nhân:<br>- Địa chỉ theo hộ khẩu thường trú:<br>- Lớp:                       Trường:<br>- Quận (huyện):                       - Tỉnh, thành phố: |\n| BGH trường<br>(Ký, đóng dấu. Ghi rõ họ tên) | BGH trường<br>(Ký, đóng dấu. Ghi rõ họ tên) | Giám đốc Sở GDĐT<br>(Ký, đóng dấu. Ghi rõ họ, tên) |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_PHU_LUC_SO_02-QD-668-QD-BGDDT_chunk_0001",
+            "next_chunk_id": "mauphieu_PHU_LUC_SO_02-QD-668-QD-BGDDT_chunk_0003",
+            "char_count": 1177,
+            "source_file": "mauphieu/PHU LUC SO 02-QD-668-QD-BGDDT.doc",
+            "file_name": "PHU LUC SO 02-QD-668-QD-BGDDT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:46:21",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_SO_02-QD-668-QD-BGDDT_chunk_0003",
+        "doc_id": "mauphieu_PHU_LUC_SO_02-QD-668-QD-BGDDT",
+        "text": "(huyện):                       - Tỉnh, thành phố: |\n| BGH trường<br>(Ký, đóng dấu. Ghi rõ họ tên) | BGH trường<br>(Ký, đóng dấu. Ghi rõ họ tên) | Giám đốc Sở GDĐT<br>(Ký, đóng dấu. Ghi rõ họ, tên) |\n\nNguồn: Quyết định 668/QĐ-BGDĐT năm 2023",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_PHU_LUC_SO_02-QD-668-QD-BGDDT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 239,
+            "source_file": "mauphieu/PHU LUC SO 02-QD-668-QD-BGDDT.doc",
+            "file_name": "PHU LUC SO 02-QD-668-QD-BGDDT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:46:21",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

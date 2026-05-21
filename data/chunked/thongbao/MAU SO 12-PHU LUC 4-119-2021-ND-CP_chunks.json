@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_12-PHU_LUC_4-119-2021-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_12-PHU_LUC_4-119-2021-ND-CP",
+        "text": "| BỘ GIAO THÔNG VẬN TẢI<br>CỤC ĐƯỜNG BỘ VIỆT NAM<br>___<br>Số: ... /TCĐBVN-VT | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>___<br>..., ngày ... tháng ... năm... |\n| --- | --- |\n\nTHÔNG BÁO\n\nBỔ SUNG/THAY THẾ/NGỪNG PHƯƠNG TIỆN KHAI THÁC TUYẾN VẬN TẢI HÀNH KHÁCH CỐ ĐỊNH GIỮA VIỆT NAM VÀ LÀO\n\n___\n\nKính gửi:\n\nCục Đường bộ Việt Nam nhận được công văn số ... Ngày ... tháng ... năm... và hồ sơ kèm theo của ... về việc đăng ký bổ sung, thay thế, ngừng phương tiện khai thác tuyến vận tải hành khách cố định giữa Việt Nam và Lào;\n\nCục Đường bộ Việt Nam thông báo như sau:\n\nThông báo cho phép ... được bổ sung/thay thế/ngừng phương tiện khai thác tuyến vận tải hành khách cố định giữa Việt Nam và Lào.\n\nTên Tuyến: ... đi ... và ngược lại\n\nBến đi: Bến xe ...(tên tỉnh đi).\n\nBến đến: Bến xe ...(tên tỉnh đến).\n\nHành trình: ... cửa khẩu đi/cửa khẩu đến...\n\nSố lượng phương tiện bổ sung/thay thế/ngừng:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_12-PHU_LUC_4-119-2021-ND-CP_chunk_0002",
+            "char_count": 917,
+            "source_file": "thongbao/MAU SO 12-PHU LUC 4-119-2021-ND-CP.doc",
+            "file_name": "MAU SO 12-PHU LUC 4-119-2021-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:56:46",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_12-PHU_LUC_4-119-2021-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_12-PHU_LUC_4-119-2021-ND-CP",
+        "text": "Tuyến: ... đi ... và ngược lại\n\nBến đi: Bến xe ...(tên tỉnh đi).\n\nBến đến: Bến xe ...(tên tỉnh đến).\n\nHành trình: ... cửa khẩu đi/cửa khẩu đến...\n\nSố lượng phương tiện bổ sung/thay thế/ngừng:\n\nThời hạn triển khai hoạt động vận tải hành khách trên tuyến cho xe được bổ sung (thay thế/ngừng): 30 ngày kể từ ngày ký văn bản, trong thời hạn này đơn vị kinh doanh vận tải phải ký hợp đồng khai thác với bến xe hai đầu tuyến, báo cáo về Cục Đường bộ Việt Nam và Sở Giao thông vận tải ... Quá thời hạn nêu trên, văn bản thông báo không còn hiệu lực.\n\nCục Đường bộ Việt Nam đề nghị Sở Giao thông vận tải ... chỉ đạo Bến xe ... ký hợp đồng khai thác với phương tiện của đơn vị kinh doanh vận tải theo danh sách đã được Cục Đường bộ Việt Nam thông báo ở trên.\n\nYêu cầu ... tổ chức hoạt động vận tải hành khách trên tuyến theo đúng các quy định hiện hành.\n\n| Nơi nhận:<br>- Như trên;<br>- ...<br>- Lưu: ... | Cục Đường bộ Việt Nam<br>(Ký tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_12-PHU_LUC_4-119-2021-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 957,
+            "source_file": "thongbao/MAU SO 12-PHU LUC 4-119-2021-ND-CP.doc",
+            "file_name": "MAU SO 12-PHU LUC 4-119-2021-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T23:56:46",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

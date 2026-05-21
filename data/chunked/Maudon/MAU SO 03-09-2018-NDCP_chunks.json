@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "Maudon_MAU_SO_03-09-2018-NDCP_chunk_0001",
+        "doc_id": "Maudon_MAU_SO_03-09-2018-NDCP",
+        "text": "Mẫu số 03\n\n| TÊN DOANH NGHIỆP<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | …, ngày … tháng … năm … |\n\nĐƠN ĐỀ NGHỊ CẤP LẠI GIẤY PHÉP KINH DOANH\n\nKính gửi: Sở Công Thương tỉnh/thành phố………………………………\n\nI. Thông tin về doanh nghiệp:\n\n1. Tên doanh nghiệp: ...\n\nMã số doanh nghiệp: ...\n\nĐịa chỉ trụ sở chính: ...\n\nĐiện thoại: …………………………. Fax: …………………. Email: ………….. Website:...\n\nNgười đại diện theo pháp luật của doanh nghiệp: ...\n\n2. Giấy phép kinh doanh hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa số... do... cấp lần đầu ngày... tháng... năm...; cấp đăng ký thay đổi lần1 … ngày... tháng...năm...\n\nII. Đề nghị cấp lại Giấy phép kinh doanh hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa số... như sau:\n\nLý do cấp lại: ...\n\nIII. Doanh nghiệp cam kết:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "Maudon_MAU_SO_03-09-2018-NDCP_chunk_0002",
+            "char_count": 896,
+            "source_file": "Maudon/MAU SO 03-09-2018-NDCP.doc",
+            "file_name": "MAU SO 03-09-2018-NDCP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:23:52",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    },
+    {
+        "chunk_id": "Maudon_MAU_SO_03-09-2018-NDCP_chunk_0002",
+        "doc_id": "Maudon_MAU_SO_03-09-2018-NDCP",
+        "text": "Đề nghị cấp lại Giấy phép kinh doanh hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa số... như sau:\n\nLý do cấp lại: ...\n\nIII. Doanh nghiệp cam kết:\n\n1. Chịu trách nhiệm trước pháp luật về tính hợp pháp, chính xác và trung thực của nội dung Đơn và Hồ sơ đề nghị cấp lại Giấy phép kinh doanh.\n\n2. Chấp hành nghiêm chỉnh các quy định của pháp luật Việt Nam và các quy định của Giấy phép kinh doanh.\n\n3. Hoàn trả Giấy phép kinh doanh đã được cấp trước đó theo đúng quy định tại khoản 5 Điều 19 Nghị định này./.\n\n| Các tài liệu gửi kèm:<br>1. …;<br>2. …;<br>3. …. | ĐẠI DIỆN THEO PHÁP LUẬT CỦA DOANH NGHIỆP<br>(Ký, ghi họ tên và đóng dấu) |\n| --- | --- |\n\n___\n\n1 Ghi đăng ký thay đổi lần gần nhất.\n\nNguồn: Nghị định 09/2018/NĐ-CP",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "Maudon_MAU_SO_03-09-2018-NDCP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 761,
+            "source_file": "Maudon/MAU SO 03-09-2018-NDCP.doc",
+            "file_name": "MAU SO 03-09-2018-NDCP.doc",
+            "folder": "Maudon",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T04:23:52",
+            "chunked_at": "2026-05-21T21:52:03"
+        }
+    }
+]

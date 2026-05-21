@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_23-PHU_LUC_I-34-2025-ND-CP_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_23-PHU_LUC_I-34-2025-ND-CP",
+        "text": "Mẫu số 23\n\n| …………..<br>…………..<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: …./TBHH-………. | ……, ngày …. tháng … năm …. |\n\nTHÔNG BÁO HÀNG HẢI\n\nVề thông số kỹ thuật của luồng hàng hải ………….\n\nVùng biển:……………………………………………………………………….\n\nTên luồng:………………………………………………….(nếu có)…………..\n\nCăn cứ:…………………………………………………………………………\n\nCục Hàng hải Việt Nam/Cảng vụ Hàng hải ……………. thông\t báo về thông số kỹ thuật của ………………………… như sau:\n\nTrong phạm vi đáy luồng hàng hải rộng ... m, được giới hạn và hướng dẫn bởi hệ thống báo hiệu hàng hải, độ sâu được xác định bằng máy hồi âm tần số ... kHz tính đến mực nước \"số 0 hải đồ\" đạt... m.\n\nHƯỚNG DẪN HÀNG HẢI (NẾU CẦN)\n\n……………………………………………………………………………………..………………",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_23-PHU_LUC_I-34-2025-ND-CP_chunk_0002",
+            "char_count": 757,
+            "source_file": "thongbao/MAU SO 23-PHU LUC I-34-2025-ND-CP.doc",
+            "file_name": "MAU SO 23-PHU LUC I-34-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:05:43",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_23-PHU_LUC_I-34-2025-ND-CP_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_23-PHU_LUC_I-34-2025-ND-CP",
+        "text": "bởi hệ thống báo hiệu hàng hải, độ sâu được xác định bằng máy hồi âm tần số ... kHz tính đến mực nước \"số 0 hải đồ\" đạt... m.\n\nHƯỚNG DẪN HÀNG HẢI (NẾU CẦN)\n\n……………………………………………………………………………………..………………\n\n| Nơi nhận:<br>- Cục Hàng hải Việt Nam (để b/c);<br>(trường hợp Cảng vụ thông báo định kỳ)<br>- Các Cảng vụ hàng hải;<br>- Tổng Công ty Bảo đảm An toàn hàng hải...;<br>- Tổ chức hoa tiêu hàng hải...;<br>- Công ty TNHH MTV Thông tin điện tử hàng hải Việt Nam;<br>- Website Cục Hàng hải Việt Nam...;<br>- ……………………………….. | ……………………….<br>Người có thẩm quyền ký, đóng dấu |\n| --- | --- |\n\nGhi chú:\n\n1. Có thể thông báo độ sâu của từng đoạn luồng trên một tuyến luồng.\n\n2. Nếu trên một đoạn luồng có các điểm độ sâu cục bộ nhỏ hơn độ sâu chung trên toàn tuyến, không ảnh hưởng đến an toàn hàng hải thì có thể công bố độ sâu lớn hơn và chỉ rõ các khu vực có những điểm độ sâu nhỏ hơn độ sâu được công bố.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_23-PHU_LUC_I-34-2025-ND-CP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 896,
+            "source_file": "thongbao/MAU SO 23-PHU LUC I-34-2025-ND-CP.doc",
+            "file_name": "MAU SO 23-PHU LUC I-34-2025-ND-CP.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:05:43",
+            "chunked_at": "2026-05-21T21:52:12"
+        }
+    }
+]

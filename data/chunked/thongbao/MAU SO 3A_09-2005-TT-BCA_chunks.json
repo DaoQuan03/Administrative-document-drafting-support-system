@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "thongbao_MAU_SO_3A_09-2005-TT-BCA_chunk_0001",
+        "doc_id": "thongbao_MAU_SO_3A_09-2005-TT-BCA",
+        "text": "|  | Mẫu số 03A/TB ban hành kèm theo <br>Thông tư số 09/2005/TT-BCA <br>ngày 05/9/2005 của Bộ Công an |\n| --- | --- |\n\n| ỦY BAN NHÂN DÂN<br>………………………<br>Số:…./TB | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc |\n| --- | --- |\n\nTHÔNG BÁO\n\nVề việc cho phép tiến hành hoạt động tập trung đông người ở nơi công cộng\n\nKính gửi: ...\n\nCăn cứ Nghị định số 38/2005/NĐ-CP Ngày 18/3/2005 của Chính phủ qui định một số biện pháp bảo đảm trật tự công cộng và Thông tư số 09/2005/TT-BCA ngày 05/9/2005 của Bộ Công an hướng dẫn thi hành một số điều của Nghị định số 38/2005/NĐ-CP;\n\nCăn cứ vào yêu cầu của việc bảo đảm an ninh, trật tự công cộng;\n\nSau khi xem xét hồ sơ đăng ký hoạt động tập trung đông người ở nơi công cộng của ông (bà) ... đại diện cho ...\n\ngửi UBND ... ngày ... tháng ... năm ...,\n\nỦY BAN NHÂN DÂN ...\n\nTHÔNG BÁO:\n\n1. Đồng ý cho phép ông (bà) ...\n\nSinh ngày ... tháng ... năm ... Dân tộc: ...; Quốc tịch: ...; Tôn giáo: ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "thongbao_MAU_SO_3A_09-2005-TT-BCA_chunk_0002",
+            "char_count": 947,
+            "source_file": "thongbao/MAU SO 3A_09-2005-TT-BCA.doc",
+            "file_name": "MAU SO 3A_09-2005-TT-BCA.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:12:31",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "thongbao_MAU_SO_3A_09-2005-TT-BCA_chunk_0002",
+        "doc_id": "thongbao_MAU_SO_3A_09-2005-TT-BCA",
+        "text": "diện cho ...\n\ngửi UBND ... ngày ... tháng ... năm ...,\n\nỦY BAN NHÂN DÂN ...\n\nTHÔNG BÁO:\n\n1. Đồng ý cho phép ông (bà) ...\n\nSinh ngày ... tháng ... năm ... Dân tộc: ...; Quốc tịch: ...; Tôn giáo: ...\n\nCMND số: ... cấp ngày ...tháng... năm ...; Cơ quan cấp:...Nguyên quán: ...\n\nNơi đăng ký hộ khẩu thường trú: ...\n\nNơi ở hiện tại: ...\n\nNghề nghiệp: ...\n\nĐại diện cho tổ chức: ... được phép tiến hành các hoạt động tập trung đông người ở nơi công cộng theo nội dung đã cam kết trong bản đăng ký với Uỷ ban nhân dân ... ngày ... tháng ... năm ...\n\n2. Ông (bà) ... và các tổ chức, cá nhân liên quan có trách nhiệm thực hiện đúng nội dung đã cam kết trong bản đăng ký và nghiêm chỉnh chấp hành các quy định của pháp luật về bảo đảm trật tự công cộng, nếu sai, phải hoàn toàn chịu trách nhiệm trước pháp luật.\n\n| Nơi nhận:<br>- Như trên;<br>- UBND….<br>- Công an….<br>- Lưu……… | ……., ngày…. tháng…. năm…..<br>CHỦ TỊCH ỦY BAN NHÂN DÂN<br>(Ký tên, đóng dấu) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "thongbao_MAU_SO_3A_09-2005-TT-BCA_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 963,
+            "source_file": "thongbao/MAU SO 3A_09-2005-TT-BCA.doc",
+            "file_name": "MAU SO 3A_09-2005-TT-BCA.doc",
+            "folder": "thongbao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:12:31",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]

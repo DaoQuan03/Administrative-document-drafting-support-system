@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_BIEU_4d-58-2018-TT-BTC_chunk_0001",
+        "doc_id": "maubaocao_BIEU_4d-58-2018-TT-BTC",
+        "text": "BIỂU 4d.\n\nĐối tượng được bảo lãnh:\n\nDự án:\n\nBÁO CÁO TÌNH HÌNH VAY TRẢ NỢ KHOẢN VAY ỨNG VỐN\nTỪ QUỸ TÍCH LŨY TRẢ NỢ, NGÂN SÁCH NHÀ NƯỚC\nKỳ 6 tháng (Tháng.../Năm ...)\n\n| STT | Hợp đồng vay Quỹ tích lũy/ NSNN (*) | Trị giá vay | Đồng tiền | Thời gian vay (năm) | Dư nợ đầu kỳ | Trả nợ | Trả nợ | Trả nợ | Lãi suất (cố định/thả nổi (**) | Lãi suất (cố định/thả nổi (**) | Lãi suất (cố định/thả nổi (**) | Dư nợ cuối kỳ | Dư nợ lũy kế |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| STT | Hợp đồng vay Quỹ tích lũy/ NSNN (*) | Trị giá vay | Đồng tiền | Thời gian vay (năm) | Dư nợ đầu kỳ | Ngày | Gốc | Lãi | Từ... | đến... | Lãi suất |  |  |\n| 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Tổng |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_BIEU_4d-58-2018-TT-BTC_chunk_0002",
+            "char_count": 996,
+            "source_file": "maubaocao/BIEU 4d-58-2018-TT-BTC.doc",
+            "file_name": "BIEU 4d-58-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:57:29",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_BIEU_4d-58-2018-TT-BTC_chunk_0002",
+        "doc_id": "maubaocao_BIEU_4d-58-2018-TT-BTC",
+        "text": "|  |  |  |  |  |\n| 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Tổng |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\nGhi chú: Khoản thanh toán nào được gốc hóa\n\n(*) Trường hợp một Dự án có nhiều Hợp đồng vay Quỹ Tích lũy trả nợ/NSNN\n\n(**) Trường hợp lãi suất khoản vay là lãi suất thả nổi, đề nghị cung cấp thêm thông tin về lãi suất lề và mức lãi suất thả nổi (%) áp dụng trong kỳ.\n\n| NGƯỜI LẬP BIỂU<br>(ký và ghi rõ họ tên) | KẾ TOÁN TRƯỞNG<br>(ký và ghi rõ họ tên) | Ngày (lập báo cáo)<br>NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT CỦA ĐỐI TƯỢNG ĐƯỢC BẢO LÃNH<br>(ký tên, đóng dấu) |\n| --- | --- | --- |\n\nNguồn: Thông tư 58/2018/TT-BTC",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_BIEU_4d-58-2018-TT-BTC_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 709,
+            "source_file": "maubaocao/BIEU 4d-58-2018-TT-BTC.doc",
+            "file_name": "BIEU 4d-58-2018-TT-BTC.doc",
+            "folder": "maubaocao",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:57:29",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

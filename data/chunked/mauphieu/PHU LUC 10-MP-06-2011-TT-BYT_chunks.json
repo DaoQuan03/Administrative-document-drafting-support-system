@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_PHU_LUC_10-MP-06-2011-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_PHU_LUC_10-MP-06-2011-TT-BYT",
+        "text": "Phụ lục số 10-MP\n\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc\n\nPHIẾU ĐĂNG KÝ QUẢNG CÁO MỸ PHẨM,\n\nTỔ CHỨC HỘI THẢO, SỰ KIỆN GIỚI THIỆU MỸ PHẨM\n\nSố: ...\n\nKính gửi: Cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh\n\n1. Tên đơn vị đăng ký hồ sơ:\n\n2. Địa chỉ:\n\n3. Số điện thoại, Fax, E-mail:\n\n4. Số giấy phép hoạt động (giấy chứng nhận đăng ký kinh doanh):\n\n5. Tên, số điện thoại của người hoặc bộ phận chịu trách nhiệm đăng ký hồ sơ:\n\n6. Danh mục mỹ phẩm đăng ký quảng cáo, tổ chức hội thảo, sự kiện giới thiệu mỹ phẩm:\n\n| STT | Tên mỹ phẩm | Số tiếp nhận Phiếu công bố sản phẩm mỹ phẩm | Hình thức quảng cáo (đối với hồ sơ đăng ký quảng cáo mỹ phẩm) | Thời gian, địa điểm dự kiến tổ chức hội thảo, sự kiện giới thiệu mỹ phẩm (đối với hồ sơ đăng ký tổ chức hội thảo, sự kiện giới thiệu mỹ phẩm) | Lần thứ |\n| --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |\n| 2 |  |  |  |  |  |\n| … |  |  |  |  |  |\n\n7. Tài liệu gửi kèm:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_PHU_LUC_10-MP-06-2011-TT-BYT_chunk_0002",
+            "char_count": 953,
+            "source_file": "mauphieu/PHU LUC 10-MP-06-2011-TT-BYT.doc",
+            "file_name": "PHU LUC 10-MP-06-2011-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:35:12",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_PHU_LUC_10-MP-06-2011-TT-BYT_chunk_0002",
+        "doc_id": "mauphieu_PHU_LUC_10-MP-06-2011-TT-BYT",
+        "text": "với hồ sơ đăng ký tổ chức hội thảo, sự kiện giới thiệu mỹ phẩm) | Lần thứ |\n| --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |\n| 2 |  |  |  |  |  |\n| … |  |  |  |  |  |\n\n7. Tài liệu gửi kèm:\n\n- Nội dung (dự kiến) quảng cáo hoặc tổ chức hội thảo, sự kiện giới thiệu mỹ phẩm của từng sản phẩm.\n\n- Bản sao Phiếu công bố sản phẩm mỹ phẩm đã được cấp số tiếp nhận.\n\n8. Cam kết của đơn vị đăng ký quảng cáo mỹ phẩm:\n\nChúng tôi đã nghiên cứu kỹ Thông tư Quy định về quản lý mỹ phẩm số ... ngày ... tháng ... năm … của Bộ Y tế và cam kết sẽ tuân thủ các quy định của Thông tư này vì sức khoẻ và lợi ích của người sử dụng mỹ phẩm.\n\n... , ngày ... tháng ... năm ...\n\nGiám đốc đơn vị\n\n(Ký tên, đóng dấu)\n\n(Ghi rõ họ và tên người ký)",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_PHU_LUC_10-MP-06-2011-TT-BYT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 729,
+            "source_file": "mauphieu/PHU LUC 10-MP-06-2011-TT-BYT.doc",
+            "file_name": "PHU LUC 10-MP-06-2011-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T02:35:12",
+            "chunked_at": "2026-05-21T21:52:11"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_25-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0001",
+        "doc_id": "mauphieu_MAU_25-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "...\n\nBV: ...\n\nPhiếu xét nghiệm\n\ngiải phẫu bệnh sinh thiết\n\nMS: 25/BV-02\n\nSố ...\n\nThường:                 Cấp cứu:\n\n- Họ tên người bệnh: ...                        Tuổi: ...  Nam/Nữ\n\n- Địa chỉ: ... ...\n\n- Khoa: ... Buồng: ...Giường: ...\n\n- Yêu cầu xét nghiệm:...\n\n...\n\n- Sinh thiết được lấy từ:\n\n...\n\n...\n\n- Cố định bằng dung dịch: ...  lúc: ... giờ..., ngày .../.../ ...\n\n- Tóm tắt dấu hiệu lâm sàng chính và các xét nghiệm khác: ...\n\n...\n\n...\n\n...\n\n...\n\n- Quá trình điều trị:\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n- Nhận xét đại thể khi lấy sinh thiết:\n\n...\n\n...\n\n...\n\n...\n\n- Kết quả sinh thiết lần trước (nếu có):\n\n...\n\n...\n\n- Chẩn đoán lâm sàng:\n\n...\n\n...\n\nGửi ngày ... tháng ... năm ...\n\nBác sĩ điều trị\n\nHọ tên ...\n\nKết quả sinh thiết:\n\n- Người pha bệnh phẩm: ... Pha ngày .../.../ ...\n\n- Số mảnh: ... - Phương pháp nhuộm: ...\n\n- Tiêu bản làm xong ngày .../.../...  Người làm tiêu bản: ...\n\n1. Nhận xét đại thể:\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n2. Nhận xét vi thể:\n\n...\n\n...\n\n...\n\n...\n\n...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_25-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0002",
+            "char_count": 985,
+            "source_file": "mauphieu/MAU 25-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 25-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:01:47",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_25-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0002",
+        "doc_id": "mauphieu_MAU_25-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT",
+        "text": "Số mảnh: ... - Phương pháp nhuộm: ...\n\n- Tiêu bản làm xong ngày .../.../...  Người làm tiêu bản: ...\n\n1. Nhận xét đại thể:\n\n...\n\n...\n\n...\n\n...\n\n...\n\n...\n\n2. Nhận xét vi thể:\n\n...\n\n...\n\n...\n\n...\n\n...\n\n3. Chẩn đoán giải phẫu bệnh:\n\n...\n\n...\n\n...\n\n...\n\n...\n\n4. Sự phù hợp với chẩn đoán lâm sàng:\n\n...\n\n...\n\n...\n\nTrả ngày ... tháng ... năm ...\n\nBác sĩ đọc kết quả                                                                                                Bác sĩ điều trị\n\nHọ tên: ...                                                                         Họ tên ...",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_25-BV-02_PHU_LUC_XXIX_32-2023-TT-BYT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 566,
+            "source_file": "mauphieu/MAU 25-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "file_name": "MAU 25-BV-02_PHU LUC XXIX_32-2023-TT-BYT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:01:47",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

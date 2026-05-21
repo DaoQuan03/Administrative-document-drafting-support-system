@@ -1,0 +1,182 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0001",
+        "doc_id": "mauphieu_MAU_02_56-QD-BYT-2024",
+        "text": "BỘ Y TẾ\n\nMẪU SỐ 2\n\nPHIẾU KHẢO SÁT Ý KIẾN NGƯỜI BỆNH NGOẠI TRÚ\n\nNhằm nâng cao chất lượng khám, chữa bệnh, hướng tới sự hài lòng người bệnh, chúng tôi tiến hành khảo sát về mức độ hài lòng của Ông/Bà. Ý kiến của Ông/Bà sẽ giúp bệnh viện từng bước cải tiến chất lượng. Các thông tin sẽ được bảo mật và không ảnh hưởng đến việc điều trị của Ông/Bà. Xin trân trọng cảm ơn!\n\n1. Tên, mã bệnh viện: …………………………………. 2. Ngày điền phiếu………………..\n\n3. Người phỏng vấn/điền phiếu:    a. Người bệnh tự điền (hoặc người nhà)\n\nb. Nhân viên của bệnh viện\n\nc. Bộ Y tế, Sở Y tế hoặc các đoàn giám sát của cơ quan quản lý d. Tổ chức độc lập\n\ne. Đối tượng khác, ghi rõ…\n\n4. Người trả lời là: a. Người bệnh b. Người nhà\n\nTHÔNG TIN NGƯỜI BỆNH",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 10,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0002",
+            "char_count": 716,
+            "source_file": "mauphieu/MAU 02_56-QD-BYT-2024.doc",
+            "file_name": "MAU 02_56-QD-BYT-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:47:19",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0002",
+        "doc_id": "mauphieu_MAU_02_56-QD-BYT-2024",
+        "text": "của bệnh viện\n\nc. Bộ Y tế, Sở Y tế hoặc các đoàn giám sát của cơ quan quản lý d. Tổ chức độc lập\n\ne. Đối tượng khác, ghi rõ…\n\n4. Người trả lời là: a. Người bệnh b. Người nhà\n\nTHÔNG TIN NGƯỜI BỆNH\n\n| A1.   Giới tính:    1. Nam    2. Nữ  3. Khác | A2.    a. Tuổi …… b. Hoặc năm sinh…… |\n| --- | --- |\n| A3.    Số di động liên hệ: | A4.  Ước  tính  khoảng  cách  từ  nơi  sinh<br>sống đến bệnh viện: ………..km |\n| A5.    Ông/Bà có sử dụng thẻ BHYT cho lần khám này không?                  1. Có     2. Không | A5.    Ông/Bà có sử dụng thẻ BHYT cho lần khám này không?                  1. Có     2. Không |\n| A6.    Nơi sinh sống hiện nay: 1. Thành thị    2. Nông thôn    3. Vùng sâu, xa khó khăn | A6.    Nơi sinh sống hiện nay: 1. Thành thị    2. Nông thôn    3. Vùng sâu, xa khó khăn |\n| A7.    Phân loại mức sống của gia đình: 1. Nghèo  2. Cận nghèo    3. Khác | A7.    Phân loại mức sống của gia đình: 1. Nghèo  2. Cận nghèo    3. Khác |\n| A8.    Đây là lần khám thứ mấy của Ông/Bà tại bệnh viện? Lần thứ…… (ghi số 1, 2…) | A8.    Đây là lần khám thứ mấy của Ông/Bà tại bệnh viện? Lần thứ…… (ghi số 1, 2…) |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 10,
+            "prev_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0003",
+            "char_count": 1106,
+            "source_file": "mauphieu/MAU 02_56-QD-BYT-2024.doc",
+            "file_name": "MAU 02_56-QD-BYT-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:47:19",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0003",
+        "doc_id": "mauphieu_MAU_02_56-QD-BYT-2024",
+        "text": "2. Cận nghèo    3. Khác |\n| A8.    Đây là lần khám thứ mấy của Ông/Bà tại bệnh viện? Lần thứ…… (ghi số 1, 2…) | A8.    Đây là lần khám thứ mấy của Ông/Bà tại bệnh viện? Lần thứ…… (ghi số 1, 2…) |\n\nĐÁNH GIÁ VIỆC SỬ DỤNG DỊCH VỤ Y TẾ\n\nÔng/Bà đánh dấu gạch chéo vào một số từ 1 đến 5, tương ứng với mức độ hài lòng hoặc nhận xét từ rất kém đến rất tốt cho từng câu hỏi dưới đây. Nếu không sử dụng dịch vụ hoặc không có ý kiến thì đánh dấu gạch chéo vào số 0.\n\n| 1      là:<br>Rất không hài lòng<br>hoặc: Rất kém | 2   là: Không hài lòng<br>hoặc: Kém | 3   là: Bình thường hoặc: Trung bình | 4   là: Hài lòng hoặc: Tốt | 5   là:<br>Rất hài lòng<br>hoặc: Rất tốt | 0   là:<br>không sử<br>dụng |\n| --- | --- | --- | --- | --- | --- |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 10,
+            "prev_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0004",
+            "char_count": 727,
+            "source_file": "mauphieu/MAU 02_56-QD-BYT-2024.doc",
+            "file_name": "MAU 02_56-QD-BYT-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:47:19",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0004",
+        "doc_id": "mauphieu_MAU_02_56-QD-BYT-2024",
+        "text": "lòng<br>hoặc: Kém | 3   là: Bình thường hoặc: Trung bình | 4   là: Hài lòng hoặc: Tốt | 5   là:<br>Rất hài lòng<br>hoặc: Rất tốt | 0   là:<br>không sử<br>dụng |\n| --- | --- | --- | --- | --- | --- |\n\n| A. Khả năng tiếp cận | A. Khả năng tiếp cận | A. Khả năng tiếp cận |\n| --- | --- | --- |\n| A1. | Các biển báo, chỉ dẫn đường đến bệnh viện rõ ràng, dễ nhìn, dễ tìm. | 1     2    3    4    5    0 |\n| A2. | Các sơ đồ, biển báo chỉ dẫn đường đến các khoa, phòng trong bệnh viện rõ ràng, dễ hiểu, dễ tìm. | 1     2    3    4    5    0 |\n| A3. | Các khối nhà, cầu thang được đánh số rõ ràng, dễ tìm. | 1     2    3    4    5    0 |\n| A4. | Các lối đi trong bệnh viện, hành lang bằng phẳng, dễ đi. | 1     2    3    4    5    0 |\n| A5. | Có thể tìm hiểu các thông tin và đăng ký khám qua điện thoại, trang tin<br>điện tử của bệnh viện (website) thuận tiện. | 1     2    3    4    5    0 |\n\nB. Sự minh bạch thông tin và thủ tục khám bệnh, điều trị",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 10,
+            "prev_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0003",
+            "next_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0005",
+            "char_count": 942,
+            "source_file": "mauphieu/MAU 02_56-QD-BYT-2024.doc",
+            "file_name": "MAU 02_56-QD-BYT-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:47:19",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0005",
+        "doc_id": "mauphieu_MAU_02_56-QD-BYT-2024",
+        "text": "hiểu các thông tin và đăng ký khám qua điện thoại, trang tin<br>điện tử của bệnh viện (website) thuận tiện. | 1     2    3    4    5    0 |\n\nB. Sự minh bạch thông tin và thủ tục khám bệnh, điều trị\n\nB1.   Quy trình khám bệnh được niêm yết rõ ràng, công khai, dễ hiểu. B2.   Các quy trình, thủ tục khám bệnh đơn giản, thuận tiện.\n\nB3.   Giá dịch vụ y tế niêm yết rõ ràng, công khai.\n\nB4.\tNhân viên y tế tiếp đón, hướng dẫn người bệnh làm các thủ tục niềm nở, tận tình.\n\nB5.\tĐược xếp hàng theo thứ tự trước sau khi làm các thủ tục đăng ký, nộp tiền, khám bệnh, xét nghiệm, chiếu chụp.\n\nB6.   Đánh giá thời gian chờ đợi làm thủ tục đăng ký khám. B7.   Đánh giá thời gian chờ tới lượt bác sỹ khám.\n\nB8.   Đánh giá thời gian được bác sỹ khám và tư vấn.\n\nB9.   Đánh giá thời gian chờ làm xét nghiệm, chiếu chụp.\n\nB10.  Đánh giá thời gian chờ nhận kết quả xét nghiệm, chiếu chụp.\n\nC. Cơ sở vật chất và phương tiện phục vụ người bệnh\n\nC1.   Có phòng/sảnh chờ khám sạch sẽ, thoáng mát vào mùa hè; kín gió và",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 10,
+            "prev_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0004",
+            "next_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0006",
+            "char_count": 998,
+            "source_file": "mauphieu/MAU 02_56-QD-BYT-2024.doc",
+            "file_name": "MAU 02_56-QD-BYT-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:47:19",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0006",
+        "doc_id": "mauphieu_MAU_02_56-QD-BYT-2024",
+        "text": "chụp.\n\nB10.  Đánh giá thời gian chờ nhận kết quả xét nghiệm, chiếu chụp.\n\nC. Cơ sở vật chất và phương tiện phục vụ người bệnh\n\nC1.   Có phòng/sảnh chờ khám sạch sẽ, thoáng mát vào mùa hè; kín gió và\n\nấm áp vào mùa đông.\n\nC2.   Phòng chờ có đủ ghế ngồi cho người bệnh và sử dụng tốt.\n\nC3.   Phòng chờ có quạt (điều hòa) đầy đủ, hoạt động thường xuyên.\n\nC4.   Phòng chờ có các phương tiện giúp người bệnh có tâm lý thoải mái như\n\nti-vi, tranh ảnh, tờ rơi, nước uống...\n\nC5.   Được bảo đảm sự riêng tư khi khám bệnh, chiếu chụp, làm thủ thuật. C6.   Nhà vệ sinh thuận tiện, sử dụng tốt, sạch sẽ.\n\nC7.   Môi trường trong khuôn viên bệnh viện xanh, sạch, đẹp.\n\nC8.   Khu khám bệnh bảo đảm an ninh, trật tự, phòng ngừa trộm cắp cho\n\nngười dân.\n\nD. Thái độ ứng xử, năng lực chuyên môn của nhân viên y tế\n\nD1.   Nhân viên y tế (bác sỹ, điều dưỡng) có lời nói, thái độ, giao tiếp đúng\n\nmực.\n\nD2.\tNhân viên phục vụ (hộ lý, bảo vệ, kế toán…) có lời nói, thái độ, giao tiếp đúng mực.",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 10,
+            "prev_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0005",
+            "next_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0007",
+            "char_count": 971,
+            "source_file": "mauphieu/MAU 02_56-QD-BYT-2024.doc",
+            "file_name": "MAU 02_56-QD-BYT-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:47:19",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0007",
+        "doc_id": "mauphieu_MAU_02_56-QD-BYT-2024",
+        "text": "môn của nhân viên y tế\n\nD1.   Nhân viên y tế (bác sỹ, điều dưỡng) có lời nói, thái độ, giao tiếp đúng\n\nmực.\n\nD2.\tNhân viên phục vụ (hộ lý, bảo vệ, kế toán…) có lời nói, thái độ, giao tiếp đúng mực.\n\nD3.   Được nhân viên y tế tôn trọng, đối xử công bằng, quan tâm, giúp đỡ. D4.   Năng lực chuyên môn của bác sỹ, điều dưỡng đáp ứng mong đợi.\n\nE. Kết quả cung cấp dịch vụ\n\nE1.   Kết quả khám bệnh đã đáp ứng được nguyện vọng của Ông/Bà.\n\nE2.   Các hóa đơn, phiếu thu, đơn thuốc và kết quả khám bệnh được cung cấp\n\nđầy đủ, rõ ràng, minh bạch và được giải thích nếu có thắc mắc.\n\nE3.   Đánh giá mức độ tin tưởng về chất lượng dịch vụ y tế. E4.   Đánh giá mức độ hài lòng về giá cả dịch vụ y tế.\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0",
+        "metadata": {
+            "chunk_index": 7,
+            "total_chunks": 10,
+            "prev_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0006",
+            "next_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0008",
+            "char_count": 979,
+            "source_file": "mauphieu/MAU 02_56-QD-BYT-2024.doc",
+            "file_name": "MAU 02_56-QD-BYT-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:47:19",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0008",
+        "doc_id": "mauphieu_MAU_02_56-QD-BYT-2024",
+        "text": "2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0",
+        "metadata": {
+            "chunk_index": 8,
+            "total_chunks": 10,
+            "prev_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0007",
+            "next_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0009",
+            "char_count": 659,
+            "source_file": "mauphieu/MAU 02_56-QD-BYT-2024.doc",
+            "file_name": "MAU 02_56-QD-BYT-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:47:19",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0009",
+        "doc_id": "mauphieu_MAU_02_56-QD-BYT-2024",
+        "text": "2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n1     2    3    4    5    0\n\n| E5. | Ông/Bà cho nhận xét về số tiền chi trả có tương xứng với chất lượng dịch vụ y tế không? | Ông/Bà cho nhận xét về số tiền chi trả có tương xứng với chất lượng dịch vụ y tế không? | 1. Rất đắt so với chất lượng<br>2. Đắt hơn so với chất lượng<br>3. Tương xứng so với chất lượng<br>4. Rẻ hơn so với chất lượng<br>5. Không tự chi trả nên không biết (do BHYT<br>hoặc người khác thanh toán)<br>6. Ý kiến khác, ghi rõ…… | 1. Rất đắt so với chất lượng<br>2. Đắt hơn so với chất lượng<br>3. Tương xứng so với chất lượng<br>4. Rẻ hơn so với chất lượng<br>5. Không tự chi trả nên không biết (do BHYT<br>hoặc người khác thanh toán)<br>6. Ý kiến khác, ghi rõ…… |\n| --- | --- | --- | --- | --- |\n| G | Thông tin bổ sung | Thông tin bổ sung | Thông tin bổ sung | Thông tin bổ sung |\n| G1 | Đánh giá chung, bệnh viện đã đáp ứng được bao nhiêu % so với<br>mong đợi của Ông/Bà trước khi đi khám bệnh?<br>(điền số từ 0% đến 100% hoặc có thể điền trên 100% nếu vượt quá<br>mong đợi của Ông/Bà) | Đánh giá chung, bệnh viện đã đáp ứng được bao nhiêu % so với<br>mong đợi của Ông/Bà trước khi đi khám bệnh?<br>(điền số từ 0% đến 100% hoặc có thể điền trên 100% nếu vượt quá<br>mong đợi của Ông/Bà) | Đánh giá chung, bệnh viện đã đáp ứng được bao nhiêu % so với<br>mong đợi của Ông/Bà trước khi đi khám bệnh?<br>(điền số từ 0% đến 100% hoặc có thể điền trên 100% nếu vượt quá<br>mong đợi của Ông/Bà) | …………..% |\n| G2 | Nếu  có  nhu  cầu  khám,  chữa bệnh,  Ông/Bà  có  quay  trở  lại hoặc giới thiệu cho người khác đến không? | 1. Chắc chắn không bao giờ quay lại<br>2. Không muốn quay lại nhưng có ít lựa chọn khác<br>3. Muốn chuyển sang bệnh viện khác<br>4. Có thể sẽ quay lại<br>5. Chắc chắn sẽ quay lại hoặc giới thiệu cho người khác<br>6. Khác (ghi rõ)……………………………………… | 1. Chắc chắn không bao giờ quay lại<br>2. Không muốn quay lại nhưng có ít lựa chọn khác<br>3. Muốn chuyển sang bệnh viện khác<br>4. Có thể sẽ quay lại<br>5. Chắc chắn sẽ quay lại hoặc giới thiệu cho người khác<br>6. Khác (ghi rõ)……………………………………… | 1. Chắc chắn không bao giờ quay lại<br>2. Không muốn quay lại nhưng có ít lựa chọn khác<br>3. Muốn chuyển sang bệnh viện khác<br>4. Có thể sẽ quay lại<br>5. Chắc chắn sẽ quay lại hoặc giới thiệu cho người khác<br>6. Khác (ghi rõ)……………………………………… |\n| G3 | Đối với các câu hỏi có ý kiến chưa hài lòng, đề nghị Ông/Bà ghi rõ thêm lý do tại sao không hài lòng? |  |  |  |\n| G4 | Ông/Bà có ý kiến hoặc nhận xét gì khác giúp bệnh viện và hệ thống khám, chữa bệnh phục vụ người bệnh được tốt hơn, xin ghi rõ? |  |  |  |",
+        "metadata": {
+            "chunk_index": 9,
+            "total_chunks": 10,
+            "prev_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0008",
+            "next_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0010",
+            "char_count": 2714,
+            "source_file": "mauphieu/MAU 02_56-QD-BYT-2024.doc",
+            "file_name": "MAU 02_56-QD-BYT-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:47:19",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0010",
+        "doc_id": "mauphieu_MAU_02_56-QD-BYT-2024",
+        "text": "ghi rõ thêm lý do tại sao không hài lòng? |  |  |  |\n| G4 | Ông/Bà có ý kiến hoặc nhận xét gì khác giúp bệnh viện và hệ thống khám, chữa bệnh phục vụ người bệnh được tốt hơn, xin ghi rõ? |  |  |  |\n\nXin trân trọng cảm ơn!",
+        "metadata": {
+            "chunk_index": 10,
+            "total_chunks": 10,
+            "prev_chunk_id": "mauphieu_MAU_02_56-QD-BYT-2024_chunk_0009",
+            "next_chunk_id": null,
+            "char_count": 221,
+            "source_file": "mauphieu/MAU 02_56-QD-BYT-2024.doc",
+            "file_name": "MAU 02_56-QD-BYT-2024.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T00:47:19",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_CTT23-AC-QD-2262-QD-TCT_chunk_0001",
+        "doc_id": "mauphieu_MAU_CTT23-AC-QD-2262-QD-TCT",
+        "text": "Mẫu: CTT23/AC\n\n| CƠ QUAN THUẾ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | …….., ngày …. tháng …. năm ….. |\n\nKý hiệu: AA/2011\n\nSố 0000001\n\nPHIẾU NHẬP ẤN CHỈ\n\nLiên 1: Lưu\n\nNhập ấn chỉ từ: …………….\n\nVề kho:\n\nTheo hóa đơn (Phiếu xuất ấn chỉ) số: ……….. ngày …/…/….\n\nGhi chú:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 3,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_CTT23-AC-QD-2262-QD-TCT_chunk_0002",
+            "char_count": 331,
+            "source_file": "mauphieu/MAU CTT23-AC-QD-2262-QD-TCT.doc",
+            "file_name": "MAU CTT23-AC-QD-2262-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:19:37",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_CTT23-AC-QD-2262-QD-TCT_chunk_0002",
+        "doc_id": "mauphieu_MAU_CTT23-AC-QD-2262-QD-TCT",
+        "text": "| …….., ngày …. tháng …. năm ….. |\n\nKý hiệu: AA/2011\n\nSố 0000001\n\nPHIẾU NHẬP ẤN CHỈ\n\nLiên 1: Lưu\n\nNhập ấn chỉ từ: …………….\n\nVề kho:\n\nTheo hóa đơn (Phiếu xuất ấn chỉ) số: ……….. ngày …/…/….\n\nGhi chú:\n\n| STT | Tên ấn chỉ | ĐVT | Số lượng | Ký hiệu | Từ quyển đến quyển | Từ số đến số | Đơn giá vốn | Trị giá vốn (VNĐ) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9=4x8 |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  | Cộng |  | xxx |  |  |  |  | xxxx |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_CTT23-AC-QD-2262-QD-TCT_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_CTT23-AC-QD-2262-QD-TCT_chunk_0003",
+            "char_count": 887,
+            "source_file": "mauphieu/MAU CTT23-AC-QD-2262-QD-TCT.doc",
+            "file_name": "MAU CTT23-AC-QD-2262-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:19:37",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_CTT23-AC-QD-2262-QD-TCT_chunk_0003",
+        "doc_id": "mauphieu_MAU_CTT23-AC-QD-2262-QD-TCT",
+        "text": "|  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  | Cộng |  | xxx |  |  |  |  | xxxx |\n\n|  |  | LĐ PHỤ TRÁCH | LĐ PHỤ TRÁCH |\n| --- | --- | --- | --- |\n| THỦ KHO<br>(Ký, ghi rõ họ tên) | CÔNG CHỨC NHẬP ẤN CHỈ<br>(Ký, ghi rõ họ tên) | PHÒNG TV-QT-AC CỤC THUẾ/ĐỘI HC-NS-TV-QT-AC CHI CỤC THUẾ<br>(Ký, ghi rõ họ tên) | PHÒNG TTHT CỤC THUẾ/ĐỘI TTHT CHI CỤC THUẾ<br>(Ký, ghi rõ họ tên) |\n\nGhi chú:\n\n- Đối với Cục Thuế TP. Hà Nội và Cục Thuế TP. Hồ Chí Minh: Lãnh đạo Phụ trách ký Phiếu nhập giao Lãnh đạo Văn phòng và Lãnh đạo Phòng Tuyên truyền hỗ trợ\n\n- Đối với Chi cục Thuế không có Đội HC-NS-TV-QT-AC, giao Lãnh đạo Đội Tổng hợp ký Phiếu nhập",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 3,
+            "prev_chunk_id": "mauphieu_MAU_CTT23-AC-QD-2262-QD-TCT_chunk_0002",
+            "next_chunk_id": null,
+            "char_count": 752,
+            "source_file": "mauphieu/MAU CTT23-AC-QD-2262-QD-TCT.doc",
+            "file_name": "MAU CTT23-AC-QD-2262-QD-TCT.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:19:37",
+            "chunked_at": "2026-05-21T21:52:05"
+        }
+    }
+]

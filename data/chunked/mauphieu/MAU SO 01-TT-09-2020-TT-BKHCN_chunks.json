@@ -1,0 +1,110 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN",
+        "text": "Mẫu số 1\n\n09/2020/TT-BKHCN\n\n| CƠ QUAN CHỦ QUẢN[1]<br>CƠ QUAN THẨM ĐỊNH/CÓ Ý KIẾN[2]<br>-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n|  | ..., ngày... tháng... năm 20... |\n\nPHIẾU THẨM ĐỊNH HOẶC CÓ Ý KIẾN VỀ CÔNG NGHỆ DỰ ÁN ĐẦU TƯ CỦA CƠ QUAN CÓ THẨM QUYỀN TRONG GIAI ĐOẠN XEM XÉT QUYẾT ĐỊNH CHỦ TRƯƠNG ĐẦU TƯ\n\nI. CÁC THÔNG TIN CHUNG\n\n1. Cơ quan, tổ chức đề nghị thẩm định hoặc có ý kiến về công nghệ:...\n\n2. Văn bản đề nghị số:... ngày... tháng... năm 20...\n\n3. Tên Dự án đầu tư (DAĐT):...\n\n4. Mục tiêu của DAĐT:...\n\n5. Quy mô DAĐT[3]:...\n\n6. Tổng mức đầu tư, nguồn vốn đầu tư dự kiến:...\n\n7. Chủ đầu tư:...\n\n8. Địa điểm thực hiện DAĐT:...\n\n9. Tiến độ thực hiện DAĐT:...\n\n10. Thời hạn thực hiện của DAĐT:...\n\n11. Phân loại DAĐT[4]:...\n\n12. Thẩm quyền quyết định chủ trương đầu tư:...\n\n13. Đề xuất cơ chế, chính sách đặc thù (nếu có):...\n\nII. RÀ SOÁT VIỆC ĐÁP ỨNG ĐẦY ĐỦ CÁC NỘI DUNG GIẢI TRÌNH VỀ CÔNG NGHỆ TRONG HỒ SƠ DAĐT",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 6,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN_chunk_0002",
+            "char_count": 989,
+            "source_file": "mauphieu/MAU SO 01-TT-09-2020-TT-BKHCN.doc",
+            "file_name": "MAU SO 01-TT-09-2020-TT-BKHCN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:38:27",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN",
+        "text": "Thẩm quyền quyết định chủ trương đầu tư:...\n\n13. Đề xuất cơ chế, chính sách đặc thù (nếu có):...\n\nII. RÀ SOÁT VIỆC ĐÁP ỨNG ĐẦY ĐỦ CÁC NỘI DUNG GIẢI TRÌNH VỀ CÔNG NGHỆ TRONG HỒ SƠ DAĐT\n\n(Theo quy định tại khoản 1 Điều 16 Luật Chuyển giao công nghệ)",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN_chunk_0001",
+            "next_chunk_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN_chunk_0003",
+            "char_count": 247,
+            "source_file": "mauphieu/MAU SO 01-TT-09-2020-TT-BKHCN.doc",
+            "file_name": "MAU SO 01-TT-09-2020-TT-BKHCN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:38:27",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN_chunk_0003",
+        "doc_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN",
+        "text": "Đề xuất cơ chế, chính sách đặc thù (nếu có):...\n\nII. RÀ SOÁT VIỆC ĐÁP ỨNG ĐẦY ĐỦ CÁC NỘI DUNG GIẢI TRÌNH VỀ CÔNG NGHỆ TRONG HỒ SƠ DAĐT\n\n(Theo quy định tại khoản 1 Điều 16 Luật Chuyển giao công nghệ)\n\n| TT | NỘI DUNG GIẢI TRÌNH | CÓ | KHÔNG | GHI CHÚ |\n| --- | --- | --- | --- | --- |\n| 1 | Phân tích và lựa chọn phương án công nghệ |  |  |  |\n| 2 | Tên, xuất xứ, sơ đồ quy trình công nghệ |  |  |  |\n| 3 | Dự kiến danh mục, tình trạng, thông số kỹ thuật của máy móc, thiết bị chính trong dây chuyền công nghệ thuộc phương án công nghệ lựa chọn |  |  |  |\n| 4 | Tài liệu chứng minh công nghệ đã được kiểm chứng (nếu có) |  |  |  |\n| 5 | Dự kiến kế hoạch đào tạo, hỗ trợ kỹ thuật để vận hành dây chuyền công nghệ (nếu có) |  |  |  |\n| 6 | Điều kiện sử dụng công nghệ[5] |  |  |  |\n| 7 | Đánh giá sơ bộ tác động của công nghệ đến môi trường (nếu có) |  |  |  |\n| 8 | Dự thảo hợp đồng chuyển giao công nghệ trong trường hợp góp vốn bằng công nghệ |  |  |  |",
+        "metadata": {
+            "chunk_index": 3,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN_chunk_0002",
+            "next_chunk_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN_chunk_0004",
+            "char_count": 953,
+            "source_file": "mauphieu/MAU SO 01-TT-09-2020-TT-BKHCN.doc",
+            "file_name": "MAU SO 01-TT-09-2020-TT-BKHCN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:38:27",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN_chunk_0004",
+        "doc_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN",
+        "text": "công nghệ[5] |  |  |  |\n| 7 | Đánh giá sơ bộ tác động của công nghệ đến môi trường (nếu có) |  |  |  |\n| 8 | Dự thảo hợp đồng chuyển giao công nghệ trong trường hợp góp vốn bằng công nghệ |  |  |  |\n\nIII. NỘI DUNG THẨM ĐỊNH HOẶC CÓ Ý KIẾN VỀ CÔNG NGHỆ",
+        "metadata": {
+            "chunk_index": 4,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN_chunk_0003",
+            "next_chunk_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN_chunk_0005",
+            "char_count": 251,
+            "source_file": "mauphieu/MAU SO 01-TT-09-2020-TT-BKHCN.doc",
+            "file_name": "MAU SO 01-TT-09-2020-TT-BKHCN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:38:27",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN_chunk_0005",
+        "doc_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN",
+        "text": "của công nghệ đến môi trường (nếu có) |  |  |  |\n| 8 | Dự thảo hợp đồng chuyển giao công nghệ trong trường hợp góp vốn bằng công nghệ |  |  |  |\n\nIII. NỘI DUNG THẨM ĐỊNH HOẶC CÓ Ý KIẾN VỀ CÔNG NGHỆ\n\n| TT | NỘI DUNG THẨM ĐỊNH | TÓM TẮT THEO HỒ SƠ DAĐT | Ý KIẾN THẨM ĐỊNH |\n| --- | --- | --- | --- |\n| 1 | Sự phù hợp của phương án công nghệ được lựa chọn |  |  |\n| 1 | a) Xem xét phương án lựa chọn công nghệ nêu trong hồ sơ DAĐT: phân tích, so sánh ưu nhược điểm của từng phương án (tính hoàn thiện, thích hợp, tiên tiến...) để nhận xét về phương án công nghệ được chọn. |  |  |\n| 1 | b) Xem xét công nghệ thuộc Danh mục công nghệ (khuyến khích chuyển giao, hạn chế chuyển giao hoặc cấm chuyển giao) theo quy định của pháp luật về chuyển giao công nghệ. |  |  |\n| 1 | c) Xem xét sự phù hợp của phương án công nghệ được lựa chọn với mục tiêu, quy mô, công suất của dự án. |  |  |\n|  | d) Xem xét sự phù hợp của phương án công nghệ được lựa chọn với các yêu cầu, quy định của quy chuẩn kỹ thuật, tiêu chuẩn được áp dụng cho dự án và các quy định khác của cơ quan quản lý nhà nước có thẩm quyền (nếu có). |  |  |\n|  | đ) Xem xét máy móc, thiết bị chính có tính năng, thông số kỹ thuật, công suất, chất lượng phù hợp với phương án công nghệ được lựa chọn trong dự án. |  |  |\n|  | e) Xem xét sự phù hợp của máy móc, thiết bị chính trong dây chuyền công nghệ với các yêu cầu, quy định của quy chuẩn kỹ thuật, tiêu chuẩn được áp dụng cho dự án và các quy định khác của cơ quan quản lý nhà nước có thẩm quyền (nếu có). |  |  |\n| 2 | Việc kiểm chứng sử dụng công nghệ tại các quốc gia phát triển (nếu có) |  |  |\n| 3 | Việc đào tạo, hỗ trợ kỹ thuật cho vận hành dây chuyền công nghệ của DAĐT (nếu có) |  |  |\n| 4 | Việc đáp ứng các điều kiện sử dụng công nghệ |  |  |\n| 5 | Sơ bộ tác động ảnh hưởng của công nghệ đến môi trường (môi trường tự nhiên, kinh tế và xã hội, sức khỏe cộng đồng...) |  |  |\n| 6 | Dự thảo hợp đồng chuyển giao công nghệ (nếu có) |  |  |\n| 7 | Đối với DAĐT trong khu công nghệ cao đồng thời phải đáp ứng các tiêu chí, tiêu chuẩn theo quy định của pháp luật về công nghệ cao |  |  |\n| 8 | Những vấn đề khác có liên quan (nếu có) |  |  |\n| 8 | - Xem xét, đánh giá sơ bộ các lợi ích kinh tế - xã hội do DAĐT mang lại (khả năng tạo năng lực sản xuất mới, ngành nghề mới, sản phẩm mới, mở rộng thị trường, tạo việc làm cho người lao động, khả năng sử dụng phụ tùng, linh kiện, nguyên liệu sản xuất trong nước, đóng góp cho ngân sách nhà nước, lợi ích kinh tế của chủ đầu tư...): |  |  |\n| 8 | - Xem xét, đánh giá sơ bộ hiệu quả của công nghệ đối với sự phát triển của địa phương, ngành (góp phần đổi mới công nghệ sản xuất của địa phương, gia tăng giá trị sản phẩm, tạo sản phẩm chủ lực của địa phương; nâng cao trình độ công nghệ sản xuất của ngành): |  |  |\n| 8 | - Các vấn đề khác: |  |  |\n| IV. Ý KIẾN NHẬN XÉT, KIẾN NGHỊ CỦA NGƯỜI THẨM ĐỊNH<br>...<br>...<br>...<br>Ngày tháng năm 20<br>NGƯỜI THẨM ĐỊNH<br>(Ký và ghi rõ họ tên) | IV. Ý KIẾN NHẬN XÉT, KIẾN NGHỊ CỦA NGƯỜI THẨM ĐỊNH<br>...<br>...<br>...<br>Ngày tháng năm 20<br>NGƯỜI THẨM ĐỊNH<br>(Ký và ghi rõ họ tên) | IV. Ý KIẾN NHẬN XÉT, KIẾN NGHỊ CỦA NGƯỜI THẨM ĐỊNH<br>...<br>...<br>...<br>Ngày tháng năm 20<br>NGƯỜI THẨM ĐỊNH<br>(Ký và ghi rõ họ tên) | IV. Ý KIẾN NHẬN XÉT, KIẾN NGHỊ CỦA NGƯỜI THẨM ĐỊNH<br>...<br>...<br>...<br>Ngày tháng năm 20<br>NGƯỜI THẨM ĐỊNH<br>(Ký và ghi rõ họ tên) |",
+        "metadata": {
+            "chunk_index": 5,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN_chunk_0004",
+            "next_chunk_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN_chunk_0006",
+            "char_count": 3360,
+            "source_file": "mauphieu/MAU SO 01-TT-09-2020-TT-BKHCN.doc",
+            "file_name": "MAU SO 01-TT-09-2020-TT-BKHCN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:38:27",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN_chunk_0006",
+        "doc_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN",
+        "text": "tháng năm 20<br>NGƯỜI THẨM ĐỊNH<br>(Ký và ghi rõ họ tên) | IV. Ý KIẾN NHẬN XÉT, KIẾN NGHỊ CỦA NGƯỜI THẨM ĐỊNH<br>...<br>...<br>...<br>Ngày tháng năm 20<br>NGƯỜI THẨM ĐỊNH<br>(Ký và ghi rõ họ tên) |\n\nV. Ý KIẾN KẾT LUẬN CỦA THỦ TRƯỞNG ĐƠN VỊ THẨM ĐỊNH\n\n...\n\n...\n\n...\n\nNgày tháng năm 20\nTHỦ TRƯỞNG ĐƠN VỊ THẨM ĐỊNH\n(Ký và ghi rõ họ tên)\n\nNguồn: Thông tư 09/2020/TT-BKHCN",
+        "metadata": {
+            "chunk_index": 6,
+            "total_chunks": 6,
+            "prev_chunk_id": "mauphieu_MAU_SO_01-TT-09-2020-TT-BKHCN_chunk_0005",
+            "next_chunk_id": null,
+            "char_count": 367,
+            "source_file": "mauphieu/MAU SO 01-TT-09-2020-TT-BKHCN.doc",
+            "file_name": "MAU SO 01-TT-09-2020-TT-BKHCN.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:38:27",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

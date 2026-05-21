@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_05-05-2020-TT-TTCP_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_05-05-2020-TT-TTCP",
+        "text": "Mẫu số 05- Phiếu hướng dẫn đơn có nhiều nội dung khác nhau\n\n| ……………. (1)<br>…………….. (2) | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc <br>--------------- |\n| --- | --- |\n| Số: .../HD-...(3) | ………., ngày ... tháng ... năm ..…... |\n\nPHIẾU HƯỚNG DẪN\n\n(Đơn có nhiều nội dung khác nhau)\n\nKính gửi: ………………..(4)\n\nNgày ... tháng ... năm ...(2) nhận được đơn ghi ngày ... tháng ...năm ... của ...(4).\n\nĐịa chỉ: ...\n\nSau khi xem xét nội dung đơn và thông tin, tài liệu kèm theo (nếu có), căn cứ quy định của pháp luật, đơn của ông (bà) thuộc thẩm quyền giải quyết của các cơ quan sau đây:\n\n1. Nội dung ...(5) thuộc thẩm quyền giải quyết của ...(6)\n\n2. ...\n\nVì vậy, đề nghị …………………. (4) viết tách các nội dung đơn như đã hướng dẫn gửi đến cơ quan có thẩm quyền để được giải quyết theo quy định của pháp luật.\n\n| Nơi nhận:<br>- Như trên;<br>- ...(4);<br>- Lưu: VT; ... (3). | ... (7)<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\nGhi chú:",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "mauphieu_MAU_SO_05-05-2020-TT-TTCP_chunk_0002",
+            "char_count": 954,
+            "source_file": "mauphieu/MAU SO 05-05-2020-TT-TTCP.doc",
+            "file_name": "MAU SO 05-05-2020-TT-TTCP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:57:42",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    },
+    {
+        "chunk_id": "mauphieu_MAU_SO_05-05-2020-TT-TTCP_chunk_0002",
+        "doc_id": "mauphieu_MAU_SO_05-05-2020-TT-TTCP",
+        "text": "có thẩm quyền để được giải quyết theo quy định của pháp luật.\n\n| Nơi nhận:<br>- Như trên;<br>- ...(4);<br>- Lưu: VT; ... (3). | ... (7)<br>(Ký, ghi rõ họ tên và đóng dấu) |\n| --- | --- |\n\nGhi chú:\n\n(1) Tên cơ quan, tổ chức, đơn vị cấp trên trực tiếp (nếu có).\n\n(2) Tên cơ quan, tổ chức, đơn vị ban hành văn bản hướng dẫn.\n\n(3) Chữ viết tắt tên cơ quan, tổ chức, đơn vị ban hành văn bản hướng dẫn.\n\n(4) Họ tên của người viết đơn.\n\n(5) Trích yếu nội dung khiếu nại, tố cáo hoặc kiến nghị phản ánh.\n\n(6) Chức danh thủ trưởng cơ quan, tổ chức, đơn vị có thẩm quyền giải quyết.\n\n(7) Chức vụ người có thẩm quyền ký văn bản hướng dẫn.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "mauphieu_MAU_SO_05-05-2020-TT-TTCP_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 627,
+            "source_file": "mauphieu/MAU SO 05-05-2020-TT-TTCP.doc",
+            "file_name": "MAU SO 05-05-2020-TT-TTCP.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:57:42",
+            "chunked_at": "2026-05-21T21:52:08"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "maubaocao_MAU_15-PL-TTBT-QD-109-QD-VSD_chunk_0001",
+        "doc_id": "maubaocao_MAU_15-PL-TTBT-QD-109-QD-VSD",
+        "text": "### Bảng tính: Sheet1",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "maubaocao_MAU_15-PL-TTBT-QD-109-QD-VSD_chunk_0002",
+            "char_count": 21,
+            "source_file": "maubaocao/MAU 15-PL-TTBT-QD-109-QD-VSD.xls",
+            "file_name": "MAU 15-PL-TTBT-QD-109-QD-VSD.xls",
+            "folder": "maubaocao",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-21T03:11:09",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    },
+    {
+        "chunk_id": "maubaocao_MAU_15-PL-TTBT-QD-109-QD-VSD_chunk_0002",
+        "doc_id": "maubaocao_MAU_15-PL-TTBT-QD-109-QD-VSD",
+        "text": "Bảng tính: Sheet1\n\n|  |  |  |  |  |  |  |  | Mẫu 15/PL-TTBT |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  | Số: |  |  |  |\n| NGÂN HÀNG ĐẦU TƯ VÀ PHÁT TRIỂN VIỆT NAM |  |  |  |  |  | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM |  |  |  |  |  |\n| Chi nhánh NHĐT- PT Hà Thành |  |  |  |  |  | Độc lập - Tự do - Hạnh phúc |  |  |  |  |  |\n| BÁO CÁO TỔNG HỢP KẾT QUẢ THANH TOÁN TIỀN GIAO DỊCH * LÙI THỜI HẠN THANH TOÁN |  |  |  |  |  |  |  |  |  |  |  |\n| Phương thức thanh toán: Trực tiếp |  |  |  |  |  |  |  |  |  |  |  |\n|  |  | Ngày giao dịch: |  |  |  |  |  |  |  |  |  |\n|  |  | Ngày thanh toán: |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  | Đơn vị tính:VNĐ |  |  |  |\n| Tên TVLK | Mã GD TVLK | Phải trả |  |  | Được nhận |  |  | Tổng thuần |  |  |  |\n|  |  | Tự doanh | MGTN | MGNN | Tự doanh | MGTN | MGNN | Phải trả | Được nhận |  |  |\n| Tổng cộng |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  | ……, ngày ….. tháng …. năm ….. |  |  |  |  |  |\n|  |  | NGƯỜI LẬP |  |  |  | GIÁM ĐỐC |  |  |  |  |  |\n|  |  | (Ký, ghi rõ họ tên) |  |  |  | (Ký, ghi rõ họ tên, đóng dấu) |  |  |  |  |  |\n| * Ghi thêm \"cổ phiếu, chứng chỉ quỹ\" hoặc \"trái phiếu\" vào chỗ có đánh dấu \"*\" tương ứng với các giao dịch cổ phiếu, chứng chỉ quỹ hoặc các giao dịch trái phiếu.<br>* \"Sàn giao dịch\" là:<br>           +) Sàn HNX, HOSE, UPCOM: tương ứng với giao dịch cổ phiếu, chứng chỉ quỹ. <br>           +) Sàn Trái phiếu Chính phủ, Trái phiếu công ty, Tín phiếu: tương ứng với giao dịch trái phiếu |  |  |  |  |  |  |  |  |  |  |  |",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "maubaocao_MAU_15-PL-TTBT-QD-109-QD-VSD_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 1580,
+            "source_file": "maubaocao/MAU 15-PL-TTBT-QD-109-QD-VSD.xls",
+            "file_name": "MAU 15-PL-TTBT-QD-109-QD-VSD.xls",
+            "folder": "maubaocao",
+            "original_extension": ".xls",
+            "cleaned_at": "2026-05-21T03:11:09",
+            "chunked_at": "2026-05-21T21:52:02"
+        }
+    }
+]

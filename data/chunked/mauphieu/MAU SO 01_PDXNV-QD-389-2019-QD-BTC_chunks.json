@@ -1,0 +1,20 @@
+[
+    {
+        "chunk_id": "mauphieu_MAU_SO_01_PDXNV-QD-389-2019-QD-BTC_chunk_0001",
+        "doc_id": "mauphieu_MAU_SO_01_PDXNV-QD-389-2019-QD-BTC",
+        "text": "Mẫu 01.PĐXNV\n\n389/2019/QĐ-BTC\n\nPHIẾU ĐỀ XUẤT NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ CẤP BỘ\n\nNăm 20...\n\n1. Tên nhiệm vụ khoa học và công nghệ:\n\n2. Hình thức thực hiện (đề tài, đề án, chương trình KH&CN):\n\n3. Mục tiêu của nhiệm vụ:\n\n4. Tính cấp thiết và tính mới của nhiệm vụ (về mặt khoa học và về mặt thực tiễn):\n\n5. Các nội dung chính và kết quả dự kiến:\n\n6. Khả năng và địa chỉ ứng dụng:\n\n7. Dự kiến hiệu quả mang lại:\n\n8. Dự kiến thời gian thực hiện (thời gian bắt đầu, thời gian kết thúc)\n\n|  | ……., ngày….tháng….năm 20…<br>TỔ CHỨC, CÁ NHÂN ĐỀ XUẤT<br>(Họ, tên và chữ ký - đóng dấu đối với tổ chức) |\n| --- | --- |",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 1,
+            "prev_chunk_id": null,
+            "next_chunk_id": null,
+            "char_count": 610,
+            "source_file": "mauphieu/MAU SO 01_PDXNV-QD-389-2019-QD-BTC.doc",
+            "file_name": "MAU SO 01_PDXNV-QD-389-2019-QD-BTC.doc",
+            "folder": "mauphieu",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-21T01:39:48",
+            "chunked_at": "2026-05-21T21:52:06"
+        }
+    }
+]

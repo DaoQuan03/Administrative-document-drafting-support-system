@@ -1,0 +1,38 @@
+[
+    {
+        "chunk_id": "tokhai_MAU_12_23-2023-TT-BTTTT_chunk_0001",
+        "doc_id": "tokhai_MAU_12_23-2023-TT-BTTTT",
+        "text": "Mẫu số 12\n\n| CƠ QUAN CHỦ QUẢN<br>(NẾU CÓ)<br>NHÀ XUẤT BẢN/CƠ QUAN, <br>TỔ CHỨC<br>------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>Độc lập - Tự do - Hạnh phúc<br>--------------- |\n| --- | --- |\n| Số: …/… | …., ngày … tháng … năm … |\n\nTỜ KHAI\n\nNộp xuất bản phẩm lưu chiểu và nộp xuất bản phẩm cho Thư viện Quốc gia Việt Nam\n\nKính gửi: ...\n\n1. Tên xuất bản phẩm: ...\n\n2. Tên tác giả: ...; Tên dịch giả, biên dịch (nếu có);...\n\n3. Họ và tên biên tập viên: ...\n\n4. Số xác nhận đăng ký xuất bản hoặc số giấy phép xuất bản:...ngày...tháng...năm...\n\n5. Số Quyết định xuất bản (nếu có):... ……………………ngày...tháng…..năm……..\n\n6. Số tập: ...\n\n7. Lần xuất bản: ...\n\n8. Ngôn ngữ dịch (nếu là sách dịch): ...\n\n9. Ngôn ngữ xuất bản: ...\n\n10. Số lượng trang in (hoặc số byte dung lượng): ……….. trang (…………..byte)\n\n11. Khuôn khổ hoặc định dạng tệp: ...\n\n12. Số lượng in: ...bản\n\n13. Tên và địa chỉ cơ sở in (nếu chế bản, in, gia công sau in tại nhiều cơ sở in phải ghi đủ thông tin của từng cơ sở in): ...",
+        "metadata": {
+            "chunk_index": 1,
+            "total_chunks": 2,
+            "prev_chunk_id": null,
+            "next_chunk_id": "tokhai_MAU_12_23-2023-TT-BTTTT_chunk_0002",
+            "char_count": 985,
+            "source_file": "tokhai/MAU 12_23-2023-TT-BTTTT.doc",
+            "file_name": "MAU 12_23-2023-TT-BTTTT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:38:57",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    },
+    {
+        "chunk_id": "tokhai_MAU_12_23-2023-TT-BTTTT_chunk_0002",
+        "doc_id": "tokhai_MAU_12_23-2023-TT-BTTTT",
+        "text": "Khuôn khổ hoặc định dạng tệp: ...\n\n12. Số lượng in: ...bản\n\n13. Tên và địa chỉ cơ sở in (nếu chế bản, in, gia công sau in tại nhiều cơ sở in phải ghi đủ thông tin của từng cơ sở in): ...\n\n14. Giá bán lẻ trên xuất bản phẩm (nếu có): ...\n\n15. Địa chỉ website đăng tải hoặc tên nhà cung cấp xuất bản phẩm điện tử:...\n\n16. Tên và địa chỉ của đối tác liên kết xuất bản (nếu có) ...\n\n17. Mã số sách chuẩn quốc tế - ISBN (nếu có) ...\n\n| NGƯỜI NỘP XUẤT BẢN PHẨM<br>(Ký tên, ghi rõ họ tên) | GIÁM ĐỐC/TGĐ NXB<br>(NGƯỜI ĐỨNG ĐẦU CQ, TC)<br>(Chữ ký của người có thẩm quyền, dấu/chữ ký số của cơ quan, tổ chức) |\n| --- | --- |\n| NGƯỜI NHẬN XUẤT BẢN PHẨM<br>Đã nhận đủ số lượng xuất bản phẩm theo quy định của Luật Xuất bản(1)<br>(Ký tên, ghi rõ họ tên) | XÁC NHẬN CỦA CƠ QUAN NHẬN<br>XUẤT BẢN PHẨM<br>…, ngày…tháng…năm….<br>(Chữ ký của người có thẩm quyền, dấu/chữ ký số của cơ quan, tổ chức) |\n\n___\n\n(1) Xuất bản phẩm có nội dung thuộc danh mục bí mật nhà nước theo quy định của pháp luật thì chỉ nộp Tờ khai.",
+        "metadata": {
+            "chunk_index": 2,
+            "total_chunks": 2,
+            "prev_chunk_id": "tokhai_MAU_12_23-2023-TT-BTTTT_chunk_0001",
+            "next_chunk_id": null,
+            "char_count": 998,
+            "source_file": "tokhai/MAU 12_23-2023-TT-BTTTT.doc",
+            "file_name": "MAU 12_23-2023-TT-BTTTT.doc",
+            "folder": "tokhai",
+            "original_extension": ".doc",
+            "cleaned_at": "2026-05-20T22:38:57",
+            "chunked_at": "2026-05-21T21:52:13"
+        }
+    }
+]
