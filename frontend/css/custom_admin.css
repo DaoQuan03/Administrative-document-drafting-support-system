@@ -1,0 +1,31 @@
+/* ===== CUSTOM ADMIN STYLES ===== */
+
+/* 1. Hide Sidebar User Profile Panel completely to make the layout extremely clean */
+.user-panel {
+    display: none !important;
+}
+
+/* 2. Hide "Recent actions" column on the Dashboard page */
+.dashboard .col-lg-3 {
+    display: none !important;
+}
+
+/* 3. Expand the main Model list cards to take full width */
+.dashboard .col-lg-9 {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+}
+
+/* 4. Hide "Jazzmin version" text in the footer */
+.app-footer .float-end {
+    display: none !important;
+}
+
+/* 5. Center and polish brand logo in sidebar header */
+#jazzy-logo img {
+    max-height: 33px !important;
+    width: auto !important;
+    object-fit: contain !important;
+    margin-right: 8px !important;
+    border-radius: 6px !important;
+}

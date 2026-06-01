@@ -15,7 +15,7 @@
     <div class="sidebar-workspace">
       <button class="workspace-btn" onclick="nav('dashboard.html')">
         <div class="workspace-logo"><svg viewBox="0 0 24 24"><path d="M12 2L20 7V17L12 22L4 17V7L12 2Z"/></svg></div>
-        <span class="workspace-name">UBND Quận 1</span><span class="workspace-arrow">⌄</span>
+        <span class="workspace-name">{{ request.user.organization }}</span><span class="workspace-arrow">⌄</span>
       </button>
     </div>
     <nav class="sidebar-nav">
@@ -25,16 +25,24 @@
         <button class="sidebar-item" onclick="nav('knowledge-base.html')"><span class="si-icon">📚</span><span class="si-label">Kho tri thức</span></button>
         <button class="sidebar-item active"><span class="si-icon">🔍</span><span class="si-label">Tìm kiếm AI</span></button>
         <button class="sidebar-item" onclick="nav('settings.html')"><span class="si-icon">⚙️</span><span class="si-label">Cài đặt</span></button>
+        <button class="sidebar-item" onclick="handleLogout()"><span class="si-icon">🚪</span><span class="si-label">Đăng xuất</span></button>
       </div>
-      <div class="sidebar-section">
-        <div class="sidebar-section-label">Lịch sử tìm kiếm</div>
-        <button class="sidebar-item" onclick="loadHistory('Quy trình phê duyệt văn bản')"><span class="si-icon">🕐</span><span class="si-label">Quy trình phê duyệt</span></button>
-        <button class="sidebar-item" onclick="loadHistory('Chỉ tiêu kế hoạch Q2')"><span class="si-icon">🕐</span><span class="si-label">Chỉ tiêu kế hoạch Q2</span></button>
-        <button class="sidebar-item" onclick="loadHistory('Mẫu công văn chuẩn')"><span class="si-icon">🕐</span><span class="si-label">Mẫu công văn chuẩn</span></button>
-      </div>
+
     </nav>
     <div class="sidebar-footer">
-      <div class="user-card"><div class="avatar avatar-blue">NT</div><div class="user-info"><div class="user-name">Nguyễn Trung</div><div class="user-role">Cán bộ · Editor</div></div></div>
+      <div class="user-card">
+        <div class="avatar avatar-blue" style="overflow:hidden;display:flex;align-items:center;justify-content:center;">
+          {% if request.user.avatar %}
+            <img src="{{ request.user.avatar }}" style="width:100%;height:100%;object-fit:cover;" />
+          {% else %}
+            {{ request.user.full_name|slice:":2"|upper }}
+          {% endif %}
+        </div>
+        <div class="user-info">
+          <div class="user-name">{{ request.user.full_name }}</div>
+          <div class="user-role">{{ request.user.get_role_display }}</div>
+        </div>
+      </div>
     </div>
   </aside>
 
@@ -43,8 +51,16 @@
       <button class="topbar-toggle" onclick="toggleSidebar()">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
       </button>
-      <div class="breadcrumb"><span onclick="nav('dashboard.html')" style="cursor:pointer">UBND Quận 1</span><span class="bc-sep">/</span><span class="bc-current">Tìm kiếm AI</span></div>
-      <div class="topbar-right"><div class="avatar avatar-blue">NT</div></div>
+      <div class="breadcrumb"><span onclick="nav('dashboard.html')" style="cursor:pointer">{{ request.user.organization }}</span><span class="bc-sep">/</span><span class="bc-current">Tìm kiếm AI</span></div>
+      <div class="topbar-right">
+        <div class="avatar avatar-blue" style="overflow:hidden;display:flex;align-items:center;justify-content:center;">
+          {% if request.user.avatar %}
+            <img src="{{ request.user.avatar }}" style="width:100%;height:100%;object-fit:cover;" />
+          {% else %}
+            {{ request.user.full_name|slice:":2"|upper }}
+          {% endif %}
+        </div>
+      </div>
     </header>
 
     <main class="page-content">
@@ -53,6 +69,19 @@
         <div class="search-hero" id="search-hero">
           <h1>🔍 Tìm kiếm AI</h1>
           <p>Hỏi câu hỏi bằng ngôn ngữ tự nhiên — AI sẽ trả lời dựa trên kho tri thức</p>
+          
+          <!-- Segmented Tab controls for search streams -->
+          <div class="search-tabs-container">
+            <button class="search-tab active" id="tab-template" onclick="setSearchMode('template')">
+              <span class="tab-icon">📋</span>
+              <span class="tab-text">Tìm mẫu văn bản</span>
+            </button>
+            <button class="search-tab" id="tab-legal" onclick="setSearchMode('legal')">
+              <span class="tab-icon">⚖️</span>
+              <span class="tab-text">Tra cứu Luật & Nghị định</span>
+            </button>
+          </div>
+
           <div class="search-box-wrap">
             <input
               type="text" id="search-input" class="search-main-input"
@@ -77,6 +106,38 @@
           <div class="results-header">
             <span class="results-query" id="results-query"></span>
             <button class="btn btn-ghost btn-sm" onclick="clearSearch()">← Tìm kiếm mới</button>
+          </div>
+
+          <!-- Template Suggestions -->
+          <div id="template-suggestions-section" style="display:none" class="template-suggestions-section">
+            <h3 class="sugg-section-title">✨ Biểu mẫu hệ thống đề xuất</h3>
+            <p class="sugg-section-desc" id="sugg-section-desc">Hệ thống đã tìm thấy một số loại biểu mẫu phù hợp với yêu cầu của bạn. Hãy chọn loại biểu mẫu cụ thể bên dưới để xem trước:</p>
+            <div class="template-options-grid" id="template-options-grid">
+              <!-- Rendered dynamically -->
+            </div>
+
+            <!-- User Custom templates -->
+            <div id="user-templates-section" style="margin-top: 32px; display: none;">
+              <h3 class="sugg-section-title" style="border-top: 1px solid var(--border-subtle); padding-top: 24px;">📂 Tài liệu / Biểu mẫu cá nhân của bạn</h3>
+              <p class="sugg-section-desc">Các biểu mẫu và tài liệu tương thích được tìm thấy trong kho tri thức cá nhân của bạn:</p>
+              <div class="template-options-grid" id="user-template-options-grid">
+                <!-- Rendered dynamically -->
+              </div>
+            </div>
+          </div>
+
+          <!-- Template Preview Card -->
+          <div id="template-preview-card" style="display:none" class="template-preview-card">
+            <div class="preview-header">
+              <span class="preview-title" id="preview-title">Xem trước biểu mẫu hành chính</span>
+              <button class="btn btn-ghost btn-sm" onclick="backToSuggestions()">← Chọn mẫu khác</button>
+            </div>
+            <div class="preview-body" id="preview-body"></div>
+            <div class="preview-actions">
+              <button class="btn btn-primary" onclick="useGeneratedTemplate()">
+                ✏️ Sử dụng biểu mẫu này để soạn thảo mới
+              </button>
+            </div>
           </div>
 
           <!-- AI Answer -->
@@ -109,7 +170,35 @@
     </main>
   </div>
 </div>
-<script src="../js/shell.js"></script>
-<script src="../js/search.js"></script>
+<!-- Premium Glassmorphism Document Viewer Modal -->
+<div class="document-modal" id="document-modal" onclick="closeDocumentModal(event)">
+  <div class="document-modal-content" onclick="event.stopPropagation()">
+    <div class="document-modal-header">
+      <h3 class="document-modal-title">
+        <span>📄</span>
+        <span id="modal-doc-title">Tên văn bản tài liệu</span>
+      </h3>
+      <button class="document-modal-close" onclick="closeDocumentModal(null)">×</button>
+    </div>
+    <div class="document-modal-body" id="modal-doc-body">
+      <!-- Complete document content rendered here -->
+    </div>
+    <div class="document-modal-footer">
+      <button class="btn btn-primary btn-sm" id="btn-use-doc-template" style="display:none; margin-right:auto; background:#10b981; border-color:#10b981; color:white; font-weight:600;" onclick="useOpenedDocumentAsTemplate()">✏️ Sử dụng biểu mẫu này</button>
+      <button class="btn btn-secondary btn-sm" onclick="copyModalContent()">📋 Sao chép nội dung</button>
+      <button class="btn btn-primary btn-sm" onclick="closeDocumentModal(null)">Đóng lại</button>
+    </div>
+  </div>
+</div>
+
+<script src="../js/shell.js?v=2.0.9"></script>
+<script src="../js/search.js?v=2.1.0"></script>
 </body>
 </html>
+
+
+
+
+
+
+

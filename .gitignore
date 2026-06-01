@@ -1,0 +1,23 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+db.sqlite3-journal
+
+# Environments
+.env
+.venv
+venv/
+env/
+ENV/
+
+# Vector Databases and Local Data
+data/
+data/vector_db/
+data/test_vector_db/
+frontend/uploads/avatars/
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db

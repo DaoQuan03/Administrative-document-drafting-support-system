@@ -16,7 +16,7 @@
     <div class="sidebar-workspace">
       <button class="workspace-btn" onclick="nav('dashboard.html')">
         <div class="workspace-logo"><svg viewBox="0 0 24 24"><path d="M12 2L20 7V17L12 22L4 17V7L12 2Z"/></svg></div>
-        <span class="workspace-name">UBND Quận 1</span>
+        <span class="workspace-name">{{ request.user.organization }}</span>
         <span class="workspace-arrow">⌄</span>
       </button>
     </div>
@@ -27,10 +27,23 @@
         <button class="sidebar-item active"><span class="si-icon">📚</span><span class="si-label">Kho tri thức</span></button>
         <button class="sidebar-item" onclick="nav('search.html')"><span class="si-icon">🔍</span><span class="si-label">Tìm kiếm AI</span></button>
         <button class="sidebar-item" onclick="nav('settings.html')"><span class="si-icon">⚙️</span><span class="si-label">Cài đặt</span></button>
+        <button class="sidebar-item" onclick="handleLogout()"><span class="si-icon">🚪</span><span class="si-label">Đăng xuất</span></button>
       </div>
     </nav>
     <div class="sidebar-footer">
-      <div class="user-card"><div class="avatar avatar-blue">NT</div><div class="user-info"><div class="user-name">Nguyễn Trung</div><div class="user-role">Cán bộ · Editor</div></div></div>
+      <div class="user-card">
+        <div class="avatar avatar-blue" style="overflow:hidden;display:flex;align-items:center;justify-content:center;">
+          {% if request.user.avatar %}
+            <img src="{{ request.user.avatar }}" style="width:100%;height:100%;object-fit:cover;" />
+          {% else %}
+            {{ request.user.full_name|slice:":2"|upper }}
+          {% endif %}
+        </div>
+        <div class="user-info">
+          <div class="user-name">{{ request.user.full_name }}</div>
+          <div class="user-role">{{ request.user.get_role_display }}</div>
+        </div>
+      </div>
     </div>
   </aside>
 
@@ -40,7 +53,7 @@
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
       </button>
       <div class="breadcrumb">
-        <span onclick="nav('dashboard.html')" style="cursor:pointer">UBND Quận 1</span>
+        <span onclick="nav('dashboard.html')" style="cursor:pointer">{{ request.user.organization }}</span>
         <span class="bc-sep">/</span>
         <span class="bc-current">Kho tri thức</span>
       </div>
@@ -49,7 +62,13 @@
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
           Thêm tài liệu
         </button>
-        <div class="avatar avatar-blue">NT</div>
+        <div class="avatar avatar-blue" style="overflow:hidden;display:flex;align-items:center;justify-content:center;">
+          {% if request.user.avatar %}
+            <img src="{{ request.user.avatar }}" style="width:100%;height:100%;object-fit:cover;" />
+          {% else %}
+            {{ request.user.full_name|slice:":2"|upper }}
+          {% endif %}
+        </div>
       </div>
     </header>
 
@@ -63,55 +82,9 @@
         </div>
 
         <!-- KB Cards -->
-        <div class="kb-cards">
-          <div class="kb-card active-kb" onclick="openKB('quy-dinh')">
-            <div class="kb-card-icon">📋</div>
-            <div class="kb-card-info">
-              <div class="kb-card-name">Quy định nội bộ</div>
-              <div class="kb-card-meta">312 tài liệu · 840 MB</div>
-            </div>
-            <div class="kb-card-right">
-              <span class="badge badge-green">Hoạt động</span>
-              <div class="kb-card-bar"><div style="width:67%"></div></div>
-            </div>
-          </div>
-
-          <div class="kb-card" onclick="openKB('phap-ly')">
-            <div class="kb-card-icon">⚖️</div>
-            <div class="kb-card-info">
-              <div class="kb-card-name">Văn bản pháp lý</div>
-              <div class="kb-card-meta">587 tài liệu · 1.2 GB</div>
-            </div>
-            <div class="kb-card-right">
-              <span class="badge badge-green">Hoạt động</span>
-              <div class="kb-card-bar"><div style="width:48%"></div></div>
-            </div>
-          </div>
-
-          <div class="kb-card" onclick="openKB('bieu-mau')">
-            <div class="kb-card-icon">📝</div>
-            <div class="kb-card-info">
-              <div class="kb-card-name">Biểu mẫu & mẫu văn bản</div>
-              <div class="kb-card-meta">215 tài liệu · 320 MB</div>
-            </div>
-            <div class="kb-card-right">
-              <span class="badge badge-green">Hoạt động</span>
-              <div class="kb-card-bar"><div style="width:32%"></div></div>
-            </div>
-          </div>
-
-          <div class="kb-card" onclick="openKB('bao-cao')">
-            <div class="kb-card-icon">📊</div>
-            <div class="kb-card-info">
-              <div class="kb-card-name">Báo cáo & thống kê</div>
-              <div class="kb-card-meta">133 tài liệu · 440 MB</div>
-            </div>
-            <div class="kb-card-right">
-              <span class="badge badge-amber">Đang index</span>
-              <div class="kb-card-bar indexing"><div style="width:72%"></div></div>
-            </div>
-          </div>
-
+        <div class="kb-cards" id="kb-cards-container">
+          <!-- Dynamically populated or rendered -->
+          
           <!-- Add KB card -->
           <div class="kb-card kb-add-card" onclick="showCreateKBModal()">
             <div class="kb-add-icon">+</div>
@@ -120,24 +93,28 @@
         </div>
 
         <!-- Document list for active KB -->
-        <div class="doc-section">
+        <div class="doc-section" id="doc-section-container" style="display:none">
           <div class="doc-section-header">
             <div class="doc-section-title">
-              <span>📋</span>
-              <h2>Quy định nội bộ</h2>
-              <span class="badge badge-green">312 tài liệu</span>
+              <span id="active-kb-icon">📋</span>
+              <h2 id="active-kb-title">Tên kho tri thức</h2>
+              <span class="badge badge-green" id="active-kb-count">0 tài liệu</span>
             </div>
             <div class="doc-section-actions">
               <input type="text" class="input" placeholder="🔍 Tìm trong kho..." style="width:220px" oninput="filterDocs(this.value)" id="kb-search" />
-              <select class="input" style="width:130px">
-                <option>Tất cả loại</option>
-                <option>PDF</option>
-                <option>Word</option>
-                <option>URL</option>
-                <option>Text</option>
+              <select class="input" style="width:130px" id="doc-type-filter" onchange="filterDocType(this.value)">
+                <option value="All">Tất cả loại</option>
+                <option value="PDF">PDF</option>
+                <option value="DOCX">DOCX</option>
+                <option value="HTML">HTML</option>
+                <option value="XLSX">XLSX</option>
+                <option value="TXT">TXT</option>
               </select>
               <button class="btn btn-secondary btn-sm" onclick="showUploadModal()">
                 ↑ Upload
+              </button>
+              <button class="btn btn-ghost btn-sm" style="color:var(--red-400); margin-left: 8px; font-weight:600;" id="btn-delete-active-kb" onclick="deleteActiveKB()">
+                ✕ Xóa kho này
               </button>
             </div>
           </div>
@@ -157,74 +134,18 @@
                 </tr>
               </thead>
               <tbody id="docs-tbody">
-                <tr>
-                  <td><input type="checkbox" class="doc-check"/></td>
-                  <td class="doc-name-cell"><span class="doc-file-icon">📄</span>Quy chế làm việc nội bộ 2025</td>
-                  <td><span class="badge badge-blue">PDF</span></td>
-                  <td>2.4 MB</td>
-                  <td><span class="badge badge-green">Đã index</span></td>
-                  <td>15/07/2025</td>
-                  <td class="doc-actions">
-                    <button class="btn btn-ghost btn-sm" onclick="previewDoc(this)">Xem</button>
-                    <button class="btn btn-ghost btn-sm">↓</button>
-                    <button class="btn btn-ghost btn-sm" style="color:var(--red-400)" onclick="deleteDoc(this)">✕</button>
-                  </td>
-                </tr>
-                <tr>
-                  <td><input type="checkbox" class="doc-check"/></td>
-                  <td class="doc-name-cell"><span class="doc-file-icon">📋</span>Nghị quyết số 18/NQ-HĐND</td>
-                  <td><span class="badge badge-blue">PDF</span></td>
-                  <td>1.1 MB</td>
-                  <td><span class="badge badge-green">Đã index</span></td>
-                  <td>12/07/2025</td>
-                  <td class="doc-actions">
-                    <button class="btn btn-ghost btn-sm" onclick="previewDoc(this)">Xem</button>
-                    <button class="btn btn-ghost btn-sm">↓</button>
-                    <button class="btn btn-ghost btn-sm" style="color:var(--red-400)" onclick="deleteDoc(this)">✕</button>
-                  </td>
-                </tr>
-                <tr>
-                  <td><input type="checkbox" class="doc-check"/></td>
-                  <td class="doc-name-cell"><span class="doc-file-icon">📝</span>Hướng dẫn soạn thảo văn bản hành chính</td>
-                  <td><span class="badge badge-gray">DOCX</span></td>
-                  <td>890 KB</td>
-                  <td><span class="badge badge-green">Đã index</span></td>
-                  <td>10/07/2025</td>
-                  <td class="doc-actions">
-                    <button class="btn btn-ghost btn-sm" onclick="previewDoc(this)">Xem</button>
-                    <button class="btn btn-ghost btn-sm">↓</button>
-                    <button class="btn btn-ghost btn-sm" style="color:var(--red-400)" onclick="deleteDoc(this)">✕</button>
-                  </td>
-                </tr>
-                <tr>
-                  <td><input type="checkbox" class="doc-check"/></td>
-                  <td class="doc-name-cell"><span class="doc-file-icon">🌐</span>Cổng thông tin UBND Quận 1</td>
-                  <td><span class="badge badge-amber">URL</span></td>
-                  <td>—</td>
-                  <td><span class="badge badge-amber">Đang index</span></td>
-                  <td>20/07/2025</td>
-                  <td class="doc-actions">
-                    <button class="btn btn-ghost btn-sm" onclick="previewDoc(this)">Xem</button>
-                    <button class="btn btn-ghost btn-sm">🔄</button>
-                    <button class="btn btn-ghost btn-sm" style="color:var(--red-400)" onclick="deleteDoc(this)">✕</button>
-                  </td>
-                </tr>
-                <tr>
-                  <td><input type="checkbox" class="doc-check"/></td>
-                  <td class="doc-name-cell"><span class="doc-file-icon">📊</span>Bảng theo dõi KPI tháng 6</td>
-                  <td><span class="badge badge-green">XLSX</span></td>
-                  <td>340 KB</td>
-                  <td><span class="badge badge-green">Đã index</span></td>
-                  <td>05/07/2025</td>
-                  <td class="doc-actions">
-                    <button class="btn btn-ghost btn-sm" onclick="previewDoc(this)">Xem</button>
-                    <button class="btn btn-ghost btn-sm">↓</button>
-                    <button class="btn btn-ghost btn-sm" style="color:var(--red-400)" onclick="deleteDoc(this)">✕</button>
-                  </td>
-                </tr>
+                <!-- Dynamically populated or rendered -->
               </tbody>
             </table>
           </div>
+        </div>
+
+        <!-- Empty state helper -->
+        <div class="empty-state-card" id="kb-empty-state" style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 48px; border: 1px dashed var(--border-subtle); border-radius: 12px; background: rgba(255,255,255,0.02); backdrop-filter: blur(10px); text-align: center; margin-top: 24px;">
+          <div style="font-size: 48px; margin-bottom: 16px;">📚</div>
+          <h3 style="font-size: 18px; font-weight: 600; margin-bottom: 8px;">Bạn chưa có kho tri thức nào</h3>
+          <p style="color: var(--text-tertiary); max-width: 380px; margin-bottom: 20px; font-size: 14px;">Hãy tạo một kho tri thức mới và nạp tài liệu thật vào CSDL để AI có thể hỗ trợ bạn soạn thảo thông minh!</p>
+          <button class="btn btn-primary" onclick="showCreateKBModal()">+ Tạo kho tri thức mới</button>
         </div>
 
       </div>
@@ -281,6 +202,30 @@
   </div>
 </div>
 
+<!-- Create KB modal -->
+<div class="modal-overlay" id="create-kb-modal" style="display:none" onclick="closeCreateKBModal(event)">
+  <div class="modal-card" style="width:450px">
+    <div class="modal-header">
+      <h3>Tạo kho tri thức mới</h3>
+      <button class="btn btn-ghost btn-icon" onclick="closeCreateKBModal()">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="form-group" style="margin-bottom: 16px;">
+        <label class="field-label" style="font-weight: 600; margin-bottom: 6px; display: block;">Tên kho tri thức</label>
+        <input type="text" class="input" placeholder="Ví dụ: Quy chế công tác, Báo cáo quý..." id="kb-name-input" style="width: 100%;" />
+      </div>
+      <div class="form-group" style="margin-bottom: 20px;">
+        <label class="field-label" style="font-weight: 600; margin-bottom: 6px; display: block;">Mô tả chi tiết</label>
+        <textarea class="input" placeholder="Nhập mô tả ngắn về nội dung tài liệu trong kho này..." id="kb-desc-input" style="width: 100%; height: 80px; resize: none; font-family: inherit; padding: 10px;"></textarea>
+      </div>
+      <div class="upload-actions">
+        <button class="btn btn-secondary" onclick="closeCreateKBModal()">Hủy</button>
+        <button class="btn btn-primary" onclick="submitCreateKB()">Tạo ngay</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 <!-- Preview panel -->
 <div class="preview-panel" id="preview-panel" style="display:none">
   <div class="preview-header">
@@ -292,7 +237,7 @@
   </div>
 </div>
 
-<script src="../js/shell.js"></script>
-<script src="../js/knowledge-base.js"></script>
+<script src="../js/shell.js?v=2.1.0"></script>
+<script src="../js/knowledge-base.js?v=2.2.1"></script>
 </body>
 </html>

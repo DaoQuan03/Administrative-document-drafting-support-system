@@ -126,6 +126,23 @@
 .editor-content strong { font-weight: 600; }
 .editor-content em { font-style: italic; color: var(--text-secondary); }
 
+/* Premium borderless administrative tables in editor */
+.editor-content .admin-header-table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  margin-bottom: 24px !important;
+  border: none !important;
+}
+.editor-content .admin-header-table td {
+  width: 50% !important;
+  border: none !important;
+  padding: 4px 12px !important;
+  vertical-align: top !important;
+  text-align: center !important;
+  font-size: 14px !important;
+  line-height: 1.5 !important;
+}
+
 .editor-content:empty::before {
   content: "Bắt đầu viết... hoặc nhấn '/' để xem lệnh";
   color: var(--text-tertiary);
@@ -365,3 +382,242 @@
 .share-input-row { display: flex; gap: 8px; align-items: center; }
 .share-divider { height: 1px; background: var(--border-subtle); }
 .share-link-row { display: flex; gap: 8px; }
+
+
+/* ==========================================
+   CSS PRINT MEDIA FOR A4 PDF EXPORT
+   ========================================== */
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+    font-family: "Times New Roman", Times, serif !important;
+  }
+  
+  /* Hide all UI containers */
+  .sidebar,
+  .topbar,
+  .editor-toolbar,
+  .ai-panel,
+  .editor-statusbar,
+  .modal-overlay,
+  .collab-avatars,
+  #save-status,
+  .tb-group,
+  .ai-group,
+  .tb-sep {
+    display: none !important;
+  }
+  
+  /* Reset shell layout structure */
+  .app-shell {
+    display: block !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    background: transparent !important;
+  }
+  
+  .app-body {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    background: transparent !important;
+  }
+  
+  .editor-layout,
+  .editor-body,
+  .editor-main {
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+    height: auto !important;
+    overflow: visible !important;
+  }
+  
+  /* A4 page margins (2.0 cm Top/Bottom/Right, 3.0 cm Left for binding) */
+  @page {
+    size: A4;
+    margin: 20mm 20mm 20mm 30mm;
+  }
+  
+  .editor-canvas {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    background: transparent !important;
+    border: none !important;
+  }
+  
+  .doc-title-input,
+  .doc-meta-bar,
+  .doc-cover,
+  #doc-emoji {
+    display: none !important;
+  }
+  
+  .editor-content {
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 13pt !important;
+    line-height: 1.4 !important;
+    color: black !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    background: transparent !important;
+  }
+  
+  /* Tables on PDF */
+  table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    margin: 12px 0 !important;
+    page-break-inside: avoid !important;
+  }
+  
+  th, td {
+    border: 1px solid black !important;
+    padding: 6px 8px !important;
+    font-size: 11pt !important;
+    color: black !important;
+    font-family: "Times New Roman", Times, serif !important;
+  }
+  
+  /* Administrative borderless header table override for PDF print */
+  .editor-content .admin-header-table,
+  .editor-content .admin-header-table tr,
+  .editor-content .admin-header-table td {
+    border: none !important;
+    background: transparent !important;
+  }
+  .editor-content .admin-header-table td {
+    width: 50% !important;
+    padding: 4px 12px !important;
+    text-align: center !important;
+  }
+  
+  th {
+    background: #f2f2f2 !important;
+    font-weight: bold !important;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Times New Roman", Times, serif !important;
+    font-weight: bold !important;
+    color: black !important;
+    page-break-after: avoid !important;
+  }
+  
+  h1 { font-size: 16pt !important; margin-top: 24px !important; margin-bottom: 12px !important; }
+  h2 { font-size: 14pt !important; margin-top: 18px !important; margin-bottom: 8px !important; }
+  h3 { font-size: 13pt !important; margin-top: 14px !important; margin-bottom: 6px !important; }
+}
+
+/* ─── INTERACTIVE AI IMPROVEMENT HIGHLIGHTS & TOOLTIPS ─── */
+.ai-highlight-span {
+  background-color: rgba(245, 158, 11, 0.12) !important;
+  border-bottom: 2px dashed #d97706 !important;
+  cursor: pointer !important;
+  display: inline !important;
+  padding: 1px 2px !important;
+  border-radius: 2px !important;
+  transition: all 0.2s ease !important;
+}
+.ai-highlight-span:hover {
+  background-color: rgba(245, 158, 11, 0.25) !important;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08) !important;
+}
+
+.ai-improve-tooltip {
+  background: white !important;
+  border: 1px solid var(--border-subtle) !important;
+  border-radius: var(--radius-lg) !important;
+  box-shadow: var(--shadow-xl) !important;
+  padding: 14px !important;
+  width: 300px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 10px !important;
+  font-family: var(--font-sans) !important;
+  color: var(--text-primary) !important;
+  animation: tooltipFadeIn 0.2s ease-out !important;
+  border-top: 4px solid #f59f0b !important;
+}
+
+@keyframes tooltipFadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.ai-tooltip-header {
+  font-size: 11px !important;
+  font-weight: 700 !important;
+  color: #d97706 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: 4px !important;
+}
+.ai-tooltip-reason {
+  font-size: 12px !important;
+  color: var(--text-secondary) !important;
+  line-height: 1.4 !important;
+  font-style: italic !important;
+  margin: 0 !important;
+}
+.ai-tooltip-diff {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 6px !important;
+  background: var(--gray-50) !important;
+  padding: 8px 10px !important;
+  border-radius: var(--radius-md) !important;
+  font-size: 12.5px !important;
+  border-left: 3px solid var(--border-subtle) !important;
+}
+.ai-diff-del {
+  color: #dc2626 !important;
+  text-decoration: line-through !important;
+  font-family: "Times New Roman", Times, serif !important;
+}
+.ai-diff-ins {
+  color: #16a34a !important;
+  font-weight: 700 !important;
+  font-family: "Times New Roman", Times, serif !important;
+}
+.ai-tooltip-actions {
+  display: flex !important;
+  gap: 8px !important;
+  margin-top: 4px !important;
+}
+.ai-tooltip-actions button {
+  flex: 1 !important;
+  height: 32px !important;
+  font-size: 12px !important;
+  font-weight: 600 !important;
+  border-radius: var(--radius-md) !important;
+  cursor: pointer !important;
+  border: none !important;
+  font-family: inherit !important;
+  transition: all 0.2s !important;
+}
+.ai-btn-accept {
+  background: #10b981 !important;
+  color: white !important;
+}
+.ai-btn-accept:hover {
+  background: #059669 !important;
+}
+.ai-btn-dismiss {
+  background: var(--gray-100) !important;
+  color: var(--text-secondary) !important;
+}
+.ai-btn-dismiss:hover {
+  background: var(--gray-200) !important;
+}
+
+

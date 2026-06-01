@@ -4,9 +4,9 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Soạn thảo — VănBảnAI</title>
-  <link rel="stylesheet" href="../css/global.css" />
-  <link rel="stylesheet" href="../css/shell.css" />
-  <link rel="stylesheet" href="../css/editor.css" />
+  <link rel="stylesheet" href="../css/global.css?v=1.0.4" />
+  <link rel="stylesheet" href="../css/shell.css?v=1.0.4" />
+  <link rel="stylesheet" href="../css/editor.css?v=1.0.5" />
 </head>
 <body>
 <h2 class="sr-only">Trang soạn thảo tài liệu VănBảnAI</h2>
@@ -19,7 +19,7 @@
         <div class="workspace-logo">
           <svg viewBox="0 0 24 24"><path d="M12 2L20 7V17L12 22L4 17V7L12 2Z"/></svg>
         </div>
-        <span class="workspace-name">UBND Quận 1</span>
+        <span class="workspace-name">{{ request.user.organization }}</span>
         <span class="workspace-arrow">⌄</span>
       </button>
     </div>
@@ -29,22 +29,23 @@
         <button class="sidebar-item active"><span class="si-icon">✏️</span><span class="si-label">Đang soạn thảo</span></button>
         <button class="sidebar-item" onclick="nav('knowledge-base.html')"><span class="si-icon">📚</span><span class="si-label">Kho tri thức</span></button>
         <button class="sidebar-item" onclick="nav('search.html')"><span class="si-icon">🔍</span><span class="si-label">Tìm kiếm AI</span></button>
+        <button class="sidebar-item" onclick="nav('settings.html')"><span class="si-icon">⚙️</span><span class="si-label">Cài đặt</span></button>
+        <button class="sidebar-item" onclick="handleLogout()"><span class="si-icon">🚪</span><span class="si-label">Đăng xuất</span></button>
       </div>
-      <div class="sidebar-section">
-        <div class="sidebar-section-label">Tài liệu khác
-          <button class="sidebar-add-btn">+</button>
-        </div>
-        <button class="sidebar-item" onclick="nav('editor.html')"><span class="si-icon">📄</span><span class="si-label">Công văn số 142/CV</span></button>
-        <button class="sidebar-item" onclick="nav('editor.html')"><span class="si-icon">📄</span><span class="si-label">Kế hoạch Q3 2025</span></button>
-        <button class="sidebar-item" onclick="nav('editor.html')"><span class="si-icon">📄</span><span class="si-label">Quyết định phân công</span></button>
-      </div>
+
     </nav>
     <div class="sidebar-footer">
       <div class="user-card">
-        <div class="avatar avatar-blue">NT</div>
+        <div class="avatar avatar-blue" style="overflow:hidden;display:flex;align-items:center;justify-content:center;">
+          {% if request.user.avatar %}
+            <img src="{{ request.user.avatar }}" style="width:100%;height:100%;object-fit:cover;" />
+          {% else %}
+            {{ request.user.full_name|slice:":2"|upper }}
+          {% endif %}
+        </div>
         <div class="user-info">
-          <div class="user-name">Nguyễn Trung</div>
-          <div class="user-role">Cán bộ · Editor</div>
+          <div class="user-name">{{ request.user.full_name }}</div>
+          <div class="user-role">{{ request.user.get_role_display }}</div>
         </div>
       </div>
     </div>
@@ -63,17 +64,34 @@
         <span class="bc-current">Báo cáo Q2/2025</span>
       </div>
       <div class="topbar-right">
-        <div class="collab-avatars">
-          <div class="avatar avatar-blue avatar-sm" data-tip="Nguyễn Trung (bạn)">NT</div>
+        <div class="collab-avatars" style="display: none !important;">
+          <div class="avatar avatar-blue avatar-sm" data-tip="{{ request.user.full_name }} (bạn)">{{ request.user.full_name|slice:":2"|upper }}</div>
           <div class="avatar avatar-sm avatar-green" data-tip="Trần Hoa · đang xem">TH</div>
           <div class="avatar avatar-sm" style="background:var(--amber-50);color:var(--amber-500)" data-tip="Lê Minh · đang xem">LM</div>
         </div>
-        <span id="save-status" class="save-status">Đã lưu</span>
+        <span id="save-status" class="save-status" style="display: none !important;">Đã lưu</span>
+        <button class="btn btn-secondary btn-sm" onclick="showSaveToKBModal()" style="margin-right: 8px;">
+          💾 Lưu vào Kho tri thức
+        </button>
         <button class="btn btn-secondary btn-sm" onclick="showShareModal()">
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
           Chia sẻ
         </button>
-        <button class="btn btn-primary btn-sm" onclick="exportDoc()">Xuất PDF</button>
+        
+        <!-- Unified Download Dropdown -->
+        <div class="download-dropdown" style="position:relative;display:inline-block">
+          <button class="btn btn-primary btn-sm" onclick="toggleDownloadMenu(event)" style="display:inline-flex;align-items:center;gap:6px">
+            📥 Tải xuống <span style="font-size:10px">▼</span>
+          </button>
+          <div id="download-menu" class="dropdown-menu" style="display:none;position:absolute;right:0;top:calc(100% + 4px);background:white;border:1px solid var(--border-subtle);box-shadow:var(--shadow-lg);border-radius:var(--radius-md);z-index:100;min-width:160px;overflow:hidden">
+            <button onclick="exportDocx()" style="display:block;width:100%;text-align:left;padding:10px 14px;border:none;background:transparent;font-size:13px;cursor:pointer;color:var(--text-primary);font-family:inherit;transition:background 0.2s;" onmouseover="this.style.background='#f7f7f5'" onmouseout="this.style.background='transparent'">
+              📄 Tải Word (.docx)
+            </button>
+            <button onclick="exportPdf()" style="display:block;width:100%;text-align:left;padding:10px 14px;border:none;background:transparent;font-size:13px;cursor:pointer;color:var(--text-primary);font-family:inherit;border-top:1px solid var(--border-subtle);transition:background 0.2s;" onmouseover="this.style.background='#f7f7f5'" onmouseout="this.style.background='transparent'">
+              🖨️ In / Xuất PDF
+            </button>
+          </div>
+        </div>
       </div>
     </header>
 
@@ -111,13 +129,8 @@
         <div class="tb-sep"></div>
         <!-- AI Actions -->
         <div class="tb-group ai-group">
-          <div class="rag-pill">
-            <span class="rag-dot"></span>RAG
-          </div>
-          <button class="ai-tb-btn" onclick="aiAction('write')" data-tip="AI viết tiếp">✨ Viết tiếp</button>
+          <button class="ai-tb-btn" onclick="autoFillProfile()" data-tip="Tự động điền thông tin cá nhân của bạn vào các trường trống" style="background: rgba(37, 99, 235, 0.15); border-color: rgba(37, 99, 235, 0.3); color: #60a5fa; font-weight: 600;"><span style="margin-right:4px;">👤</span>Điền nhanh</button>
           <button class="ai-tb-btn" onclick="aiAction('improve')" data-tip="Cải thiện văn phong">💡 Cải thiện</button>
-          <button class="ai-tb-btn" onclick="aiAction('summarize')" data-tip="Tóm tắt đoạn chọn">📋 Tóm tắt</button>
-          <button class="ai-tb-btn" onclick="aiAction('translate')" data-tip="Dịch thuật">🌐 Dịch</button>
           <button class="ai-tb-btn" onclick="toggleAIPanel()" id="ai-panel-toggle" data-tip="Mở AI Panel">AI Panel ▸</button>
         </div>
       </div>
@@ -127,21 +140,26 @@
         <!-- Main writing area -->
         <div class="editor-main" id="editor-main">
           <div class="editor-canvas">
-            <div class="doc-cover">
-              <span class="doc-emoji" id="doc-emoji" onclick="changeEmoji()" data-tip="Đổi emoji">📋</span>
-            </div>
             <input
               type="text" id="doc-title"
               class="doc-title-input"
-              value="Báo cáo kết quả hoạt động Quý II năm 2025"
+              value=""
               placeholder="Tiêu đề tài liệu..."
             />
             <div class="doc-meta-bar">
-              <span>📅 22/07/2025</span>
-              <span>👤 Nguyễn Trung</span>
-              <span id="word-count">🔤 847 từ</span>
-              <span>📖 ~4 phút đọc</span>
-              <span class="badge badge-green" style="cursor:pointer">Hoàn thành</span>
+              <label for="doc-date" style="font-size: 13px; color: var(--text-secondary); display: inline-flex; align-items: center; gap: 6px;">
+                📅 Ngày: 
+                <input type="date" id="doc-date" onchange="onDateChange()" style="border: 1px solid var(--border-subtle); border-radius: 4px; padding: 2px 6px; font-size: 12px; background: white; cursor: pointer; font-family: inherit; font-weight: 500; color: var(--text-secondary);" />
+              </label>
+              <span>👤 {{ request.user.full_name }}</span>
+              <span class="meta-sep">·</span>
+              <label for="doc-status" style="font-size: 13px; color: var(--text-secondary); display: inline-flex; align-items: center; gap: 6px;">
+                Trạng thái:
+                <select id="doc-status" onchange="onStatusChange()" style="border: 1px solid var(--border-subtle); border-radius: 4px; padding: 2px 6px; font-size: 12px; background: white; cursor: pointer; font-family: inherit; font-weight: 500;">
+                  <option value="DRAFT">Chưa hoàn thành</option>
+                  <option value="DONE">Hoàn thành</option>
+                </select>
+              </label>
             </div>
 
             <div
@@ -152,12 +170,6 @@
               oninput="onEditorInput()"
               onkeydown="onEditorKeydown(event)"
             >
-              <h2>I. Tổng quan kết quả</h2>
-              <p>Trong Quý II năm 2025, đơn vị đã hoàn thành <strong>95,3%</strong> chỉ tiêu kế hoạch được giao, vượt mức so với cùng kỳ năm 2024. Tổng doanh thu đạt <strong>42,7 tỷ đồng</strong>, tăng 12,4% so với Quý I.</p>
-              <h2>II. Kết quả theo từng lĩnh vực</h2>
-              <p>Lĩnh vực dịch vụ hành chính ghi nhận mức tăng trưởng ổn định. Số lượng hồ sơ tiếp nhận và giải quyết đạt <strong>1.842 hồ sơ</strong>, trong đó tỷ lệ giải quyết đúng hạn đạt <strong>98,1%</strong>.</p>
-              <h2>III. Đánh giá và kiến nghị</h2>
-              <p>Nhìn chung, Quý II/2025 đánh dấu bước phát triển tích cực với đầy đủ chỉ tiêu được hoàn thành. Đề nghị tiếp tục duy trì các biện pháp cải cách hành chính, nâng cao chất lượng phục vụ nhân dân trong Quý III.</p>
               <p><br></p>
             </div>
 
@@ -186,99 +198,38 @@
         <!-- AI Side Panel -->
         <aside class="ai-panel" id="ai-panel">
           <div class="ai-panel-tabs">
-            <button class="ap-tab active" onclick="switchPanelTab(this,'rag')">Ngữ cảnh RAG</button>
-            <button class="ap-tab" onclick="switchPanelTab(this,'chat')">AI Chat</button>
-            <button class="ap-tab" onclick="switchPanelTab(this,'settings')">Cài đặt</button>
+            <button class="ap-tab active" onclick="switchPanelTab(this,'search')">🔍 Tìm biểu mẫu</button>
+            <button class="ap-tab" onclick="switchPanelTab(this,'draft')">✨ AI Soạn thảo</button>
           </div>
 
-          <!-- RAG Context tab -->
-          <div class="ap-body" id="tab-rag">
-            <div class="ap-section-label">3 đoạn văn liên quan</div>
-            <div class="rag-chunks">
-              <div class="rag-chunk">
-                <div class="rag-chunk-header">
-                  <span class="badge badge-blue">PDF</span>
-                  <span class="rag-filename">KH-Q2-2025.pdf · tr.4</span>
-                  <span class="rag-score">94%</span>
-                </div>
-                <p class="rag-chunk-text">...chỉ tiêu kế hoạch Quý II được phê duyệt theo Nghị quyết số 18, tổng doanh thu dự kiến đạt từ 40–45 tỷ đồng...</p>
-              </div>
-              <div class="rag-chunk">
-                <div class="rag-chunk-header">
-                  <span class="badge badge-gray">DOCX</span>
-                  <span class="rag-filename">QD-phan-cong-Q2.docx</span>
-                  <span class="rag-score">88%</span>
-                </div>
-                <p class="rag-chunk-text">...phân công trách nhiệm các phòng ban trong việc thực hiện chỉ tiêu 1.800 hồ sơ/quý...</p>
-              </div>
-              <div class="rag-chunk">
-                <div class="rag-chunk-header">
-                  <span class="badge badge-amber">URL</span>
-                  <span class="rag-filename">portal.gov.vn</span>
-                  <span class="rag-score">81%</span>
-                </div>
-                <p class="rag-chunk-text">...mức tăng trưởng bình quân 12–15% được coi là tích cực trong bối cảnh kinh tế hiện tại...</p>
-              </div>
-            </div>
-            <div class="ap-section-label" style="margin-top:12px">Token sử dụng</div>
-            <div class="token-meter">
-              <div class="token-bar-track">
-                <div class="token-bar-fill" style="width:30%"></div>
-              </div>
-              <span>1.2K / 4K token</span>
-            </div>
-          </div>
-
-          <!-- Chat tab -->
-          <div class="ap-body" id="tab-chat" style="display:none">
-            <div class="chat-messages" id="chat-messages">
+          <!-- Tab 1: Tìm biểu mẫu -->
+          <div class="ap-body" id="tab-search">
+            <div class="chat-messages" id="search-chat-messages">
               <div class="chat-msg assistant">
-                <div class="chat-bubble">Xin chào! Tôi có thể giúp bạn soạn thảo, tóm tắt hoặc tìm kiếm thông tin từ kho tri thức. Bạn cần hỗ trợ gì?</div>
+                <div class="chat-bubble">Xin chào! Cậu muốn tìm kiếm biểu mẫu hành chính gì từ kho tri thức? Hãy gõ từ khóa vào ô bên dưới nhé.</div>
               </div>
             </div>
             <div class="chat-input-area">
-              <textarea id="chat-input" class="chat-textarea" placeholder="Hỏi AI về tài liệu này..." rows="2" onkeydown="chatKeydown(event)"></textarea>
-              <button class="chat-send-btn" onclick="sendChat()">
+              <textarea id="search-chat-input" class="chat-textarea" placeholder="Nhập tên biểu mẫu cần tìm (Ví dụ: nghỉ phép, tờ trình...)" rows="2" onkeydown="chatKeydown(event, 'search')"></textarea>
+              <button class="chat-send-btn" onclick="sendSearchChat()">
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
               </button>
             </div>
           </div>
 
-          <!-- Settings tab -->
-          <div class="ap-body" id="tab-settings" style="display:none">
-            <div class="ap-section-label">Mô hình AI</div>
-            <select class="input" style="margin-bottom:12px">
-              <option>GPT-4o (Mặc định)</option>
-              <option>GPT-4o-mini (Tiết kiệm)</option>
-              <option>Claude 3.5 Sonnet</option>
-              <option>Gemini 1.5 Pro</option>
-            </select>
-            <div class="ap-section-label">Top-K chunks</div>
-            <div class="slider-row">
-              <input type="range" min="1" max="10" value="5" id="topk" oninput="document.getElementById('topk-val').textContent=this.value" />
-              <span id="topk-val">5</span>
+          <!-- Tab 2: AI Soạn thảo -->
+          <div class="ap-body" id="tab-draft" style="display:none">
+            <div class="chat-messages" id="draft-chat-messages">
+              <div class="chat-msg assistant">
+                <div class="chat-bubble">Xin chào! Tớ là Trợ lý ảo AI đắc lực. Cậu muốn tớ soạn thảo văn bản từ đầu, điền thông tin hay cải thiện tài liệu hiện tại? Hãy nhập yêu cầu của cậu nhé.</div>
+              </div>
             </div>
-            <div class="ap-section-label" style="margin-top:12px">Temperature</div>
-            <div class="slider-row">
-              <input type="range" min="0" max="10" value="3" step="1" id="temp" oninput="document.getElementById('temp-val').textContent=(this.value/10).toFixed(1)" />
-              <span id="temp-val">0.3</span>
+            <div class="chat-input-area">
+              <textarea id="draft-chat-input" class="chat-textarea" placeholder="Yêu cầu AI soạn thảo từ đầu, cải thiện, viết tiếp..." rows="2" onkeydown="chatKeydown(event, 'draft')"></textarea>
+              <button class="chat-send-btn" onclick="sendDraftChat()">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+              </button>
             </div>
-            <div class="ap-section-label" style="margin-top:12px">Kho tri thức</div>
-            <label class="toggle-row">
-              <input type="checkbox" checked />
-              <span class="toggle-switch"></span>
-              <span>Quy định nội bộ</span>
-            </label>
-            <label class="toggle-row">
-              <input type="checkbox" checked />
-              <span class="toggle-switch"></span>
-              <span>Văn bản pháp lý</span>
-            </label>
-            <label class="toggle-row">
-              <input type="checkbox" />
-              <span class="toggle-switch"></span>
-              <span>Biểu mẫu mẫu</span>
-            </label>
           </div>
         </aside>
       </div>
@@ -289,7 +240,43 @@
         <span id="status-words">847 từ</span>
         <span>Phiên bản 8</span>
         <span>Tiếng Việt · UTF-8</span>
-        <span style="margin-left:auto;color:var(--green-500)">● 3 người đang xem</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Save to KB Modal -->
+<div class="modal-overlay" id="save-to-kb-modal" style="display:none" onclick="closeSaveToKBModal(event)">
+  <div class="modal-card" style="width:450px">
+    <div class="modal-header">
+      <h3>Lưu tài liệu vào Kho tri thức</h3>
+      <button class="btn btn-ghost btn-icon" onclick="closeSaveToKBModal()">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="form-group" style="margin-bottom: 16px;">
+        <label class="field-label" style="font-weight:600; margin-bottom:6px; display:block;">Tiêu đề lưu trữ tri thức</label>
+        <input type="text" class="input" placeholder="Tiêu đề tài liệu..." id="save-kb-title-input" style="width:100%;" />
+      </div>
+      <div class="form-group" style="margin-bottom: 20px;">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
+          <label class="field-label" style="font-weight:600; margin-bottom:0;">Chọn Kho tri thức đích</label>
+          <a href="#" onclick="toggleInlineCreateKB(event)" style="font-size:12px; color:var(--blue-500); font-weight:600; text-decoration:none;">+ Tạo kho mới</a>
+        </div>
+        <select class="input" id="save-kb-select" style="width:100%; height:40px; font-size:13.5px;"></select>
+      </div>
+
+      <!-- Inline Create KB Form -->
+      <div id="inline-create-kb-form" style="display:none; background:rgba(255,255,255,0.02); border:1px dashed var(--border-subtle); border-radius:6px; padding:12px; margin-bottom:16px; margin-top:-8px;">
+        <div style="font-weight:600; font-size:12.5px; margin-bottom:8px; display:flex; justify-content:space-between; align-items:center;">
+          <span>🆕 Tạo nhanh kho tri thức mới</span>
+          <a href="#" onclick="toggleInlineCreateKB(event)" style="color:var(--text-tertiary); font-size:11px; text-decoration:none;">✕ Đóng</a>
+        </div>
+        <input type="text" class="input" placeholder="Nhập tên kho mới..." id="inline-kb-name" style="width:100%; height:32px; font-size:12.5px; margin-bottom:8px;" />
+        <button class="btn btn-primary btn-sm" onclick="submitInlineCreateKB()" style="height:28px; font-size:11.5px; padding:4px 12px; background:#10b981; border-color:#10b981;">Tạo & Chọn</button>
+      </div>
+      <div class="upload-actions">
+        <button class="btn btn-secondary" onclick="closeSaveToKBModal()">Hủy</button>
+        <button class="btn btn-primary" id="btn-confirm-save-kb" onclick="submitSaveToKB()">Xác nhận lưu</button>
       </div>
     </div>
   </div>
@@ -323,7 +310,21 @@
   </div>
 </div>
 
-<script src="../js/shell.js"></script>
-<script src="../js/editor.js"></script>
+<div id="ai-improve-tooltip" class="ai-improve-tooltip" style="display:none; position:absolute; z-index:10000;"></div>
+
+<script>
+  window.currentUserProfile = {
+    fullName: "{{ request.user.full_name|escapejs }}",
+    title: "{{ request.user.title|escapejs }}",
+    department: "{{ request.user.department|escapejs }}",
+    organization: "{{ request.user.organization|escapejs }}",
+    phoneNumber: "{{ request.user.phone_number|escapejs }}",
+    email: "{{ request.user.email|escapejs }}",
+    birthDate: "{{ request.user.birth_date|date:'d/m/Y'|escapejs }}"
+  };
+</script>
+
+<script src="../js/shell.js?v=2.2.0"></script>
+<script src="../js/editor.js?v=3.0.5"></script>
 </body>
 </html>

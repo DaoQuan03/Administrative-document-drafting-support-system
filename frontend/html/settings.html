@@ -16,7 +16,7 @@
     <div class="sidebar-workspace">
       <button class="workspace-btn" onclick="nav('dashboard.html')">
         <div class="workspace-logo"><svg viewBox="0 0 24 24"><path d="M12 2L20 7V17L12 22L4 17V7L12 2Z"/></svg></div>
-        <span class="workspace-name">UBND Quận 1</span><span class="workspace-arrow">⌄</span>
+        <span class="workspace-name">{{ request.user.organization }}</span><span class="workspace-arrow">⌄</span>
       </button>
     </div>
     <nav class="sidebar-nav">
@@ -26,12 +26,19 @@
         <button class="sidebar-item" onclick="nav('knowledge-base.html')"><span class="si-icon">📚</span><span class="si-label">Kho tri thức</span></button>
         <button class="sidebar-item" onclick="nav('search.html')"><span class="si-icon">🔍</span><span class="si-label">Tìm kiếm AI</span></button>
         <button class="sidebar-item active"><span class="si-icon">⚙️</span><span class="si-label">Cài đặt</span></button>
+        <button class="sidebar-item" onclick="handleLogout()"><span class="si-icon">🚪</span><span class="si-label">Đăng xuất</span></button>
       </div>
     </nav>
     <div class="sidebar-footer">
       <div class="user-card">
-        <div class="avatar avatar-blue">NT</div>
-        <div class="user-info"><div class="user-name">Nguyễn Trung</div><div class="user-role">Cán bộ · Editor</div></div>
+        <div class="avatar avatar-blue" style="overflow:hidden;display:flex;align-items:center;justify-content:center;">
+          {% if request.user.avatar %}
+            <img src="{{ request.user.avatar }}" style="width:100%;height:100%;object-fit:cover;" />
+          {% else %}
+            {{ request.user.full_name|slice:":2"|upper }}
+          {% endif %}
+        </div>
+        <div class="user-info"><div class="user-name">{{ request.user.full_name }}</div><div class="user-role">{{ request.user.get_role_display }}</div></div>
       </div>
     </div>
   </aside>
@@ -42,13 +49,19 @@
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
       </button>
       <div class="breadcrumb">
-        <span onclick="nav('dashboard.html')" style="cursor:pointer">UBND Quận 1</span>
+        <span onclick="nav('dashboard.html')" style="cursor:pointer">{{ request.user.organization }}</span>
         <span class="bc-sep">/</span>
         <span class="bc-current">Cài đặt</span>
       </div>
       <div class="topbar-right">
         <button class="btn btn-primary btn-sm" onclick="saveSettings()">Lưu thay đổi</button>
-        <div class="avatar avatar-blue">NT</div>
+        <div class="avatar avatar-blue" style="overflow:hidden;display:flex;align-items:center;justify-content:center;">
+          {% if request.user.avatar %}
+            <img src="{{ request.user.avatar }}" style="width:100%;height:100%;object-fit:cover;" />
+          {% else %}
+            {{ request.user.full_name|slice:":2"|upper }}
+          {% endif %}
+        </div>
       </div>
     </header>
 
@@ -74,25 +87,11 @@
             <button class="settings-nav-item" onclick="switchSection(this,'ai')">
               <span>🤖</span> Mô hình AI
             </button>
-            <button class="settings-nav-item" onclick="switchSection(this,'rag')">
-              <span>📚</span> Cấu hình RAG
-            </button>
             <button class="settings-nav-item" onclick="switchSection(this,'editor-prefs')">
               <span>✏️</span> Soạn thảo
             </button>
           </div>
-          <div class="settings-nav-section">
-            <div class="settings-nav-label">Tổ chức</div>
-            <button class="settings-nav-item" onclick="switchSection(this,'workspace')">
-              <span>🏢</span> Không gian làm việc
-            </button>
-            <button class="settings-nav-item" onclick="switchSection(this,'members')">
-              <span>👥</span> Thành viên
-            </button>
-            <button class="settings-nav-item" onclick="switchSection(this,'billing')">
-              <span>💳</span> Thanh toán & gói dịch vụ
-            </button>
-          </div>
+
         </nav>
 
         <!-- Settings content -->
@@ -106,39 +105,62 @@
             </div>
             <div class="settings-card">
               <div class="profile-avatar-row">
-                <div class="avatar avatar-blue" style="width:64px;height:64px;font-size:24px">NT</div>
+                <div class="avatar avatar-blue" id="profile-avatar-display" style="width:64px;height:64px;font-size:24px;overflow:hidden;display:flex;align-items:center;justify-content:center;">
+                  {% if request.user.avatar %}
+                    <img src="{{ request.user.avatar }}" style="width:100%;height:100%;object-fit:cover;" />
+                  {% else %}
+                    {{ request.user.full_name|slice:":2"|upper }}
+                  {% endif %}
+                </div>
                 <div>
-                  <button class="btn btn-secondary btn-sm">Thay đổi ảnh</button>
+                  <input type="file" id="avatar-file-input" style="display:none;" accept="image/png, image/jpeg, image/jpg, image/gif" onchange="uploadAvatar()" />
+                  <button class="btn btn-secondary btn-sm" onclick="document.getElementById('avatar-file-input').click()">Thay đổi ảnh</button>
                   <p style="font-size:11px;color:var(--text-tertiary);margin-top:4px">PNG, JPG tối đa 2MB</p>
                 </div>
               </div>
               <div class="settings-row-2">
                 <div class="field-group">
                   <label class="field-label">Họ và tên</label>
-                  <input type="text" class="input" value="Nguyễn Trung"/>
+                  <input type="text" class="input" id="profile-full-name" value="{{ request.user.full_name }}"/>
                 </div>
                 <div class="field-group">
                   <label class="field-label">Chức danh</label>
-                  <input type="text" class="input" value="Cán bộ hành chính"/>
+                  <input type="text" class="input" id="profile-title" value="{{ request.user.title }}"/>
                 </div>
               </div>
-              <div class="field-group">
-                <label class="field-label">Email công vụ</label>
-                <input type="email" class="input" value="nguyen.trung@ubnd-quan1.gov.vn"/>
+              <div class="settings-row-2">
+                <div class="field-group">
+                  <label class="field-label">Email công vụ</label>
+                  <input type="email" class="input" id="profile-email" value="{{ request.user.email }}" readonly disabled style="background-color: var(--bg-secondary); cursor: not-allowed;"/>
+                </div>
+                <div class="field-group">
+                  <label class="field-label">Cơ quan / Tổ chức</label>
+                  <input type="text" class="input" id="profile-organization" value="{{ request.user.organization }}"/>
+                </div>
               </div>
               <div class="settings-row-2">
                 <div class="field-group">
                   <label class="field-label">Phòng ban</label>
-                  <select class="input">
-                    <option selected>Văn phòng UBND</option>
-                    <option>Phòng Kinh tế</option>
-                    <option>Phòng Nội vụ</option>
-                    <option>Phòng Tư pháp</option>
-                  </select>
+                  <input type="text" class="input" id="profile-department" value="{{ request.user.department }}" placeholder="Ví dụ: Văn phòng, Phòng Tư pháp..."/>
                 </div>
                 <div class="field-group">
                   <label class="field-label">Số điện thoại</label>
-                  <input type="tel" class="input" value="028 3829 xxxx"/>
+                  <input type="tel" class="input" id="profile-phone" value="{{ request.user.phone_number }}" placeholder="Nhập số điện thoại của bạn..."/>
+                </div>
+              </div>
+              <div class="settings-row-2">
+                <div class="field-group">
+                  <label class="field-label">Ngày sinh</label>
+                  <input type="date" class="input" id="profile-birth-date" value="{{ request.user.birth_date|date:'Y-m-d' }}" style="color-scheme: dark;"/>
+                </div>
+                <div class="field-group">
+                  <!-- Empty for alignment -->
+                </div>
+              </div>
+              <div class="settings-row-1" style="margin-top:16px">
+                <div class="field-group" style="width:100%">
+                  <label class="field-label" style="color:var(--brand-color);font-weight:600">Mật khẩu xác nhận để áp dụng thay đổi</label>
+                  <input type="password" class="input" id="profile-confirm-password" placeholder="Nhập mật khẩu hiện tại để xác nhận lưu thay đổi thông tin..." required style="border-color:var(--brand-color);box-shadow: 0 0 0 1px rgba(var(--brand-color-rgb), 0.15);width:100%"/>
                 </div>
               </div>
             </div>
@@ -255,65 +277,7 @@
             </div>
           </section>
 
-          <!-- RAG config -->
-          <section class="settings-section" id="sec-rag" style="display:none">
-            <div class="settings-section-header">
-              <h2>Cấu hình RAG</h2>
-              <p>Điều chỉnh cách hệ thống truy xuất và sử dụng tài liệu tham chiếu</p>
-            </div>
-            <div class="settings-card">
-              <div class="rag-param-list">
-                <div class="rag-param">
-                  <div class="rag-param-info">
-                    <div class="rag-param-name">Top-K chunks</div>
-                    <div class="rag-param-desc">Số đoạn văn tham chiếu tối đa mỗi lần truy vấn</div>
-                  </div>
-                  <div class="rag-param-control">
-                    <input type="range" min="1" max="15" value="5" oninput="this.nextElementSibling.textContent=this.value"/>
-                    <span class="param-val">5</span>
-                  </div>
-                </div>
-                <div class="rag-param">
-                  <div class="rag-param-info">
-                    <div class="rag-param-name">Ngưỡng similarity</div>
-                    <div class="rag-param-desc">Chỉ dùng đoạn văn có độ tương đồng ≥ ngưỡng này</div>
-                  </div>
-                  <div class="rag-param-control">
-                    <input type="range" min="50" max="95" value="70" oninput="this.nextElementSibling.textContent=this.value+'%'"/>
-                    <span class="param-val">70%</span>
-                  </div>
-                </div>
-                <div class="rag-param">
-                  <div class="rag-param-info">
-                    <div class="rag-param-name">Temperature</div>
-                    <div class="rag-param-desc">Độ ngẫu nhiên của câu trả lời (0=chính xác, 1=sáng tạo)</div>
-                  </div>
-                  <div class="rag-param-control">
-                    <input type="range" min="0" max="10" value="3" oninput="this.nextElementSibling.textContent=(this.value/10).toFixed(1)"/>
-                    <span class="param-val">0.3</span>
-                  </div>
-                </div>
-                <div class="rag-param">
-                  <div class="rag-param-info">
-                    <div class="rag-param-name">Chunk size (token)</div>
-                    <div class="rag-param-desc">Kích thước mỗi đoạn khi chia nhỏ tài liệu</div>
-                  </div>
-                  <div class="rag-param-control">
-                    <input type="range" min="128" max="1024" value="512" step="128" oninput="this.nextElementSibling.textContent=this.value"/>
-                    <span class="param-val">512</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="settings-card" style="margin-top:16px">
-              <h3 class="settings-sub-title">Mô hình embedding</h3>
-              <select class="input">
-                <option selected>text-embedding-3-large (OpenAI)</option>
-                <option>text-embedding-3-small (OpenAI)</option>
-                <option>BGE-M3 (Local)</option>
-              </select>
-            </div>
-          </section>
+
 
           <!-- Editor prefs -->
           <section class="settings-section" id="sec-editor-prefs" style="display:none">
@@ -340,94 +304,9 @@
             </div>
           </section>
 
-          <!-- Workspace -->
-          <section class="settings-section" id="sec-workspace" style="display:none">
-            <div class="settings-section-header">
-              <h2>Không gian làm việc</h2>
-              <p>Thông tin và cài đặt tổ chức</p>
-            </div>
-            <div class="settings-card">
-              <div class="field-group"><label class="field-label">Tên tổ chức</label><input type="text" class="input" value="UBND Quận 1, TP. Hồ Chí Minh"/></div>
-              <div class="settings-row-2">
-                <div class="field-group"><label class="field-label">Tên viết tắt</label><input type="text" class="input" value="UBND Q1"/></div>
-                <div class="field-group"><label class="field-label">Múi giờ</label><select class="input"><option selected>UTC+7 (Hà Nội / TP.HCM)</option></select></div>
-              </div>
-              <div class="field-group"><label class="field-label">Địa chỉ</label><input type="text" class="input" value="Số 10, Phạm Văn Đồng, Quận 1, TP. HCM"/></div>
-            </div>
-          </section>
 
-          <!-- Members -->
-          <section class="settings-section" id="sec-members" style="display:none">
-            <div class="settings-section-header">
-              <h2>Thành viên</h2>
-              <p>Quản lý quyền truy cập và vai trò thành viên</p>
-            </div>
-            <div class="settings-card">
-              <div class="members-toolbar">
-                <input type="text" class="input" placeholder="Tìm thành viên..." style="width:220px"/>
-                <button class="btn btn-primary btn-sm">+ Mời thành viên</button>
-              </div>
-              <div class="members-list">
-                <div class="member-row">
-                  <div class="avatar avatar-blue">NT</div>
-                  <div class="member-info"><div class="member-name">Nguyễn Trung <span class="badge badge-blue">Bạn</span></div><div class="member-email">nguyen.trung@ubnd-quan1.gov.vn</div></div>
-                  <select class="input" style="width:130px"><option selected>Quản trị viên</option><option>Biên tập viên</option><option>Xem</option></select>
-                  <button class="btn btn-ghost btn-sm" disabled>···</button>
-                </div>
-                <div class="member-row">
-                  <div class="avatar avatar-green">TH</div>
-                  <div class="member-info"><div class="member-name">Trần Hoa</div><div class="member-email">tran.hoa@ubnd-quan1.gov.vn</div></div>
-                  <select class="input" style="width:130px"><option>Quản trị viên</option><option selected>Biên tập viên</option><option>Xem</option></select>
-                  <button class="btn btn-ghost btn-sm" onclick="removeMember(this)">✕</button>
-                </div>
-                <div class="member-row">
-                  <div class="avatar" style="background:var(--amber-50);color:var(--amber-500)">LM</div>
-                  <div class="member-info"><div class="member-name">Lê Minh</div><div class="member-email">le.minh@ubnd-quan1.gov.vn</div></div>
-                  <select class="input" style="width:130px"><option>Quản trị viên</option><option selected>Biên tập viên</option><option>Xem</option></select>
-                  <button class="btn btn-ghost btn-sm" onclick="removeMember(this)">✕</button>
-                </div>
-                <div class="member-row pending">
-                  <div class="avatar" style="background:var(--gray-100);color:var(--gray-400)">?</div>
-                  <div class="member-info"><div class="member-name">pham.dung@ubnd-quan1.gov.vn <span class="badge badge-amber">Chờ xác nhận</span></div><div class="member-email">Lời mời gửi hôm qua</div></div>
-                  <select class="input" style="width:130px" disabled><option selected>Biên tập viên</option></select>
-                  <button class="btn btn-ghost btn-sm" onclick="removeMember(this)">✕</button>
-                </div>
-              </div>
-            </div>
-          </section>
 
-          <!-- Billing -->
-          <section class="settings-section" id="sec-billing" style="display:none">
-            <div class="settings-section-header">
-              <h2>Thanh toán & Gói dịch vụ</h2>
-              <p>Quản lý gói đăng ký và hóa đơn</p>
-            </div>
-            <div class="billing-plan-card">
-              <div class="plan-header">
-                <div>
-                  <div class="plan-name">Gói Pro <span class="badge badge-blue">Hiện tại</span></div>
-                  <div class="plan-price">2.900.000 đ / tháng</div>
-                </div>
-                <button class="btn btn-secondary">Nâng cấp Enterprise</button>
-              </div>
-              <div class="plan-features">
-                <div class="plan-feature">✅ 100K token AI / tháng</div>
-                <div class="plan-feature">✅ 10 GB lưu trữ kho tri thức</div>
-                <div class="plan-feature">✅ 150 tài liệu</div>
-                <div class="plan-feature">✅ Tối đa 10 thành viên</div>
-                <div class="plan-feature">✅ Xuất PDF / Word không giới hạn</div>
-                <div class="plan-feature">⬜ Triển khai on-premise (Enterprise)</div>
-              </div>
-            </div>
-            <div class="settings-card" style="margin-top:16px">
-              <h3 class="settings-sub-title">Hóa đơn gần đây</h3>
-              <div class="invoice-list">
-                <div class="invoice-row"><span>Tháng 7/2025</span><span>2.900.000 đ</span><span class="badge badge-green">Đã thanh toán</span><button class="btn btn-ghost btn-sm">↓ PDF</button></div>
-                <div class="invoice-row"><span>Tháng 6/2025</span><span>2.900.000 đ</span><span class="badge badge-green">Đã thanh toán</span><button class="btn btn-ghost btn-sm">↓ PDF</button></div>
-                <div class="invoice-row"><span>Tháng 5/2025</span><span>2.900.000 đ</span><span class="badge badge-green">Đã thanh toán</span><button class="btn btn-ghost btn-sm">↓ PDF</button></div>
-              </div>
-            </div>
-          </section>
+
 
         </div>
       </div>
@@ -435,7 +314,7 @@
   </div>
 </div>
 
-<script src="../js/shell.js"></script>
-<script src="../js/settings.js"></script>
+<script src="../js/shell.js?v=2.2.2"></script>
+<script src="../js/settings.js?v=2.2.2"></script>
 </body>
 </html>

@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tri thức hệ thống — VănBảnAI</title>
+  <link rel="stylesheet" href="../css/global.css"/>
+  <link rel="stylesheet" href="../css/shell.css"/>
+  <style>
+    /* Premium Admin Page Styling */
+    .admin-upload-card {
+      background: rgba(30, 41, 59, 0.4);
+      backdrop-filter: blur(20px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 16px;
+      padding: 32px;
+      max-width: 680px;
+      margin: 24px auto;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);
+    }
+    .admin-header {
+      text-align: center;
+      margin-bottom: 28px;
+    }
+    .admin-header h1 {
+      font-size: 26px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+    }
+    .admin-header p {
+      color: var(--text-tertiary);
+      font-size: 14.5px;
+    }
+    .drop-zone {
+      border: 2px dashed rgba(37, 99, 235, 0.4);
+      background: rgba(37, 99, 235, 0.03);
+      border-radius: 12px;
+      padding: 32px 20px;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      margin-top: 8px;
+    }
+    .drop-zone:hover, .drop-zone.drag-over {
+      border-color: #2563eb;
+      background: rgba(37, 99, 235, 0.08);
+      transform: translateY(-2px);
+    }
+    .dz-icon {
+      font-size: 40px;
+      margin-bottom: 12px;
+    }
+    .dz-text {
+      font-size: 14.5px;
+      color: var(--text-secondary);
+      margin-bottom: 6px;
+    }
+    .dz-sub {
+      font-size: 12.5px;
+      color: var(--text-tertiary);
+    }
+    .file-list {
+      margin-top: 16px;
+      max-height: 200px;
+      overflow-y: auto;
+    }
+    .file-item {
+      display: flex;
+      align-items: center;
+      padding: 10px 14px;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      border-radius: 8px;
+      margin-bottom: 8px;
+      transition: all 0.2s ease;
+    }
+    .file-item:hover {
+      background: rgba(255, 255, 255, 0.06);
+    }
+    .file-name {
+      font-size: 13.5px;
+      color: #e2e8f0;
+      word-break: break-all;
+    }
+    .file-size {
+      font-size: 12.5px;
+      color: var(--text-tertiary);
+      margin-left: 8px;
+    }
+    /* Spinner */
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+    .progress-step.active {
+      color: #fff !important;
+      font-weight: 550;
+    }
+    .progress-step.success {
+      color: var(--green-400) !important;
+    }
+    .progress-step.error {
+      color: var(--red-400) !important;
+    }
+    .modal-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 10000;
+      background: rgba(15, 23, 42, 0.85);
+      backdrop-filter: blur(25px);
+    }
+  </style>
+</head>
+<body>
+<h2 class="sr-only">Trang quản trị nạp tài liệu hệ thống VănBảnAI</h2>
+
+{% if request.user.role != 'ADMIN' %}
+  <!-- Protect route: redirect normal members to dashboard -->
+  <script>window.location.href = 'dashboard.html';</script>
+{% endif %}
+
+<div class="app-shell">
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-workspace">
+      <button class="workspace-btn" onclick="nav('dashboard.html')">
+        <div class="workspace-logo"><svg viewBox="0 0 24 24"><path d="M12 2L20 7V17L12 22L4 17V7L12 2Z"/></svg></div>
+        <span class="workspace-name">{{ request.user.organization }}</span>
+        <span class="workspace-arrow">⌄</span>
+      </button>
+    </div>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <button class="sidebar-item" onclick="nav('dashboard.html')"><span class="si-icon">⊞</span><span class="si-label">Tổng quan</span></button>
+        <button class="sidebar-item" onclick="nav('editor.html')"><span class="si-icon">✏️</span><span class="si-label">Soạn thảo mới</span></button>
+        <button class="sidebar-item" onclick="nav('knowledge-base.html')"><span class="si-icon">📚</span><span class="si-label">Kho tri thức</span></button>
+        <button class="sidebar-item" onclick="nav('search.html')"><span class="si-icon">🔍</span><span class="si-label">Tìm kiếm AI</span></button>
+        <button class="sidebar-item active"><span class="si-icon">⚙️</span><span class="si-label">Tri thức hệ thống</span></button>
+        <button class="sidebar-item" onclick="nav('settings.html')"><span class="si-icon">⚙️</span><span class="si-label">Cài đặt</span></button>
+        <button class="sidebar-item" onclick="handleLogout()"><span class="si-icon">🚪</span><span class="si-label">Đăng xuất</span></button>
+      </div>
+    </nav>
+    <div class="sidebar-footer">
+      <div class="user-card">
+        <div class="avatar avatar-blue" style="overflow:hidden;display:flex;align-items:center;justify-content:center;">
+          {% if request.user.avatar %}
+            <img src="{{ request.user.avatar }}" style="width:100%;height:100%;object-fit:cover;" />
+          {% else %}
+            {{ request.user.full_name|slice:":2"|upper }}
+          {% endif %}
+        </div>
+        <div class="user-info">
+          <div class="user-name">{{ request.user.full_name }}</div>
+          <div class="user-role">{{ request.user.get_role_display }}</div>
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <div class="app-body">
+    <header class="topbar">
+      <button class="topbar-toggle" onclick="toggleSidebar()">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+      <div class="breadcrumb">
+        <span onclick="nav('dashboard.html')" style="cursor:pointer">{{ request.user.organization }}</span>
+        <span class="bc-sep">/</span>
+        <span class="bc-current">Tri thức hệ thống</span>
+      </div>
+      <div class="topbar-right">
+        <div class="avatar avatar-blue" style="overflow:hidden;display:flex;align-items:center;justify-content:center;">
+          {% if request.user.avatar %}
+            <img src="{{ request.user.avatar }}" style="width:100%;height:100%;object-fit:cover;" />
+          {% else %}
+            {{ request.user.full_name|slice:":2"|upper }}
+          {% endif %}
+        </div>
+      </div>
+    </header>
+
+    <main class="page-content">
+      <div class="admin-upload-card fade-in">
+        
+        <div class="admin-header">
+          <h1><span>⚙️</span> Cập nhật Kho tri thức Hệ thống</h1>
+          <p>Nạp thêm các tài liệu mẫu hành chính chuẩn, tờ trình, tờ khai vào CSDL vector dùng chung</p>
+        </div>
+
+        <div class="modal-body">
+          <!-- Title -->
+          <div class="form-group" style="margin-bottom: 20px;">
+            <label class="field-label" style="font-weight: 600; margin-bottom: 8px; display: block; color: var(--text-secondary); font-size:14px">Tiêu đề tài liệu mẫu</label>
+            <input type="text" class="input" placeholder="Ví dụ: Tờ trình bổ nhiệm cán bộ, Tờ khai đăng ký doanh nghiệp..." id="admin-doc-title" style="width: 100%; background: rgba(15,23,42,0.5); border: 1px solid rgba(255,255,255,0.08); color:#fff; font-size:14px; padding:12px 14px;" />
+          </div>
+
+          <!-- Category / Type -->
+          <div class="form-group" style="margin-bottom: 20px;">
+            <label class="field-label" style="font-weight: 600; margin-bottom: 8px; display: block; color: var(--text-secondary); font-size:14px">Loại tài liệu</label>
+            <select class="input" id="admin-doc-type" style="width: 100%; background: rgba(15,23,42,0.5); border: 1px solid rgba(255,255,255,0.08); color:#fff; font-size:14px; padding:12px 14px; height:auto;" onchange="handleAdminDocTypeChange(this.value)">
+              <option value="tờ trình">Tờ trình</option>
+              <option value="tờ khai">Tờ khai</option>
+              <option value="báo cáo">Báo cáo</option>
+              <option value="mẫu đơn">Mẫu đơn</option>
+              <option value="thông báo">Thông báo</option>
+              <option value="phiếu">Phiếu</option>
+              <option value="khác">Khác (Nhập loại mới...)</option>
+            </select>
+            <input type="text" class="input" placeholder="Nhập loại tài liệu mới (Ví dụ: Quyết định, Hướng dẫn...)" id="admin-doc-type-custom" style="width: 100%; margin-top: 10px; display: none; background: rgba(15,23,42,0.5); border: 1px solid rgba(255,255,255,0.08); color:#fff; font-size:14px; padding:12px 14px;" />
+          </div>
+
+          <!-- Multiple files dropzone -->
+          <div class="form-group" style="margin-bottom: 28px;">
+            <label class="field-label" style="font-weight: 600; margin-bottom: 8px; display: block; color: var(--text-secondary); font-size:14px">Tải tài liệu đính kèm (Có thể chọn nhiều tệp cùng lúc, tối đa 100MB)</label>
+            <div class="drop-zone" id="admin-drop-zone" onclick="document.getElementById('admin-file-input').click()">
+              <div class="dz-icon">📤</div>
+              <div class="dz-text">Kéo thả file vào đây hoặc <strong>click để chọn từ máy tính</strong></div>
+              <div class="dz-sub">PDF, Word, Excel, TXT, HTML — Tổng dung lượng tối đa 100MB</div>
+              <input type="file" id="admin-file-input" multiple accept=".pdf,.docx,.doc,.xlsx,.xls,.txt,.html" style="display:none" onchange="handleAdminFileSelect(event)"/>
+            </div>
+            <div id="admin-file-list" class="file-list"></div>
+          </div>
+
+          <div class="upload-actions" style="border-top: 1px solid rgba(255,255,255,0.08); padding-top: 20px; display:flex; gap:12px; justify-content:flex-end;">
+            <button class="btn btn-secondary" onclick="window.location.href='dashboard.html'" style="padding:10px 24px;">Hủy</button>
+            <button class="btn btn-primary" onclick="submitAdminSystemUpload()" style="background: #2563eb; border-color: #2563eb; padding:10px 28px; font-weight:600;">Nạp vào hệ thống</button>
+          </div>
+        </div>
+
+      </div>
+    </main>
+  </div>
+</div>
+
+<!-- Progress/Processing overlay message box -->
+<div class="modal-overlay" id="processing-progress-modal" style="display:none;">
+  <div class="modal-card" style="width:420px; padding: 28px; text-align: center; border: 1px solid rgba(255,255,255,0.1); background: #1e293b; box-shadow: 0 25px 50px rgba(0,0,0,0.5); border-radius:16px;">
+    <div class="spinner-container" style="margin: 20px auto;">
+      <!-- Elegant premium rotating spinner -->
+      <div style="width: 50px; height: 50px; border: 4px solid rgba(37, 99, 235, 0.1); border-left-color: #2563eb; border-radius: 50%; animation: spin 1s linear infinite; margin: 0 auto;"></div>
+    </div>
+    <h3 style="color:#fff; font-size: 18px; font-weight: 600; margin-bottom: 16px;" id="progress-modal-title">Đang xử lý tài liệu hệ thống...</h3>
+    
+    <div class="progress-steps" style="text-align: left; background: rgba(15,23,42,0.4); border-radius: 10px; padding: 18px; margin-bottom: 24px; border: 1px solid rgba(255,255,255,0.05);">
+      <div class="progress-step" id="step-upload" style="margin-bottom: 12px; color: var(--text-secondary); font-size: 13.5px; display: flex; align-items: center; gap: 8px;">
+        <span class="step-icon">⏳</span> <span>Bước 1: Nạp tệp tin lên máy chủ...</span>
+      </div>
+      <div class="progress-step" id="step-chunk" style="margin-bottom: 12px; color: var(--text-tertiary); font-size: 13.5px; display: flex; align-items: center; gap: 8px;">
+        <span class="step-icon">⏳</span> <span>Bước 2: Phân tách văn bản (Chunking)...</span>
+      </div>
+      <div class="progress-step" id="step-embed" style="margin-bottom: 12px; color: var(--text-tertiary); font-size: 13.5px; display: flex; align-items: center; gap: 8px;">
+        <span class="step-icon">⏳</span> <span>Bước 3: Trích xuất Vector E5 Local (Embedding)...</span>
+      </div>
+      <div class="progress-step" id="step-chroma" style="color: var(--text-tertiary); font-size: 13.5px; display: flex; align-items: center; gap: 8px;">
+        <span class="step-icon">⏳</span> <span>Bước 4: Lưu trữ vào Vector CSDL ChromaDB...</span>
+      </div>
+    </div>
+    
+    <div id="progress-error-container" style="display:none; color: var(--red-400); background: rgba(239, 68, 68, 0.1); border: 1px solid rgba(239, 68, 68, 0.2); padding: 12px; border-radius: 6px; font-size: 13px; text-align: left; margin-bottom: 16px;"></div>
+    
+    <button class="btn btn-secondary" id="btn-close-progress" style="display:none; width: 100%; justify-content: center;" onclick="closeProgressModal()">Đóng</button>
+  </div>
+</div>
+
+<script src="../js/shell.js?v=2.2.2"></script>
+<script src="../js/admin-upload.js?v=2.2.2"></script>
+</body>
+</html>

@@ -21,12 +21,12 @@
         <span>VănBảnAI</span>
       </div>
       <div class="brand-hero">
-        <div class="hero-tagline"><em>Bắt đầu miễn phí,</em><br>nâng cấp khi cần</div>
-        <p class="hero-sub">Đăng ký để trải nghiệm trợ lý AI soạn thảo văn bản hành chính thông minh nhất dành cho cơ quan nhà nước.</p>
+        <div class="hero-tagline"><em>Hoàn toàn miễn phí,</em><br>đồng hành cùng bạn</div>
+        <p class="hero-sub">Đăng ký để trải nghiệm trợ lý AI soạn thảo văn bản hành chính thông minh nhất dành cho cơ quan nhà nước và công dân.</p>
       </div>
       <ul class="feature-list">
-        <li><div class="feature-dot blue"></div><span>Dùng thử miễn phí 14 ngày, không cần thẻ</span></li>
-        <li><div class="feature-dot green"></div><span>Cài đặt trong 5 phút, không cần IT</span></li>
+        <li><div class="feature-dot blue"></div><span>Hệ thống mở miễn phí dành cho mọi công dân</span></li>
+        <li><div class="feature-dot green"></div><span>Cài đặt trong 5 phút, không cần cấu hình</span></li>
         <li><div class="feature-dot amber"></div><span>Hỗ trợ 24/7 bằng tiếng Việt</span></li>
       </ul>
       <div class="brand-footer">© 2025 VănBảnAI · Phiên bản 1.0</div>
@@ -38,7 +38,7 @@
     <div class="form-card fade-in">
       <div class="form-header">
         <h1>Tạo tài khoản</h1>
-        <p>Điền thông tin bên dưới để bắt đầu dùng thử miễn phí.</p>
+        <p>Điền thông tin bên dưới để bắt đầu đăng ký.</p>
       </div>
 
       <!-- Steps indicator -->
@@ -48,11 +48,14 @@
         <div class="step" id="step-dot-2"><span>2</span></div>
         <div class="step-line"></div>
         <div class="step" id="step-dot-3"><span>3</span></div>
+        <div class="step-line"></div>
+        <div class="step" id="step-dot-4"><span>4</span></div>
       </div>
       <div class="steps-labels">
         <span class="step-lbl active" id="step-lbl-1">Tài khoản</span>
         <span class="step-lbl" id="step-lbl-2">Tổ chức</span>
         <span class="step-lbl" id="step-lbl-3">Xác nhận</span>
+        <span class="step-lbl" id="step-lbl-4">Xác minh</span>
       </div>
 
       <!-- Step 1: Account -->
@@ -60,6 +63,10 @@
         <div class="field-group">
           <label class="field-label">Họ và tên *</label>
           <input type="text" id="reg-name" class="input" placeholder="Nguyễn Văn A" required/>
+        </div>
+        <div class="field-group">
+          <label class="field-label">Tên đăng nhập *</label>
+          <input type="text" id="reg-username" class="input" placeholder="nguyenvana" required/>
         </div>
         <div class="field-group">
           <label class="field-label">Email công vụ *</label>
@@ -79,7 +86,16 @@
             <span class="pw-label" id="pw-label">Yếu</span>
           </div>
         </div>
-        <div id="reg-error" class="error-msg" hidden>
+        <div class="field-group">
+          <label class="field-label">Nhập lại mật khẩu *</label>
+          <div class="input-password-wrap">
+            <input type="password" id="reg-confirm-password" class="input" placeholder="Nhập lại mật khẩu của bạn"/>
+            <button type="button" class="toggle-pw" onclick="toggleRegConfirmPw()">
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+            </button>
+          </div>
+        </div>
+        <div id="reg-error" class="error-msg" style="display: none;" hidden>
           <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></svg>
           <span id="reg-error-text">Vui lòng kiểm tra thông tin.</span>
         </div>
@@ -89,17 +105,17 @@
       <!-- Step 2: Organization (hidden) -->
       <div id="register-step-2" style="display:none">
         <div class="field-group">
-          <label class="field-label">Tên tổ chức / Cơ quan *</label>
-          <input type="text" id="reg-org" class="input" placeholder="UBND Quận 1" required/>
+          <label class="field-label">Tên tổ chức / Cơ quan</label>
+          <input type="text" id="reg-org" class="input" placeholder="UBND Quận 1 (Không bắt buộc)"/>
         </div>
         <div class="field-group">
           <label class="field-label">Chức danh của bạn</label>
-          <input type="text" id="reg-title" class="input" placeholder="Cán bộ hành chính"/>
+          <input type="text" id="reg-title" class="input" placeholder="Cán bộ hành chính (Không bắt buộc)"/>
         </div>
         <div class="field-group">
           <label class="field-label">Phòng ban</label>
           <select id="reg-dept" class="input">
-            <option value="">— Chọn phòng ban —</option>
+            <option value="">— Chọn phòng ban (Không bắt buộc) —</option>
             <option>Văn phòng UBND</option>
             <option>Phòng Kinh tế</option>
             <option>Phòng Nội vụ</option>
@@ -109,11 +125,10 @@
           </select>
         </div>
         <div class="field-group">
-          <label class="field-label">Số lượng thành viên dự kiến</label>
+          <label class="field-label">Vai trò của bạn</label>
           <div class="radio-group">
-            <label class="radio-label"><input type="radio" name="team-size" value="1-5" checked/><span class="radio-custom"></span>1–5 người</label>
-            <label class="radio-label"><input type="radio" name="team-size" value="6-20"/><span class="radio-custom"></span>6–20 người</label>
-            <label class="radio-label"><input type="radio" name="team-size" value="20+"/><span class="radio-custom"></span>20+ người</label>
+            <label class="radio-label"><input type="radio" name="reg-role" value="MEMBER" checked/><span class="radio-custom"></span>Người dùng thường</label>
+            <label class="radio-label"><input type="radio" name="reg-role" value="LEADER"/><span class="radio-custom"></span>Leader / Trưởng nhóm</label>
           </div>
         </div>
         <div style="display:flex;gap:8px">
@@ -126,7 +141,7 @@
       <div id="register-step-3" style="display:none">
         <div class="confirm-summary" id="confirm-summary"></div>
         <label class="checkbox-label" style="margin-bottom:12px;font-size:12px">
-          <input type="checkbox" id="agree-terms" class="checkbox"/>
+          <input type="checkbox" id="agree-terms" class="checkbox" onchange="document.getElementById('confirm-error').hidden = this.checked; document.getElementById('confirm-error').style.display = this.checked ? 'none' : 'flex'"/>
           <span class="checkbox-custom"></span>
           Tôi đồng ý với <a href="#" class="link-blue">Điều khoản dịch vụ</a> và <a href="#" class="link-blue">Chính sách bảo mật</a>
         </label>
@@ -135,7 +150,7 @@
           <span class="checkbox-custom"></span>
           Nhận email cập nhật tính năng mới (tùy chọn)
         </label>
-        <div id="confirm-error" class="error-msg" hidden>
+        <div id="confirm-error" class="error-msg" style="display: none;" hidden>
           <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></svg>
           <span>Vui lòng đồng ý với điều khoản dịch vụ.</span>
         </div>
@@ -147,10 +162,33 @@
         </div>
       </div>
 
+      <!-- Step 4: OTP Verification (hidden) -->
+      <div id="register-step-4" style="display:none">
+        <div style="text-align:center;margin-bottom:20px;">
+          <span style="font-size:48px;">✉️</span>
+          <h3 style="margin-top:10px;font-size:18px;font-weight:600;color:var(--gray-800)">Nhập mã xác minh OTP</h3>
+          <p style="font-size:13px;color:var(--gray-500);margin-top:4px;">Một mã OTP 6 chữ số đã được gửi tới email của bạn. Vui lòng nhập mã để hoàn tất đăng ký.</p>
+        </div>
+        <div class="field-group">
+          <label class="field-label" style="text-align:center">Mã OTP 6 chữ số *</label>
+          <input type="text" id="reg-otp" class="input" placeholder="123456" maxlength="6" style="text-align:center;font-size:24px;letter-spacing:8px;font-weight:bold;height:50px" required/>
+        </div>
+        <div id="otp-error" class="error-msg" style="display: none;" hidden>
+          <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></svg>
+          <span id="otp-error-text">Mã xác minh không chính xác.</span>
+        </div>
+        <div style="display:flex;gap:8px">
+          <button class="btn btn-secondary btn-lg" style="flex:1" onclick="goStep(3)">← Quay lại</button>
+          <button class="btn btn-primary btn-lg" style="flex:2" onclick="verifyRegisterOTP()">
+            <span id="otp-submit-text">Xác minh & Hoàn tất</span>
+          </button>
+        </div>
+      </div>
+
       <p class="signup-hint">Đã có tài khoản? <a href="login.html" class="link-blue">Đăng nhập</a></p>
     </div>
   </main>
 </div>
-<script src="../js/register.js"></script>
+<script src="../js/register.js?v=2.2"></script>
 </body>
 </html>

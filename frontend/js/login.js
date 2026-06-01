@@ -28,18 +28,34 @@ function togglePassword() {
   }
 }
 
-// ─── OAuth login simulation ───
+// ─── OAuth login redirection ───
 function loginOAuth(provider) {
   const btn = document.getElementById(`btn-${provider}`);
-  const original = btn.innerHTML;
   btn.disabled = true;
   btn.style.opacity = '0.6';
   btn.innerHTML = `<span style="font-size:12px">Đang chuyển hướng...</span>`;
 
-  setTimeout(() => {
-    // In production: redirect to OAuth provider
-    window.location.href = 'dashboard.html';
-  }, 1500);
+  if (provider === 'google') {
+    window.location.href = '/accounts/google/login/';
+  } else if (provider === 'microsoft') {
+    window.location.href = '/accounts/microsoft/login/';
+  }
+}
+
+// Helper to get CSRF token
+function getCookie(name) {
+  let cookieValue = null;
+  if (document.cookie && document.cookie !== '') {
+    const cookies = document.cookie.split(';');
+    for (let i = 0; i < cookies.length; i++) {
+      const cookie = cookies[i].trim();
+      if (cookie.substring(0, name.length + 1) === (name + '=')) {
+        cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+        break;
+      }
+    }
+  }
+  return cookieValue;
 }
 
 // ─── Email/password login ───
@@ -56,35 +72,57 @@ function handleLogin(e) {
 
   // hide previous error
   errorEl.hidden = true;
+  errorEl.style.display = 'none';
 
   // basic validation
   if (!email || !password) {
-    showError('Vui lòng nhập đầy đủ email và mật khẩu.');
+    showError('Vui lòng nhập đầy đủ email/username và mật khẩu.');
     return;
   }
 
   // loading state
   btnText.textContent = 'Đang đăng nhập...';
+  spinner.style.display = 'inline-block';
   spinner.hidden = false;
   submitBtn.disabled = true;
 
-  // simulate API call
-  setTimeout(() => {
+  // Call Django Login API
+  fetch('/api/login/', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'X-CSRFToken': getCookie('csrftoken')
+    },
+    body: JSON.stringify({ email: email, password: password })
+  })
+  .then(response => {
+    return response.json().then(data => {
+      if (!response.ok) {
+        throw new Error(data.error || 'Đăng nhập không thành công.');
+      }
+      return data;
+    });
+  })
+  .then(data => {
+    spinner.style.display = 'none';
     spinner.hidden = true;
     submitBtn.disabled = false;
     btnText.textContent = 'Đăng nhập';
 
-    // Demo: admin@demo.vn / 123456 → 2FA
-    //       any other → redirect
-    if (email === 'admin@demo.vn' && password === '123456') {
-      show2FA();
-    } else if (email.includes('@') && password.length >= 6) {
-      // success
+    if (data.success) {
+      // successful login - redirect to dashboard.html
       window.location.href = 'dashboard.html';
     } else {
-      showError('Email hoặc mật khẩu không chính xác.');
+      showError(data.error || 'Tên đăng nhập hoặc mật khẩu không chính xác.');
     }
-  }, 1200);
+  })
+  .catch(error => {
+    spinner.style.display = 'none';
+    spinner.hidden = true;
+    submitBtn.disabled = false;
+    btnText.textContent = 'Đăng nhập';
+    showError(error.message || 'Không thể kết nối đến máy chủ.');
+  });
 }
 
 function showError(msg) {
@@ -92,6 +130,7 @@ function showError(msg) {
   const errorText = document.getElementById('error-text');
   errorText.textContent = msg;
   errorEl.hidden = false;
+  errorEl.style.display = 'flex';
   errorEl.classList.add('fade-in');
 }
 
@@ -128,3 +167,86 @@ function resendOTP() {
   resendTimer = now;
   alert('Mã OTP đã được gửi lại qua SMS.');
 }
+
+// Check if redirected for first-time social onboarding or has oauth errors
+window.addEventListener('DOMContentLoaded', () => {
+  const urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.get('social_register') === '1') {
+    document.getElementById('social-onboarding-modal').style.display = 'flex';
+  }
+  
+  const errMsg = urlParams.get('error_message');
+  if (errMsg) {
+    showError(errMsg);
+  }
+});
+
+function closeSocialModal() {
+  document.getElementById('social-onboarding-modal').style.display = 'none';
+  window.location.href = '/html/login.html';
+}
+
+function submitSocialOnboarding() {
+  const username = document.getElementById('social-username').value.trim().toLowerCase();
+  const role = document.querySelector('input[name="social-role"]:checked').value;
+  const org = document.getElementById('social-org').value.trim();
+  const title = document.getElementById('social-title').value.trim();
+  const dept = document.getElementById('social-dept').value;
+  const errEl = document.getElementById('social-error');
+  const errTxt = document.getElementById('social-error-text');
+
+  errEl.hidden = true;
+  if (!username) {
+    errTxt.textContent = 'Vui lòng nhập tên đăng nhập mong muốn.';
+    errEl.hidden = false;
+    return;
+  }
+  if (username.includes(' ')) {
+    errTxt.textContent = 'Tên đăng nhập không chứa khoảng trắng.';
+    errEl.hidden = false;
+    return;
+  }
+
+  const payload = {
+    username: username,
+    role: role,
+    organization: org || 'Cá nhân',
+    title: title,
+    department: dept
+  };
+
+  const submitBtn = document.querySelector('button[onclick="submitSocialOnboarding()"]');
+  submitBtn.disabled = true;
+  
+  fetch('/api/oauth/register/', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'X-CSRFToken': getCookie('csrftoken')
+    },
+    body: JSON.stringify(payload)
+  })
+  .then(response => {
+    return response.json().then(data => {
+      if (!response.ok) {
+        throw new Error(data.error || 'Có lỗi xảy ra khi hoàn tất thông tin.');
+      }
+      return data;
+    });
+  })
+  .then(data => {
+    if (data.success) {
+      window.location.href = 'dashboard.html';
+    } else {
+      submitBtn.disabled = false;
+      errTxt.textContent = data.error || 'Hoàn tất thông tin thất bại.';
+      errEl.hidden = false;
+    }
+  })
+  .catch(error => {
+    submitBtn.disabled = false;
+    errTxt.textContent = error.message;
+    errEl.hidden = false;
+  });
+}
+

@@ -13,7 +13,10 @@ from docx.table import Table
 import openpyxl
 
 # Nhập bộ chuyển đổi bảng mã tiếng Việt đã viết ở Bước 2
-from utils_converter import convert_to_unicode
+try:
+    from scripts.utils_converter import convert_to_unicode
+except ModuleNotFoundError:
+    from utils_converter import convert_to_unicode
 
 
 def extract_markdown_table(table):
