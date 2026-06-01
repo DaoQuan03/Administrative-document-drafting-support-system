@@ -11,12 +11,20 @@ venv/
 env/
 ENV/
 
-# Vector Databases and Local Data
-data/
+# Logs (Ignore pipeline logs)
+logs/
+*.log
+
+# Large databases and Vector DB
+*.sqlite3
 data/vector_db/
 data/test_vector_db/
-frontend/uploads/avatars/
-*.sqlite3
+
+# Data Pipeline Intermediate Artifacts (Ignore generated text/JSON/doc copies)
+data/chunked/
+data/cleaned/
+data/converted/
+data/temp_uploads/
 
 # OS files
 .DS_Store
