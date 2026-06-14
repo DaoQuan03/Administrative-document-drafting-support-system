@@ -34,6 +34,8 @@ def serve_html_page(request, page_name=None):
     # If root path, redirect depending on auth status
     if not page_name:
         if request.user.is_authenticated:
+            if request.user.role == 'ADMIN':
+                return redirect('/admin/')
             return redirect('/html/dashboard.html')
         else:
             return redirect('/html/login.html')
@@ -45,6 +47,8 @@ def serve_html_page(request, page_name=None):
     # Login and register pages are accessible to everyone
     if page_name in ['login.html', 'register.html']:
         if request.user.is_authenticated and page_name == 'login.html':
+            if request.user.role == 'ADMIN':
+                return redirect('/admin/')
             return redirect('/html/dashboard.html')
         return render(request, page_name)
         
@@ -52,11 +56,17 @@ def serve_html_page(request, page_name=None):
     if not request.user.is_authenticated:
         return redirect('/html/login.html')
         
+    # Restrict admin pages
+    if page_name == 'admin-upload.html' and request.user.role != 'ADMIN':
+        return redirect('/html/dashboard.html')
+        
     # Serve requested template
     try:
         return render(request, page_name)
     except Exception:
         # Fallback if page not found
+        if request.user.is_authenticated and request.user.role == 'ADMIN':
+            return redirect('/admin/')
         return redirect('/html/dashboard.html')
 
 @csrf_exempt
@@ -102,6 +112,8 @@ def api_register(request):
         email = data.get('email')
         password = data.get('password')
         role = data.get('role', 'MEMBER')
+        if role not in ['MEMBER', 'LEADER']:
+            role = 'MEMBER'
         organization = data.get('organization', 'Cá nhân')
         title = data.get('title', '')
         department = data.get('department', '')
@@ -276,6 +288,8 @@ def api_register_send_code(request):
         email = data.get('email')
         password = data.get('password')
         role = data.get('role', 'MEMBER')
+        if role not in ['MEMBER', 'LEADER']:
+            role = 'MEMBER'
         organization = data.get('organization', 'Cá nhân')
         title = data.get('title', '')
         department = data.get('department', '')
@@ -440,6 +454,8 @@ def google_callback(request):
         try:
             user = User.objects.get(oauth_provider='google', oauth_uid=uid)
             login(request, user, backend='accounts.backends.EmailOrUsernameModelBackend')
+            if user.role == 'ADMIN':
+                return redirect('/admin/')
             return redirect('/html/dashboard.html')
         except User.DoesNotExist:
             if User.objects.filter(email__iexact=email).exists():
@@ -449,6 +465,8 @@ def google_callback(request):
                     user.oauth_uid = uid
                     user.save()
                     login(request, user, backend='accounts.backends.EmailOrUsernameModelBackend')
+                    if user.role == 'ADMIN':
+                        return redirect('/admin/')
                     return redirect('/html/dashboard.html')
                 else:
                     err_msg = 'Email này đã liên kết với một tài khoản xã hội khác.'
@@ -521,6 +539,8 @@ def microsoft_callback(request):
         try:
             user = User.objects.get(oauth_provider='microsoft', oauth_uid=uid)
             login(request, user, backend='accounts.backends.EmailOrUsernameModelBackend')
+            if user.role == 'ADMIN':
+                return redirect('/admin/')
             return redirect('/html/dashboard.html')
         except User.DoesNotExist:
             if User.objects.filter(email__iexact=email).exists():
@@ -530,6 +550,8 @@ def microsoft_callback(request):
                     user.oauth_uid = uid
                     user.save()
                     login(request, user, backend='accounts.backends.EmailOrUsernameModelBackend')
+                    if user.role == 'ADMIN':
+                        return redirect('/admin/')
                     return redirect('/html/dashboard.html')
                 else:
                     err_msg = 'Email này đã liên kết với một tài khoản xã hội khác.'
@@ -560,6 +582,8 @@ def api_oauth_register(request):
         data = json.loads(request.body)
         username = data.get('username')
         role = data.get('role', 'MEMBER')
+        if role not in ['MEMBER', 'LEADER']:
+            role = 'MEMBER'
         organization = data.get('organization', 'Cá nhân')
         title = data.get('title', '')
         department = data.get('department', '')

@@ -43,6 +43,16 @@
           <span class="si-icon">🔍</span>
           <span class="si-label">Tìm kiếm AI</span>
         </button>
+        {% if request.user.role == 'ADMIN' %}
+        <button class="sidebar-item" onclick="nav('/admin/')">
+          <span class="si-icon">🛡️</span>
+          <span class="si-label">Quản trị hệ thống</span>
+        </button>
+        <button class="sidebar-item" onclick="nav('admin-upload.html')">
+          <span class="si-icon">⚙️</span>
+          <span class="si-label">Tri thức hệ thống</span>
+        </button>
+        {% endif %}
         <button class="sidebar-item" onclick="nav('settings.html')">
           <span class="si-icon">⚙️</span>
           <span class="si-label">Cài đặt</span>

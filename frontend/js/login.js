@@ -110,8 +110,12 @@ function handleLogin(e) {
     btnText.textContent = 'Đăng nhập';
 
     if (data.success) {
-      // successful login - redirect to dashboard.html
-      window.location.href = 'dashboard.html';
+      // successful login - redirect based on user role
+      if (data.user && data.user.role === 'ADMIN') {
+        window.location.href = '/admin/';
+      } else {
+        window.location.href = 'dashboard.html';
+      }
     } else {
       showError(data.error || 'Tên đăng nhập hoặc mật khẩu không chính xác.');
     }
